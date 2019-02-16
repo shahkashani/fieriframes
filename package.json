@@ -1,0 +1,19 @@
+{
+  "name": "fieriframes",
+  "version": "1.0.0",
+  "description": "Guy Fieri Frames",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahkashani/fieriframes.git"
+  },
+  "scripts": {
+    "start": "node logo.js && ./node_modules/.bin/connect",
+    "tweet": "node logo.js && ./node_modules/.bin/tweet",
+    "stills": "node logo.js && ./node_modules/.bin/stills"
+  },
+  "author": "Shah Kashani",
+  "license": "ISC",
+  "dependencies": {
+    "stills": "git+https://c820feef32469313703b9d83a6f8d04886c4810e:x-oauth-basic@github.com/shahkashani/stills.git"
+  }
+}
