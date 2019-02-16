@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/shahkashani/fieriframes.git"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "scripts": {
     "start": "node logo.js && ./node_modules/.bin/connect",
     "tweet": "node logo.js && ./node_modules/.bin/tweet",
