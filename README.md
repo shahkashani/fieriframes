@@ -4,9 +4,9 @@
 
 This is the source code behind [Fieri Frames](http://fieriframes.tumblr.com). If you're here, you must love existential angst and bold flavors. Who can blame you?
 
-Anyway, as you can tell, there's no much in this repo. This bot is powered by another terrible library I wrote, called [stills](https://github.com/shahkashani/stills). The setup for this thing is the most convoluted thing Flavortown, so if you're trying to contribute, you must _really_, _really_ love bold flavors. Guy bless you.
+Anyway, as you can tell, there's not much in this repo. This bot is powered by another terrible library I wrote, called [stills](https://github.com/shahkashani/stills). The setup for this thing is the most convoluted thing in Flavortown, so if you're trying to contribute, you must _really_, _really_ love bold flavors. Guy bless you.
 
-To change the way the stills generator works, you're really going to have to change the `stills` engine. So these instructions will show you how to pull down that repo and link things up locally so you dev on both the `FierFrames` bot (which, again, does nothing) and the underlying engine.
+To change the way the stills generator works, you're really going to have to change the `stills` engine. So these instructions will show you how to pull down that repo and link things up locally so you dev on both the `fieriframes` bot (which, again, does nothing) and the underlying engine.
 
 ## Setup
 
@@ -37,17 +37,20 @@ Now, any changes you make to `stills` will automatically be picked up by `fierif
 
 ## Creating stills
 
+1. `cd fieriframes`
 1. `mkdir videos stills gifs`
-1. Put some [videos](<https://thepiratebay.org/torrent/7462204/Diners_Drive-Ins_and_Dives_Collection_(Season_1_to_14)>) in the `videos` folder
+1. Put some [videos](<https://thepiratebay.org/torrent/7462204/Diners_Drive-Ins_and_Dives_Collection_(Season_1_to_14)>) in the `videos` folder you just made
 1. `npm run stills` for stills
 1. `npm run gifs` for gifs
 
 That'll create random stills/gifs into `stills` and `gifs`.
 
-If you want more granular control over how the stills are (i.e. the number of stills per episode, how many percentage of stills should have captions, etc.), run:
+If you want more granular control over how the stills are generated (i.e. the number of stills per episode, how many percentage of stills should have captions, etc.), run:
 
 1. `./node_modules/.bin/stills --help`
 1. `./node_modules/.bin/gifs --help`
+
+If you want to change the stills generation code, [this file](https://github.com/shahkashani/stills/blob/master/bin/stills.js) is a good place to start.
 
 ## Posting?
 
