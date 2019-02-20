@@ -1,7 +1,6 @@
 node_modules/
 videos/
 stills/
-train/
 gifs/
 .DS_Store
 .env
