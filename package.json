@@ -12,7 +12,7 @@
   "scripts": {
     "start": "node logo.js && ./node_modules/.bin/connect",
     "post": "node logo.js && ./node_modules/.bin/post",
-    "stills": "node logo.js && ./node_modules/.bin/stills --num=5 --caption=100",
+    "stills": "node logo.js && ./node_modules/.bin/stills --num=5 --captions=100",
     "gifs": "node logo.js && ./node_modules/.bin/gifs --num=1 --width=400"
   },
   "author": "Shah Kashani",
