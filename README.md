@@ -39,7 +39,7 @@ Now, any changes you make to `stills` will automatically be picked up by `fierif
 
 1. `cd fieriframes`
 1. `mkdir videos stills gifs`
-1. Put some [videos](<https://thepiratebay.org/torrent/7462204/Diners_Drive-Ins_and_Dives_Collection_(Season_1_to_14)>) in the `videos` folder you just made
+1. Put some [videos](https://www.google.com/search?q=%22Diners+Drive-Ins+and+Dives+Collection+%28Season+1+to+14%29%22) in the `videos` folder you just made
 1. `npm run stills` for stills
 1. `npm run gifs` for gifs
 
