@@ -12,7 +12,7 @@ To change the way the stills generator works, you're really going to have to cha
 
 ### Dependencies
 
-1. imagemagick: `brew install imagemagick` (if you're doing face detection and stuff, you'll need way more than this, but we won't get into that here)
+1. imagemagick: `brew install imagemagick`
 1. nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 
 ### `stills` engine
@@ -21,8 +21,8 @@ To change the way the stills generator works, you're really going to have to cha
 1. `git clone https://github.com/shahkashani/stills.git`
 1. `cd stills`
 1. `nvm install`
-1. `npm install --production` (`-- production` to skip all the face detection stuff)
-1. `npm link --production`
+1. `npm install`
+1. `npm link`
 1. `cd ../`
 
 ### `fieriframes` bot
@@ -44,6 +44,8 @@ Now, any changes you make to `stills` will automatically be picked up by `fierif
 1. `npm run gifs` for gifs
 
 That'll create random stills/gifs into `stills` and `gifs`.
+
+By default, it also adds captions and makes sure a certain percentage of images contain Guy Fieri.
 
 If you want more granular control over how the stills are generated (i.e. the number of stills per episode, how many percentage of stills should have captions, etc.), run:
 

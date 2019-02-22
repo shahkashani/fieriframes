@@ -12,13 +12,11 @@
   "scripts": {
     "start": "node logo.js && ./node_modules/.bin/connect",
     "post": "node logo.js && ./node_modules/.bin/post",
-    "stills": "node logo.js && ./node_modules/.bin/stills --num=5 --captions=100",
+    "stills": "node logo.js && ./node_modules/.bin/stills --faces=10 --num=5 --captions=100",
     "gifs": "node logo.js && ./node_modules/.bin/gifs --num=1 --width=400",
     "train": "node logo.js && ./node_modules/.bin/train --name=fieri"
   },
   "author": "Shah Kashani",
   "license": "ISC",
-  "dependencies": {
-    "stills": "git+https://github.com/shahkashani/stills.git"
-  }
+  "dependencies": {}
 }
