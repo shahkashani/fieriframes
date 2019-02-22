@@ -18,5 +18,7 @@
   },
   "author": "Shah Kashani",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "stills": "git+https://github.com/shahkashani/stills.git"
+  }
 }
