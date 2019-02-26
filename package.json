@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "node logo.js && ./node_modules/.bin/connect",
-    "post": "node logo.js && ./node_modules/.bin/post",
+    "post": "node logo.js && ./node_modules/.bin/post --tag='Guy Fieri'",
     "stills": "node logo.js && ./node_modules/.bin/stills --faces=10 --num=5 --captions=100",
     "gifs": "node logo.js && ./node_modules/.bin/gifs --num=1 --width=540 --captions=100",
     "train": "node logo.js && ./node_modules/.bin/train --name=fieri"
