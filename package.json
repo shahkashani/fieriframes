@@ -18,6 +18,6 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
-    "stills": "git+https://github.com/shahkashani/stills.git#v3.0"
+    "stills": "^3.0.0"
   }
 }
