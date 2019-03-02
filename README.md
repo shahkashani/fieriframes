@@ -26,7 +26,7 @@ To change the way the stills generator works, you're really going to have to cha
 
 ## `fieriframes` bot
 
-1. `git clone https://github.com/shahkashani/fieriframes`
+1. `git clone https://github.com/shahkashani/fieriframes.git`
 1. `cd fieriframes`
 1. `nvm install`
 1. `npm install`
