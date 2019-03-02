@@ -1,0 +1,4785 @@
+﻿19
+00:07:25,615 --> 00:07:27,674
+<i>Kris, come here!</i>
+
+20
+00:07:28,718 --> 00:07:30,845
+<i>You're just in time.</i>
+
+21
+00:07:30,920 --> 00:07:33,946
+He takes a walk every morning
+for at least an hour.
+
+22
+00:07:34,090 --> 00:07:36,888
+I forbade him to come back earlier.
+
+23
+00:07:36,959 --> 00:07:40,087
+He's had a lot of work,
+sometimes staying up all night.
+
+24
+00:07:40,162 --> 00:07:42,722
+These Solarists!
+
+25
+00:07:43,599 --> 00:07:48,036
+He reminds me of a bookkeeper,
+preparing his accounts.
+
+26
+00:07:49,238 --> 00:07:51,433
+We expected you yesterday.
+
+27
+00:07:51,507 --> 00:07:54,067
+He wanted to run away
+when he saw me.
+
+28
+00:07:57,613 --> 00:07:59,376
+Hello.
+
+29
+00:08:03,286 --> 00:08:05,186
+Hello.
+
+30
+00:08:10,259 --> 00:08:13,285
+I probably shouldn't have
+bothered you today.
+
+31
+00:08:17,500 --> 00:08:21,436
+How old you and I have become.
+I've only just realized that.
+
+32
+00:08:22,338 --> 00:08:24,602
+What are you apologizing for?
+
+33
+00:08:24,840 --> 00:08:26,774
+Does he understand
+that everything depends
+
+34
+00:08:26,842 --> 00:08:28,810
+on his first report
+from the station?
+
+35
+00:08:28,878 --> 00:08:32,712
+Everything we've received so far
+has been confusing or incomprehensible.
+
+36
+00:08:33,015 --> 00:08:35,779
+If he confirms that the work
+can't continue for some reason,
+
+37
+00:08:35,851 --> 00:08:39,412
+the station can be taken
+out of Solaris' orbit.
+
+38
+00:08:41,023 --> 00:08:43,287
+He understands.
+
+39
+00:08:43,693 --> 00:08:46,093
+You promised to talk to him.
+I brought the film.
+
+40
+00:08:46,162 --> 00:08:49,222
+That's what I came here for.
+- Yes, of course.
+
+41
+00:08:50,766 --> 00:08:54,463
+Can the boy stay with you
+for a few days?
+
+42
+00:08:54,737 --> 00:08:57,501
+I have a lot to do
+and no one to leave him with.
+
+43
+00:08:57,773 --> 00:09:02,107
+Anna will look after him.
+She'll have more free time now.
+
+44
+00:09:11,120 --> 00:09:13,680
+When does he leave?
+
+45
+00:09:13,889 --> 00:09:17,256
+He'll be gone by tomorrow morning.
+
+46
+00:09:28,671 --> 00:09:30,935
+It's so pleasant here.
+
+47
+00:09:31,874 --> 00:09:35,776
+This house reminds me
+of my grandfather's house.
+
+48
+00:09:35,845 --> 00:09:37,608
+I really liked it.
+
+49
+00:09:37,847 --> 00:09:41,180
+So we decided
+to build one just like it.
+
+50
+00:09:42,084 --> 00:09:44,416
+I don't like innovation.
+
+51
+00:11:08,604 --> 00:11:10,868
+I'd better get going.
+
+52
+00:11:13,342 --> 00:11:15,469
+I have a lot to do.
+
+53
+00:11:18,581 --> 00:11:21,345
+Don't you want to see this?
+
+54
+00:11:21,417 --> 00:11:23,885
+I've already seen it many times.
+
+55
+00:11:28,057 --> 00:11:30,321
+<i>On the 21st day of our expedition,</i>
+
+56
+00:11:30,392 --> 00:11:32,656
+<i>radio-biologist Vishyakov
+and physicist Fekhner</i>
+
+57
+00:11:32,728 --> 00:11:38,724
+<i>went on an exploratory flight
+over the Solaris Ocean in a hydroplane.</i>
+
+58
+00:11:39,502 --> 00:11:43,461
+<i>When they failed to return after
+16 hours, we declared an emergency.</i>
+
+59
+00:11:43,539 --> 00:11:47,236
+<i>The fog was thick and we were forced
+to call the search off.</i>
+
+60
+00:11:48,010 --> 00:11:50,774
+<i>All of the rescue craft
+returned to the station</i>
+
+61
+00:11:50,846 --> 00:11:55,306
+<i>except for the helicopter
+operated by Burton.</i>
+
+62
+00:11:55,985 --> 00:11:59,318
+<i>Burton returned an hour after dark.</i>
+
+63
+00:11:59,555 --> 00:12:02,615
+<i>Once out of the helicopter,
+he ran to his quarters.</i>
+
+64
+00:12:03,659 --> 00:12:06,150
+<i>He was in a state of shock.</i>
+
+65
+00:12:06,662 --> 00:12:09,062
+<i>This was highly unusual</i>
+
+66
+00:12:09,131 --> 00:12:14,660
+<i>for a man with 11 years
+of experience flying in space.</i>
+
+67
+00:12:14,737 --> 00:12:16,466
+<i>He recovered in a couple of days,</i>
+
+68
+00:12:16,539 --> 00:12:19,440
+<i>but he would never leave the station</i>
+
+69
+00:12:19,508 --> 00:12:23,467
+<i>and refused to approach the window
+overlooking the Ocean.</i>
+
+70
+00:12:23,712 --> 00:12:26,078
+<i>Later he wrote to us from the clinic.</i>
+
+71
+00:12:26,148 --> 00:12:30,585
+<i>He was preparing a statement
+of great importance,</i>
+
+72
+00:12:30,653 --> 00:12:33,816
+<i>one that would decide
+the fate of Solaristics.</i>
+
+73
+00:12:33,889 --> 00:12:37,689
+<i>Excellent.
+Let's hear what he has to say.</i>
+
+74
+00:12:40,763 --> 00:12:44,631
+<i>At this time,
+let us give the floor to Burton.</i>
+
+75
+00:12:45,134 --> 00:12:47,034
+<i>Thank you.</i>
+
+76
+00:12:54,410 --> 00:12:58,141
+<i>When I first descended
+below 300 meters,</i>
+
+77
+00:12:58,647 --> 00:13:01,115
+<i>I had trouble maintaining altitude.</i>
+
+78
+00:13:01,183 --> 00:13:03,151
+<i>There was a strong wind.</i>
+
+79
+00:13:05,955 --> 00:13:09,584
+<i>All of my attention went towards
+operating the ship.</i>
+
+80
+00:13:10,459 --> 00:13:14,225
+<i>I did not look out of the cabin.</i>
+
+81
+00:13:15,364 --> 00:13:20,028
+<i>As a result, I wound up in a fog.
+- Was it an ordinary fog?</i>
+
+82
+00:13:20,102 --> 00:13:23,560
+<i>Of course not.</i>
+
+83
+00:13:23,672 --> 00:13:27,335
+<i>It seemed to be colloidal and viscous.</i>
+
+84
+00:13:28,344 --> 00:13:30,778
+<i>It coated all of the windows.</i>
+
+85
+00:13:31,680 --> 00:13:37,209
+<i>Because of the fog's resistance,
+I began to lose altitude.</i>
+
+86
+00:13:38,654 --> 00:13:40,645
+<i>I couldn't see the sun,</i>
+
+87
+00:13:40,723 --> 00:13:44,181
+<i>but the fog glowed red
+in its direction.</i>
+
+88
+00:13:46,128 --> 00:13:49,996
+<i>After half an hour
+I came out into a large, open space.</i>
+
+89
+00:13:50,466 --> 00:13:54,994
+<i>It was almost round,
+a few hundred meters across.</i>
+
+90
+00:13:57,406 --> 00:14:02,537
+<i>At that point,
+I noticed a change in the Ocean.</i>
+
+91
+00:14:03,178 --> 00:14:05,544
+<i>The waves disappeared.</i>
+
+92
+00:14:05,681 --> 00:14:09,117
+<i>The surface became almost transparent,
+with clouded patches.</i>
+
+93
+00:14:09,718 --> 00:14:12,710
+<i>Yellow sludge gathered beneath it.</i>
+
+94
+00:14:13,789 --> 00:14:19,750
+<i>It rose up in thin strips
+and sparkled like glass.</i>
+
+95
+00:14:20,296 --> 00:14:25,063
+<i>Then it began to seethe,
+boil and harden.</i>
+
+96
+00:14:25,267 --> 00:14:28,532
+<i>It looked like molasses.</i>
+
+97
+00:14:29,638 --> 00:14:34,837
+<i>This sludge or slime
+gathered into large lumps</i>
+
+98
+00:14:35,477 --> 00:14:39,277
+<i>and slowly formed
+different shapes.</i>
+
+99
+00:14:40,082 --> 00:14:43,142
+<i>I was being drawn into the fog,</i>
+
+100
+00:14:43,352 --> 00:14:45,843
+<i>so I had to struggle
+against this for some time.</i>
+
+101
+00:14:47,356 --> 00:14:52,555
+<i>When I looked down again,
+I saw a sort of garden.</i>
+
+102
+00:14:52,928 --> 00:14:54,418
+A garden?
+
+103
+00:14:55,831 --> 00:14:58,459
+<i>Attention, please.</i>
+
+104
+00:14:58,534 --> 00:15:03,335
+<i>I saw shrubs, hedges,
+acacia trees, little paths.</i>
+
+105
+00:15:03,405 --> 00:15:05,635
+<i>Everything was made
+of the same substance.</i>
+
+106
+00:15:05,708 --> 00:15:09,838
+<i>Did these trees and plants
+have leaves?</i>
+
+107
+00:15:10,679 --> 00:15:13,580
+<i>These shrubs and acacias?</i>
+
+108
+00:15:13,649 --> 00:15:17,779
+<i>No, I already said they were all made
+of plaster, but life-sized.</i>
+
+109
+00:15:18,854 --> 00:15:22,187
+<i>Then everything began
+to crack and break.</i>
+
+110
+00:15:23,959 --> 00:15:27,622
+<i>Yellow sludge poured out of the fissures.</i>
+
+111
+00:15:27,696 --> 00:15:30,893
+<i>Everything began to boil even harder,
+and foam appeared.</i>
+
+112
+00:15:33,369 --> 00:15:35,337
+<i>You can see for yourselves.</i>
+
+113
+00:15:35,404 --> 00:15:37,531
+<i>I used a camera from time to time.</i>
+
+114
+00:15:37,606 --> 00:15:42,009
+<i>Everything I saw before and after
+should be on film.</i>
+
+115
+00:15:42,244 --> 00:15:45,907
+<i>Then I propose we interrupt
+these discussions</i>
+
+116
+00:15:46,181 --> 00:15:50,481
+<i>and see everything with our own eyes.</i>
+
+117
+00:15:51,887 --> 00:15:56,722
+<i>All right, show us your film.
+This is very interesting.</i>
+
+118
+00:17:35,023 --> 00:17:36,854
+<i>Is that it?</i>
+
+119
+00:17:37,392 --> 00:17:39,189
+<i>That's all of your film?</i>
+
+120
+00:17:39,728 --> 00:17:41,525
+<i>Yes, that's everything.</i>
+
+121
+00:17:41,964 --> 00:17:45,957
+<i>But we don't understand.
+You filmed clouds.</i>
+
+122
+00:17:47,202 --> 00:17:49,568
+<i>Why did you film clouds?</i>
+
+123
+00:17:49,638 --> 00:17:53,130
+<i>That must be the fog
+I told you about.</i>
+
+124
+00:17:56,478 --> 00:17:58,673
+<i>I wasn't expecting this.</i>
+
+125
+00:18:01,183 --> 00:18:04,846
+<i>All of this could be the result
+of Solaris' bio-magnetic current</i>
+
+126
+00:18:04,920 --> 00:18:07,081
+<i>acting on Burton's consciousness.</i>
+
+127
+00:18:07,256 --> 00:18:11,124
+<i>We now know the current is not only
+a gigantic cerebral system,</i>
+
+128
+00:18:11,193 --> 00:18:13,627
+<i>but a substance capable
+of thought processes.</i>
+
+129
+00:18:13,695 --> 00:18:16,323
+<i>That hypothesis is questionable.</i>
+
+130
+00:18:17,633 --> 00:18:20,625
+<i>Were you feeling sick that day?</i>
+
+131
+00:18:21,236 --> 00:18:24,330
+The next part is meaningless.
+
+132
+00:18:29,244 --> 00:18:31,109
+Let's pick up here.
+
+133
+00:18:31,179 --> 00:18:34,580
+<i>I discovered something floating
+in one of the openings.</i>
+
+134
+00:18:36,151 --> 00:18:39,245
+<i>It looked like Fechner's space suit.</i>
+
+135
+00:18:39,521 --> 00:18:43,150
+<i>Its shape was that of a person.</i>
+
+136
+00:18:44,226 --> 00:18:47,923
+<i>I turned around-
+I didn't want to lose sight of that spot.</i>
+
+137
+00:18:48,964 --> 00:18:52,923
+<i>At that moment,
+the figure rose slightly,</i>
+
+138
+00:18:53,769 --> 00:18:58,365
+<i>as if it were swimming
+or treading the waves.</i>
+
+139
+00:19:01,710 --> 00:19:05,612
+<i>This person had no space suit,
+and he was moving.</i>
+
+140
+00:19:05,681 --> 00:19:07,615
+<i>I don't understand. "Person"?</i>
+
+141
+00:19:08,350 --> 00:19:10,682
+<i>Yes, person.</i>
+
+142
+00:19:13,155 --> 00:19:16,522
+<i>Just a minute.
+Did you see his face?</i>
+
+143
+00:19:16,592 --> 00:19:17,991
+<i>Yes.</i>
+
+144
+00:19:23,832 --> 00:19:26,198
+What person?
+
+145
+00:19:30,539 --> 00:19:32,769
+<i>Who was it?</i>
+
+146
+00:19:34,509 --> 00:19:36,568
+<i>It was a child.</i>
+
+147
+00:19:36,645 --> 00:19:39,614
+<i>What child?
+Had you seen him before?</i>
+
+148
+00:19:39,681 --> 00:19:43,617
+<i>No, never.
+In any case, not that I remember.</i>
+
+149
+00:19:44,820 --> 00:19:47,220
+<i>When I flew closer to him,</i>
+
+150
+00:19:48,857 --> 00:19:51,917
+<i>I noticed something awful.</i>
+
+151
+00:19:51,994 --> 00:19:53,757
+What do you mean?
+
+152
+00:19:58,133 --> 00:20:01,000
+<i>I couldn't make it out at first.</i>
+
+153
+00:20:01,470 --> 00:20:06,772
+<i>Then I saw that he was
+unusually large. Gigantic.</i>
+
+154
+00:20:07,376 --> 00:20:11,870
+<i>He was about four meters tall.</i>
+
+155
+00:20:12,147 --> 00:20:16,675
+<i>He had blue eyes</i>
+
+156
+00:20:17,185 --> 00:20:18,846
+<i>and dark hair.</i>
+
+157
+00:20:18,920 --> 00:20:21,514
+<i>Perhaps you're not feeling well?</i>
+
+158
+00:20:23,859 --> 00:20:27,659
+<i>We'll postpone the meeting.</i>
+
+159
+00:20:28,964 --> 00:20:31,262
+<i>I'll continue.</i>
+
+160
+00:20:37,673 --> 00:20:41,700
+<i>He was naked, absolutely naked,</i>
+
+161
+00:20:42,344 --> 00:20:44,642
+<i>like a newborn.</i>
+
+162
+00:20:46,314 --> 00:20:50,273
+<i>He was wet, or rather, slippery.</i>
+
+163
+00:20:50,986 --> 00:20:52,920
+<i>His skin was shiny.</i>
+
+164
+00:20:53,288 --> 00:20:57,622
+<i>He rose and fell like the waves,
+but he was moving by himself.</i>
+
+165
+00:20:57,693 --> 00:21:00,662
+<i>It was disgusting.</i>
+
+166
+00:21:12,240 --> 00:21:15,903
+I'm sorry.
+I'll jump ahead a little.
+
+167
+00:21:16,912 --> 00:21:19,472
+There isn't much more.
+
+168
+00:21:19,915 --> 00:21:25,581
+<i>Burton's statements appear to be
+the result of a hallucinatory complex</i>
+
+169
+00:21:25,687 --> 00:21:28,520
+<i>brought on
+by the planet's atmosphere,</i>
+
+170
+00:21:28,590 --> 00:21:30,717
+<i>as well as symptoms of depression</i>
+
+171
+00:21:30,792 --> 00:21:34,250
+<i>exacerbated by inflammation
+of the associative zone</i>
+
+172
+00:21:34,329 --> 00:21:36,923
+<i>of the cerebral cortex.</i>
+
+173
+00:21:36,998 --> 00:21:40,195
+<i>This report in no way,
+or in almost no way,</i>
+
+174
+00:21:40,268 --> 00:21:42,668
+<i>corresponds with reality.</i>
+
+175
+00:21:43,538 --> 00:21:46,006
+<i>What do you mean "almost"?</i>
+
+176
+00:21:46,074 --> 00:21:48,941
+<i>Excuse me, I'm not finished yet.</i>
+
+177
+00:21:49,010 --> 00:21:52,810
+<i>Professor Messenger
+offers a different opinion.</i>
+
+178
+00:21:52,881 --> 00:21:57,978
+<i>He believes that Burton's statements
+could be founded in reality</i>
+
+179
+00:21:58,053 --> 00:22:02,353
+<i>and merit further study.</i>
+
+180
+00:22:02,424 --> 00:22:03,948
+<i>That's it.</i>
+
+181
+00:22:05,527 --> 00:22:07,927
+<i>I saw it all with my own eyes.</i>
+
+182
+00:22:11,633 --> 00:22:14,966
+<i>I would like to offer
+another opinion.</i>
+
+183
+00:22:15,771 --> 00:22:19,207
+<i>We stand on the brink
+of an enormous discovery,</i>
+
+184
+00:22:19,441 --> 00:22:24,538
+<i>Our decision should not rely
+on the observations</i>
+
+185
+00:22:24,613 --> 00:22:29,380
+<i>of a man without
+any scientific qualifications.</i>
+
+186
+00:22:30,252 --> 00:22:34,416
+<i>Although any researcher
+may envy this pilot,</i>
+
+187
+00:22:34,890 --> 00:22:39,190
+<i>his presence of mind,
+his gift of observation.</i>
+
+188
+00:22:39,928 --> 00:22:43,455
+<i>Moreover, in light
+of recent information,</i>
+
+189
+00:22:43,999 --> 00:22:49,665
+<i>we are morally obligated
+to continue the exploration.</i>
+
+190
+00:22:50,572 --> 00:22:53,336
+<i>I can understand
+how Professor Messenger feels.</i>
+
+191
+00:22:53,408 --> 00:22:55,103
+<i>I understand him.</i>
+
+192
+00:22:55,177 --> 00:22:58,203
+<i>But let's take a look
+at the road we've traveled.</i>
+
+193
+00:22:58,346 --> 00:23:04,307
+<i>Solaristics is exactly
+where it began.</i>
+
+194
+00:23:04,820 --> 00:23:08,312
+<i>Years of work have been in vain.</i>
+
+195
+00:23:11,593 --> 00:23:16,496
+<i>Everything we now know
+about Solaris is negative</i>
+
+196
+00:23:17,065 --> 00:23:22,025
+<i>and has come to resemble a mountain
+of disjointed, incoherent facts</i>
+
+197
+00:23:22,103 --> 00:23:25,561
+<i>that strain credulity.</i>
+
+198
+00:23:26,808 --> 00:23:30,175
+We're in exactly
+the same situation today.
+
+199
+00:23:31,913 --> 00:23:34,006
+Solaristics is degenerating.
+
+200
+00:23:34,082 --> 00:23:36,812
+<i>But what we're talking about
+is far more serious</i>
+
+201
+00:23:36,885 --> 00:23:38,546
+<i>than just the study of Solaristics.</i>
+
+202
+00:23:38,820 --> 00:23:42,483
+<i>We're talking about the boundaries
+of human knowledge.</i>
+
+203
+00:23:42,624 --> 00:23:46,458
+<i>Don't you think that
+by establishing artificial barriers</i>
+
+204
+00:23:46,528 --> 00:23:50,965
+<i>we deliver a blow
+to the idea of limitless thought?</i>
+
+205
+00:23:51,566 --> 00:23:57,266
+<i>By limiting our movement forward,
+we facilitate moving backwards.</i>
+
+206
+00:23:57,505 --> 00:23:59,973
+<i>I nevertheless repeat my question.</i>
+
+207
+00:24:00,175 --> 00:24:02,040
+<i>What do you mean by saying</i>
+
+208
+00:24:02,110 --> 00:24:05,045
+<i>the report of my observations in almost
+no way corresponds with reality?</i>
+
+209
+00:24:05,747 --> 00:24:10,650
+<i>I saw everything with my own eyes.
+What do you mean by "almost"?</i>
+
+210
+00:24:10,719 --> 00:24:15,622
+<i>"Almost no way" means
+that some real phenomena</i>
+
+211
+00:24:15,690 --> 00:24:18,989
+<i>could have triggered
+your hallucinations, Burton.</i>
+
+212
+00:24:20,729 --> 00:24:22,822
+<i>When it's windy,</i>
+
+213
+00:24:22,898 --> 00:24:27,460
+<i>it's easy to confuse a swaying bush
+with a living being,</i>
+
+214
+00:24:27,936 --> 00:24:31,667
+<i>to say nothing of a foreign planet.</i>
+
+215
+00:24:31,940 --> 00:24:35,467
+<i>I meant no offense, Burton.
+None.</i>
+
+216
+00:24:35,644 --> 00:24:40,104
+<i>I'd like to know what impact
+Professor Messenger's opinion will have.</i>
+
+217
+00:24:40,916 --> 00:24:43,111
+<i>Practically none,</i>
+
+218
+00:24:43,385 --> 00:24:49,017
+<i>which means that exploration
+in this area will be discontinued.</i>
+
+219
+00:24:49,357 --> 00:24:51,188
+<i>Just a moment. Yes...</i>
+
+220
+00:24:51,259 --> 00:24:52,851
+<i>I'd like to make a statement.</i>
+
+221
+00:24:52,928 --> 00:24:55,328
+<i>The commission has not offended me,</i>
+
+222
+00:24:55,397 --> 00:24:57,388
+<i>but it has offended
+the spirit of the expedition.</i>
+
+223
+00:24:57,465 --> 00:25:00,059
+<i>Therefore, I consider it
+my duty to announce...</i>
+
+224
+00:25:02,570 --> 00:25:05,095
+And so on...
+
+225
+00:25:07,409 --> 00:25:09,877
+Nowadays it's considered
+good manners to laugh
+
+226
+00:25:09,945 --> 00:25:13,312
+when Burton's report is mentioned.
+
+227
+00:25:15,150 --> 00:25:17,141
+Thank you, Burton.
+
+228
+00:25:17,218 --> 00:25:20,813
+We've known you for a long time,
+but I never knew anything about you.
+
+229
+00:25:24,259 --> 00:25:26,659
+You know, you were very handsome.
+
+230
+00:25:26,728 --> 00:25:30,220
+That's not true,
+but thanks anyway.
+
+231
+00:25:30,865 --> 00:25:32,662
+Excuse me.
+
+232
+00:25:38,306 --> 00:25:41,275
+Well, Kris, what do you think?
+
+233
+00:25:42,610 --> 00:25:44,601
+If you don't mind,
+
+234
+00:25:45,680 --> 00:25:50,049
+I'd like to speak to your son alone.
+
+235
+00:25:50,418 --> 00:25:54,548
+I don't want to look like an idiot
+in front of you yet again.
+
+236
+00:25:56,858 --> 00:25:59,850
+I'll wait for you outside by the swing.
+
+237
+00:26:05,433 --> 00:26:07,833
+What a ridiculous man.
+
+238
+00:26:07,969 --> 00:26:11,200
+You have no reason to say that.
+
+239
+00:26:12,140 --> 00:26:14,608
+He's ill at ease.
+
+240
+00:26:14,843 --> 00:26:17,971
+He thinks he's getting
+in the way of our farewell.
+
+241
+00:26:21,683 --> 00:26:23,674
+He's a tactful man.
+
+242
+00:26:23,752 --> 00:26:27,449
+If he decided to come, it's because
+he considers this important.
+
+243
+00:26:29,124 --> 00:26:33,561
+Although, I admit,
+I'd rather not see anyone now.
+
+244
+00:26:33,762 --> 00:26:36,128
+You and I rarely get
+a chance to talk.
+
+245
+00:26:42,570 --> 00:26:45,198
+I'm glad to hear you say that.
+
+246
+00:26:46,908 --> 00:26:49,172
+Even if it's on the last day.
+
+247
+00:27:01,489 --> 00:27:03,616
+The last day.
+
+248
+00:27:06,728 --> 00:27:12,291
+One always feels awful
+after a big farewell.
+
+249
+00:27:13,935 --> 00:27:15,596
+Here comes your aunt.
+
+250
+00:27:15,670 --> 00:27:19,003
+Let's meet after lunch.
+We need to talk.
+
+251
+00:27:19,274 --> 00:27:24,109
+Why did you have to invite this Burton
+today of all days?
+
+252
+00:27:25,980 --> 00:27:29,643
+Where are the guests going to sleep?
+Next to you, or in the room upstairs?
+
+253
+00:27:31,653 --> 00:27:33,985
+Upstairs, I guess.
+
+254
+00:27:35,490 --> 00:27:39,085
+Well, I'm off to my meeting
+by the swing.
+
+255
+00:27:39,294 --> 00:27:41,660
+- Maybe...
+- Just a moment.
+
+256
+00:27:44,032 --> 00:27:46,899
+You and your rooms can wait!
+
+257
+00:27:56,044 --> 00:27:58,171
+Listen, Kris...
+
+258
+00:28:16,197 --> 00:28:18,097
+What happened?
+
+259
+00:28:18,500 --> 00:28:21,469
+- What's standing over there?
+- What are you afraid of?
+
+260
+00:28:21,536 --> 00:28:23,504
+In the garage, staring at me.
+
+261
+00:28:23,571 --> 00:28:25,163
+It's a horse.
+
+262
+00:28:25,240 --> 00:28:27,367
+Don't. I've seen it already.
+
+263
+00:28:27,442 --> 00:28:29,501
+Come on.
+
+264
+00:28:32,147 --> 00:28:35,639
+He's gentle.
+Look how beautiful he is.
+
+265
+00:28:42,457 --> 00:28:48,191
+You understand, I think
+Solaristics has reached an impasse
+
+266
+00:28:48,263 --> 00:28:51,232
+as a result
+of irresponsible daydreaming.
+
+267
+00:28:52,367 --> 00:28:54,267
+I'm interested in the truth,
+
+268
+00:28:54,335 --> 00:28:57,429
+but you want to turn me
+into a biased supporter.
+
+269
+00:28:59,240 --> 00:29:02,835
+I don't have the right to make decisions
+based on impulses of the heart.
+
+270
+00:29:02,911 --> 00:29:06,039
+I'm not a poet.
+I have a concrete goal:
+
+271
+00:29:06,114 --> 00:29:09,174
+Either stop the research
+and remove the station from orbit,
+
+272
+00:29:09,250 --> 00:29:13,016
+thereby legitimizing
+the Solaristics crisis,
+
+273
+00:29:13,388 --> 00:29:16,016
+or take extreme measures.
+
+274
+00:29:16,090 --> 00:29:19,184
+Perhaps bombard the Ocean
+with heavy radiation.
+
+275
+00:29:19,260 --> 00:29:21,319
+- Not that!
+- Why not?
+
+276
+00:29:21,396 --> 00:29:25,799
+Didn't you say research
+should continue at any price?
+
+277
+00:29:26,201 --> 00:29:31,798
+You want to destroy that which we are
+presently incapable of understanding?
+
+278
+00:29:32,974 --> 00:29:36,933
+Forgive me, but I am not an advocate
+of knowledge at any price.
+
+279
+00:29:37,712 --> 00:29:42,172
+Knowledge is only valid
+when it's based on morality.
+
+280
+00:29:43,751 --> 00:29:47,915
+Man is the one who renders science
+moral or immoral.
+
+281
+00:29:47,989 --> 00:29:49,684
+Remember Hiroshima.
+
+282
+00:29:49,757 --> 00:29:52,157
+Then don't make science immoral.
+
+283
+00:29:52,660 --> 00:29:54,651
+It's strange...
+
+284
+00:29:57,498 --> 00:30:00,524
+Strange.
+There's nothing strange about it.
+
+285
+00:30:02,503 --> 00:30:06,633
+You yourself can't be sure
+that what you saw
+
+286
+00:30:06,708 --> 00:30:09,370
+wasn't just hallucinations.
+
+287
+00:30:09,444 --> 00:30:11,309
+Thank you very much.
+
+288
+00:30:11,379 --> 00:30:13,745
+It's seems there's
+nothing more to discuss.
+
+289
+00:30:18,453 --> 00:30:20,353
+- What happened?
+- I'm leaving.
+
+290
+00:30:20,421 --> 00:30:22,184
+Where are you going?
+
+291
+00:30:24,525 --> 00:30:26,686
+He's an accountant, not a scientist.
+You were right.
+
+292
+00:30:26,761 --> 00:30:29,958
+You and I are friends, but that doesn't
+mean you can say that about him.
+
+293
+00:30:30,031 --> 00:30:34,593
+Great. You and I have known each other
+for 20 years. It had to end someday.
+
+294
+00:30:35,169 --> 00:30:37,603
+Are you leaving the boy?
+
+295
+00:30:49,317 --> 00:30:52,809
+What did you have to offend him for?
+You're too harsh.
+
+296
+00:30:52,887 --> 00:30:57,187
+It's dangerous to send
+people like you into space.
+
+297
+00:30:57,258 --> 00:31:00,716
+Everything there is too fragile.
+Yes, fragile!
+
+298
+00:31:00,795 --> 00:31:04,788
+The Earth has somehow
+become adjusted to people like you,
+
+299
+00:31:04,966 --> 00:31:06,797
+although at what sacrifice!
+
+300
+00:31:07,302 --> 00:31:11,466
+What, are you jealous that he'll be
+the one to bury me, and not you?
+
+301
+00:31:29,357 --> 00:31:34,351
+<i>Thus, it had been established that
+the Solaris Ocean is a distinctive brain.</i>
+
+302
+00:31:34,962 --> 00:31:38,420
+<i>Right after that, an even more daring
+hypothesis came out,</i>
+
+303
+00:31:38,499 --> 00:31:41,525
+<i>suggesting that the Ocean
+is a thinking substance.</i>
+
+304
+00:31:42,570 --> 00:31:46,267
+<i>Incidentally, this hypothesis</i>
+
+305
+00:31:46,341 --> 00:31:49,970
+<i>still cannot be confirmed or refuted.</i>
+
+306
+00:31:50,878 --> 00:31:53,608
+It's a program about Solaris.
+
+307
+00:31:54,782 --> 00:31:57,808
+<i>There are few believers left.</i>
+
+308
+00:31:57,885 --> 00:32:01,685
+<i>First of all, there are those connected
+to the fate of the Solaris station.</i>
+
+309
+00:32:01,889 --> 00:32:05,347
+<i>On this huge station
+built to house 85 people</i>
+
+310
+00:32:05,426 --> 00:32:07,223
+<i>there is now a crew of three.</i>
+
+311
+00:32:07,295 --> 00:32:09,957
+<i>They are: astro-biologist Sartorius,</i>
+
+312
+00:32:10,031 --> 00:32:12,329
+<i>cyberneticist Snaut,</i>
+
+313
+00:32:13,568 --> 00:32:16,537
+<i>and physiologist Gibarian,
+who deal with the problem...</i>
+
+314
+00:32:18,239 --> 00:32:20,173
+<i>I'm calling from the city.</i>
+
+315
+00:32:20,375 --> 00:32:22,172
+Burton.
+
+316
+00:32:23,778 --> 00:32:27,111
+Anna, leave for a minute.
+We need to talk.
+
+317
+00:32:33,688 --> 00:32:38,921
+<i>I didn't talk to Kris
+about what was most important:</i>
+
+318
+00:32:39,594 --> 00:32:44,463
+<i>about Messenger, who voiced
+a different opinion at that meeting.</i>
+
+319
+00:32:45,533 --> 00:32:50,027
+<i>He became very interested in Fechner,
+who died in the Solaris Ocean.</i>
+
+320
+00:32:51,706 --> 00:32:55,335
+<i>It turns out that Fechner
+has an orphaned son.</i>
+
+321
+00:32:55,410 --> 00:32:58,868
+<i>He had left his family.</i>
+
+322
+00:32:59,313 --> 00:33:04,546
+<i>Messenger and I paid a visit
+to Fechner's widow,</i>
+
+323
+00:33:05,720 --> 00:33:08,689
+<i>and I saw this boy with my own eyes.</i>
+
+324
+00:33:08,756 --> 00:33:10,951
+You never told me about that.
+
+325
+00:33:11,025 --> 00:33:12,686
+<i>I never got the chance.</i>
+
+326
+00:33:13,561 --> 00:33:16,860
+Fine. Go on.
+
+327
+00:33:17,098 --> 00:33:22,092
+<i>This child was identical
+to the one I saw on Solaris.</i>
+
+328
+00:33:23,070 --> 00:33:25,800
+<i>Of course,
+he wasn't four meters tall.</i>
+
+329
+00:33:26,874 --> 00:33:30,037
+<i>He shouldn't think about this
+too much before liftoff,</i>
+
+330
+00:33:32,280 --> 00:33:35,010
+<i>but he should keep it in mind.</i>
+
+331
+00:39:22,496 --> 00:39:24,555
+There's no point
+in keeping these papers.
+
+332
+00:39:24,632 --> 00:39:27,362
+The ones to hold on to are in my room.
+
+333
+00:39:45,419 --> 00:39:49,753
+My research notes, my thesis...
+I held on to so much.
+
+334
+00:39:58,332 --> 00:40:02,860
+If something should happen,
+I'll find someone to take care of them.
+
+335
+00:40:03,637 --> 00:40:06,037
+I'll come up with something.
+
+336
+00:40:06,207 --> 00:40:10,041
+Don't look for that film.
+I'm taking it with me.
+
+337
+00:40:10,110 --> 00:40:12,476
+Remember?
+The one of the bonfire?
+
+338
+00:40:12,546 --> 00:40:14,844
+Yes, of course.
+
+339
+00:43:23,871 --> 00:43:26,965
+<i>- Ready, Kelvin?
+- Ready, Moddard.</i>
+
+340
+00:43:27,174 --> 00:43:29,472
+<i>Don't worry about a thing.</i>
+
+341
+00:43:29,543 --> 00:43:32,808
+<i>Have a great trip.
+Send our regards.</i>
+
+342
+00:43:33,013 --> 00:43:37,643
+<i>- When is liftoff?
+- You're already flying, Kris! Take care.</i>
+
+343
+00:44:10,250 --> 00:44:13,879
+<i>Solaris station! Do something!</i>
+
+344
+00:44:13,954 --> 00:44:17,856
+<i>I'm losing stability.
+This is Kelvin, over.</i>
+
+345
+00:46:11,605 --> 00:46:13,937
+Hey, where is everyone?
+
+346
+00:46:14,007 --> 00:46:16,373
+You've got guests.
+
+347
+00:47:47,034 --> 00:47:48,899
+Dr. Snaut?
+
+348
+00:48:14,561 --> 00:48:15,994
+Snaut?
+
+349
+00:48:25,372 --> 00:48:27,932
+I'm Kelvin, the psychologist.
+
+350
+00:48:29,676 --> 00:48:33,305
+It looks like you weren't
+expecting me.
+
+351
+00:48:35,682 --> 00:48:38,583
+Did you receive the radiogram?
+
+352
+00:48:42,356 --> 00:48:46,019
+Yes, of course.
+
+353
+00:49:01,341 --> 00:49:03,332
+What's with you?
+
+354
+00:49:07,180 --> 00:49:10,081
+Forgive me.
+
+355
+00:49:12,386 --> 00:49:15,549
+Where's Gibarian?
+Where's Sartorius?
+
+356
+00:49:15,956 --> 00:49:18,186
+Sartorius is in his quarters.
+
+357
+00:49:18,258 --> 00:49:19,953
+Gibarian is dead.
+
+358
+00:49:20,093 --> 00:49:21,890
+What do you mean "dead"?
+
+359
+00:49:25,399 --> 00:49:27,924
+Suicide.
+
+360
+00:49:31,338 --> 00:49:33,499
+I beg your pardon.
+
+361
+00:49:33,907 --> 00:49:36,034
+I knew Gibarian
+and he would never have...
+
+362
+00:49:36,109 --> 00:49:40,876
+He was almost always
+in a state of deep depression
+
+363
+00:49:41,548 --> 00:49:45,882
+ever since these disturbances began...
+
+364
+00:49:50,791 --> 00:49:54,887
+Why don't you go rest, take a bath?
+
+365
+00:49:54,961 --> 00:49:59,557
+Take any room
+and come back in an hour.
+
+366
+00:50:00,033 --> 00:50:04,595
+I would like to see Gibarian -
+I mean, Sartorius.
+
+367
+00:50:04,938 --> 00:50:06,496
+Later.
+
+368
+00:50:06,573 --> 00:50:10,031
+I doubt he'd see you now.
+He's upstairs, in the laboratory.
+
+369
+00:50:10,110 --> 00:50:12,271
+Listen, Snaut,
+
+370
+00:50:12,379 --> 00:50:17,248
+I understand that something extraordinary
+has happened and maybe...
+
+371
+00:50:23,990 --> 00:50:26,117
+Dr. Kelvin...
+
+372
+00:50:28,829 --> 00:50:34,392
+You understand...
+Come back in an hour. Please.
+
+373
+00:50:36,036 --> 00:50:38,903
+Go and rest.
+
+374
+00:50:40,240 --> 00:50:44,904
+Listen, there are only three of us:
+you, me and Sartorius.
+
+375
+00:50:44,978 --> 00:50:47,879
+You know us from our photographs.
+
+376
+00:50:47,948 --> 00:50:50,917
+If you see something
+out of the ordinary,
+
+377
+00:50:50,984 --> 00:50:55,114
+something besides me and Sartorius,
+try not to lose your head.
+
+378
+00:50:55,188 --> 00:50:56,815
+What would I see?
+
+379
+00:50:56,890 --> 00:51:00,189
+I don't know.
+That sort of depends on you.
+
+380
+00:51:00,260 --> 00:51:01,921
+Hallucinations?
+
+381
+00:51:01,995 --> 00:51:05,829
+No. Just remember.
+
+382
+00:51:06,433 --> 00:51:09,766
+- Remember what?
+- That we're not on Earth.
+
+383
+00:51:10,737 --> 00:51:14,901
+You know, it would be better if you
+came back in the evening, or at night.
+
+384
+00:51:14,975 --> 00:51:18,206
+No, let's make it tomorrow morning.
+
+385
+00:53:01,615 --> 00:53:05,016
+A. GIBARIAN
+
+386
+00:53:11,157 --> 00:53:13,284
+HUMAN BEING
+
+387
+00:53:46,226 --> 00:53:48,217
+FOR K. KELVIN
+
+388
+00:54:06,146 --> 00:54:08,273
+<i>Hi, Kris.</i>
+
+389
+00:54:15,789 --> 00:54:18,383
+<i>I still have a little time left.</i>
+
+390
+00:54:18,558 --> 00:54:21,254
+<i>There are some things
+I must tell you,</i>
+
+391
+00:54:21,728 --> 00:54:24,322
+<i>and some things
+I must warn you about.</i>
+
+392
+00:54:24,397 --> 00:54:28,561
+<i>By now you're at the station
+and know what happened to me.</i>
+
+393
+00:54:29,035 --> 00:54:33,472
+<i>If not, Snaut or Sartorius
+will tell you.</i>
+
+394
+00:54:34,441 --> 00:54:39,003
+<i>What happened to me...</i>
+
+395
+00:54:41,915 --> 00:54:43,849
+<i>is not important.</i>
+
+396
+00:54:43,917 --> 00:54:48,081
+<i>Or rather, it cannot be explained.</i>
+
+397
+00:54:48,154 --> 00:54:52,090
+<i>I'm afraid that what happened to me
+is only the beginning.</i>
+
+398
+00:54:54,194 --> 00:54:56,890
+<i>I wouldn't, of course,
+want it to happen...</i>
+
+399
+00:54:56,963 --> 00:55:01,423
+<i>but this could happen to you
+and the others.</i>
+
+400
+00:55:02,736 --> 00:55:08,368
+<i>Here, it could probably
+happen to anyone.</i>
+
+401
+00:55:08,441 --> 00:55:11,069
+<i>Just don't think
+that I've lost my mind.</i>
+
+402
+00:55:11,144 --> 00:55:14,705
+<i>I'm of sound mind, Kris.
+Believe me.</i>
+
+403
+00:55:18,785 --> 00:55:21,413
+<i>After all, you know me.</i>
+
+404
+00:55:23,723 --> 00:55:27,682
+<i>If I have enough time,
+I'll tell you why I did everything.</i>
+
+405
+00:55:28,061 --> 00:55:32,361
+<i>I'm telling you this so that,
+if it does happen to you,</i>
+
+406
+00:55:32,432 --> 00:55:36,368
+<i>you'll know it's not madness.</i>
+
+407
+00:55:36,436 --> 00:55:38,495
+<i>That's the most important thing.</i>
+
+408
+00:55:38,571 --> 00:55:43,099
+<i>As for continuing research,</i>
+
+409
+00:55:43,176 --> 00:55:46,270
+<i>I'm leaning towards
+Sartorius' proposal,</i>
+
+410
+00:55:46,346 --> 00:55:51,511
+<i>subjecting the Ocean's plasma
+to heavy radiation.</i>
+
+411
+00:55:52,819 --> 00:55:56,949
+<i>I know it's prohibited,
+but there's no other choice.</i>
+
+412
+00:55:57,023 --> 00:55:58,684
+<i>We...</i>
+
+413
+00:55:59,826 --> 00:56:02,795
+<i>You will get mired in it.</i>
+
+414
+00:56:04,664 --> 00:56:10,193
+<i>It may offer a way
+of breaking this deadlock.</i>
+
+415
+00:56:11,604 --> 00:56:15,267
+<i>This is our only chance
+to make contact with this monster.</i>
+
+416
+00:56:15,341 --> 00:56:18,037
+<i>There is no other choice, Kris.</i>
+
+417
+00:56:18,511 --> 00:56:20,706
+<i>If...</i>
+
+418
+00:59:36,442 --> 00:59:39,809
+Dr. Sartorius, I am Kelvin.
+
+419
+00:59:39,879 --> 00:59:42,609
+I arrived two hours ago.
+
+420
+00:59:54,394 --> 00:59:58,455
+Listen, this is ridiculous.
+
+421
+01:00:02,101 --> 01:00:05,070
+Either open up
+or I'll break down the door.
+
+422
+01:00:05,238 --> 01:00:08,833
+All right, I'll open the door,
+but don't come in.
+
+423
+01:00:08,908 --> 01:00:11,308
+I'll come out.
+- Fine.
+
+424
+01:00:14,614 --> 01:00:16,912
+My name is Kelvin.
+
+425
+01:00:17,917 --> 01:00:19,316
+Go on.
+
+426
+01:00:19,385 --> 01:00:21,717
+You must have heard of me.
+
+427
+01:00:21,788 --> 01:00:24,985
+I work, or worked, with Gibarian.
+
+428
+01:00:25,058 --> 01:00:26,252
+Go on.
+
+429
+01:00:26,325 --> 01:00:30,694
+Snaut told me about Gibarian.
+
+430
+01:00:31,531 --> 01:00:34,762
+Then you already know the story.
+
+431
+01:00:34,834 --> 01:00:37,735
+Yes, it's horrible.
+
+432
+01:00:38,538 --> 01:00:41,439
+I don't know the details,
+but he's dead.
+
+433
+01:00:41,507 --> 01:00:44,772
+That's not the problem.
+We all die.
+
+434
+01:00:44,944 --> 01:00:49,574
+But he insisted on being buried on Earth.
+Is space really such a bad grave for him?
+
+435
+01:00:50,349 --> 01:00:53,409
+But Gibarian wanted to be
+in the ground, with the worms.
+
+436
+01:00:53,486 --> 01:00:56,080
+I wanted to disregard it,
+but Snaut insisted.
+
+437
+01:00:56,155 --> 01:00:59,420
+- Have you ever heard of Burton?
+- He was the pilot who...
+
+438
+01:00:59,492 --> 01:01:02,484
+Yes, he was in the search party
+for Fechner.
+
+439
+01:01:02,595 --> 01:01:05,655
+Fechner died a magnificent death,
+but Gibarian was a coward.
+
+440
+01:01:05,731 --> 01:01:09,189
+There's no point
+talking badly of him now.
+
+441
+01:01:09,969 --> 01:01:13,302
+It's at least worth talking about duty.
+
+442
+01:01:13,372 --> 01:01:15,135
+Duty to whom?
+
+443
+01:01:15,208 --> 01:01:17,199
+- To truth.
+- You mean to people.
+
+444
+01:01:17,276 --> 01:01:20,074
+You won't find truth there. Look.
+
+445
+01:01:25,651 --> 01:01:29,883
+Your position is absurd.
+Your so-called courage is inhuman!
+
+446
+01:01:30,790 --> 01:01:32,553
+You hear me?
+
+447
+01:01:38,531 --> 01:01:42,228
+Go away.
+You're too impressionable.
+
+448
+01:01:42,301 --> 01:01:45,828
+You must get used to everything.
+Good day.
+
+449
+01:04:49,622 --> 01:04:52,614
+I spoke to Sartorius.
+
+450
+01:04:52,792 --> 01:04:55,090
+He's a rotten person.
+
+451
+01:04:55,261 --> 01:04:57,855
+He's a very talented scientist.
+
+452
+01:05:04,303 --> 01:05:08,501
+I think I'm a little sick.
+
+453
+01:05:09,408 --> 01:05:13,742
+There's nothing wrong with you.
+You just won't take advice.
+
+454
+01:05:13,813 --> 01:05:18,307
+Snaut, aside from the three of us,
+is there anyone else on the station?
+
+455
+01:05:18,384 --> 01:05:20,284
+Did you see someone?
+
+456
+01:05:22,188 --> 01:05:25,453
+What were you warning me about?
+
+457
+01:05:25,524 --> 01:05:27,719
+Whom did you see?
+
+458
+01:05:27,793 --> 01:05:31,320
+Was it a human being?
+Is she real?
+
+459
+01:05:32,498 --> 01:05:36,400
+Can she be touched? Wounded?
+
+460
+01:05:38,003 --> 01:05:40,767
+You saw her today.
+
+461
+01:05:42,875 --> 01:05:46,003
+And you?
+Who the hell are you?
+
+462
+01:05:51,717 --> 01:05:53,412
+Quiet.
+
+463
+01:06:05,364 --> 01:06:08,299
+- Where did she come from?
+- Leave me alone.
+
+464
+01:06:10,970 --> 01:06:12,733
+You're afraid.
+
+465
+01:06:17,176 --> 01:06:18,803
+Don't worry.
+
+466
+01:06:20,780 --> 01:06:23,044
+I won't think you're insane.
+
+467
+01:06:23,115 --> 01:06:27,848
+Insane?
+God, you know absolutely nothing!
+
+468
+01:06:27,920 --> 01:06:29,820
+Insane...
+
+469
+01:06:30,656 --> 01:06:32,954
+That would be a blessing.
+
+470
+01:06:40,065 --> 01:06:42,033
+Listen, Snaut...
+
+471
+01:07:48,734 --> 01:07:50,292
+<i>It's all so senseless.</i>
+
+472
+01:07:51,937 --> 01:07:56,135
+<i>They won't understand me.
+They think I've gone crazy.</i>
+
+473
+01:08:05,518 --> 01:08:07,748
+<i>Do you see, Kris,
+how it's not entirely absurd?</i>
+
+474
+01:08:07,820 --> 01:08:11,221
+<i>I have to do this because
+I'm afraid they'll come in here.</i>
+
+475
+01:08:11,290 --> 01:08:13,155
+<i>I mean Snaut and Sartorius.</i>
+
+476
+01:08:13,225 --> 01:08:15,853
+<i>They themselves don't understand
+what they're doing.</i>
+
+477
+01:08:15,928 --> 01:08:18,453
+<i>I'm afraid, Kris...</i>
+
+478
+01:08:19,098 --> 01:08:21,259
+<i>I can't...</i>
+
+479
+01:08:22,034 --> 01:08:24,730
+<i>Nobody will be able to understand.</i>
+
+480
+01:08:24,803 --> 01:08:28,102
+<i>Open up! You hear, Gibarian?
+Open up!</i>
+
+481
+01:08:28,173 --> 01:08:32,303
+<i>Don't be stupid.
+It's just us - Snaut and Sartorius.</i>
+
+482
+01:08:32,378 --> 01:08:34,539
+<i>We want to help you.</i>
+
+483
+01:08:34,813 --> 01:08:37,213
+<i>They want to help me.</i>
+
+484
+01:08:38,384 --> 01:08:41,046
+<i>Just a second. Quit knocking.</i>
+
+485
+01:08:50,629 --> 01:08:53,097
+<i>I am my own judge.</i>
+
+486
+01:08:56,302 --> 01:08:58,532
+<i>Have you seen her?</i>
+
+487
+01:08:59,204 --> 01:09:02,970
+<i>Kris, understand that
+this is not madness.</i>
+
+488
+01:09:05,978 --> 01:09:10,972
+<i>It has something to do
+with conscience.</i>
+
+489
+01:09:20,960 --> 01:09:25,522
+<i>I really wanted you
+to get here in time, Kris.</i>
+
+490
+01:14:11,250 --> 01:14:13,218
+Where did you?
+
+491
+01:14:17,923 --> 01:14:19,982
+It's so nice.
+
+492
+01:14:33,038 --> 01:14:36,599
+But... but it's not...
+
+493
+01:14:38,911 --> 01:14:41,471
+How did you know where I?
+
+494
+01:14:41,613 --> 01:14:44,013
+What do you mean, "how"?
+
+495
+01:14:50,522 --> 01:14:53,320
+Don't, Kris. That tickles.
+
+496
+01:15:04,970 --> 01:15:07,939
+Where are my shoes?
+- Shoes?
+
+497
+01:15:24,056 --> 01:15:26,889
+No. They're not there.
+
+498
+01:15:38,704 --> 01:15:40,535
+Who's this?
+
+499
+01:15:59,658 --> 01:16:01,216
+Kris...
+
+500
+01:16:03,128 --> 01:16:04,789
+it's me.
+
+501
+01:16:14,539 --> 01:16:16,336
+You know...
+
+502
+01:16:19,544 --> 01:16:22,035
+I have the feeling...
+
+503
+01:16:26,051 --> 01:16:28,315
+as if I've forgotten something.
+
+504
+01:16:39,297 --> 01:16:41,458
+I can't understand it.
+
+505
+01:16:46,104 --> 01:16:47,765
+Do you love me?
+
+506
+01:16:47,839 --> 01:16:52,105
+Don't be silly, Hari.
+As if you didn't know.
+
+507
+01:16:52,644 --> 01:16:55,477
+I'm going out for a moment.
+Wait for me, okay?
+
+508
+01:16:55,547 --> 01:16:59,677
+- I'll go with you.
+- No, Hari. I'll be back soon.
+
+509
+01:17:01,453 --> 01:17:03,114
+No.
+
+510
+01:17:03,188 --> 01:17:05,713
+What's with you? Why?
+
+511
+01:17:09,161 --> 01:17:12,324
+I don't know. I can't.
+
+512
+01:17:12,397 --> 01:17:14,331
+You can't what?
+
+513
+01:17:15,300 --> 01:17:19,760
+It feels like I...
+I have to see you... all the time.
+
+514
+01:17:21,873 --> 01:17:24,205
+What are you, a child?
+
+515
+01:17:24,276 --> 01:17:27,177
+I have work to do, Hari.
+
+516
+01:17:34,686 --> 01:17:37,314
+I'm behaving foolishly.
+
+517
+01:17:39,291 --> 01:17:41,225
+And so are you.
+
+518
+01:17:41,293 --> 01:17:45,423
+Running around all disheveled,
+like Snaut.
+
+519
+01:17:46,631 --> 01:17:49,395
+- Like who?
+- Like Snaut.
+
+520
+01:17:51,536 --> 01:17:54,300
+Listen, how do you...
+
+521
+01:17:57,909 --> 01:18:01,276
+Well, I have to go.
+If you want, we can go together.
+
+522
+01:18:02,914 --> 01:18:06,281
+But you won't be able to get
+into a suit with your dress on.
+
+523
+01:18:06,518 --> 01:18:08,452
+Get undressed.
+
+524
+01:18:12,124 --> 01:18:15,059
+Kris, help me. I can't undo it.
+
+525
+01:19:01,606 --> 01:19:03,870
+Why are you looking at me like that?
+
+526
+01:19:23,195 --> 01:19:27,928
+SOLARIS
+Part Two
+
+527
+01:20:42,274 --> 01:20:44,105
+Get in.
+
+528
+01:20:44,743 --> 01:20:46,540
+- What about you?
+- I'm right behind you.
+
+529
+01:20:46,611 --> 01:20:48,909
+I have to shut the hatch.
+
+530
+01:20:51,716 --> 01:20:54,617
+Is everything all right?
+Are you comfortable?
+
+531
+01:20:54,686 --> 01:20:56,950
+Yes. Hurry, Kris.
+
+532
+01:23:11,589 --> 01:23:13,489
+You could at least knock.
+
+533
+01:23:13,558 --> 01:23:16,493
+It sounded
+like you were talking to someone.
+
+534
+01:23:16,795 --> 01:23:18,763
+All the more reason.
+
+535
+01:23:18,997 --> 01:23:20,931
+So you had guests?
+
+536
+01:23:20,999 --> 01:23:24,833
+Well, I see you took
+good care of them.
+
+537
+01:23:26,304 --> 01:23:29,740
+It's nothing.
+You won't die from it.
+
+538
+01:23:30,542 --> 01:23:33,102
+Did you at least start out modestly?
+
+539
+01:23:33,278 --> 01:23:37,237
+Narcotics, poisons, barbiturates, eh?
+
+540
+01:23:37,849 --> 01:23:41,114
+If you plan to clown around,
+you might as well leave.
+
+541
+01:23:41,186 --> 01:23:44,678
+Sometimes you become a clown
+without wanting to.
+
+542
+01:23:44,756 --> 01:23:48,954
+Don't tell me you haven't tried
+a rope or a hammer.
+
+543
+01:23:49,594 --> 01:23:53,462
+Did you happen to throw
+the inkwell like Luther? No?
+
+544
+01:24:02,106 --> 01:24:04,301
+So,
+
+545
+01:24:05,043 --> 01:24:08,444
+one, two, and into the rocket,
+
+546
+01:24:08,513 --> 01:24:10,310
+and that was that.
+
+547
+01:24:11,082 --> 01:24:14,677
+Next time, don't panic.
+
+548
+01:24:15,153 --> 01:24:19,385
+And push the button from the corridor.
+You could get burned.
+
+549
+01:24:19,891 --> 01:24:22,587
+- What was that?
+- I don't know.
+
+550
+01:24:22,660 --> 01:24:26,221
+Then again, we've managed
+to determine a few things.
+
+551
+01:24:27,432 --> 01:24:29,127
+Who was it?
+
+552
+01:24:29,200 --> 01:24:32,829
+She died 10 years ago.
+
+553
+01:24:33,605 --> 01:24:38,099
+What you saw was the materialization
+of your conception of her.
+
+554
+01:24:38,710 --> 01:24:41,702
+What was her name?
+- Hari.
+
+555
+01:24:50,321 --> 01:24:55,782
+Everything began after we started
+experimenting with radiation.
+
+556
+01:24:56,794 --> 01:25:00,753
+We hit the Ocean's surface
+
+557
+01:25:00,832 --> 01:25:03,767
+with strong X-ray beams.
+
+558
+01:25:05,270 --> 01:25:06,567
+But it...
+
+559
+01:25:06,638 --> 01:25:11,075
+Incidentally, consider yourself lucky.
+After all, she's a part of your past.
+
+560
+01:25:11,442 --> 01:25:15,401
+What if it had been something
+you had never seen before,
+
+561
+01:25:15,480 --> 01:25:18,108
+but something you had thought
+or imagined?
+
+562
+01:25:18,816 --> 01:25:20,408
+I don't understand.
+
+563
+01:25:20,485 --> 01:25:24,319
+Evidently the Ocean responded to
+our heavy radiation with something else.
+
+564
+01:25:24,389 --> 01:25:29,224
+It probed our minds and extracted
+something like islands of memory.
+
+565
+01:25:34,299 --> 01:25:35,994
+Will she come back?
+
+566
+01:25:36,067 --> 01:25:37,659
+She will...
+
+567
+01:25:37,802 --> 01:25:39,827
+and she won't.
+
+568
+01:25:43,641 --> 01:25:46,974
+- Hari the Second.
+- There may be an endless number of them.
+
+569
+01:25:47,045 --> 01:25:49,036
+Why didn't you warn me?
+
+570
+01:25:49,113 --> 01:25:51,240
+You wouldn't have believed me.
+
+571
+01:25:51,316 --> 01:25:55,980
+I got scared and acted not entirely...
+
+572
+01:25:56,054 --> 01:25:59,455
+Don't be hard on yourself.
+We've had enough of Gibarian.
+
+573
+01:26:00,224 --> 01:26:03,387
+There's talk about
+liquidating the station.
+
+574
+01:26:03,928 --> 01:26:06,590
+That's why I was sent here.
+
+575
+01:26:07,966 --> 01:26:11,959
+If I submit a report, will you sign it?
+
+576
+01:26:12,203 --> 01:26:15,366
+And what if we suddenly make
+that long-awaited contact?
+
+577
+01:26:16,541 --> 01:26:22,104
+Night is the best time here.
+It somehow reminds me of Earth.
+
+578
+01:26:22,714 --> 01:26:26,150
+Attach strips of paper
+to the air-vents.
+
+579
+01:26:28,653 --> 01:26:34,148
+At night it sounds like
+the rustling of leaves.
+
+580
+01:26:34,826 --> 01:26:38,353
+It was Gibarian's invention.
+So simple, like all genius.
+
+581
+01:26:38,429 --> 01:26:40,420
+I adopted it right away.
+
+582
+01:26:40,531 --> 01:26:44,968
+Sartorius made fun of us,
+but he has one in his room.
+
+583
+01:26:45,470 --> 01:26:48,268
+He hides it in the closet.
+
+584
+01:26:49,641 --> 01:26:52,109
+You should rest.
+
+585
+01:26:52,176 --> 01:26:55,873
+If you can, come to the library later.
+
+586
+01:26:55,947 --> 01:26:59,212
+I've prepared a list of books for you.
+
+587
+01:28:48,860 --> 01:28:51,522
+Snaut, is that you?
+
+588
+01:28:58,536 --> 01:29:02,302
+Kris, where are you?
+
+589
+01:29:03,608 --> 01:29:05,803
+Come here.
+
+590
+01:30:42,139 --> 01:30:45,768
+- It's so dark.
+- Come here. Don't be afraid.
+
+591
+01:31:42,199 --> 01:31:43,757
+Hari!
+
+592
+01:31:43,834 --> 01:31:46,928
+The door opens the other way.
+
+593
+01:32:43,828 --> 01:32:46,729
+Hang on.
+I'll be right back.
+
+594
+01:33:35,613 --> 01:33:39,208
+When I saw you weren't there,
+I got scared.
+
+595
+01:33:42,520 --> 01:33:44,351
+<i>Hello, Kris.</i>
+
+596
+01:33:45,689 --> 01:33:48,453
+<i>I can barely hear you.
+Speak louder.</i>
+
+597
+01:33:49,326 --> 01:33:51,590
+<i>What are you doing right now?</i>
+
+598
+01:33:52,863 --> 01:33:54,831
+Nothing.
+
+599
+01:33:54,999 --> 01:33:59,299
+<i>Sartorius has invited us
+to his laboratory.</i>
+
+600
+01:33:59,737 --> 01:34:01,466
+<i>How are you?</i>
+
+601
+01:34:01,539 --> 01:34:04,133
+Fine. I'll try to make it.
+
+602
+01:34:18,222 --> 01:34:21,157
+Kris, what's wrong with me?
+
+603
+01:34:36,707 --> 01:34:40,234
+Maybe it's epilepsy?
+
+604
+01:35:34,865 --> 01:35:36,924
+This is my wife.
+
+605
+01:35:38,903 --> 01:35:40,598
+Hello.
+
+606
+01:35:43,607 --> 01:35:45,632
+Hello.
+
+607
+01:35:47,912 --> 01:35:50,904
+- We've been waiting for you.
+- I was busy.
+
+608
+01:35:52,583 --> 01:35:56,280
+- How lovely! Are these yours?
+- No, they're Snaut's.
+
+609
+01:35:57,888 --> 01:36:03,656
+So, as far as I can tell,
+they are constructed...
+
+610
+01:36:03,727 --> 01:36:05,854
+Let's just call them "guests."
+
+611
+01:36:05,930 --> 01:36:07,693
+Fine.
+
+612
+01:36:08,165 --> 01:36:12,966
+While our structure is made of atoms,
+theirs consists of neutrinos.
+
+613
+01:36:13,204 --> 01:36:17,504
+But neutrino systems are unstable.
+
+614
+01:36:17,942 --> 01:36:21,434
+They seem to be stabilized
+by Solaris' force field.
+
+615
+01:36:26,650 --> 01:36:29,312
+You've got a superb specimen.
+
+616
+01:36:30,621 --> 01:36:32,851
+That's my wife.
+
+617
+01:36:33,057 --> 01:36:35,958
+Wonderful. Perfect.
+
+618
+01:36:39,196 --> 01:36:42,495
+Then take a blood sample
+from your wife.
+
+619
+01:36:42,566 --> 01:36:44,227
+Why?
+
+620
+01:36:44,335 --> 01:36:46,530
+It'll sober you up a bit.
+
+621
+01:37:21,905 --> 01:37:24,738
+What do you think?
+
+622
+01:37:26,343 --> 01:37:28,777
+- Snaut?
+- Enough of all of you!
+
+623
+01:37:30,981 --> 01:37:33,973
+I burned the blood with acid,
+but it's restoring itself.
+
+624
+01:37:34,051 --> 01:37:35,643
+Regeneration?
+
+625
+01:37:35,719 --> 01:37:41,055
+In essence, immortality-
+Faust's problem.
+
+626
+01:37:41,125 --> 01:37:42,820
+Excuse me.
+
+627
+01:37:46,964 --> 01:37:49,364
+There's no need for cotton.
+
+628
+01:37:50,434 --> 01:37:53,460
+Are you qualified
+to perform an autopsy?
+
+629
+01:37:53,537 --> 01:37:56,597
+I've already told you -she's my wife.
+Don't you understand?
+
+630
+01:37:56,774 --> 01:38:00,369
+I think these experiments are
+more humane than testing on rabbits.
+
+631
+01:38:01,111 --> 01:38:02,476
+Don't you agree?
+
+632
+01:38:02,546 --> 01:38:04,537
+It doesn't matter.
+
+633
+01:38:04,615 --> 01:38:06,810
+It would be like
+cutting my own leg off.
+
+634
+01:38:08,319 --> 01:38:10,913
+Did you feel pain
+when you broke through the door?
+
+635
+01:38:10,988 --> 01:38:13,616
+Pain? Of course.
+
+636
+01:38:13,924 --> 01:38:17,155
+So if I ever catch you doing anything...
+
+637
+01:38:17,227 --> 01:38:19,889
+- You're lucky.
+- How so?
+
+638
+01:38:20,764 --> 01:38:22,857
+It's meaningless,
+
+639
+01:38:22,933 --> 01:38:25,493
+yet you've managed to establish
+emotional contact with them.
+
+640
+01:38:25,569 --> 01:38:28,766
+It may be pleasant...
+- What are you, jealous?
+
+641
+01:38:29,039 --> 01:38:30,597
+Maybe I'm jealous.
+
+642
+01:38:30,674 --> 01:38:33,302
+No, you're not jealous.
+After all, you're not guilty of anything.
+
+643
+01:38:33,377 --> 01:38:35,436
+- Of course.
+- But I am guilty.
+
+644
+01:38:35,512 --> 01:38:37,104
+Of what?
+
+645
+01:38:37,414 --> 01:38:41,441
+When you turn into an utter cripple
+with no arms or legs, call us.
+
+646
+01:38:41,985 --> 01:38:45,318
+We'll empty your chamber pot.
+
+647
+01:38:45,589 --> 01:38:49,218
+- But whom have you wronged?
+- You, among others.
+
+648
+01:39:35,572 --> 01:39:39,008
+My father shot that.
+Well, I shot a bit.
+
+649
+01:42:34,418 --> 01:42:36,113
+Listen...
+
+650
+01:42:53,804 --> 01:42:56,034
+I don't know myself at all.
+
+651
+01:42:57,541 --> 01:42:59,600
+I don't remember.
+
+652
+01:43:00,711 --> 01:43:05,205
+When I close my eyes,
+I can't recall my face. And you?
+
+653
+01:43:05,515 --> 01:43:07,244
+What?
+
+654
+01:43:08,518 --> 01:43:12,181
+- Do you know yourself?
+- Like all humans.
+
+655
+01:43:22,432 --> 01:43:26,630
+That woman in the white coat hated me.
+
+656
+01:43:26,703 --> 01:43:31,003
+Don't make things up.
+She died before you and I met.
+
+657
+01:43:32,976 --> 01:43:35,809
+I don't understand
+why you're deceiving me.
+
+658
+01:43:36,713 --> 01:43:38,908
+I remember perfectly.
+
+659
+01:43:39,182 --> 01:43:43,278
+We drank tea and she kicked me out.
+
+660
+01:43:44,121 --> 01:43:47,488
+Naturally, I stood up and left.
+I remember perfectly.
+
+661
+01:43:48,892 --> 01:43:51,122
+What happened after that?
+
+662
+01:43:52,696 --> 01:43:54,857
+After that, I went away,
+
+663
+01:43:55,432 --> 01:43:58,401
+and we never saw each other again.
+
+664
+01:43:58,769 --> 01:44:00,669
+Where did you go?
+
+665
+01:44:00,937 --> 01:44:02,871
+To a different city.
+
+666
+01:44:03,073 --> 01:44:05,735
+- Why?
+- I was transferred.
+
+667
+01:44:06,710 --> 01:44:09,201
+Why did you leave without me?
+
+668
+01:44:11,314 --> 01:44:13,441
+You didn't want to come.
+
+669
+01:44:16,086 --> 01:44:18,281
+That I remember.
+
+670
+01:45:16,246 --> 01:45:20,376
+Forgive me.
+I thought you were already awake.
+
+671
+01:45:20,450 --> 01:45:22,213
+What happened?
+
+672
+01:45:22,285 --> 01:45:24,549
+The regeneration is slowing down.
+
+673
+01:45:24,621 --> 01:45:28,455
+For two or three hours
+we can be free of them.
+
+674
+01:45:28,725 --> 01:45:31,694
+You came in the middle of the night
+to tell me that?
+
+675
+01:45:32,462 --> 01:45:36,398
+I'll tell you why I came.
+
+676
+01:45:36,867 --> 01:45:39,358
+Sartorius and I were thinking:
+
+677
+01:45:39,803 --> 01:45:43,967
+If the Ocean derives guests from us
+while we dream,
+
+678
+01:45:44,508 --> 01:45:47,909
+maybe it makes sense to transmit
+our waking thoughts to it.
+
+679
+01:45:48,111 --> 01:45:51,342
+- How?
+- With beams of radiation.
+
+680
+01:45:52,115 --> 01:45:55,812
+Perhaps it will understand
+and spare us from all these apparitions.
+
+681
+01:45:55,952 --> 01:45:59,615
+Again these ridiculous X-ray sermons
+about the greatness of science?
+
+682
+01:45:59,823 --> 01:46:03,953
+We'll modulate the beam
+with the brain waves of one of us.
+
+683
+01:46:04,027 --> 01:46:06,393
+And "one of us" means me, of course.
+
+684
+01:46:07,430 --> 01:46:11,332
+An encephalogram!
+A transcription of all my thoughts!
+
+685
+01:46:11,434 --> 01:46:15,837
+What if I suddenly want her to die?
+To disappear!
+
+686
+01:46:16,006 --> 01:46:19,669
+Entrust everything to that...
+that mass of jelly?
+
+687
+01:46:19,843 --> 01:46:22,471
+It's already invaded my soul.
+
+688
+01:46:22,546 --> 01:46:25,447
+Kris, we're running out of time.
+
+689
+01:46:25,549 --> 01:46:30,213
+Sartorius has proposed
+another project: the annihilator.
+
+690
+01:46:30,420 --> 01:46:34,083
+Self-destruction
+of the neutrino systems.
+
+691
+01:46:36,159 --> 01:46:38,923
+What is this? Blackmail?
+
+692
+01:46:39,229 --> 01:46:42,665
+I convinced him to start
+with the encephalogram.
+
+693
+01:46:43,099 --> 01:46:47,502
+But forget about this for now.
+
+694
+01:46:48,705 --> 01:46:52,698
+Tomorrow's my birthday.
+Consider yourself invited.
+
+695
+01:46:52,843 --> 01:46:55,676
+- Liar! You just want to make up with us.
+- Yes, I do.
+
+696
+01:46:55,745 --> 01:46:58,339
+Don't shout. She sleeping.
+
+697
+01:47:01,618 --> 01:47:03,415
+Sleeping?
+
+698
+01:47:04,221 --> 01:47:07,213
+She's already learned how to sleep?
+
+699
+01:47:08,091 --> 01:47:10,958
+This will all end badly.
+
+700
+01:47:11,127 --> 01:47:14,028
+- Well, what do you propose I do?
+- Nothing.
+
+701
+01:47:14,264 --> 01:47:17,631
+So you'll come?
+Tomorrow, in the library.
+
+702
+01:47:21,404 --> 01:47:23,964
+We'll set the table.
+
+703
+01:47:24,507 --> 01:47:29,206
+At least there are no windows in there.
+
+704
+01:47:29,546 --> 01:47:31,605
+In the meantime, let's go.
+
+705
+01:47:32,249 --> 01:47:34,274
+Sartorius is waiting.
+
+706
+01:47:37,254 --> 01:47:38,949
+She's sleeping.
+
+707
+01:47:39,089 --> 01:47:41,250
+Will she follow me?
+
+708
+01:47:42,292 --> 01:47:44,886
+Don't lock the door.
+
+709
+01:47:47,731 --> 01:47:49,494
+What door?
+
+710
+01:47:50,600 --> 01:47:53,068
+It's just an apparition.
+
+711
+01:48:47,691 --> 01:48:49,682
+Wait. I'll be right back.
+
+712
+01:48:50,427 --> 01:48:52,122
+Where are you going?
+
+713
+01:49:27,597 --> 01:49:31,055
+Forgive me.
+
+714
+01:50:27,157 --> 01:50:29,216
+Why aren't you asleep?
+
+715
+01:50:33,229 --> 01:50:36,528
+- You don't love me.
+- Stop it, Hari.
+
+716
+01:50:39,169 --> 01:50:42,002
+- We have to talk.
+- About what?
+
+717
+01:50:46,776 --> 01:50:50,075
+You understand that I don't know
+where I came from.
+
+718
+01:50:50,613 --> 01:50:53,173
+Maybe you know?
+- What's with you?
+
+719
+01:50:53,249 --> 01:50:55,683
+Stop. Don't interrupt.
+
+720
+01:50:56,953 --> 01:50:58,978
+If you know,
+
+721
+01:51:00,290 --> 01:51:03,350
+but you can't tell me now,
+
+722
+01:51:03,927 --> 01:51:06,953
+perhaps one day you will.
+
+723
+01:51:07,630 --> 01:51:09,461
+What are you talking about?
+
+724
+01:51:09,632 --> 01:51:12,260
+I don't understand a thing, honestly.
+
+725
+01:51:13,436 --> 01:51:15,631
+You don't want to tell me.
+
+726
+01:51:17,140 --> 01:51:19,370
+You're afraid.
+
+727
+01:51:20,110 --> 01:51:22,840
+Then I'll tell you.
+
+728
+01:51:24,714 --> 01:51:26,443
+I'm not Hari.
+
+729
+01:51:27,484 --> 01:51:29,850
+Hari is dead.
+
+730
+01:51:30,386 --> 01:51:32,786
+She poisoned herself.
+
+731
+01:51:33,923 --> 01:51:36,949
+I'm somebody else.
+
+732
+01:51:37,026 --> 01:51:39,051
+Who told you this?
+
+733
+01:51:39,696 --> 01:51:42,893
+- Sartorius just told me.
+- Last night.
+
+734
+01:51:46,803 --> 01:51:49,499
+It would have been better
+if you had told me yourself.
+
+735
+01:51:49,706 --> 01:51:52,641
+My God, what's the difference?
+
+736
+01:51:58,014 --> 01:52:00,710
+How have you lived all this time?
+
+737
+01:52:01,751 --> 01:52:03,742
+Were you in love with anyone?
+
+738
+01:52:03,820 --> 01:52:05,515
+I don't know.
+
+739
+01:52:05,588 --> 01:52:07,419
+Did you ever think of me?
+
+740
+01:52:07,624 --> 01:52:10,752
+Yes, but not all the time.
+
+741
+01:52:12,962 --> 01:52:15,453
+Only when I felt unhappy.
+
+742
+01:52:21,638 --> 01:52:26,337
+You know, it feels like
+somebody is tricking us.
+
+743
+01:52:28,144 --> 01:52:33,172
+And the longer this fog lasts,
+the worse it will be for you in the end.
+
+744
+01:52:33,516 --> 01:52:35,916
+Particularly for you, Kris.
+
+745
+01:52:37,453 --> 01:52:39,478
+How can I help you?
+
+746
+01:52:41,858 --> 01:52:43,348
+Tell me.
+
+747
+01:52:43,493 --> 01:52:49,159
+And her, the other one,
+what happened to her?
+
+748
+01:52:58,074 --> 01:52:59,905
+We argued.
+
+749
+01:53:00,810 --> 01:53:03,836
+Towards the end, we argued a lot.
+
+750
+01:53:04,047 --> 01:53:07,016
+I gathered my things and left.
+
+751
+01:53:08,384 --> 01:53:11,842
+She made me understand
+without saying it directly,
+
+752
+01:53:12,522 --> 01:53:16,754
+but when you live with someone for a
+long time, such things aren't necessary.
+
+753
+01:53:18,428 --> 01:53:20,555
+I was sure they were just words,
+
+754
+01:53:20,630 --> 01:53:23,690
+but then I remembered that I'd left
+
+755
+01:53:25,702 --> 01:53:28,330
+the laboratory specimens
+in the refrigerator.
+
+756
+01:53:29,973 --> 01:53:34,137
+I had brought them from the laboratory
+and explained how they worked.
+
+757
+01:53:34,210 --> 01:53:35,973
+I got scared.
+
+758
+01:53:36,446 --> 01:53:38,812
+I wanted to go to her.
+
+759
+01:53:38,915 --> 01:53:42,749
+But then I thought it would look like
+I had taken her words seriously.
+
+760
+01:53:43,253 --> 01:53:46,416
+After three days, I couldn't take it
+anymore and I went to see her.
+
+761
+01:53:46,589 --> 01:53:49,683
+When I got there,
+she was already dead.
+
+762
+01:53:50,159 --> 01:53:52,992
+There was a needle mark on her arm.
+
+763
+01:53:55,365 --> 01:53:57,356
+Like this?
+
+764
+01:54:05,975 --> 01:54:08,637
+Why did she do it?
+
+765
+01:54:09,812 --> 01:54:14,078
+She probably sensed
+that I didn't really love her.
+
+766
+01:54:18,488 --> 01:54:20,388
+But now I do.
+
+767
+01:54:32,235 --> 01:54:34,226
+- Kris.
+- What?
+
+768
+01:54:35,171 --> 01:54:37,002
+I love you.
+
+769
+01:54:42,578 --> 01:54:44,842
+Get some sleep.
+
+770
+01:54:44,914 --> 01:54:46,848
+I don't know how to sleep.
+
+771
+01:54:48,651 --> 01:54:54,021
+It's not sleep.
+It's somehow around me.
+
+772
+01:54:56,492 --> 01:55:01,327
+It's as if it weren't just inside of me,
+but much farther away.
+
+773
+01:55:01,964 --> 01:55:06,128
+It's probably still sleep.
+
+774
+01:55:46,642 --> 01:55:50,078
+So, it looks like our guest of honor
+isn't showing up.
+
+775
+01:55:54,150 --> 01:55:57,483
+- Why?
+- Maybe he has guests.
+
+776
+01:56:53,543 --> 01:56:56,376
+Oh, everyone's already here?
+
+777
+01:56:59,682 --> 01:57:02,776
+You're an hour and a half late.
+
+778
+01:57:09,358 --> 01:57:11,883
+What's that you're reading?
+
+779
+01:57:17,567 --> 01:57:19,797
+It's all rubbish.
+
+780
+01:57:22,038 --> 01:57:23,835
+Rubbish.
+
+781
+01:57:25,675 --> 01:57:27,540
+Where the hell is...
+
+782
+01:57:33,349 --> 01:57:35,078
+Here!
+
+783
+01:57:38,354 --> 01:57:41,255
+"They come at night.
+
+784
+01:57:42,959 --> 01:57:45,928
+But one must sleep sometime."
+
+785
+01:57:47,029 --> 01:57:49,429
+That's the problem.
+
+786
+01:57:50,766 --> 01:57:54,668
+Mankind has lost the ability to sleep.
+
+787
+01:58:00,710 --> 01:58:05,773
+You'd better read.
+I'm a little excited.
+
+788
+01:58:08,084 --> 01:58:11,019
+"I know only one thing, señor.
+When I...
+
+789
+01:58:22,598 --> 01:58:26,932
+When I sleep, I know no fear,
+no hope, no trouble, no bliss.
+
+790
+01:58:27,003 --> 01:58:29,198
+Blessings on him who invented sleep.
+
+791
+01:58:31,607 --> 01:58:35,202
+The common coin
+that purchases all things,
+
+792
+01:58:35,278 --> 01:58:37,303
+the balance that levels
+shepherd and king,
+
+793
+01:58:37,380 --> 01:58:39,610
+fool and wise man.
+
+794
+01:58:39,682 --> 01:58:42,276
+There is only one bad thing
+about sound sleep.
+
+795
+01:58:42,351 --> 01:58:45,514
+They say it closely resembles death."
+
+796
+01:58:45,588 --> 01:58:50,423
+"Never before, Sancho, have I heard you
+speak so elegantly as now."
+
+797
+01:58:53,362 --> 01:58:58,459
+That's great, but perhaps
+you'll let me say something now?
+
+798
+01:58:59,468 --> 01:59:02,232
+I propose a toast to Snaut,
+
+799
+01:59:02,838 --> 01:59:07,639
+to his bravery,
+to his devotion to duty.
+
+800
+01:59:07,710 --> 01:59:10,508
+To science and to Snaut.
+
+801
+01:59:10,813 --> 01:59:14,078
+Science? Nonsense.
+
+802
+01:59:15,318 --> 01:59:21,188
+In this situation, mediocrity and genius
+are equally useless.
+
+803
+01:59:22,358 --> 01:59:27,660
+We have no interest
+in conquering any cosmos.
+
+804
+01:59:28,497 --> 01:59:32,627
+We want to extend the Earth
+to the borders of the cosmos.
+
+805
+01:59:33,336 --> 01:59:35,804
+We don't know what to do
+with other worlds.
+
+806
+01:59:35,871 --> 01:59:38,431
+We don't need other worlds.
+
+807
+01:59:38,574 --> 01:59:41,634
+We need a mirror.
+
+808
+01:59:42,011 --> 01:59:46,072
+We struggle for contact,
+but we'll never find it.
+
+809
+01:59:46,549 --> 01:59:49,074
+We're in the foolish human
+predicament
+
+810
+01:59:49,151 --> 01:59:53,019
+of striving for a goal that he fears,
+
+811
+01:59:53,189 --> 01:59:55,282
+that he has no need for.
+
+812
+01:59:56,125 --> 02:00:00,289
+Man needs man.
+
+813
+02:00:07,937 --> 02:00:10,235
+Let's drink to Gibarian.
+
+814
+02:00:10,406 --> 02:00:12,374
+To his memory.
+
+815
+02:00:12,441 --> 02:00:15,604
+Even though he got frightened.
+
+816
+02:00:28,224 --> 02:00:31,125
+No, Gibarian was not frightened.
+
+817
+02:00:34,430 --> 02:00:37,126
+There are worse things.
+
+818
+02:00:39,435 --> 02:00:42,632
+He died of hopelessness.
+
+819
+02:00:44,573 --> 02:00:48,009
+He thought all this
+was happening only to him.
+
+820
+02:00:48,077 --> 02:00:50,102
+My God!
+
+821
+02:00:50,880 --> 02:00:52,973
+All these heartbreaking lamentations
+
+822
+02:00:53,049 --> 02:00:55,176
+are nothing but
+second-rate Dostoyevsky.
+
+823
+02:00:56,018 --> 02:00:57,918
+Who are you to judge?
+
+824
+02:00:57,987 --> 02:01:00,683
+I know why I'm here.
+I'm working.
+
+825
+02:01:01,424 --> 02:01:04,018
+Man was created by nature
+so he could learn her ways.
+
+826
+02:01:06,328 --> 02:01:10,025
+In his endless search for the truth,
+man is condemned to knowledge.
+
+827
+02:01:10,466 --> 02:01:12,832
+Everything else is whim.
+
+828
+02:01:14,236 --> 02:01:16,670
+Permit me to ask,
+my esteemed colleague:
+
+829
+02:01:16,739 --> 02:01:19,333
+Why have you come to Solaris?
+
+830
+02:01:20,342 --> 02:01:24,005
+- What do you mean, why?
+- Well, are you working a lot?
+
+831
+02:01:24,080 --> 02:01:27,243
+Forgive me, but aside from
+the romance with your ex-wife,
+
+832
+02:01:27,316 --> 02:01:29,580
+nothing seems to interest you.
+
+833
+02:01:29,652 --> 02:01:32,883
+You spend all day lounging in
+a bed of noble thoughts,
+
+834
+02:01:32,955 --> 02:01:35,856
+and that's how
+you carry out your duty.
+
+835
+02:01:36,092 --> 02:01:38,959
+You've lost touch with reality.
+
+836
+02:01:39,228 --> 02:01:41,458
+Forgive me, but you're simply a loafer.
+
+837
+02:01:41,530 --> 02:01:43,122
+Enough!
+
+838
+02:01:43,199 --> 02:01:46,862
+Let's try to be pleasant.
+We'll drink to Gibarian.
+
+839
+02:01:46,936 --> 02:01:49,029
+Not to Gibarian, but to Man.
+
+840
+02:01:49,105 --> 02:01:51,266
+Are you saying
+Gibarian was not a man?
+
+841
+02:01:51,340 --> 02:01:54,798
+Stop it, Kris.
+Let's not fight.
+
+842
+02:01:54,977 --> 02:01:59,812
+After all, it's my birthday.
+It's my day.
+
+843
+02:01:59,915 --> 02:02:01,644
+Of course.
+
+844
+02:02:02,651 --> 02:02:05,950
+I think that Kris Kelvin
+
+845
+02:02:07,123 --> 02:02:10,092
+is more consistent than both of you.
+
+846
+02:02:10,226 --> 02:02:13,320
+In inhuman conditions,
+he has behaved humanely.
+
+847
+02:02:13,395 --> 02:02:16,956
+And you act
+as if none of this concerns you,
+
+848
+02:02:17,032 --> 02:02:21,935
+and consider your guests -
+it seems that's what you call us -
+
+849
+02:02:22,004 --> 02:02:25,098
+something external, a hindrance.
+
+850
+02:02:25,441 --> 02:02:29,377
+But it's a part of you.
+It's your conscience.
+
+851
+02:02:33,215 --> 02:02:35,513
+And Kris loves me.
+
+852
+02:02:38,854 --> 02:02:41,880
+Maybe it's not me he loves,
+
+853
+02:02:42,558 --> 02:02:46,221
+but he's simply protecting himself.
+
+854
+02:02:47,296 --> 02:02:49,924
+He wants me alive.
+
+855
+02:02:50,699 --> 02:02:53,167
+That's not the point.
+It doesn't matter why man loves.
+
+856
+02:02:53,235 --> 02:02:55,294
+It's different for everyone.
+
+857
+02:02:55,704 --> 02:02:58,366
+It's not Kris.
+
+858
+02:02:58,841 --> 02:03:00,570
+It's you.
+
+859
+02:03:00,643 --> 02:03:03,578
+I hate you all.
+- I would ask you...
+
+860
+02:03:03,646 --> 02:03:07,173
+Please don't interrupt me.
+I'm a woman, after all.
+
+861
+02:03:07,249 --> 02:03:09,308
+You're not a woman
+and you're not a human being.
+
+862
+02:03:09,385 --> 02:03:11,285
+Understand that,
+
+863
+02:03:11,353 --> 02:03:14,288
+if you're capable
+of understanding anything.
+
+864
+02:03:16,759 --> 02:03:19,751
+There is no Hari. She's dead.
+
+865
+02:03:22,965 --> 02:03:26,594
+You're just a reproduction,
+
+866
+02:03:27,036 --> 02:03:29,470
+a mechanical reproduction.
+
+867
+02:03:29,538 --> 02:03:32,632
+A copy. A matrix.
+
+868
+02:03:41,450 --> 02:03:43,042
+Yes.
+
+869
+02:03:45,387 --> 02:03:47,355
+Maybe.
+
+870
+02:03:56,265 --> 02:03:57,926
+But I...
+
+871
+02:03:58,500 --> 02:04:02,027
+I am becoming a human being.
+
+872
+02:04:05,674 --> 02:04:08,666
+I can feel just as deeply as you.
+
+873
+02:04:10,012 --> 02:04:12,105
+Believe me.
+
+874
+02:04:14,250 --> 02:04:17,151
+I can already get by without him.
+
+875
+02:04:18,888 --> 02:04:20,321
+I...
+
+876
+02:04:23,459 --> 02:04:25,359
+love him.
+
+877
+02:04:27,596 --> 02:04:29,894
+I am a human being.
+
+878
+02:04:30,633 --> 02:04:32,123
+You...
+
+879
+02:04:33,469 --> 02:04:36,029
+you're very cruel.
+
+880
+02:05:30,726 --> 02:05:33,286
+Get up! Get up right now!
+
+881
+02:05:41,537 --> 02:05:43,596
+My dear man.
+
+882
+02:05:49,044 --> 02:05:51,604
+Nothing could be easier.
+
+883
+02:05:55,851 --> 02:05:58,513
+We've wasted time arguing.
+
+884
+02:05:59,254 --> 02:06:03,850
+We're losing our dignity
+and human character.
+
+885
+02:06:04,760 --> 02:06:06,227
+No.
+
+886
+02:06:06,428 --> 02:06:10,865
+You're human, each in your own way.
+
+887
+02:06:12,001 --> 02:06:14,561
+That's why you argue.
+
+888
+02:06:15,971 --> 02:06:18,371
+I hope I'm not bothering you.
+
+889
+02:06:22,144 --> 02:06:24,635
+You're a good man...
+
+890
+02:06:24,947 --> 02:06:28,314
+but you look awful.
+
+891
+02:06:35,557 --> 02:06:38,025
+I've really lost heart.
+
+892
+02:06:39,194 --> 02:06:42,254
+Help me out a bit.
+
+893
+02:06:46,301 --> 02:06:51,534
+Doesn't a man
+who's ready to give up his life
+
+894
+02:06:51,607 --> 02:06:56,544
+just to make cursed contact
+
+895
+02:06:56,612 --> 02:07:00,241
+in order to know more about it
+have the right to get drunk?
+
+896
+02:07:00,315 --> 02:07:03,751
+He has every right.
+
+897
+02:07:05,354 --> 02:07:09,256
+Do you believe in our mission, Kelvin?
+
+898
+02:07:10,659 --> 02:07:12,627
+I'm not going to bed yet.
+
+899
+02:07:12,828 --> 02:07:15,228
+It's important not to fall asleep.
+
+900
+02:07:15,998 --> 02:07:18,660
+I'm going to see Faust.
+
+901
+02:07:19,835 --> 02:07:23,703
+In the laboratory, our Faust-
+Sartorius -
+
+902
+02:07:23,772 --> 02:07:26,798
+is seeking a remedy for immortality.
+
+903
+02:07:26,875 --> 02:07:28,740
+While we...
+
+904
+02:07:41,890 --> 02:07:47,419
+Listen, let's open these hatches
+and shout down below.
+
+905
+02:07:47,896 --> 02:07:50,421
+It would suddenly hear.
+
+906
+02:07:50,866 --> 02:07:54,495
+But what should we call it?
+
+907
+02:07:55,938 --> 02:08:01,069
+Maybe we should whip it.
+
+908
+02:08:01,844 --> 02:08:04,404
+Or, better yet, pray to it.
+
+909
+02:08:04,480 --> 02:08:05,970
+What's wrong?
+
+910
+02:08:06,048 --> 02:08:08,744
+I think I shut the door to the library.
+She's there alone.
+
+911
+02:08:08,817 --> 02:08:11,217
+Go. I feel better already.
+
+912
+02:08:11,286 --> 02:08:13,720
+The station is changing its orbit.
+
+913
+02:08:14,223 --> 02:08:19,820
+At 5 a.m. there will be
+30 seconds of weightlessness.
+
+914
+02:08:20,329 --> 02:08:22,763
+Don't forget.
+
+915
+02:11:45,033 --> 02:11:47,900
+Forgive me, my darling.
+I was lost in thought.
+
+916
+02:11:50,072 --> 02:11:52,438
+Is something wrong?
+
+917
+02:11:53,608 --> 02:11:56,702
+No, nothing.
+
+918
+02:11:57,913 --> 02:12:00,040
+Everything's fine.
+
+919
+02:15:52,514 --> 02:15:54,778
+She drank liquid oxygen.
+
+920
+02:15:56,818 --> 02:15:59,480
+She did it out of despair.
+
+921
+02:15:59,754 --> 02:16:01,881
+It'll get worse.
+
+922
+02:16:01,957 --> 02:16:05,324
+The more she's with you,
+the more human she'll become.
+
+923
+02:16:05,860 --> 02:16:09,421
+Learn from Sartorius' example.
+- Thanks for the advice.
+
+924
+02:16:14,069 --> 02:16:16,299
+What do you intend to do?
+
+925
+02:16:16,471 --> 02:16:19,338
+Wait until she returns.
+
+926
+02:16:19,507 --> 02:16:22,670
+And then what?
+Leave the station?
+
+927
+02:16:27,048 --> 02:16:32,452
+Kris, she can only live here,
+on the station. You know that.
+
+928
+02:16:33,989 --> 02:16:36,287
+What can I do?
+
+929
+02:16:36,791 --> 02:16:38,520
+I love her.
+- Which one?
+
+930
+02:16:38,593 --> 02:16:43,724
+Her, or the one in the rocket?
+You can pull her in from space.
+
+931
+02:16:43,798 --> 02:16:46,392
+She will appear again
+and she'll keep appearing.
+
+932
+02:16:47,435 --> 02:16:51,201
+Don't turn a scientific problem
+into a common love story.
+
+933
+02:16:55,276 --> 02:16:58,143
+I had a feeling this would end badly.
+
+934
+02:17:02,450 --> 02:17:04,350
+You should help her.
+
+935
+02:17:21,169 --> 02:17:23,296
+What a ghastly sight.
+
+936
+02:17:24,572 --> 02:17:30,238
+I can never get used
+to all these resurrections.
+
+937
+02:19:22,724 --> 02:19:24,851
+Is it me?
+
+938
+02:19:29,197 --> 02:19:30,323
+Hari...
+
+939
+02:19:31,366 --> 02:19:32,799
+What?
+
+940
+02:19:38,973 --> 02:19:40,634
+Why?
+
+941
+02:19:42,177 --> 02:19:43,838
+Why?
+
+942
+02:19:46,815 --> 02:19:49,750
+No, it's not me.
+
+943
+02:19:54,355 --> 02:19:56,789
+It's... I'm... not Hari...
+
+944
+02:19:56,858 --> 02:20:01,761
+And you... Maybe you...
+
+945
+02:20:02,096 --> 02:20:04,963
+- Don't, Hari.
+- I'm not Hari!
+
+946
+02:20:07,635 --> 02:20:09,933
+Fine!
+
+947
+02:20:10,004 --> 02:20:12,700
+Maybe your appearance
+is supposed to be torture.
+
+948
+02:20:12,774 --> 02:20:14,537
+Maybe it's a favor from the Ocean.
+
+949
+02:20:14,609 --> 02:20:19,546
+What does it matter
+when you're worth more to me
+
+950
+02:20:19,614 --> 02:20:21,980
+than any science could ever be?
+
+951
+02:20:22,917 --> 02:20:24,680
+Do I look a lot like her?
+
+952
+02:20:24,752 --> 02:20:27,915
+No, you looked like her.
+
+953
+02:20:27,989 --> 02:20:31,356
+But now you -and not her-
+are the real Hari.
+
+954
+02:20:31,459 --> 02:20:34,189
+Tell me...
+
+955
+02:20:34,863 --> 02:20:39,163
+Do I disgust you? I'm so...
+
+956
+02:20:43,905 --> 02:20:46,897
+I disgust you!
+- No, Hari. That's not true.
+
+957
+02:20:46,975 --> 02:20:49,205
+- You're lying!
+- It's not true. Stop it.
+
+958
+02:20:49,277 --> 02:20:51,802
+- I must be disgusting!
+- Stop it.
+
+959
+02:20:58,887 --> 02:21:00,752
+Don't touch me!
+
+960
+02:21:49,904 --> 02:21:52,202
+I love you.
+
+961
+02:21:56,411 --> 02:21:58,436
+What's the matter?
+
+962
+02:22:02,483 --> 02:22:05,782
+Nothing.
+
+963
+02:22:11,726 --> 02:22:14,388
+I'm not going back to Earth.
+
+964
+02:22:14,963 --> 02:22:19,195
+I'll live here with you on the station.
+
+965
+02:22:19,968 --> 02:22:21,663
+You know...
+
+966
+02:22:25,473 --> 02:22:27,839
+I'm afraid.
+
+967
+02:24:36,070 --> 02:24:38,732
+It looks like it's showing
+some activity.
+
+968
+02:24:38,806 --> 02:24:41,468
+Your encephalogram helped.
+
+969
+02:24:42,944 --> 02:24:44,673
+You know...
+
+970
+02:24:44,846 --> 02:24:49,374
+whenever we show pity,
+we ravage ourselves.
+
+971
+02:24:49,684 --> 02:24:52,152
+Maybe it's true...
+
+972
+02:24:52,353 --> 02:24:57,222
+Suffering makes life seem
+
+973
+02:24:57,391 --> 02:24:59,621
+dismal and suspect.
+
+974
+02:25:03,664 --> 02:25:05,962
+But I won't accept that.
+
+975
+02:25:09,770 --> 02:25:12,330
+No, I won't accept that.
+
+976
+02:25:17,011 --> 02:25:22,847
+Is that which is indispensable to life
+also harmful to it?
+
+977
+02:25:24,018 --> 02:25:28,921
+No, it's not harmful.
+Of course it's not harmful.
+
+978
+02:25:30,091 --> 02:25:32,286
+Remember Tolstoy?
+
+979
+02:25:32,994 --> 02:25:37,761
+His suffering over the impossibility
+of loving mankind as a whole?
+
+980
+02:25:40,468 --> 02:25:43,801
+How much time has passed since then?
+
+981
+02:25:44,405 --> 02:25:48,398
+Somehow I can't figure it out.
+Help me.
+
+982
+02:25:51,179 --> 02:25:53,204
+See, I love you.
+
+983
+02:25:53,281 --> 02:25:57,411
+But love is a feeling
+we can experience
+
+984
+02:25:57,485 --> 02:26:00,113
+but never explain.
+
+985
+02:26:00,421 --> 02:26:02,582
+One can explain the concept.
+
+986
+02:26:02,657 --> 02:26:05,717
+You love that which you can lose:
+
+987
+02:26:05,793 --> 02:26:09,126
+Yourself, a woman, a homeland.
+
+988
+02:26:10,064 --> 02:26:15,297
+Until today, love was simply
+unattainable to mankind, to the Earth.
+
+989
+02:26:15,369 --> 02:26:17,394
+Do you understand me, Snaut?
+
+990
+02:26:17,471 --> 02:26:21,931
+There are so few of us.
+A few billion altogether. A handful!
+
+991
+02:26:23,377 --> 02:26:27,939
+Maybe we're here in order
+to experience people
+
+992
+02:26:28,449 --> 02:26:30,110
+as a reason for love.
+
+993
+02:26:35,756 --> 02:26:38,054
+He seems to have a fever.
+
+994
+02:26:39,393 --> 02:26:44,023
+How did Gibarian die?
+You still haven't told me.
+
+995
+02:26:44,565 --> 02:26:47,227
+I'll tell you. Later.
+
+996
+02:26:47,969 --> 02:26:52,030
+Gibarian didn't die of fear.
+He died of shame.
+
+997
+02:26:52,106 --> 02:26:57,305
+Shame-the feeling
+that will save mankind.
+
+998
+02:29:25,359 --> 02:29:27,350
+Mama, I...
+
+999
+02:29:30,631 --> 02:29:33,031
+I'm two hours late.
+
+1000
+02:29:33,100 --> 02:29:34,829
+I know.
+
+1001
+02:29:35,936 --> 02:29:37,767
+How was your trip?
+
+1002
+02:29:38,739 --> 02:29:43,642
+Fine. I'm a little tired,
+but it was fine.
+
+1003
+02:29:59,160 --> 02:30:03,893
+My God, it's running slow again.
+
+1004
+02:30:04,765 --> 02:30:06,460
+I'll go adjust it.
+
+1005
+02:30:06,534 --> 02:30:08,593
+You've got plenty of time.
+
+1006
+02:30:36,330 --> 02:30:40,664
+You know, it's really embarrassing,
+but for some reason...
+
+1007
+02:30:44,171 --> 02:30:47,299
+I've completely forgotten your face.
+
+1008
+02:30:48,142 --> 02:30:50,474
+You don't look well.
+
+1009
+02:30:52,580 --> 02:30:53,740
+Are you happy?
+
+1010
+02:30:53,814 --> 02:30:57,545
+Somehow that concept
+seems irrelevant here.
+
+1011
+02:30:58,919 --> 02:31:02,685
+That's really a pity.
+
+1012
+02:31:06,494 --> 02:31:09,361
+I'm very lonesome now.
+
+1013
+02:31:21,509 --> 02:31:24,569
+Why do you hurt our feelings?
+
+1014
+02:31:24,645 --> 02:31:26,442
+What have you been waiting for?
+
+1015
+02:31:27,581 --> 02:31:30,277
+Why haven't you called?
+
+1016
+02:31:48,302 --> 02:31:51,271
+You're leading
+some sort of strange life.
+
+1017
+02:31:51,972 --> 02:31:55,305
+You're filthy and unkempt.
+
+1018
+02:31:57,011 --> 02:31:59,605
+How did you make
+such a mess of yourself?
+
+1019
+02:32:04,685 --> 02:32:06,676
+What's this?
+
+1020
+02:32:08,422 --> 02:32:10,913
+Wait here. I'll be right back.
+
+1021
+02:34:08,142 --> 02:34:11,270
+How are you?
+Everything all right?
+
+1022
+02:34:11,345 --> 02:34:13,438
+Where's Hari?
+
+1023
+02:34:24,758 --> 02:34:26,555
+What's that?
+
+1024
+02:34:26,827 --> 02:34:29,193
+There's no more Hari.
+
+1025
+02:34:53,320 --> 02:34:58,519
+"Kris, it's terrible that I had
+to deceive you,
+
+1026
+02:34:58,592 --> 02:35:01,152
+but there was no other way.
+
+1027
+02:35:02,629 --> 02:35:05,496
+This is best for both of us.
+
+1028
+02:35:11,205 --> 02:35:14,174
+I asked them myself.
+
+1029
+02:35:15,175 --> 02:35:18,906
+You mustn't blame anyone.
+
+1030
+02:35:20,714 --> 02:35:22,579
+Hari."
+
+1031
+02:35:26,887 --> 02:35:29,253
+She did it for you.
+
+1032
+02:35:39,733 --> 02:35:42,634
+Snaut, listen.
+
+1033
+02:35:43,904 --> 02:35:46,338
+Later, Kris. Calm down.
+
+1034
+02:35:47,007 --> 02:35:50,602
+How... how did it...
+
+1035
+02:35:51,979 --> 02:35:55,608
+The annihilator?
+A burst of light and wind.
+
+1036
+02:36:05,159 --> 02:36:07,093
+Yes.
+
+1037
+02:36:07,795 --> 02:36:11,526
+Things weren't working out
+between us towards the end.
+
+1038
+02:36:16,136 --> 02:36:18,297
+Listen, Snaut.
+
+1039
+02:36:19,039 --> 02:36:22,406
+Why are we being tortured like this?
+
+1040
+02:36:24,411 --> 02:36:29,110
+In my opinion, we have lost
+our sense of the cosmic.
+
+1041
+02:36:29,516 --> 02:36:31,711
+The ancients understood it perfectly.
+
+1042
+02:36:31,785 --> 02:36:35,516
+They never would have asked
+why or what for.
+
+1043
+02:36:35,956 --> 02:36:38,686
+Remember the myth of Sisyphus.
+
+1044
+02:36:40,294 --> 02:36:43,661
+Since we transmitted
+your encephalogram,
+
+1045
+02:36:43,730 --> 02:36:47,188
+none of the guests have come back.
+
+1046
+02:36:47,367 --> 02:36:51,428
+Something incomprehensible is starting
+to take place in the Ocean.
+
+1047
+02:36:51,572 --> 02:36:54,200
+Islands have begun to form
+on the surface.
+
+1048
+02:36:54,274 --> 02:36:58,210
+First one. Then the next day
+there were several more.
+
+1049
+02:36:58,278 --> 02:37:01,543
+Are you trying to tell me
+that it understood us?
+
+1050
+02:37:02,716 --> 02:37:04,616
+That quickly?
+
+1051
+02:37:05,018 --> 02:37:09,387
+But at least there's hope, eh, Kris?
+
+1052
+02:37:16,997 --> 02:37:20,592
+- How old are you?
+- Fifty-two. Why?
+
+1053
+02:37:21,668 --> 02:37:23,727
+Have you been here long?
+
+1054
+02:37:24,938 --> 02:37:28,305
+- You must have seen my forms.
+- I did.
+
+1055
+02:37:29,509 --> 02:37:34,947
+Listen, having spent so many years
+here on the station,
+
+1056
+02:37:36,149 --> 02:37:40,848
+do you still feel a clear connection
+to your life down there?
+
+1057
+02:37:41,154 --> 02:37:43,987
+You like dire questions.
+
+1058
+02:37:44,157 --> 02:37:47,524
+Soon you'll ask me
+about the meaning of life.
+
+1059
+02:37:47,594 --> 02:37:50,085
+Wait. Don't be ironic.
+
+1060
+02:37:50,297 --> 02:37:52,561
+It's a banal question.
+
+1061
+02:37:53,700 --> 02:37:56,066
+When man is happy,
+
+1062
+02:37:56,270 --> 02:38:01,469
+the meaning of life and other
+eternal themes rarely interest him.
+
+1063
+02:38:02,843 --> 02:38:06,870
+These questions should be asked
+at the end of one's life.
+
+1064
+02:38:11,118 --> 02:38:15,145
+But we don't know when life will end.
+
+1065
+02:38:15,222 --> 02:38:17,247
+That's why we're in such a hurry.
+
+1066
+02:38:17,324 --> 02:38:19,189
+Don't rush.
+
+1067
+02:38:19,259 --> 02:38:25,255
+The happiest people are those who are
+not interested in these cursed questions.
+
+1068
+02:38:25,365 --> 02:38:28,232
+To ask is always
+the desire to know.
+
+1069
+02:38:28,302 --> 02:38:32,568
+Yet the preservation of
+simple human truths requires mystery.
+
+1070
+02:38:32,806 --> 02:38:36,799
+The mysteries of happiness,
+death and love.
+
+1071
+02:38:36,944 --> 02:38:41,347
+Maybe you're right,
+but try not to think about all that now.
+
+1072
+02:38:42,182 --> 02:38:47,210
+To think about it
+is to know the day of one's death.
+
+1073
+02:38:49,022 --> 02:38:53,322
+Not knowing that day
+makes us practically immortal.
+
+1074
+02:38:58,865 --> 02:39:00,696
+<i>Fine, then.</i>
+
+1075
+02:39:01,001 --> 02:39:03,799
+<i>In any event,
+my mission is finished.</i>
+
+1076
+02:39:03,971 --> 02:39:07,873
+<i>But what next?
+Return to Earth?</i>
+
+1077
+02:39:08,608 --> 02:39:10,872
+<i>Little by little,
+everything will return to normal.</i>
+
+1078
+02:39:10,944 --> 02:39:13,777
+<i>I'll even find
+new interests and acquaintances.</i>
+
+1079
+02:39:14,915 --> 02:39:17,884
+<i>But I won't be able
+to give myself to them fully.</i>
+
+1080
+02:39:18,585 --> 02:39:20,450
+<i>Never.</i>
+
+1081
+02:39:22,823 --> 02:39:25,291
+<i>Do I have the right to turn down</i>
+
+1082
+02:39:25,359 --> 02:39:30,456
+<i>even an imagined possibility
+of contact with this Ocean</i>
+
+1083
+02:39:30,964 --> 02:39:35,924
+<i>which my race has been trying
+to understand for decades?</i>
+
+1084
+02:39:36,670 --> 02:39:38,638
+<i>Should I remain here?</i>
+
+1085
+02:39:38,905 --> 02:39:43,205
+<i>Among things and objects
+we both touched?</i>
+
+1086
+02:39:43,677 --> 02:39:46,271
+<i>Which still bear the memory
+of our breath?</i>
+
+1087
+02:39:46,446 --> 02:39:48,539
+<i>What for?</i>
+
+1088
+02:39:48,615 --> 02:39:51,209
+<i>In the hope that she'll return?</i>
+
+1089
+02:39:51,551 --> 02:39:54,577
+<i>But I don't harbor this hope.</i>
+
+1090
+02:39:55,889 --> 02:39:57,948
+<i>The only thing left for me</i>
+
+1091
+02:39:58,125 --> 02:40:00,821
+<i>is to wait.</i>
+
+1092
+02:40:01,962 --> 02:40:05,864
+<i>I don't know what for.
+New miracles?</i>
+
+1093
+02:40:12,039 --> 02:40:13,802
+Are you tired?
+
+1094
+02:40:14,241 --> 02:40:17,574
+No, I feel great.
+
+1095
+02:40:17,677 --> 02:40:19,406
+You know, Kris...
+
+1096
+02:40:19,546 --> 02:40:22,572
+I think it's time
+you returned to Earth.
+
+1097
+02:40:24,284 --> 02:40:26,377
+You think so?
+
+1098
+02:46:45,598 --> 02:46:52,363
+THE END
+
+

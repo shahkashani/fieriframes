@@ -1,23 +1,22 @@
-# POSTCARDS FROM FLAVORTOWN
+# Hello from Flavortown
 
 ![Bold Flavors](https://images.firstwefeast.com/complex/images/c_limit,f_auto,fl_lossy,q_auto,w_1100/hhrnx2avnk3qmerpns78/guy-fieri)
 
 This is the source code behind [Fieri Frames](http://fieriframes.tumblr.com). If you're here, you must love existential angst and bold flavors. Who can blame you?
 
-Anyway, as you can tell, there's not much in this repo. This bot is powered by another terrible library I wrote, called [stills](https://github.com/shahkashani/stills). The setup for this thing is the most convoluted thing in Flavortown, so if you're trying to contribute, you must _really_, _really_ love bold flavors. Guy bless you.
+This bot is powered by another terrible library I wrote, called [stills](https://github.com/shahkashani/stills).
 
 To change the way the stills generator works, you're really going to have to change the `stills` engine. So these instructions will show you how to pull down that repo and link things up locally so you dev on both the `fieriframes` bot (which, again, does nothing) and the underlying engine.
 
-## Setup
+# Setup
 
-### Dependencies
+## Dependencies
 
-1. imagemagick: `brew install imagemagick`
+1. See the [stills README](https://github.com/shahkashani/stills)
 1. nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 
-### `stills` engine
+## `stills` engine
 
-1. Fork `https://github.com/shahkashani/stills.git` and replace the URL in the step below with your fork
 1. `git clone https://github.com/shahkashani/stills.git`
 1. `cd stills`
 1. `nvm install`
@@ -25,7 +24,7 @@ To change the way the stills generator works, you're really going to have to cha
 1. `npm link`
 1. `cd ../`
 
-### `fieriframes` bot
+## `fieriframes` bot
 
 1. `git clone https://github.com/shahkashani/fieriframes`
 1. `cd fieriframes`
@@ -35,29 +34,49 @@ To change the way the stills generator works, you're really going to have to cha
 
 Now, any changes you make to `stills` will automatically be picked up by `fieriframes`. If you make something cool, please make a PR from your `stills` fork against the master repo.
 
-## Creating stills
+# How do I generate a still?
 
-1. `cd fieriframes`
-1. `mkdir videos stills gifs`
-1. Put some [videos](https://www.google.com/search?q=%22Diners+Drive-Ins+and+Dives+Collection+%28Season+1+to+14%29%22) in the `videos` folder you just made
-1. `npm run stills` for stills
-1. `npm run gifs` for gifs
+Run `node index.js --help`
 
-That'll create random stills/gifs into `stills` and `gifs`.
+This should explain most things.
 
-By default, it also adds captions and makes sure a certain percentage of images contain Guy Fieri.
+Usually while developing, you'd put a bunch of videos in `videos/` run `node index.js --local=videos` or `npm run generate`.
 
-If you want more granular control over how the stills are generated (i.e. the number of stills per episode, how many percentage of stills should have captions, etc.), run:
+You can also pick a type of image to generate instead of letting the generator pick, e.g. `node index.js --local=videos --type=gif` (or `--type=still`).
 
-1. `./node_modules/.bin/stills --help`
-1. `./node_modules/.bin/gifs --help`
+## S3
 
-If you want to change the stills generation code, [this file](https://github.com/shahkashani/stills/blob/master/bin/stills.js) is a good place to start.
+To pick an image from a video in S3 instead of locally, add the following variables in an `.env` file at root and then omit the `--local` parameter above.
 
-## Posting?
+```
+S3_ACCESS_KEY_ID=
+S3_SECRET_ACCESS_KEY=
+S3_BUCKET=
+```
 
-If you want to post the stills you generate, you basically need to set things up in an `.env` file [based on these instructions](https://github.com/shahkashani/stills)
+# How do I post?
+
+Run `node index.js --post` or `npm run post`
+
+If you wanna post to Tumblr, you're gonna need variables defined in an `.env` file:
+
+```
+TUMBLR_CONSUMER_KEY=
+TUMBLR_CONSUMER_SECRET=
+TUMBLR_ACCESS_TOKEN_KEY=
+TUMBLR_ACCESS_TOKEN_SECRET=
+TUMBLR_BLOG_NAME=
+```
+
+And for Twitter:
+
+```
+TWITTER_CONSUMER_KEY=
+TWITTER_CONSUMER_SECRET=
+TWITTER_ACCESS_TOKEN_KEY=
+TWITTER_ACCESS_TOKEN_SECRET=
+```
 
 ## Tada
 
-I think that's it. I can't guarantee that any of this will work since I probably have a thousand dependencies beyond imagemagick I don't remember installing, but let me know if you run into any troubles.
+I think that's it! Let me know if you run into any troubles. PRs accepted! Make a fork and open one against this repo!

@@ -4,3 +4,5 @@ stills/
 gifs/
 .DS_Store
 .env
+/*.png
+/*.gif

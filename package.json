@@ -1,7 +1,7 @@
 {
   "name": "fieriframes",
-  "version": "1.0.0",
-  "description": "Guy Fieri Frames",
+  "version": "2.0.0",
+  "description": "Postcards from Flavortown",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shahkashani/fieriframes.git"
@@ -10,15 +10,14 @@
     "node": "10.x"
   },
   "scripts": {
-    "start": "node logo.js && ./node_modules/.bin/connect",
-    "post": "node logo.js && ./node_modules/.bin/post --tag='Guy Fieri'",
-    "stills": "node logo.js && ./node_modules/.bin/stills --faces=10 --num=5 --captions=100",
-    "gifs": "node logo.js && ./node_modules/.bin/gifs --num=1 --width=540 --captions=100",
-    "train": "node logo.js && ./node_modules/.bin/train --name=fieri"
+    "start": "node logo.js",
+    "post": "node index.js --post",
+    "generate": "node index.js --local=videos/",
+    "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'"
   },
   "author": "Shah Kashani",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "stills": "git+https://github.com/shahkashani/stills.git"
+    "stills": "git+https://github.com/shahkashani/stills.git#v3.0"
   }
 }
