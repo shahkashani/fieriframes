@@ -44,7 +44,9 @@ const source = argv.local
 const content =
   argv.type === 'gif' ||
   (argv.type === 'random' && Math.random() < GIF_VS_STILL_RATIO)
-    ? new stills.content.Gif()
+    ? new stills.content.Gif({
+        width: 500
+      })
     : new stills.content.Still();
 
 const filters = [
