@@ -30,10 +30,11 @@ const {
 
 const GIF_VS_STILL_RATIO = 0.5;
 const FIERI_VS_WHATEVER_RATIO = 0;
+const { local } = argv;
 
-const source = argv.local
+const source = local
   ? new stills.sources.Local({
-      folder: argv.local
+      folder: local
     })
   : new stills.sources.S3({
       accessKeyId: S3_ACCESS_KEY_ID,
@@ -51,7 +52,8 @@ const content =
 
 const filters = [
   new stills.filters.Captions({
-    folder: resolve('./captions')
+    folder: resolve('./captions'),
+    font: resolve('./fonts/swiss.ttf')
   })
 ];
 
@@ -82,6 +84,8 @@ const destinations = argv.post
       })
     ]
   : [];
+
+console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
 stills.generate({
   source,
