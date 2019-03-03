@@ -18,6 +18,6 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
-    "stills": "^3.3.2"
+    "stills": "^3.4.0"
   }
 }
