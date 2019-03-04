@@ -51,7 +51,7 @@ const content =
 const filters = [
   new stills.filters.Captions({
     folder: resolve('./captions'),
-    font: resolve('./fonts/swiss.ttf'),
+    font: resolve('./fonts/tex.ttf'),
     isSequential: true
   })
 ];
