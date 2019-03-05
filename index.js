@@ -12,6 +12,7 @@ const argv = require('yargs')
 
 const stills = require('stills');
 const { resolve } = require('path');
+const { compact } = require('lodash');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -28,9 +29,13 @@ const {
   TWITTER_ACCESS_TOKEN_SECRET
 } = process.env;
 
-const GIF_VS_STILL_RATIO = 0.5;
-const FIERI_VS_WHATEVER_RATIO = 0;
+const GIF_STILL_RATE = 0.5;
+const FIERI_FACE_RATE = 0;
+const DISTORTION_RATE = 0.1;
 const { local } = argv;
+
+const sometimes = (rate, hit, miss = null) =>
+  Math.random() < rate ? hit : miss;
 
 const source = local
   ? new stills.sources.Local({
@@ -42,28 +47,31 @@ const source = local
       bucket: S3_BUCKET
     });
 
-const content =
-  argv.type === 'gif' ||
-  (argv.type === 'random' && Math.random() < GIF_VS_STILL_RATIO)
-    ? new stills.content.Gif()
-    : new stills.content.Still();
+const type =
+  argv.type === 'random'
+    ? sometimes(GIF_STILL_RATE, 'gif', 'still')
+    : argv.type;
 
-const filters = [
+const content =
+  type === 'gif' ? new stills.content.Gif() : new stills.content.Still();
+
+const filters = compact([
+  sometimes(DISTORTION_RATE, new stills.filters.Distortion()),
   new stills.filters.Captions({
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
     isSequential: true
   })
-];
+]);
 
-const validators =
-  Math.random() < FIERI_VS_WHATEVER_RATIO
-    ? [
-        new stills.validators.FaceRecognition({
-          folder: resolve('./faces')
-        })
-      ]
-    : [];
+const validators = compact([
+  sometimes(
+    FIERI_FACE_RATE,
+    new stills.validators.FaceRecognition({
+      folder: resolve('./faces')
+    })
+  )
+]);
 
 const destinations = argv.post
   ? [
