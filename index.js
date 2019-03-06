@@ -30,12 +30,16 @@ const {
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const FIERI_FACE_RATE = 0;
+const FACE_ZOOM_RATE = 0.2;
 const DISTORTION_RATE = 0.1;
+const FIERI_FACE_RATE = 0;
+
 const { local } = argv;
 
-const sometimes = (rate, hit, miss = null) =>
+const randomly = (rate, hit, miss = null) =>
   Math.random() < rate ? hit : miss;
+
+const either = (either, or) => (either ? either : or);
 
 const source = local
   ? new stills.sources.Local({
@@ -48,15 +52,16 @@ const source = local
     });
 
 const type =
-  argv.type === 'random'
-    ? sometimes(GIF_STILL_RATE, 'gif', 'still')
-    : argv.type;
+  argv.type === 'random' ? randomly(GIF_STILL_RATE, 'gif', 'still') : argv.type;
 
 const content =
   type === 'gif' ? new stills.content.Gif() : new stills.content.Still();
 
 const filters = compact([
-  sometimes(DISTORTION_RATE, new stills.filters.Distortion()),
+  either(
+    randomly(FACE_ZOOM_RATE, new stills.filters.FaceZoom()),
+    randomly(DISTORTION_RATE, new stills.filters.Distortion())
+  ),
   new stills.filters.Captions({
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
@@ -65,7 +70,7 @@ const filters = compact([
 ]);
 
 const validators = compact([
-  sometimes(
+  randomly(
     FIERI_FACE_RATE,
     new stills.validators.FaceRecognition({
       folder: resolve('./faces')
