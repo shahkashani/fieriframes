@@ -20,7 +20,7 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "lodash": "^4.17.11",
-    "stills": "^3.7.0",
+    "stills": "^3.7.2",
     "yargs": "^13.2.1"
   }
 }
