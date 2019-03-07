@@ -39,7 +39,7 @@ const { local } = argv;
 const randomly = (rate, hit, miss = null) =>
   Math.random() < rate ? hit : miss;
 
-const either = (either, or) => (either ? either : or);
+const either = (...args) => args.find(arg => !!arg);
 
 const source = local
   ? new stills.sources.Local({
