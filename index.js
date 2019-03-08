@@ -33,6 +33,7 @@ const GIF_STILL_RATE = 0.5;
 const FACE_ZOOM_RATE = 0.5;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
+const RATE_SEQUENTIAL_CAPTIONS = 0.5;
 
 const { local } = argv;
 
@@ -64,7 +65,8 @@ const filters = compact([
   ),
   new stills.filters.Captions({
     folder: resolve('./captions'),
-    font: resolve('./fonts/arial.ttf')
+    font: resolve('./fonts/arial.ttf'),
+    isSequential: Math.random() < RATE_SEQUENTIAL_CAPTIONS
   })
 ]);
 
