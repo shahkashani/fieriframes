@@ -37,7 +37,7 @@ const RATE_SEQUENTIAL_CAPTIONS = 0.5;
 
 const { local } = argv;
 
-const randomly = (rate, hit, miss = null) =>
+const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
 
 const either = (...args) => args.find(arg => !!arg);
@@ -66,7 +66,7 @@ const filters = compact([
   new stills.filters.Captions({
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
-    isSequential: Math.random() < RATE_SEQUENTIAL_CAPTIONS
+    isSequential: randomly(RATE_SEQUENTIAL_CAPTIONS)
   })
 ]);
 
