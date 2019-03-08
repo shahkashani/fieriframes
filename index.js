@@ -30,7 +30,7 @@ const {
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const FACE_ZOOM_RATE = 0.4;
+const FACE_ZOOM_RATE = 1;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
 
