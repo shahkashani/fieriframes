@@ -64,8 +64,7 @@ const filters = compact([
   ),
   new stills.filters.Captions({
     folder: resolve('./captions'),
-    font: resolve('./fonts/arial.ttf'),
-    isSequential: true
+    font: resolve('./fonts/arial.ttf')
   })
 ]);
 
