@@ -12,7 +12,7 @@ const argv = require('yargs')
 
 const stills = require('stills');
 const { resolve } = require('path');
-const { compact } = require('lodash');
+const { compact, random } = require('lodash');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -30,10 +30,9 @@ const {
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const FACE_ZOOM_RATE = 0.5;
+const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
-const SEQUENTIAL_CAPTIONS_RATE = 0.5;
 
 const { local } = argv;
 
@@ -55,18 +54,27 @@ const source = local
 const type =
   argv.type === 'random' ? randomly(GIF_STILL_RATE, 'gif', 'still') : argv.type;
 
-const content =
-  type === 'gif' ? new stills.content.Gif() : new stills.content.Still();
+const isGif = type === 'gif';
+
+const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 
 const filters = compact([
-  either(
-    randomly(FACE_ZOOM_RATE, new stills.filters.FaceZoom()),
-    randomly(DISTORTION_RATE, new stills.filters.Distortion())
-  ),
+  isGif
+    ? either(
+        randomly(
+          FACE_ZOOM_RATE,
+          new stills.filters.FaceZoom({
+            startPosition: 0.8
+          })
+        ),
+        randomly(DISTORTION_RATE, new stills.filters.Distortion())
+      )
+    : null,
   new stills.filters.Captions({
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
-    isSequential: randomly(SEQUENTIAL_CAPTIONS_RATE)
+    isSequential: false,
+    num: random(0, 2)
   })
 ]);
 
