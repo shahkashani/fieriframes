@@ -64,7 +64,8 @@ const filters = compact([
         randomly(
           FACE_ZOOM_RATE,
           new stills.filters.FaceZoom({
-            lastFrameDelayMs: 500
+            lastFrameDelayMs: 500,
+            startPosition: 0.8
           })
         ),
         randomly(DISTORTION_RATE, new stills.filters.Distortion())
