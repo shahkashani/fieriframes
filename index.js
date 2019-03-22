@@ -24,6 +24,7 @@ const {
   TUMBLR_ACCESS_TOKEN_KEY,
   TUMBLR_ACCESS_TOKEN_SECRET,
   TUMBLR_BLOG_NAME,
+  TUMBLR_REBLOG_BLOG_NAME,
   TWITTER_CONSUMER_KEY,
   TWITTER_CONSUMER_SECRET,
   TWITTER_ACCESS_TOKEN_KEY,
@@ -35,7 +36,6 @@ const GIF_STILL_RATE = 0.5;
 const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
-const TEXT_CAPTION_RATE = 0.5;
 
 const { local } = argv;
 
@@ -113,6 +113,11 @@ const getPostText = async filterOutput => {
       json: true
     });
     output = req.output;
+    if (output) {
+      const match = output.match(/[.!?]/gi);
+      const lastIndex = output.lastIndexOf(match[match.length - 1]);
+      output = output.slice(0, lastIndex + 1);
+    }
   } catch (err) {
     console.log(`💥 Something borked: ${err}`);
   }
@@ -128,8 +133,14 @@ const destinations = argv.post
         token: TUMBLR_ACCESS_TOKEN_KEY,
         tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
         blogName: TUMBLR_BLOG_NAME,
-        tags: ['Guy Fieri']
-      }),
+        tags: ['Guy Fieri'],
+        isIncludeText: false,
+        reblogTo: {
+          blogName: TUMBLR_REBLOG_BLOG_NAME,
+          isIncludeText: true
+        }
+      })
+      /*
       new stills.destinations.Twitter({
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
@@ -137,6 +148,7 @@ const destinations = argv.post
         accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
         isIncludeText: false
       })
+      */
     ]
   : [];
 
@@ -148,5 +160,5 @@ stills.generate({
   filters,
   destinations,
   validators,
-  getPostText: randomly(TEXT_CAPTION_RATE, getPostText)
+  getPostText
 });
