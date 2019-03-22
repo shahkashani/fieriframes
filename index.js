@@ -139,7 +139,8 @@ const destinations = argv.post
           blogName: TUMBLR_REBLOG_BLOG_NAME,
           isIncludeText: true
         }
-      }),
+      })
+      /*
       new stills.destinations.Twitter({
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
@@ -147,6 +148,7 @@ const destinations = argv.post
         accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
         isIncludeText: false
       })
+      */
     ]
   : [];
 
