@@ -13,6 +13,7 @@ const argv = require('yargs')
 const stills = require('stills');
 const { resolve } = require('path');
 const { compact, random } = require('lodash');
+const rp = require('request-promise');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -26,13 +27,15 @@ const {
   TWITTER_CONSUMER_KEY,
   TWITTER_CONSUMER_SECRET,
   TWITTER_ACCESS_TOKEN_KEY,
-  TWITTER_ACCESS_TOKEN_SECRET
+  TWITTER_ACCESS_TOKEN_SECRET,
+  POST_TEXT_GENERATOR_URL
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
 const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
+const TEXT_CAPTION_RATE = 0.5;
 
 const { local } = argv;
 
@@ -88,6 +91,35 @@ const validators = compact([
   )
 ]);
 
+const getPostText = async filterOutput => {
+  if (!POST_TEXT_GENERATOR_URL) {
+    return null;
+  }
+  const inputs = filterOutput.captions;
+  if (!inputs || inputs.length === 0) {
+    return null;
+  }
+  const input = inputs
+    .join(' ')
+    .replace(/\\n/gi, ' ')
+    .replace(/\s{2,}/, ' ');
+  let output;
+  try {
+    const req = await rp({
+      uri: POST_TEXT_GENERATOR_URL,
+      qs: {
+        q: input
+      },
+      json: true
+    });
+    output = req.output;
+  } catch (err) {
+    console.log(`💥 Something borked: ${err}`);
+  }
+
+  return output;
+};
+
 const destinations = argv.post
   ? [
       new stills.destinations.Tumblr({
@@ -102,7 +134,8 @@ const destinations = argv.post
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
         accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
-        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
+        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
+        isIncludeText: false
       })
     ]
   : [];
@@ -114,5 +147,6 @@ stills.generate({
   content,
   filters,
   destinations,
-  validators
+  validators,
+  getPostText: randomly(TEXT_CAPTION_RATE, getPostText)
 });

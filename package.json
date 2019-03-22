@@ -20,7 +20,9 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "lodash": "^4.17.11",
-    "stills": "^3.12.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "stills": "^3.13.0",
     "yargs": "^13.2.1"
   }
 }
