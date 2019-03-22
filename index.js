@@ -29,6 +29,10 @@ const {
   TWITTER_CONSUMER_SECRET,
   TWITTER_ACCESS_TOKEN_KEY,
   TWITTER_ACCESS_TOKEN_SECRET,
+  TWITTER_QUOTE_CONSUMER_KEY,
+  TWITTER_QUOTE_CONSUMER_SECRET,
+  TWITTER_QUOTE_ACCESS_TOKEN_KEY,
+  TWITTER_QUOTE_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL
 } = process.env;
 
@@ -139,16 +143,20 @@ const destinations = argv.post
           blogName: TUMBLR_REBLOG_BLOG_NAME,
           isIncludeText: true
         }
-      })
-      /*
+      }),
       new stills.destinations.Twitter({
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
         accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
         accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
-        isIncludeText: false
+        isIncludeText: false,
+        quoteTo: {
+          consumerKey: TWITTER_QUOTE_CONSUMER_KEY,
+          consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
+          accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
+          accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET
+        }
       })
-      */
     ]
   : [];
 
