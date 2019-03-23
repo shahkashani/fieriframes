@@ -12,7 +12,7 @@ const argv = require('yargs')
 
 const stills = require('stills');
 const { resolve } = require('path');
-const { compact, random } = require('lodash');
+const { compact, random, sample } = require('lodash');
 const rp = require('request-promise');
 
 const {
@@ -157,11 +157,21 @@ const destinations = argv.post
           consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
           accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
           accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET,
+          isIncludeText: true,
           style: {
             color: 'white',
-            padding: 50,
-            bgColor: '#231F20',
-            lineSpacing: 10
+            padding: 100,
+            bgColor: sample([
+              '#231f20',
+              '#a5311f',
+              '#7a2417',
+              '#a48752',
+              '#42403d'
+            ]),
+            lineSpacing: 10,
+            localFontPath: resolve('./fonts/legend.ttf'),
+            localFontName: 'Legend',
+            font: '50px Legend'
           }
         }
       })
