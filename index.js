@@ -155,7 +155,13 @@ const destinations = argv.post
           consumerKey: TWITTER_QUOTE_CONSUMER_KEY,
           consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
           accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
-          accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET
+          accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET,
+          style: {
+            color: 'white',
+            padding: 50,
+            bgColor: '#231F20',
+            lineSpacing: 10
+          }
         }
       })
     ]
