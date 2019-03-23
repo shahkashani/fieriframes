@@ -40,6 +40,7 @@ const GIF_STILL_RATE = 0.5;
 const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
+const CAPTION_RATE = 0.8;
 
 const { local } = argv;
 
@@ -82,7 +83,7 @@ const filters = compact([
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
     isSequential: false,
-    num: random(0, 2)
+    num: randomly(CAPTION_RATE, random(1, 2), 0)
   })
 ]);
 
