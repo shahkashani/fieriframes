@@ -113,7 +113,8 @@ const getPostText = async filterOutput => {
     const req = await rp({
       uri: POST_TEXT_GENERATOR_URL,
       qs: {
-        q: input
+        q: input,
+        length: 500
       },
       json: true
     });
