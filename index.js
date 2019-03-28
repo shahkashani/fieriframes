@@ -114,7 +114,7 @@ const getPostText = async filterOutput => {
       uri: POST_TEXT_GENERATOR_URL,
       qs: {
         q: input,
-        length: 200
+        length: 100
       },
       json: true
     });
