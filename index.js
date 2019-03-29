@@ -77,7 +77,12 @@ const filters = compact([
             startPosition: 0.8
           })
         ),
-        randomly(DISTORTION_RATE, new stills.filters.Distortion())
+        randomly(
+          DISTORTION_RATE,
+          new stills.filters.Distortion({
+            heightFactor: random(0.6, 1)
+          })
+        )
       )
     : null,
   new stills.filters.Captions({
