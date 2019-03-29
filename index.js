@@ -41,7 +41,7 @@ const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
 const CAPTION_RATE = 0.8;
-const GLITCH_GIF_RATE = 0.3;
+const GLITCH_GIF_RATE = 0.1;
 
 const { local } = argv;
 
