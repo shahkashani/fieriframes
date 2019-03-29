@@ -41,6 +41,7 @@ const FACE_ZOOM_RATE = 0.3;
 const DISTORTION_RATE = 0.1;
 const FIERI_FACE_RATE = 0;
 const CAPTION_RATE = 0.8;
+const GLITCH_GIF_RATE = 0.3;
 
 const { local } = argv;
 
@@ -84,7 +85,8 @@ const filters = compact([
     font: resolve('./fonts/arial.ttf'),
     isSequential: false,
     num: randomly(CAPTION_RATE, random(1, 2), 0)
-  })
+  }),
+  isGif ? randomly(GLITCH_GIF_RATE, new stills.filters.Glitch()) : null
 ]);
 
 const validators = compact([
