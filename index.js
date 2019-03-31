@@ -37,18 +37,13 @@ const {
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const FACE_ZOOM_RATE = 0.3;
-const DISTORTION_RATE = 0.1;
-const FIERI_FACE_RATE = 0;
+const GIF_EFFECT_RATE = 0.1;
 const CAPTION_RATE = 0.8;
-const GLITCH_GIF_RATE = 0.1;
 
 const { local } = argv;
 
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
-
-const either = (...args) => args.find(arg => !!arg);
 
 const source = local
   ? new stills.sources.Local({
@@ -67,40 +62,30 @@ const isGif = type === 'gif';
 
 const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 
+const effects = [
+  new stills.filters.FaceZoom({
+    lastFrameDelayMs: 500,
+    startPosition: 0.8
+  }),
+  new stills.filters.Distortion({
+    heightFactor: random(0.5, 0.8)
+  }),
+  new stills.filters.Glitch({
+    times: 200
+  }),
+  new stills.filters.Composite()
+];
+
+const effect = isGif ? randomly(GIF_EFFECT_RATE, sample(effects)) : null;
+
 const filters = compact([
-  isGif
-    ? either(
-        randomly(
-          FACE_ZOOM_RATE,
-          new stills.filters.FaceZoom({
-            lastFrameDelayMs: 500,
-            startPosition: 0.8
-          })
-        ),
-        randomly(
-          DISTORTION_RATE,
-          new stills.filters.Distortion({
-            heightFactor: random(0.6, 1)
-          })
-        )
-      )
-    : null,
+  effect,
   new stills.filters.Captions({
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
     isSequential: false,
     num: randomly(CAPTION_RATE, random(1, 2), 0)
-  }),
-  isGif ? randomly(GLITCH_GIF_RATE, new stills.filters.Glitch()) : null
-]);
-
-const validators = compact([
-  randomly(
-    FIERI_FACE_RATE,
-    new stills.validators.FaceRecognition({
-      folder: resolve('./faces')
-    })
-  )
+  })
 ]);
 
 const getPostText = async filterOutput => {
@@ -192,6 +177,5 @@ stills.generate({
   content,
   filters,
   destinations,
-  validators,
   getPostText
 });
