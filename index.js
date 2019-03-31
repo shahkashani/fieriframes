@@ -37,7 +37,7 @@ const {
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const GIF_EFFECT_RATE = 0.1;
+const GIF_EFFECT_RATE = 0.2;
 const CAPTION_RATE = 0.8;
 
 const { local } = argv;
@@ -73,7 +73,8 @@ const effects = [
   new stills.filters.Glitch({
     times: 200
   }),
-  new stills.filters.Composite()
+  new stills.filters.Station(),
+  new stills.filters.Melt()
 ];
 
 const effect = isGif ? randomly(GIF_EFFECT_RATE, sample(effects)) : null;
