@@ -65,7 +65,7 @@ const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 const effects = [
   new stills.filters.FaceZoom({
     lastFrameDelayMs: 500,
-    startPosition: 0.8
+    startPosition: 0.9
   }),
   new stills.filters.Distortion({
     heightFactor: random(0.5, 0.8)
@@ -80,12 +80,15 @@ const effect = isGif ? randomly(GIF_EFFECT_RATE, sample(effects)) : null;
 
 const filters = compact([
   effect,
-  new stills.filters.Captions({
-    folder: resolve('./captions'),
-    font: resolve('./fonts/arial.ttf'),
-    isSequential: false,
-    num: randomly(CAPTION_RATE, random(1, 2), 0)
-  })
+  randomly(
+    CAPTION_RATE,
+    new stills.filters.Captions({
+      folder: resolve('./captions'),
+      font: resolve('./fonts/arial.ttf'),
+      isSequential: false,
+      num: random(1, 2)
+    })
+  )
 ]);
 
 const getPostText = async filterOutput => {
