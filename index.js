@@ -33,12 +33,13 @@ const {
   TWITTER_QUOTE_CONSUMER_SECRET,
   TWITTER_QUOTE_ACCESS_TOKEN_KEY,
   TWITTER_QUOTE_ACCESS_TOKEN_SECRET,
-  POST_TEXT_GENERATOR_URL
+  POST_TEXT_GENERATOR_URL,
+  GIF_EFFECT_RATE
 } = process.env;
 
 const GIF_STILL_RATE = 0.5;
-const GIF_EFFECT_RATE = 0.2;
 const CAPTION_RATE = 0.8;
+const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
 
 const { local } = argv;
 
@@ -77,7 +78,7 @@ const effects = [
   new stills.filters.Melt()
 ];
 
-const effect = isGif ? randomly(GIF_EFFECT_RATE, sample(effects)) : null;
+const effect = isGif ? randomly(USE_GIF_EFFECT_RATE, sample(effects)) : null;
 
 const filters = compact([
   effect,
