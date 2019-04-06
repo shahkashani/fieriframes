@@ -71,9 +71,6 @@ const effects = [
   new stills.filters.Distortion({
     heightFactor: random(0.4, 0.6)
   }),
-  new stills.filters.Glitch({
-    times: 200
-  }),
   new stills.filters.Station(),
   new stills.filters.Shuffle()
 ];
