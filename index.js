@@ -75,7 +75,7 @@ const effects = [
     times: 200
   }),
   new stills.filters.Station(),
-  new stills.filters.Melt()
+  new stills.filters.Shuffle()
 ];
 
 const effect = isGif ? randomly(USE_GIF_EFFECT_RATE, sample(effects)) : null;
