@@ -88,7 +88,7 @@ const filters = compact([
     new stills.filters.Captions({
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
-      isSequential: false,
+      isSequential: true,
       num: random(1, 2)
     })
   )
