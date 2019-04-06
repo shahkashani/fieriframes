@@ -74,7 +74,8 @@ const effects = [
   new stills.filters.Station(),
   new stills.filters.Shuffle(),
   new stills.filters.Stutter({
-    numFrames: random(6, 16)
+    numFrames: random(6, 16),
+    stutterDelay: 0
   })
 ];
 
