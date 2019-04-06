@@ -72,7 +72,10 @@ const effects = [
     heightFactor: random(0.4, 0.6)
   }),
   new stills.filters.Station(),
-  new stills.filters.Shuffle()
+  new stills.filters.Shuffle(),
+  new stills.filters.Stutter({
+    numFrames: random(6, 16)
+  })
 ];
 
 const effect = isGif ? randomly(USE_GIF_EFFECT_RATE, sample(effects)) : null;
