@@ -84,9 +84,13 @@ const post = async () => {
     })
   ];
 
-  const useEffects = effects
-    ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
-    : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
+  let useEffects = [];
+
+  if (isGif) {
+    useEffects = effects
+      ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
+      : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
+  }
 
   const filters = compact([
     ...useEffects,
