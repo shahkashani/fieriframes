@@ -40,11 +40,11 @@ const {
   GIF_EFFECT_RATE
 } = process.env;
 
-const GIF_STILL_RATE = 0.5;
-const CAPTION_RATE = 0.8;
-const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
-
 const { local, effects, captionFileGlob } = argv;
+
+const GIF_STILL_RATE = 0.5;
+const CAPTION_RATE = captionFileGlob ? 1 : 0.8;
+const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
 
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
