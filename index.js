@@ -48,92 +48,83 @@ const { local, effects } = argv;
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
 
-const post = async () => {
-  const source = local
-    ? new stills.sources.Local({
-        folder: local
-      })
-    : new stills.sources.S3({
-        accessKeyId: S3_ACCESS_KEY_ID,
-        secretAccessKey: S3_SECRET_ACCESS_KEY,
-        bucket: S3_BUCKET
-      });
-
-  const type =
-    argv.type === 'random'
-      ? randomly(GIF_STILL_RATE, 'gif', 'still')
-      : argv.type;
-
-  const isGif = type === 'gif';
-
-  const content = isGif ? new stills.content.Gif() : new stills.content.Still();
-
-  const allEffects = [
-    new stills.filters.FaceZoom({
-      lastFrameDelayMs: 500,
-      startPosition: 0.9
-    }),
-    new stills.filters.Distortion({
-      heightFactor: random(0.4, 0.6)
-    }),
-    new stills.filters.Station(),
-    new stills.filters.Shuffle(),
-    new stills.filters.Stutter({
-      numFrames: random(6, 16),
-      stutterDelay: 0
+const source = local
+  ? new stills.sources.Local({
+      folder: local
     })
-  ];
+  : new stills.sources.S3({
+      accessKeyId: S3_ACCESS_KEY_ID,
+      secretAccessKey: S3_SECRET_ACCESS_KEY,
+      bucket: S3_BUCKET
+    });
 
-  let useEffects = [];
+const type =
+  argv.type === 'random' ? randomly(GIF_STILL_RATE, 'gif', 'still') : argv.type;
 
-  if (isGif) {
-    useEffects = effects
-      ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
-      : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
-  }
+const isGif = type === 'gif';
 
-  const filters = compact([
-    ...useEffects,
-    randomly(
-      CAPTION_RATE,
-      new stills.filters.Captions({
-        folder: resolve('./captions'),
-        font: resolve('./fonts/arial.ttf'),
-        isSequential: true,
-        num: random(1, 2)
+const content = isGif ? new stills.content.Gif() : new stills.content.Still();
+
+const allEffects = [
+  new stills.filters.FaceZoom({
+    lastFrameDelayMs: 500,
+    startPosition: 0.9
+  }),
+  new stills.filters.Distortion({
+    heightFactor: random(0.4, 0.6)
+  }),
+  new stills.filters.Station(),
+  new stills.filters.Shuffle(),
+  new stills.filters.Stutter({
+    numFrames: random(6, 16),
+    stutterDelay: 0
+  })
+];
+
+let useEffects = [];
+
+if (isGif) {
+  useEffects = effects
+    ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
+    : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
+}
+
+const filters = compact([
+  ...useEffects,
+  randomly(
+    CAPTION_RATE,
+    new stills.filters.Captions({
+      folder: resolve('./captions'),
+      font: resolve('./fonts/arial.ttf'),
+      isSequential: true,
+      num: random(1, 2)
+    })
+  )
+]);
+
+const destinations = argv.post
+  ? [
+      new stills.destinations.Tumblr({
+        consumerKey: TUMBLR_CONSUMER_KEY,
+        consumerSecret: TUMBLR_CONSUMER_SECRET,
+        token: TUMBLR_ACCESS_TOKEN_KEY,
+        tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+        blogName: TUMBLR_BLOG_NAME,
+        tags: ['Guy Fieri']
+      }),
+      new stills.destinations.Twitter({
+        consumerKey: TWITTER_CONSUMER_KEY,
+        consumerSecret: TWITTER_CONSUMER_SECRET,
+        accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
+        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
       })
-    )
-  ]);
-
-  const destinations = argv.post
-    ? [
-        new stills.destinations.Tumblr({
-          consumerKey: TUMBLR_CONSUMER_KEY,
-          consumerSecret: TUMBLR_CONSUMER_SECRET,
-          token: TUMBLR_ACCESS_TOKEN_KEY,
-          tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-          blogName: TUMBLR_BLOG_NAME,
-          tags: ['Guy Fieri']
-        }),
-        new stills.destinations.Twitter({
-          consumerKey: TWITTER_CONSUMER_KEY,
-          consumerSecret: TWITTER_CONSUMER_SECRET,
-          accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
-          accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
-        })
-      ]
-    : [];
-
-  return stills.generate({
-    source,
-    content,
-    filters,
-    destinations,
-    deleteAfterPosting: false
-  });
-};
+    ]
+  : [];
 
 const getPostText = async captions => {
+  if (!POST_TEXT_GENERATOR_URL) {
+    return null;
+  }
   console.log('\n🎁 Talking to Dreamscape');
   const input = captions
     .join(' ')
@@ -162,80 +153,99 @@ const getPostText = async captions => {
   return output;
 };
 
-const postTumblrFiction = async (result, text) => {
-  const { blogName, postId } = get(result, 'destinations.tumblr', {});
-  if (!blogName || !postId) {
-    return;
-  }
-  return await stills.generate({
-    image: result.content,
-    deleteAfterPosting: false,
-    getPostText: () => text,
-    destinations: [
-      new stills.destinations.Tumblr({
-        consumerKey: TUMBLR_CONSUMER_KEY,
-        consumerSecret: TUMBLR_CONSUMER_SECRET,
-        token: TUMBLR_ACCESS_TOKEN_KEY,
-        tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-        blogName: TUMBLR_REBLOG_BLOG_NAME,
-        tags: result.destinations.tumblr.tags,
-        reblog: {
-          blogName,
-          postId
-        }
-      })
-    ]
-  });
-};
-
-const postTwitterFiction = async (result, text) => {
-  return await stills.generate({
-    image: result.content,
-    getPostText: () => text,
-    filters: [
-      new stills.filters.Annotate({
-        text,
-        style: {
-          color: 'white',
-          padding: 150,
-          bgColor: sample([
-            '#231f20',
-            '#a5311f',
-            '#7a2417',
-            '#a48752',
-            '#42403d'
-          ]),
-          lineSpacing: 10,
-          localFontPath: resolve('./fonts/legend.ttf'),
-          localFontName: 'Legend',
-          font: '50px Legend'
-        }
-      })
-    ],
-    destinations: [
-      new stills.destinations.Twitter({
-        consumerKey: TWITTER_QUOTE_CONSUMER_KEY,
-        consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
-        accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
-        accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET
-      })
-    ]
-  });
-};
-
 (async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
-  const result = await post();
-  const { destinations: postedDestinations, filters: postedFilters } = result;
+  const mainConfig = {
+    source,
+    content,
+    filters,
+    destinations
+  };
 
-  if (
-    Object.keys(postedDestinations || {}).length > 0 &&
-    get(postedFilters, 'captions', []).length > 0 &&
-    POST_TEXT_GENERATOR_URL
-  ) {
-    const postText = await getPostText(postedFilters.captions);
-    await postTumblrFiction(result, postText);
-    await postTwitterFiction(result, postText);
+  const tumblrFictionConfig = async mainResult => {
+    // This gives us all the info we need to reblog the main post
+    const { blogName, postId, tags } = get(
+      mainResult,
+      'destinations.tumblr',
+      {}
+    );
+    const { captions } = mainResult.filters;
+    if (!blogName || !postId || !captions || captions.length === 0) {
+      return;
+    }
+    // Use the caption from the main post to generate a story
+    const postText = await getPostText(captions);
+    return {
+      image: mainResult.content,
+      getPostText: () => postText,
+      destinations: [
+        new stills.destinations.Tumblr({
+          // Just use the same tags as the main post
+          tags,
+          reblog: {
+            blogName,
+            postId
+          },
+          consumerKey: TUMBLR_CONSUMER_KEY,
+          consumerSecret: TUMBLR_CONSUMER_SECRET,
+          token: TUMBLR_ACCESS_TOKEN_KEY,
+          tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+          blogName: TUMBLR_REBLOG_BLOG_NAME
+        })
+      ]
+    };
+  };
+
+  const twitterFictionConfig = async (tumblrFictionResult, [mainResult]) => {
+    const { text } = get(tumblrFictionResult, 'destinations.tumblr', {});
+
+    // We didn't post the main post to Twitter, so skip this one too.
+    // Also skip if there is no story to post.
+    if (!mainResult.destinations.twitter || !text) {
+      return;
+    }
+    return {
+      image: mainResult.content,
+      getPostText: () => text,
+      filters: [
+        new stills.filters.Annotate({
+          text,
+          style: {
+            color: 'white',
+            padding: 150,
+            bgColor: sample([
+              '#231f20',
+              '#a5311f',
+              '#7a2417',
+              '#a48752',
+              '#42403d'
+            ]),
+            lineSpacing: 10,
+            localFontPath: resolve('./fonts/legend.ttf'),
+            localFontName: 'Legend',
+            font: '50px Legend'
+          }
+        })
+      ],
+      destinations: [
+        new stills.destinations.Twitter({
+          consumerKey: TWITTER_QUOTE_CONSUMER_KEY,
+          consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
+          accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
+          accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET
+        })
+      ]
+    };
+  };
+
+  const results = await stills.generateChain([
+    mainConfig,
+    tumblrFictionConfig,
+    twitterFictionConfig
+  ]);
+
+  if (destinations.length) {
+    stills.deleteStills(results);
   }
 })();
