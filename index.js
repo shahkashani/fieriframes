@@ -97,7 +97,10 @@ const filters = compact([
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
       isSequential: true,
-      num: random(1, 2)
+      num: {
+        srt: random(1, 2),
+        txt: 1
+      }
     })
   )
 ]);
