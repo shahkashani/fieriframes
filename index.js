@@ -79,7 +79,8 @@ const allEffects = [
   new stills.filters.Stutter({
     numFrames: random(6, 16),
     stutterDelay: 0
-  })
+  }),
+  new stills.filters.Tint()
 ];
 
 let useEffects = [];
