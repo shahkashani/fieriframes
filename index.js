@@ -80,7 +80,9 @@ const allEffects = [
     numFrames: random(6, 16),
     stutterDelay: 0
   }),
-  new stills.filters.Tint()
+  new stills.filters.Tint({
+    factor: 1.5
+  })
 ];
 
 let useEffects = [];
