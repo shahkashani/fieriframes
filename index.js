@@ -82,7 +82,8 @@ const allEffects = [
   }),
   new stills.filters.Tint({
     factor: 1.5
-  })
+  }),
+  new stills.filters.Invert()
 ];
 
 let useEffects = [];
