@@ -1,0 +1,4074 @@
+1
+00:00:45,100 --> 00:00:47,432
+SAGAN:
+The sky calls to us.
+
+2
+00:00:47,803 --> 00:00:49,896
+If we do not destroy ourselves...
+
+3
+00:00:50,105 --> 00:00:53,131
+...we will one day venture
+to the stars.
+
+4
+00:00:54,042 --> 00:00:57,500
+There was a time when the stars
+seemed an impenetrable mystery.
+
+5
+00:00:57,713 --> 00:01:01,046
+Today, we have begun
+to understand them.
+
+6
+00:01:01,250 --> 00:01:06,187
+In our personal lives also, we
+journey from ignorance to knowledge.
+
+7
+00:01:06,421 --> 00:01:10,858
+Our individual growth reflects
+the advancement of the species.
+
+8
+00:01:11,360 --> 00:01:13,294
+The exploration of the cosmos is...
+
+9
+00:01:13,495 --> 00:01:16,521
+...a voyage of self-discovery.
+
+10
+00:01:27,042 --> 00:01:29,977
+When I was a child, I lived here...
+
+11
+00:01:30,178 --> 00:01:34,478
+...in the Bensonhurst section of
+Brooklyn in the city of New York.
+
+12
+00:01:34,683 --> 00:01:37,743
+I knew my immediate
+neighborhood intimately...
+
+13
+00:01:37,953 --> 00:01:42,219
+...every candy store, front stoop...
+
+14
+00:01:42,424 --> 00:01:44,688
+...back yard, empty lot...
+
+15
+00:01:44,893 --> 00:01:47,987
+...and wall for playing
+Chinese handball.
+
+16
+00:01:53,602 --> 00:01:55,729
+It was my whole world.
+
+17
+00:02:14,823 --> 00:02:16,950
+But more than a few blocks away...
+
+18
+00:02:17,159 --> 00:02:21,858
+...north of the raucous traffic
+and elevated railway on 86th Street...
+
+19
+00:02:22,064 --> 00:02:25,727
+...was an unknown territory
+off-limits to my wanderings.
+
+20
+00:02:26,668 --> 00:02:29,432
+It could have been Mars
+for all I knew.
+
+21
+00:02:33,542 --> 00:02:36,375
+Even with an early bedtime
+in the winter...
+
+22
+00:02:36,645 --> 00:02:39,637
+...you could occasionally see
+the stars.
+
+23
+00:02:40,148 --> 00:02:43,447
+I would look up at them
+and wonder what they were.
+
+24
+00:02:43,752 --> 00:02:46,516
+I'd ask other kids and adults...
+
+25
+00:02:47,089 --> 00:02:48,681
+...and they would answer:
+
+26
+00:02:48,890 --> 00:02:50,949
+"They're lights in the sky, kid."
+
+27
+00:02:51,159 --> 00:02:55,118
+Well, I could tell they were lights
+in the sky, but what were they?
+
+28
+00:02:55,330 --> 00:02:58,766
+There had to be some deeper answer.
+
+29
+00:03:04,172 --> 00:03:07,664
+I remember I was issued
+my first library card.
+
+30
+00:03:07,876 --> 00:03:12,438
+It was some library on 85th Street.
+Anyway, it was in alien territory.
+
+31
+00:03:12,914 --> 00:03:16,611
+And I asked the librarian
+for a book on stars.
+
+32
+00:03:17,052 --> 00:03:18,485
+She gave me...
+
+33
+00:03:18,920 --> 00:03:21,855
+...a picture book with portraits
+of men and women...
+
+34
+00:03:22,057 --> 00:03:25,686
+...with names like
+Veronica Lake and Alan Ladd.
+
+35
+00:03:26,228 --> 00:03:29,629
+I explained that wasn't what
+I wanted at all.
+
+36
+00:03:30,232 --> 00:03:33,668
+And for some reason,
+then obscure to me, she smiled...
+
+37
+00:03:33,869 --> 00:03:37,032
+...and got me another book,
+the right kind of book.
+
+38
+00:03:37,339 --> 00:03:39,637
+I was so excited to know
+the answer...
+
+39
+00:03:39,841 --> 00:03:42,901
+...I opened the book breathlessly,
+right there in the library...
+
+40
+00:03:43,111 --> 00:03:45,944
+...and the book said
+something astonishing...
+
+41
+00:03:46,148 --> 00:03:48,639
+...a very big thought.
+
+42
+00:03:49,351 --> 00:03:52,684
+Stars, it said, were suns...
+
+43
+00:03:52,888 --> 00:03:54,651
+...but very far away.
+
+44
+00:03:54,856 --> 00:03:58,792
+The sun was a star, but close-up.
+
+45
+00:04:06,468 --> 00:04:10,199
+How, I wondered, could anybody
+know such things for sure?
+
+46
+00:04:10,405 --> 00:04:13,932
+How did they figure it out?
+Where did they even begin?
+
+47
+00:04:23,485 --> 00:04:26,454
+I was ignorant of the idea
+of angular size.
+
+48
+00:04:26,655 --> 00:04:30,648
+I didn't know about the inverse square
+law of the propagation of light.
+
+49
+00:04:30,859 --> 00:04:34,659
+I didn't have any chance of
+calculating the distance to the stars.
+
+50
+00:04:34,863 --> 00:04:37,957
+But I could tell that if
+the stars were suns...
+
+51
+00:04:38,166 --> 00:04:40,634
+...they had to be awfully far away.
+
+52
+00:04:40,836 --> 00:04:45,068
+Further away than 86th Street,
+further away than Manhattan...
+
+53
+00:04:45,273 --> 00:04:48,640
+...further away, probably,
+than New Jersey.
+
+54
+00:04:48,844 --> 00:04:52,541
+The universe had become
+much grander...
+
+55
+00:04:52,748 --> 00:04:55,114
+...than I had ever guessed.
+
+56
+00:04:58,053 --> 00:05:00,715
+And then I read
+another astonishing fact.
+
+57
+00:05:00,922 --> 00:05:04,221
+The Earth, which includes Brooklyn...
+
+58
+00:05:04,426 --> 00:05:05,723
+...was a planet.
+
+59
+00:05:05,927 --> 00:05:07,986
+It went around the sun.
+
+60
+00:05:08,196 --> 00:05:09,788
+There were other planets.
+
+61
+00:05:09,998 --> 00:05:12,262
+They also went around the sun...
+
+62
+00:05:12,467 --> 00:05:15,766
+...some closer to the sun,
+some further from the sun.
+
+63
+00:05:16,004 --> 00:05:20,532
+But planets didn't shine by their
+own light the way the sun does.
+
+64
+00:05:21,276 --> 00:05:25,235
+No, planets simply reflected
+the little bit of light...
+
+65
+00:05:25,447 --> 00:05:29,042
+...that shines on them
+from the sun back to us.
+
+66
+00:05:29,251 --> 00:05:31,515
+If you were a great distance
+from the sun...
+
+67
+00:05:31,720 --> 00:05:35,451
+...you wouldn't be able to see
+the Earth or the other planets at all.
+
+68
+00:05:35,690 --> 00:05:38,386
+Well, then, it stood
+to reason, I thought...
+
+69
+00:05:38,593 --> 00:05:42,222
+...that those other stars ought to
+have their own planets...
+
+70
+00:05:42,430 --> 00:05:44,694
+...and some of those planets
+ought to have life.
+
+71
+00:05:45,333 --> 00:05:46,561
+Why not?
+
+72
+00:05:46,768 --> 00:05:51,171
+And that life ought to be pretty
+different from life as we know it...
+
+73
+00:05:51,373 --> 00:05:53,364
+...life here in Brooklyn.
+
+74
+00:05:53,575 --> 00:05:56,703
+Ganymede. Look at this
+amazing Ganymede stuff.
+
+75
+00:05:56,912 --> 00:05:57,970
+Wait, wait, wait.
+
+76
+00:05:58,180 --> 00:06:00,580
+As a child, it was
+my immense good fortune...
+
+77
+00:06:00,782 --> 00:06:04,809
+...to have parents and a few teachers
+who encouraged my curiosity.
+
+78
+00:06:05,020 --> 00:06:07,352
+This was my 6th-grade classroom.
+
+79
+00:06:07,556 --> 00:06:10,525
+I came back here one day
+to remember what it was like.
+
+80
+00:06:10,725 --> 00:06:13,455
+I brought some of the pictures
+of other worlds...
+
+81
+00:06:13,662 --> 00:06:16,290
+...that were radioed back
+by the Voyager spacecraft...
+
+82
+00:06:16,498 --> 00:06:18,625
+...of Jupiter and its moons.
+
+83
+00:06:18,834 --> 00:06:20,392
+This is Calisto which is...
+
+84
+00:06:20,602 --> 00:06:21,762
+(SAGAN LAUGHS)
+
+85
+00:06:24,139 --> 00:06:26,073
+What is a Calisto?
+I want a Calisto.
+
+86
+00:06:26,274 --> 00:06:27,571
+Now you got it.
+What is it?
+
+87
+00:06:27,776 --> 00:06:31,268
+It's the outermost
+big moon of Jupiter.
+
+88
+00:06:32,347 --> 00:06:34,781
+Who is this guy? Europa.
+
+89
+00:06:36,184 --> 00:06:37,811
+Another Europa.
+
+90
+00:06:38,186 --> 00:06:41,246
+A black-and-white picture
+of a ring of Jupiter.
+
+91
+00:06:41,656 --> 00:06:44,682
+There you go.
+That's a prize for honesty.
+
+92
+00:06:45,327 --> 00:06:46,817
+You didn't get a second.
+
+93
+00:06:47,028 --> 00:06:48,518
+Which one would you like?
+
+94
+00:07:00,709 --> 00:07:03,769
+Every one of us begins life
+with an open mind...
+
+95
+00:07:03,979 --> 00:07:07,915
+...a driving curiosity,
+a sense of wonder.
+
+96
+00:07:09,017 --> 00:07:12,350
+I thought it might be fun
+if we now had some questions.
+
+97
+00:07:12,554 --> 00:07:16,456
+Why is the Earth round?
+Why isn't it square or any other shape?
+
+98
+00:07:17,158 --> 00:07:18,750
+That's a good question.
+
+99
+00:07:18,960 --> 00:07:23,397
+That's a question I've asked myself.
+The answer has to do with gravity.
+
+100
+00:07:23,899 --> 00:07:25,730
+The Earth has a strong gravity.
+
+101
+00:07:25,934 --> 00:07:28,494
+If you were to make a mountain
+very high...
+
+102
+00:07:28,703 --> 00:07:31,604
+...higher than Everest,
+the biggest mountain on Earth...
+
+103
+00:07:31,806 --> 00:07:34,138
+...it would be crushed
+by its own weight.
+
+104
+00:07:34,342 --> 00:07:37,004
+Gravity pulls everything
+towards the center.
+
+105
+00:07:37,212 --> 00:07:40,477
+So any really big bump
+on the Earth is crushed.
+
+106
+00:07:40,682 --> 00:07:44,311
+But if you had a small object,
+a tiny world...
+
+107
+00:07:44,519 --> 00:07:46,180
+...the gravity is very low...
+
+108
+00:07:46,388 --> 00:07:49,551
+...and then it can be very different
+from a sphere.
+
+109
+00:07:49,758 --> 00:07:54,161
+I think I have here
+a world that isn't a sphere.
+
+110
+00:07:54,529 --> 00:07:55,587
+Here.
+
+111
+00:07:56,798 --> 00:07:58,129
+Look at this one.
+
+112
+00:07:59,334 --> 00:08:00,824
+See? It's lumpy.
+
+113
+00:08:02,604 --> 00:08:03,798
+It's a lumpy world.
+
+114
+00:08:04,873 --> 00:08:06,238
+It looks like a potato.
+
+115
+00:08:06,975 --> 00:08:10,138
+There's a large potato
+orbiting the planet Mars.
+
+116
+00:08:10,345 --> 00:08:12,575
+This is one of the moons of Mars.
+
+117
+00:08:12,781 --> 00:08:15,011
+That's a perfect example.
+
+118
+00:08:15,216 --> 00:08:19,209
+You can have big departures from
+a sphere if your gravity is low.
+
+119
+00:08:19,421 --> 00:08:21,321
+Now the question in the front.
+
+120
+00:08:21,523 --> 00:08:24,754
+Is the sun considered part
+of the Milky Way galaxy?
+
+121
+00:08:24,960 --> 00:08:28,088
+Sure, you're considered part
+of the Milky Way galaxy.
+
+122
+00:08:28,530 --> 00:08:32,830
+Everything except other galaxies is
+part of the Milky Way galaxy.
+
+123
+00:08:33,034 --> 00:08:34,592
+The sun is one star.
+
+124
+00:08:34,803 --> 00:08:39,740
+There is a few hundred billion stars
+in the Milky Way.
+
+125
+00:08:40,041 --> 00:08:42,771
+Around each star, maybe,
+is a whole bunch of planets.
+
+126
+00:08:43,645 --> 00:08:46,876
+And on one of those planets is life...
+
+127
+00:08:47,082 --> 00:08:50,950
+...and one of the life forms
+on that planet is you.
+
+128
+00:08:51,152 --> 00:08:53,518
+You're a part of
+the Milky Way galaxy too.
+
+129
+00:09:03,999 --> 00:09:08,936
+Sometimes I think, how lucky we are
+to live in this time...
+
+130
+00:09:09,137 --> 00:09:12,800
+...the first moment in human history
+when we are, in fact...
+
+131
+00:09:13,008 --> 00:09:14,600
+...visiting other worlds...
+
+132
+00:09:14,809 --> 00:09:19,041
+...and engaging in a deep
+reconnaissance of the cosmos.
+
+133
+00:09:19,414 --> 00:09:22,042
+But if we had been born
+in a much earlier age...
+
+134
+00:09:22,250 --> 00:09:25,344
+...no matter how great our dedication,
+we couldn't have understood...
+
+135
+00:09:25,553 --> 00:09:27,817
+...what the stars and planets are.
+
+136
+00:09:37,365 --> 00:09:41,859
+We would not have known that there
+were other suns and other worlds.
+
+137
+00:09:45,206 --> 00:09:49,165
+This is one of the great secrets
+wrested from nature...
+
+138
+00:09:49,377 --> 00:09:53,837
+...through a million years of patient
+observation and courageous thinking.
+
+139
+00:09:57,318 --> 00:10:01,118
+Human beings have always asked
+questions about the stars.
+
+140
+00:10:01,322 --> 00:10:04,382
+It's as natural as breathing.
+
+141
+00:10:04,626 --> 00:10:08,460
+But imagine a time before science
+had found out the answers.
+
+142
+00:10:08,663 --> 00:10:11,257
+Imagine what it was like, say...
+
+143
+00:10:11,466 --> 00:10:14,993
+...hundreds of thousands
+of years ago...
+
+144
+00:10:15,203 --> 00:10:18,798
+...soon after the discovery of fire.
+
+145
+00:10:19,007 --> 00:10:22,602
+We were just as smart
+and just as curious then...
+
+146
+00:10:22,811 --> 00:10:24,472
+...as we are now.
+
+147
+00:10:24,679 --> 00:10:26,544
+Sometimes it seems to me that...
+
+148
+00:10:26,748 --> 00:10:29,774
+...there were people then
+who thought like this:
+
+149
+00:10:32,153 --> 00:10:35,714
+We are wandering hunter folk.
+
+150
+00:10:35,924 --> 00:10:37,585
+Fire keeps us warm.
+
+151
+00:10:37,792 --> 00:10:41,023
+Its light makes holes in the darkness.
+
+152
+00:10:41,229 --> 00:10:43,493
+It keeps hungry animals away.
+
+153
+00:10:43,932 --> 00:10:47,424
+In the darkness,
+we can see each other and talk.
+
+154
+00:10:48,603 --> 00:10:50,594
+We take care of the flame.
+
+155
+00:10:50,805 --> 00:10:53,797
+The flame takes care of us.
+
+156
+00:10:54,709 --> 00:10:57,007
+The stars are not near to us.
+
+157
+00:10:57,212 --> 00:11:00,909
+When we climb a hill or a tree,
+they are no closer.
+
+158
+00:11:01,116 --> 00:11:05,052
+They flicker with
+a strange, cold, white...
+
+159
+00:11:05,854 --> 00:11:06,912
+...faraway light.
+
+160
+00:11:07,856 --> 00:11:12,156
+Many of them, all over the sky,
+but only at night.
+
+161
+00:11:12,527 --> 00:11:14,620
+I wonder what they are.
+
+162
+00:11:15,430 --> 00:11:18,957
+One night I thought
+the stars are flames.
+
+163
+00:11:19,167 --> 00:11:22,364
+They give a little light
+at night as fire does.
+
+164
+00:11:22,570 --> 00:11:24,629
+Maybe the stars are campfires...
+
+165
+00:11:24,839 --> 00:11:28,002
+...which other wanderers
+light at night.
+
+166
+00:11:28,710 --> 00:11:32,043
+The stars give a much
+smaller light than campfires...
+
+167
+00:11:32,247 --> 00:11:35,045
+...so they must be very far away.
+
+168
+00:11:35,617 --> 00:11:38,279
+I wonder if our campfires...
+
+169
+00:11:38,486 --> 00:11:41,250
+...look like stars to the people
+in the sky.
+
+170
+00:11:41,656 --> 00:11:46,150
+But why don't those campfires
+and the wanderers who made them...
+
+171
+00:11:46,361 --> 00:11:48,192
+...fall down at our feet?
+
+172
+00:11:48,396 --> 00:11:52,594
+Why don't strange tribes
+drop from the sky?
+
+173
+00:11:54,402 --> 00:11:59,169
+Those beings in the sky
+must have great powers.
+
+174
+00:12:06,181 --> 00:12:08,809
+I don't suppose
+that every hunter-gatherer...
+
+175
+00:12:09,017 --> 00:12:11,747
+...had such thoughts about the stars.
+
+176
+00:12:11,953 --> 00:12:15,389
+But we know from contemporary
+hunter-gatherer communities...
+
+177
+00:12:15,590 --> 00:12:19,321
+...that very imaginative ideas arise.
+
+178
+00:12:19,761 --> 00:12:22,286
+The Kung Bushmen...
+
+179
+00:12:22,497 --> 00:12:25,557
+...of the Kalahari Desert
+in the Republic of Botswana...
+
+180
+00:12:25,767 --> 00:12:28,497
+...have an explanation
+of the Milky Way.
+
+181
+00:12:28,703 --> 00:12:31,672
+At their latitude,
+it's often overhead.
+
+182
+00:12:31,873 --> 00:12:35,900
+They call it the "backbone of night."
+
+183
+00:12:36,110 --> 00:12:38,738
+They believe it holds the sky up.
+
+184
+00:12:38,947 --> 00:12:41,279
+They believe that if not
+for the Milky Way...
+
+185
+00:12:41,482 --> 00:12:45,111
+...pieces of sky would come crashing
+down at our feet.
+
+186
+00:12:45,320 --> 00:12:48,949
+So the Milky Way, in their view,
+has some practical value.
+
+187
+00:12:49,157 --> 00:12:51,682
+The backbone of night.
+
+188
+00:12:54,529 --> 00:12:57,225
+Later on, metaphors about...
+
+189
+00:12:57,498 --> 00:12:59,989
+...campfires or backbones...
+
+190
+00:13:00,201 --> 00:13:03,500
+...or holes through which
+the flame could be seen...
+
+191
+00:13:03,705 --> 00:13:08,074
+...were replaced in most human
+communities by another idea.
+
+192
+00:13:08,543 --> 00:13:13,412
+The powerful beings in the sky
+were promoted to gods.
+
+193
+00:13:14,048 --> 00:13:17,142
+They were given names and relatives...
+
+194
+00:13:17,352 --> 00:13:19,286
+...and special responsibilities...
+
+195
+00:13:19,487 --> 00:13:22,854
+...for the cosmic services they were
+expected to perform.
+
+196
+00:13:23,057 --> 00:13:26,925
+There was a god
+for every human concern.
+
+197
+00:13:27,128 --> 00:13:28,186
+Gods ran nature.
+
+198
+00:13:28,396 --> 00:13:32,833
+Nothing happened without the direct
+intervention of some god.
+
+199
+00:13:33,134 --> 00:13:36,592
+If the gods were happy,
+there was plenty of food...
+
+200
+00:13:36,804 --> 00:13:38,362
+...and humans were happy.
+
+201
+00:13:40,174 --> 00:13:42,938
+But if something
+displeased the gods...
+
+202
+00:13:43,144 --> 00:13:47,444
+...and it didn't take much,
+the consequences were awesome:
+
+203
+00:13:47,649 --> 00:13:50,880
+Droughts, floods, storms, wars...
+
+204
+00:13:51,085 --> 00:13:54,714
+...earthquakes, volcanic eruptions,
+epidemics.
+
+205
+00:13:55,623 --> 00:13:58,649
+The gods had to be propitiated.
+
+206
+00:13:58,860 --> 00:14:01,522
+And a vast industry
+of priests arose...
+
+207
+00:14:01,729 --> 00:14:04,254
+...to make the gods less angry.
+
+208
+00:14:04,866 --> 00:14:07,926
+But because the gods
+were capricious...
+
+209
+00:14:08,136 --> 00:14:10,627
+...you couldn't be sure
+what they would do.
+
+210
+00:14:10,838 --> 00:14:13,272
+Nature was a mystery.
+
+211
+00:14:13,541 --> 00:14:16,066
+It was hard to understand the world.
+
+212
+00:14:19,113 --> 00:14:22,276
+Our ancestors groped in darkness...
+
+213
+00:14:22,483 --> 00:14:24,781
+...to make sense
+of their surroundings.
+
+214
+00:14:24,986 --> 00:14:26,476
+Powerless before nature...
+
+215
+00:14:27,155 --> 00:14:29,715
+...they invented rituals and myths...
+
+216
+00:14:29,924 --> 00:14:32,484
+...some desperate and cruel...
+
+217
+00:14:32,694 --> 00:14:36,357
+...others imaginative and benign.
+
+218
+00:14:36,698 --> 00:14:38,928
+The ancient Greeks explained...
+
+219
+00:14:39,133 --> 00:14:42,591
+...that diffuse band of brightness
+in the night sky...
+
+220
+00:14:42,804 --> 00:14:45,466
+...as the milk of the goddess Hera...
+
+221
+00:14:45,673 --> 00:14:48,642
+...squirted from her breast
+across the heavens.
+
+222
+00:14:48,843 --> 00:14:52,279
+We still call it the Milky Way.
+
+223
+00:14:58,786 --> 00:15:01,778
+In gratitude for the many gifts
+of the gods...
+
+224
+00:15:01,989 --> 00:15:06,119
+...our ancestors created works
+of surpassing beauty.
+
+225
+00:15:09,063 --> 00:15:11,554
+This is all that remains...
+
+226
+00:15:11,766 --> 00:15:15,167
+...of the ancient temple of Hera,
+queen of heaven:
+
+227
+00:15:15,536 --> 00:15:20,405
+A single marble column standing
+in a vast field of ruins...
+
+228
+00:15:21,109 --> 00:15:23,100
+...on the Greek island of Samos.
+
+229
+00:15:23,311 --> 00:15:25,279
+It was one of the wonders
+of the world...
+
+230
+00:15:25,747 --> 00:15:30,207
+...built by people with
+an extraordinary eye for clarity...
+
+231
+00:15:30,418 --> 00:15:31,976
+...and symmetry.
+
+232
+00:15:39,360 --> 00:15:41,692
+Those who thronged to that temple...
+
+233
+00:15:41,896 --> 00:15:44,490
+...were also the architects
+of a bridge...
+
+234
+00:15:44,699 --> 00:15:47,497
+...from their world to ours.
+
+235
+00:15:50,104 --> 00:15:54,598
+We were moving once again
+in our voyage of self-discovery...
+
+236
+00:15:54,876 --> 00:15:57,504
+...on our journey to the stars.
+
+237
+00:16:02,450 --> 00:16:06,147
+Here, 25 centuries ago...
+
+238
+00:16:06,788 --> 00:16:10,155
+...on the island of Samos
+and in the other Greek colonies...
+
+239
+00:16:10,358 --> 00:16:12,918
+...which had grown up
+in the busy Aegean Sea...
+
+240
+00:16:13,127 --> 00:16:15,721
+...there was a glorious awakening.
+
+241
+00:16:15,930 --> 00:16:19,491
+Suddenly, people believed
+that everything was made of atoms...
+
+242
+00:16:19,700 --> 00:16:23,966
+...that human beings and other animals
+had evolved from simpler forms...
+
+243
+00:16:24,172 --> 00:16:28,802
+...that diseases were not caused by
+demons or the gods...
+
+244
+00:16:29,010 --> 00:16:33,310
+...that the Earth was only
+a planet going around a sun...
+
+245
+00:16:33,514 --> 00:16:35,880
+...which was very far away.
+
+246
+00:16:39,454 --> 00:16:43,550
+This revolution made cosmos
+out of chaos.
+
+247
+00:16:43,958 --> 00:16:47,291
+Here, in the sixth century B.C.,
+a new idea developed...
+
+248
+00:16:47,495 --> 00:16:50,157
+...one of the great ideas
+of the human species.
+
+249
+00:16:50,364 --> 00:16:54,425
+It was argued that the universe
+was knowable.
+
+250
+00:16:54,735 --> 00:16:57,397
+Why? Because it was ordered.
+
+251
+00:16:57,605 --> 00:17:00,165
+Because there are regularities
+in nature...
+
+252
+00:17:00,374 --> 00:17:03,207
+...which permitted secrets
+to be uncovered.
+
+253
+00:17:05,446 --> 00:17:08,847
+Nature was not entirely unpredictable.
+
+254
+00:17:09,050 --> 00:17:12,781
+There were rules which even
+she had to obey.
+
+255
+00:17:15,323 --> 00:17:19,987
+This ordered and admirable character
+of the universe...
+
+256
+00:17:20,194 --> 00:17:22,185
+...was called cosmos.
+
+257
+00:17:23,364 --> 00:17:26,094
+And it was set
+in stark contradiction...
+
+258
+00:17:26,300 --> 00:17:28,530
+...to the idea of chaos.
+
+259
+00:17:29,403 --> 00:17:33,669
+This was the first conflict
+of which we know...
+
+260
+00:17:34,108 --> 00:17:36,338
+...between science and mysticism...
+
+261
+00:17:37,144 --> 00:17:39,874
+...between nature and the gods.
+
+262
+00:17:45,686 --> 00:17:47,654
+But why here?
+
+263
+00:17:48,256 --> 00:17:52,693
+Why in these remote islands and inlets
+of the eastern Mediterranean?
+
+264
+00:17:52,894 --> 00:17:55,192
+Why not in the great cities of...
+
+265
+00:17:55,396 --> 00:18:00,060
+...India or Egypt, Babylon,
+China, Mesoamerica?
+
+266
+00:18:02,737 --> 00:18:06,036
+Because they were all
+at the center of old empires.
+
+267
+00:18:08,609 --> 00:18:12,136
+They were set in their ways,
+hostile to new ideas.
+
+268
+00:18:12,346 --> 00:18:14,109
+But here in Ionia...
+
+269
+00:18:14,315 --> 00:18:18,217
+...were a multitude of newly colonized
+islands and city-states.
+
+270
+00:18:18,419 --> 00:18:22,753
+Isolation, even if incomplete,
+promotes diversity.
+
+271
+00:18:22,957 --> 00:18:27,121
+No single concentration of power
+could enforce conformity.
+
+272
+00:18:27,328 --> 00:18:30,263
+Free inquiry became possible.
+
+273
+00:18:31,165 --> 00:18:34,498
+They were beyond the frontiers
+of the empires.
+
+274
+00:18:34,702 --> 00:18:38,194
+The merchants and tourists
+and sailors of Africa...
+
+275
+00:18:38,406 --> 00:18:41,466
+...Asia and Europe
+met in the harbors of Ionia...
+
+276
+00:18:42,343 --> 00:18:46,143
+...to exchange goods
+and stories and ideas.
+
+277
+00:18:46,347 --> 00:18:49,612
+There was a vigorous and heady
+interaction...
+
+278
+00:18:49,817 --> 00:18:54,618
+...of many traditions, prejudices,
+languages and gods.
+
+279
+00:19:04,465 --> 00:19:07,866
+These people were ready to experiment.
+
+280
+00:19:08,436 --> 00:19:11,530
+Once you are open to
+questioning rituals...
+
+281
+00:19:11,739 --> 00:19:13,707
+...and time-honored practices...
+
+282
+00:19:13,908 --> 00:19:18,311
+...you find that one question
+leads to another.
+
+283
+00:19:28,022 --> 00:19:31,150
+What do you do when you're faced
+with several different gods...
+
+284
+00:19:31,359 --> 00:19:33,759
+...each claiming the same territory?
+
+285
+00:19:33,961 --> 00:19:36,521
+The Babylonian Marduk
+and the Greek Zeus...
+
+286
+00:19:36,731 --> 00:19:40,189
+...were each considered
+king of the gods...
+
+287
+00:19:40,401 --> 00:19:42,335
+...master of the sky.
+
+288
+00:19:42,803 --> 00:19:46,170
+You might decide, since they otherwise
+had different attributes...
+
+289
+00:19:46,374 --> 00:19:49,138
+...that one of them was merely
+invented by the priests.
+
+290
+00:19:49,343 --> 00:19:52,005
+But if one, why not both?
+
+291
+00:19:57,785 --> 00:20:00,811
+And so it was here
+that the great idea arose:
+
+292
+00:20:01,022 --> 00:20:03,047
+The realization that there
+might be a way...
+
+293
+00:20:03,257 --> 00:20:05,851
+...to know the world
+without the god hypothesis.
+
+294
+00:20:06,060 --> 00:20:10,827
+That there be principles,
+forces, laws of nature...
+
+295
+00:20:11,032 --> 00:20:14,524
+...through which the world might be
+understood without attributing...
+
+296
+00:20:14,735 --> 00:20:18,796
+...the fall of every sparrow to
+the direct intervention of Zeus.
+
+297
+00:20:19,206 --> 00:20:22,403
+This is the place
+where science was born.
+
+298
+00:20:22,777 --> 00:20:24,608
+That's why we're here.
+
+299
+00:20:26,147 --> 00:20:31,084
+This Greek revolution happened
+between 600 and 400 B.C.
+
+300
+00:20:31,752 --> 00:20:34,915
+It was accomplished by the same
+practical and productive people...
+
+301
+00:20:35,122 --> 00:20:36,953
+...who made the society function.
+
+302
+00:20:37,158 --> 00:20:40,252
+Political power was in the hands
+of the merchants...
+
+303
+00:20:40,461 --> 00:20:43,692
+...who promoted the technology
+on which their prosperity depended.
+
+304
+00:20:44,098 --> 00:20:46,259
+The earliest pioneers
+of science were...
+
+305
+00:20:46,467 --> 00:20:49,630
+...merchants and artisans
+and their children.
+
+306
+00:20:55,810 --> 00:20:59,211
+The first Ionian scientist was
+named Thales.
+
+307
+00:20:59,680 --> 00:21:02,444
+He was born over there
+in the city of Miletus...
+
+308
+00:21:02,650 --> 00:21:04,948
+...across this narrow strait.
+
+309
+00:21:05,152 --> 00:21:06,915
+He had traveled in Egypt...
+
+310
+00:21:07,121 --> 00:21:09,954
+...and was conversant
+with the knowledge of Babylon.
+
+311
+00:21:10,391 --> 00:21:14,885
+Like the Babylonians, he believed
+that the world had once all been water.
+
+312
+00:21:15,529 --> 00:21:17,622
+To explain the dry land...
+
+313
+00:21:17,832 --> 00:21:20,995
+...the Babylonians added
+that their god, Marduk...
+
+314
+00:21:21,202 --> 00:21:24,797
+...had placed a mat on the face
+of the waters...
+
+315
+00:21:25,005 --> 00:21:27,303
+...and piled dirt on top of it.
+
+316
+00:21:28,809 --> 00:21:30,504
+Thales had a similar view...
+
+317
+00:21:30,711 --> 00:21:33,612
+...but he left Marduk out.
+
+318
+00:21:34,415 --> 00:21:37,714
+Yes, the world had once been
+mostly water...
+
+319
+00:21:38,219 --> 00:21:42,747
+...but it was a natural process
+which explained the dry land.
+
+320
+00:21:42,957 --> 00:21:47,189
+Thales thought it was similar to
+the silting up he had observed...
+
+321
+00:21:47,394 --> 00:21:49,885
+...at the delta of the river Nile.
+
+322
+00:21:51,132 --> 00:21:54,795
+Whether Thales' conclusions
+were right or wrong...
+
+323
+00:21:55,002 --> 00:21:58,460
+...is not nearly as important
+as his approach.
+
+324
+00:21:58,672 --> 00:22:02,199
+The world was not made by the gods...
+
+325
+00:22:02,409 --> 00:22:05,572
+...but instead was the result
+of material forces...
+
+326
+00:22:05,780 --> 00:22:07,680
+...interacting in nature.
+
+327
+00:22:08,282 --> 00:22:12,116
+Thales brought back from
+Babylon and Egypt...
+
+328
+00:22:12,319 --> 00:22:15,550
+...the seeds of new sciences:
+
+329
+00:22:15,790 --> 00:22:18,190
+Astronomy and geometry...
+
+330
+00:22:18,392 --> 00:22:21,190
+...sciences which would
+sprout and grow...
+
+331
+00:22:21,395 --> 00:22:24,421
+...in the fertile soil of Ionia.
+
+332
+00:22:26,000 --> 00:22:29,902
+Anaximander of Miletus, over there...
+
+333
+00:22:30,337 --> 00:22:32,601
+...was a friend and colleague
+of Thales...
+
+334
+00:22:32,807 --> 00:22:34,968
+...one of the first people
+that we know of...
+
+335
+00:22:35,176 --> 00:22:37,406
+...to have actually done
+an experiment.
+
+336
+00:22:37,611 --> 00:22:42,139
+By examining the moving shadow
+cast by a vertical stick...
+
+337
+00:22:42,349 --> 00:22:46,877
+...he determined accurately
+the lengths of the year and seasons.
+
+338
+00:22:47,087 --> 00:22:50,318
+For ages, men had used sticks...
+
+339
+00:22:50,524 --> 00:22:52,583
+...to club and spear each other.
+
+340
+00:22:52,793 --> 00:22:56,320
+Anaximander used a stick
+to measure time.
+
+341
+00:23:00,801 --> 00:23:05,397
+In 540 B.C., or thereabouts,
+on this island of Samos...
+
+342
+00:23:05,606 --> 00:23:10,134
+...there came to power a tyrant
+named Polycrates.
+
+343
+00:23:10,411 --> 00:23:12,436
+He seems to have started
+as a caterer...
+
+344
+00:23:12,646 --> 00:23:15,547
+...and then went on to
+international piracy.
+
+345
+00:23:15,883 --> 00:23:20,411
+His loot was unloaded
+on this very breakwater.
+
+346
+00:23:20,621 --> 00:23:23,112
+(DRUM BEATS)
+
+347
+00:23:28,996 --> 00:23:33,057
+But he oppressed his own people,
+he made war on his neighbors.
+
+348
+00:23:33,267 --> 00:23:35,394
+He quite rightly feared invasion.
+
+349
+00:23:35,603 --> 00:23:40,506
+So Polycrates surrounded his capital
+city with an impressive wall...
+
+350
+00:23:40,708 --> 00:23:43,643
+...whose remains stand till this day.
+
+351
+00:23:53,053 --> 00:23:57,012
+To carry water from a distant spring
+through the fortifications...
+
+352
+00:23:57,224 --> 00:24:00,022
+...he ordered this great tunnel built.
+
+353
+00:24:00,227 --> 00:24:03,719
+A kilometer long,
+it pierces a mountain.
+
+354
+00:24:03,998 --> 00:24:06,330
+Two cuttings were dug
+from either side...
+
+355
+00:24:06,533 --> 00:24:08,797
+...which met almost perfectly
+in the middle.
+
+356
+00:24:09,003 --> 00:24:12,234
+The project took some 1 5 years
+to complete.
+
+357
+00:24:13,173 --> 00:24:16,734
+It is a token of the civil engineering
+of its day...
+
+358
+00:24:16,944 --> 00:24:20,778
+...and an indication of the
+extraordinary practical capability...
+
+359
+00:24:20,981 --> 00:24:21,879
+...of the Ionians.
+
+360
+00:24:25,185 --> 00:24:27,483
+The enduring legacy of the Ionians...
+
+361
+00:24:27,688 --> 00:24:30,122
+...is the tools and techniques
+they developed...
+
+362
+00:24:30,324 --> 00:24:33,589
+...which remain the basis
+of modern technology.
+
+363
+00:24:37,765 --> 00:24:40,996
+This was the time of Theodorus...
+
+364
+00:24:41,201 --> 00:24:43,931
+...the master engineer of the age...
+
+365
+00:24:44,138 --> 00:24:48,131
+...a man who is credited with
+the invention of...
+
+366
+00:24:48,342 --> 00:24:52,301
+...the key, the ruler,
+the carpenter's square...
+
+367
+00:24:52,513 --> 00:24:55,380
+...the level, the lathe,
+bronze casting.
+
+368
+00:24:55,883 --> 00:24:58,852
+Why are there no monuments
+to this man?
+
+369
+00:24:59,853 --> 00:25:03,345
+Those who dreamt and speculated...
+
+370
+00:25:03,557 --> 00:25:05,957
+...and deduced about
+the laws of nature...
+
+371
+00:25:06,160 --> 00:25:08,628
+...talked to the engineers
+and the technologists.
+
+372
+00:25:08,829 --> 00:25:10,854
+They were often the same people.
+
+373
+00:25:11,231 --> 00:25:15,190
+The practical and the theoretical
+were one.
+
+374
+00:25:16,236 --> 00:25:21,173
+(DRUM BEATS)
+
+375
+00:25:22,042 --> 00:25:25,705
+This new hybrid of abstract thought...
+
+376
+00:25:25,913 --> 00:25:29,314
+...and everyday experience
+blossomed into science.
+
+377
+00:25:30,684 --> 00:25:34,814
+When these practical men turned
+their attention to the natural world...
+
+378
+00:25:35,022 --> 00:25:37,149
+...they began to uncover
+hidden wonders...
+
+379
+00:25:38,125 --> 00:25:40,685
+...and breathtaking possibilities.
+
+380
+00:25:41,328 --> 00:25:44,786
+Anaximander studied the profusion
+of living things...
+
+381
+00:25:44,999 --> 00:25:47,524
+...and saw their interrelationships.
+
+382
+00:25:47,735 --> 00:25:51,865
+He concluded that life had originated
+in water and mud...
+
+383
+00:25:52,339 --> 00:25:55,069
+...and then colonized the dry land.
+
+384
+00:25:55,909 --> 00:25:57,740
+"Human beings," he said...
+
+385
+00:25:57,945 --> 00:26:00,846
+"...must have evolved
+from simpler forms."
+
+386
+00:26:01,348 --> 00:26:06,285
+This insight had to wait 24 centuries
+until its truth was demonstrated...
+
+387
+00:26:06,887 --> 00:26:08,650
+...by Charles Darwin.
+
+388
+00:26:17,264 --> 00:26:21,462
+Nothing was excluded from the
+investigations of the first scientists.
+
+389
+00:26:21,668 --> 00:26:25,968
+Even the air became the subject
+of close examination...
+
+390
+00:26:26,173 --> 00:26:30,166
+...by a Greek from Sicily
+named Empedocles.
+
+391
+00:26:31,812 --> 00:26:34,372
+He made an astonishing discovery...
+
+392
+00:26:34,581 --> 00:26:39,018
+...with a household implement
+that people had used for centuries.
+
+393
+00:26:39,353 --> 00:26:42,516
+This is the so-called
+water thief.
+
+394
+00:26:42,723 --> 00:26:46,921
+It's a brazen sphere with a neck
+and a hole at the top...
+
+395
+00:26:47,127 --> 00:26:49,687
+...and a set of little holes
+at the bottom.
+
+396
+00:26:49,897 --> 00:26:51,558
+It was used as a kitchen ladle.
+
+397
+00:26:52,099 --> 00:26:55,796
+You fill it by immersing it in water.
+
+398
+00:26:58,305 --> 00:27:00,603
+lf, after it's been in there
+a little bit...
+
+399
+00:27:00,808 --> 00:27:03,971
+...you pull it out
+with the neck uncovered...
+
+400
+00:27:05,245 --> 00:27:09,045
+...then the water trickles out
+the little holes making a small shower.
+
+401
+00:27:10,184 --> 00:27:13,813
+Instead, if you pull it out
+with the neck covered...
+
+402
+00:27:14,588 --> 00:27:16,215
+...the water is retained.
+
+403
+00:27:28,035 --> 00:27:30,128
+Now try to fill it...
+
+404
+00:27:30,370 --> 00:27:33,828
+...with the neck covered
+with my thumb.
+
+405
+00:27:37,945 --> 00:27:39,071
+Nothing happens.
+
+406
+00:27:39,947 --> 00:27:41,073
+Why not?
+
+407
+00:27:41,648 --> 00:27:43,445
+There's something in the way.
+
+408
+00:27:43,650 --> 00:27:48,587
+Some material is blocking the access
+of the water into the sphere.
+
+409
+00:27:48,922 --> 00:27:51,117
+I can't see any such material.
+
+410
+00:27:51,992 --> 00:27:53,619
+What could it be?
+
+411
+00:27:54,361 --> 00:27:56,852
+Empedocles identified it...
+
+412
+00:27:57,064 --> 00:27:58,463
+...as air.
+
+413
+00:27:59,099 --> 00:28:00,862
+What else could it be?
+
+414
+00:28:01,235 --> 00:28:04,363
+A thing you can't see
+can exert pressure...
+
+415
+00:28:04,571 --> 00:28:08,371
+...can frustrate my wish to fill
+this vessel with water...
+
+416
+00:28:08,575 --> 00:28:12,841
+...if I were dumb enough to
+leave my thumb on the neck.
+
+417
+00:28:13,680 --> 00:28:17,343
+Empedocles had discovered...
+
+418
+00:28:18,685 --> 00:28:20,175
+...the invisible.
+
+419
+00:28:20,787 --> 00:28:23,779
+Air, he thought, must be matter...
+
+420
+00:28:23,991 --> 00:28:27,358
+...in a form so finely divided...
+
+421
+00:28:28,228 --> 00:28:29,593
+...that it couldn't be seen.
+
+422
+00:28:31,064 --> 00:28:35,467
+This hint, this whiff
+of the existence of atoms...
+
+423
+00:28:35,669 --> 00:28:40,038
+...was carried much further by
+a contemporary named Democritus.
+
+424
+00:28:40,507 --> 00:28:44,773
+Of all the ancient scientists, it is
+he who speaks most clearly to us...
+
+425
+00:28:44,978 --> 00:28:46,502
+...across the centuries.
+
+426
+00:28:46,713 --> 00:28:49,944
+The few surviving fragments
+of his scientific writings...
+
+427
+00:28:50,150 --> 00:28:53,779
+...reveal a mind of the highest
+logical and intuitive powers.
+
+428
+00:28:53,987 --> 00:28:58,788
+He believed that a large number of
+other worlds wander through space...
+
+429
+00:28:58,992 --> 00:29:01,290
+...that worlds are born and die...
+
+430
+00:29:01,495 --> 00:29:03,486
+...that some are
+rich and living creatures...
+
+431
+00:29:03,697 --> 00:29:06,928
+...and others are dry and barren.
+
+432
+00:29:08,302 --> 00:29:11,135
+He was the first to understand
+that the Milky Way...
+
+433
+00:29:11,338 --> 00:29:14,933
+...is an aggregate of the light
+of innumerable faint stars.
+
+434
+00:29:15,142 --> 00:29:19,010
+Beyond campfires in the sky,
+beyond the milk of Hera...
+
+435
+00:29:19,213 --> 00:29:24,150
+...beyond the backbone of night,
+the mind of Democritus soared.
+
+436
+00:29:29,423 --> 00:29:32,654
+He saw deep connections between
+the heavens and the Earth.
+
+437
+00:29:33,260 --> 00:29:36,195
+"Man," he said, "is a microcosm...
+
+438
+00:29:36,630 --> 00:29:38,222
+...a little cosmos."
+
+439
+00:30:02,055 --> 00:30:05,991
+Democritus came from
+the Ionian town of Abdera...
+
+440
+00:30:06,193 --> 00:30:08,491
+...on the northern Aegean shore.
+
+441
+00:30:11,832 --> 00:30:16,166
+In those days, Abdera was
+the butt of jokes.
+
+442
+00:30:17,070 --> 00:30:19,163
+lf, around the year 400 B.C...
+
+443
+00:30:19,373 --> 00:30:21,841
+...in the equivalent
+of a restaurant like this...
+
+444
+00:30:22,409 --> 00:30:25,037
+...you told a story about
+someone from Abdera...
+
+445
+00:30:25,245 --> 00:30:27,179
+...you were guaranteed a laugh.
+
+446
+00:30:30,050 --> 00:30:32,018
+It was, in a way...
+
+447
+00:30:32,219 --> 00:30:34,619
+...the Brooklyn of its time.
+
+448
+00:30:37,124 --> 00:30:41,322
+For Democritus, all of life was to be
+enjoyed and understood.
+
+449
+00:30:41,528 --> 00:30:43,826
+For him, understanding and enjoyment...
+
+450
+00:30:44,031 --> 00:30:46,329
+...were pretty much the same thing.
+
+451
+00:30:46,533 --> 00:30:51,163
+He said, "A life without festivity is
+a long road without an inn."
+
+452
+00:30:51,371 --> 00:30:55,068
+Democritus may have come from Abdera,
+but he was no dummy.
+
+453
+00:30:58,879 --> 00:31:01,871
+Democritus understood
+that the complex forms...
+
+454
+00:31:02,082 --> 00:31:05,483
+...changes and motions
+of the material world...
+
+455
+00:31:05,686 --> 00:31:10,248
+...all derived from the interaction
+of very simple moving parts.
+
+456
+00:31:10,457 --> 00:31:13,153
+He called these parts atoms.
+
+457
+00:31:18,131 --> 00:31:21,828
+All material objects are
+collections of atoms...
+
+458
+00:31:22,369 --> 00:31:23,802
+...intricately assembled...
+
+459
+00:31:24,004 --> 00:31:25,301
+...even we.
+
+460
+00:31:25,539 --> 00:31:27,803
+When I cut this apple...
+
+461
+00:31:28,075 --> 00:31:30,100
+...the knife must be
+passing through...
+
+462
+00:31:30,377 --> 00:31:33,869
+...empty spaces between the atoms,
+Democritus argued.
+
+463
+00:31:34,081 --> 00:31:37,517
+If there were no such empty spaces,
+no void...
+
+464
+00:31:37,718 --> 00:31:42,280
+...then the knife would encounter
+some impenetrable atom...
+
+465
+00:31:42,489 --> 00:31:44,423
+...and the apple wouldn't be cut.
+
+466
+00:31:44,624 --> 00:31:47,718
+Let's compare the cross sections
+of the two pieces.
+
+467
+00:31:47,928 --> 00:31:50,522
+Are the exposed areas exactly equal?
+
+468
+00:31:50,731 --> 00:31:53,461
+No, said Democritus,
+the curvature of the apple...
+
+469
+00:31:53,667 --> 00:31:58,468
+...forces this slice to be slightly
+shorter than the rest of the apple.
+
+470
+00:31:58,872 --> 00:32:02,239
+If they were equally tall,
+then we'd have...
+
+471
+00:32:02,442 --> 00:32:04,501
+...a cylinder and not an apple.
+
+472
+00:32:04,745 --> 00:32:06,872
+No matter how sharp the knife...
+
+473
+00:32:07,080 --> 00:32:09,947
+...these two pieces have
+unequal cross sections.
+
+474
+00:32:10,150 --> 00:32:11,515
+But why?
+
+475
+00:32:11,718 --> 00:32:14,744
+Because on the scale
+of the very small...
+
+476
+00:32:14,955 --> 00:32:18,220
+...matter exhibits some
+irreducible roughness...
+
+477
+00:32:18,425 --> 00:32:22,156
+...and this fine scale of roughness
+Democritus of Abdera identified...
+
+478
+00:32:22,429 --> 00:32:24,363
+...with the world of the atoms.
+
+479
+00:32:24,564 --> 00:32:26,725
+His arguments are not those
+we use today.
+
+480
+00:32:26,933 --> 00:32:31,233
+But they're elegant and subtle
+and derived from everyday experience.
+
+481
+00:32:31,438 --> 00:32:34,874
+And his conclusions were
+fundamentally right.
+
+482
+00:32:40,147 --> 00:32:43,241
+Democritus believed that nothing
+happens at random...
+
+483
+00:32:43,450 --> 00:32:46,715
+...that everything has
+a material cause.
+
+484
+00:32:48,054 --> 00:32:51,990
+He said, "I would rather understand
+one cause...
+
+485
+00:32:52,192 --> 00:32:54,456
+...than be king of Persia."
+
+486
+00:32:54,661 --> 00:32:57,892
+He believed that poverty
+in a democracy was far better...
+
+487
+00:32:58,098 --> 00:32:59,725
+...than wealth in a tyranny.
+
+488
+00:32:59,933 --> 00:33:03,425
+He believed that the prevailing
+religions of his time were evil...
+
+489
+00:33:03,637 --> 00:33:07,664
+...and that neither souls
+nor immortal gods existed.
+
+490
+00:33:08,275 --> 00:33:13,212
+There is no evidence that Democritus
+was persecuted for his beliefs.
+
+491
+00:33:13,780 --> 00:33:16,772
+But then again, he came from Abdera.
+
+492
+00:33:19,052 --> 00:33:20,383
+However, in his time...
+
+493
+00:33:20,587 --> 00:33:24,023
+...the brief tradition of tolerance
+for unconventional views...
+
+494
+00:33:24,224 --> 00:33:26,192
+...was beginning to erode.
+
+495
+00:33:26,693 --> 00:33:29,218
+For instance,
+the prevailing belief was...
+
+496
+00:33:29,429 --> 00:33:32,193
+...that the moon and the sun
+were gods.
+
+497
+00:33:32,833 --> 00:33:36,599
+Another contemporary of Democritus,
+named Anaxagoras, taught...
+
+498
+00:33:36,803 --> 00:33:40,569
+...that the moon was a place
+made of ordinary matter...
+
+499
+00:33:40,774 --> 00:33:45,006
+...and that the sun was a red-hot stone
+far away in the sky.
+
+500
+00:33:45,245 --> 00:33:48,339
+For this, Anaxagoras was condemned...
+
+501
+00:33:48,548 --> 00:33:52,143
+...convicted and imprisoned
+for impiety...
+
+502
+00:33:52,352 --> 00:33:54,115
+...a religious crime.
+
+503
+00:33:54,321 --> 00:33:57,916
+People began to be persecuted
+for their ideas.
+
+504
+00:33:58,225 --> 00:34:00,887
+A portrait of Democritus is now...
+
+505
+00:34:01,094 --> 00:34:03,790
+...on the Greek 100-drachma note.
+
+506
+00:34:04,664 --> 00:34:06,825
+But his ideas were suppressed...
+
+507
+00:34:07,033 --> 00:34:09,228
+...and his influence on history
+made minor.
+
+508
+00:34:09,436 --> 00:34:12,132
+The mystics were beginning to win.
+
+509
+00:34:12,339 --> 00:34:16,469
+(DRUM BEATS)
+
+510
+00:34:18,945 --> 00:34:21,539
+You see, Ionia was also the home...
+
+511
+00:34:21,748 --> 00:34:24,581
+...of another quite different
+intellectual tradition.
+
+512
+00:34:24,784 --> 00:34:27,412
+Its founder was Pythagoras...
+
+513
+00:34:27,621 --> 00:34:31,022
+...who lived here on Samos
+in the 6th century B.C.
+
+514
+00:34:32,225 --> 00:34:34,523
+According to local legend...
+
+515
+00:34:34,728 --> 00:34:38,289
+...this cave was once his abode.
+
+516
+00:34:38,632 --> 00:34:41,157
+Maybe that was once his living room.
+
+517
+00:34:41,368 --> 00:34:43,336
+Many centuries later...
+
+518
+00:34:43,603 --> 00:34:47,369
+...this small Greek Orthodox shrine
+was erected on his front porch.
+
+519
+00:34:47,574 --> 00:34:52,511
+There's a continuity of tradition
+from Pythagoras to Christianity.
+
+520
+00:34:52,746 --> 00:34:56,409
+Pythagoras was the first person
+in the history of the world...
+
+521
+00:34:56,616 --> 00:34:59,744
+...to decide that the Earth
+was a sphere.
+
+522
+00:34:59,986 --> 00:35:04,184
+Perhaps he argued by analogy
+with the moon or the sun...
+
+523
+00:35:04,391 --> 00:35:07,417
+...maybe he noticed the curved shadow
+of the Earth on the moon...
+
+524
+00:35:07,627 --> 00:35:09,219
+...during a lunar eclipse.
+
+525
+00:35:09,429 --> 00:35:12,227
+Or maybe he recognized
+that when ships leave Samos...
+
+526
+00:35:12,432 --> 00:35:14,866
+...their masts disappear last.
+
+527
+00:35:20,140 --> 00:35:23,632
+Pythagoras believed that
+a mathematical harmony...
+
+528
+00:35:23,843 --> 00:35:25,708
+...underlies all of nature.
+
+529
+00:35:25,912 --> 00:35:28,176
+The modern tradition
+of mathematical argument...
+
+530
+00:35:28,381 --> 00:35:31,748
+...essential in all of science
+owes much to him.
+
+531
+00:35:31,952 --> 00:35:35,718
+And the notion that the heavenly bodies
+move to a kind of...
+
+532
+00:35:35,922 --> 00:35:38,152
+...music of the spheres...
+
+533
+00:35:38,458 --> 00:35:40,983
+...was also derived from Pythagoras.
+
+534
+00:35:41,595 --> 00:35:44,462
+It was he who first used
+the word cosmos...
+
+535
+00:35:44,664 --> 00:35:47,497
+...to mean a well-ordered
+and harmonious universe...
+
+536
+00:35:47,701 --> 00:35:51,193
+...a world amenable
+to human understanding.
+
+537
+00:35:55,575 --> 00:35:59,011
+For this great idea,
+we are indebted to Pythagoras.
+
+538
+00:35:59,212 --> 00:36:03,740
+But there were deep ironies
+and contradictions in his thoughts.
+
+539
+00:36:04,217 --> 00:36:06,117
+Many of the Ionians believed...
+
+540
+00:36:06,319 --> 00:36:10,813
+...that the underlying harmony and
+unity of the universe was accessible...
+
+541
+00:36:11,024 --> 00:36:13,720
+...through observation
+and experiment...
+
+542
+00:36:13,927 --> 00:36:16,395
+...the method which dominates
+science today.
+
+543
+00:36:16,663 --> 00:36:19,427
+However, Pythagoras had
+a very different method.
+
+544
+00:36:19,633 --> 00:36:24,570
+He believed that the laws of nature
+can be deduced by pure thought.
+
+545
+00:36:24,971 --> 00:36:28,031
+He and his followers were not
+basically experimentalists...
+
+546
+00:36:28,241 --> 00:36:30,038
+...they were mathematicians...
+
+547
+00:36:30,243 --> 00:36:33,110
+...and they were
+thoroughgoing mystics.
+
+548
+00:36:34,014 --> 00:36:37,950
+They were fascinated by these
+five regular solids...
+
+549
+00:36:38,151 --> 00:36:41,450
+...bodies whose faces
+are all polygons:
+
+550
+00:36:41,655 --> 00:36:44,283
+Triangles or squares...
+
+551
+00:36:44,491 --> 00:36:45,890
+...or pentagons.
+
+552
+00:36:46,092 --> 00:36:48,856
+There can be an infinite number
+of polygons...
+
+553
+00:36:49,062 --> 00:36:52,088
+...but only five regular solids.
+
+554
+00:36:54,668 --> 00:36:59,605
+Four of the solids were associated
+with earth, fire, air and water.
+
+555
+00:37:00,273 --> 00:37:03,868
+The cube, for example,
+represented earth.
+
+556
+00:37:04,077 --> 00:37:08,173
+These four elements, they thought,
+make up terrestrial matter.
+
+557
+00:37:09,549 --> 00:37:11,346
+So the fifth solid...
+
+558
+00:37:11,551 --> 00:37:14,782
+...they mystically associated
+with the cosmos.
+
+559
+00:37:14,988 --> 00:37:17,889
+Perhaps it was the substance
+of the heavens.
+
+560
+00:37:18,091 --> 00:37:20,651
+This fifth solid was called...
+
+561
+00:37:20,860 --> 00:37:23,328
+...the dodecahedron.
+
+562
+00:37:23,697 --> 00:37:27,189
+Its faces are pentagons, 1 2 of them.
+
+563
+00:37:27,801 --> 00:37:29,530
+Knowledge of the dodecahedron...
+
+564
+00:37:29,736 --> 00:37:33,001
+...was considered too dangerous
+for the public.
+
+565
+00:37:35,241 --> 00:37:39,701
+Ordinary people were to be
+kept ignorant of the dodecahedron.
+
+566
+00:37:39,946 --> 00:37:42,779
+In love with whole numbers,
+the Pythagoreans believed...
+
+567
+00:37:42,982 --> 00:37:45,143
+...that all things could be
+derived from them...
+
+568
+00:37:45,351 --> 00:37:47,342
+...certainly all other numbers.
+
+569
+00:37:47,554 --> 00:37:50,580
+So a crisis in doctrine occurred
+when they discovered...
+
+570
+00:37:50,790 --> 00:37:53,224
+...that the square root of two
+was irrational.
+
+571
+00:37:53,426 --> 00:37:56,554
+The square root of two could
+not be represented as the ratio...
+
+572
+00:37:56,763 --> 00:37:59,459
+...of two whole numbers
+no matter how big they were.
+
+573
+00:37:59,833 --> 00:38:02,529
+Irrational originally meant
+only that...
+
+574
+00:38:02,736 --> 00:38:05,705
+...that you can't express a number
+as a ratio.
+
+575
+00:38:05,905 --> 00:38:09,102
+But for the Pythagoreans,
+it came to mean something else...
+
+576
+00:38:09,309 --> 00:38:11,209
+...something threatening...
+
+577
+00:38:11,411 --> 00:38:15,507
+...a hint that their world-view
+might not make sense...
+
+578
+00:38:15,715 --> 00:38:18,548
+...the other meaning of irrational.
+
+579
+00:38:19,452 --> 00:38:24,116
+Instead of wanting everyone to share
+and know of their discoveries...
+
+580
+00:38:24,324 --> 00:38:27,521
+...the Pythagoreans suppressed
+the square root of two...
+
+581
+00:38:27,727 --> 00:38:29,388
+...and the dodecahedron.
+
+582
+00:38:29,596 --> 00:38:32,087
+The outside world was not to know.
+
+583
+00:38:38,004 --> 00:38:40,268
+The Pythagoreans had discovered...
+
+584
+00:38:40,473 --> 00:38:43,101
+...in the mathematical underpinnings
+of nature...
+
+585
+00:38:43,309 --> 00:38:45,937
+...one of the two most
+powerful scientific tools.
+
+586
+00:38:46,146 --> 00:38:49,240
+The other, of course, is experiment.
+
+587
+00:38:49,549 --> 00:38:52,109
+But instead of using their insight
+to advance...
+
+588
+00:38:52,318 --> 00:38:54,980
+...the collective voyage
+of human discovery...
+
+589
+00:38:55,188 --> 00:38:59,750
+...they made of it little more
+than the hocus-pocus of a mystery cult.
+
+590
+00:38:59,959 --> 00:39:03,053
+Science and mathematics were to be
+removed from the hands...
+
+591
+00:39:03,263 --> 00:39:04,890
+...of merchants and artisans.
+
+592
+00:39:05,832 --> 00:39:08,767
+This tendency found its most
+effective advocate...
+
+593
+00:39:08,968 --> 00:39:12,335
+...in a follower of Pythagoras
+named Plato.
+
+594
+00:39:12,605 --> 00:39:17,304
+He preferred the perfection
+of these mathematical abstractions...
+
+595
+00:39:17,510 --> 00:39:20,638
+...to the imperfections
+of everyday life.
+
+596
+00:39:20,847 --> 00:39:25,181
+He believed that ideas were far more
+real than the natural world.
+
+597
+00:39:25,385 --> 00:39:28,013
+He advised the astronomers
+not to waste their time...
+
+598
+00:39:28,221 --> 00:39:29,950
+...observing stars and planets.
+
+599
+00:39:30,156 --> 00:39:33,717
+It was better, he believed,
+just to think about them.
+
+600
+00:39:34,561 --> 00:39:38,156
+Plato expressed hostility to
+observation and experiment.
+
+601
+00:39:38,364 --> 00:39:40,798
+He taught contempt
+for the real world...
+
+602
+00:39:41,000 --> 00:39:44,993
+...and disdain for the practical
+application of scientific knowledge.
+
+603
+00:39:46,673 --> 00:39:50,404
+Plato's followers succeeded
+in extinguishing the light...
+
+604
+00:39:50,610 --> 00:39:52,441
+...of science and experiment...
+
+605
+00:39:52,645 --> 00:39:56,945
+...that had been kindled
+by Democritus and the other Ionians.
+
+606
+00:39:59,786 --> 00:40:03,187
+Plato's unease with the world
+as revealed by our senses...
+
+607
+00:40:03,389 --> 00:40:08,122
+...was to dominate
+and stifle Western philosophy.
+
+608
+00:40:10,563 --> 00:40:12,360
+Even as late as 1600...
+
+609
+00:40:12,565 --> 00:40:15,932
+...Johannes Kepler was still
+struggling to interpret...
+
+610
+00:40:16,135 --> 00:40:18,228
+...the structure of
+the cosmos in terms of...
+
+611
+00:40:18,438 --> 00:40:22,875
+...Pythagorean solids
+and Platonic perfection.
+
+612
+00:40:23,076 --> 00:40:27,012
+Ironically, it was Kepler who helped
+re-establish the old Ionian method...
+
+613
+00:40:27,213 --> 00:40:29,647
+...of testing ideas
+against observations.
+
+614
+00:40:30,183 --> 00:40:33,016
+But why had science lost its way
+in the first place?
+
+615
+00:40:33,219 --> 00:40:36,154
+What appeal did Pythagoras'
+and Plato's teachings...
+
+616
+00:40:36,356 --> 00:40:38,221
+...have for their contemporaries?
+
+617
+00:40:38,424 --> 00:40:40,051
+They provided, I believe...
+
+618
+00:40:40,260 --> 00:40:43,195
+...an intellectually
+respectable justification...
+
+619
+00:40:43,396 --> 00:40:46,263
+...for a corrupt social order.
+
+620
+00:40:49,836 --> 00:40:53,033
+The mercantile tradition which had
+led to Ionian science...
+
+621
+00:40:53,239 --> 00:40:55,503
+...also led to a slave economy.
+
+622
+00:40:56,376 --> 00:40:58,367
+You could get richer...
+
+623
+00:40:58,578 --> 00:41:01,138
+...if you owned a lot of slaves.
+
+624
+00:41:01,514 --> 00:41:04,506
+Athens, in the time
+of Plato and Aristotle...
+
+625
+00:41:04,717 --> 00:41:07,481
+...had a vast slave population.
+
+626
+00:41:07,687 --> 00:41:11,589
+All of that brave Athenian talk
+about democracy...
+
+627
+00:41:11,791 --> 00:41:14,692
+...applied only to a privileged few.
+
+628
+00:41:15,295 --> 00:41:19,629
+Plato and Aristotle were comfortable
+in a slave society.
+
+629
+00:41:19,832 --> 00:41:22,926
+They offered justifications
+for oppression.
+
+630
+00:41:23,569 --> 00:41:25,537
+They served tyrants.
+
+631
+00:41:25,738 --> 00:41:28,901
+They taught the alienation
+of the body from the mind...
+
+632
+00:41:29,108 --> 00:41:33,135
+...a natural enough idea, I suppose,
+in a slave society.
+
+633
+00:41:33,346 --> 00:41:35,871
+They separated thought from matter.
+
+634
+00:41:36,082 --> 00:41:38,448
+They divorced the Earth
+from the heavens.
+
+635
+00:41:38,651 --> 00:41:42,519
+Divisions which were to dominate
+Western thinking...
+
+636
+00:41:42,722 --> 00:41:44,815
+...for more than 20 centuries.
+
+637
+00:41:45,024 --> 00:41:47,458
+The Pythagoreans had won.
+
+638
+00:41:53,633 --> 00:41:56,659
+In the recognition by
+Pythagoras and Plato...
+
+639
+00:41:56,869 --> 00:41:58,837
+...that the cosmos is knowable...
+
+640
+00:41:59,038 --> 00:42:02,132
+...that there is a mathematical
+underpinning to nature...
+
+641
+00:42:02,342 --> 00:42:05,436
+...they greatly advanced
+the cause of science.
+
+642
+00:42:06,045 --> 00:42:10,106
+But in the suppression
+of disquieting facts...
+
+643
+00:42:10,316 --> 00:42:15,015
+...the sense that science should be
+kept for a small elite...
+
+644
+00:42:15,221 --> 00:42:19,282
+...the distaste for experiment,
+the embrace of mysticism...
+
+645
+00:42:19,926 --> 00:42:23,259
+...the easy acceptance
+of slave societies...
+
+646
+00:42:23,463 --> 00:42:27,331
+...their influence has
+significantly set back...
+
+647
+00:42:27,533 --> 00:42:29,160
+...the human endeavor.
+
+648
+00:42:30,536 --> 00:42:35,473
+The books of the Ionian scientists
+are entirely lost.
+
+649
+00:42:36,376 --> 00:42:41,109
+Their views were suppressed,
+ridiculed and forgotten...
+
+650
+00:42:41,881 --> 00:42:44,543
+...by the Platonists
+and by the Christians...
+
+651
+00:42:44,751 --> 00:42:48,243
+...who adopted much of
+the philosophy of Plato.
+
+652
+00:42:49,022 --> 00:42:53,755
+Finally, after a long,
+mystical sleep...
+
+653
+00:42:54,027 --> 00:42:58,623
+...in which the tools of
+scientific inquiry lay moldering...
+
+654
+00:42:58,831 --> 00:43:01,629
+...the Ionian approach was
+rediscovered.
+
+655
+00:43:06,606 --> 00:43:09,302
+The Western world reawakened.
+
+656
+00:43:09,509 --> 00:43:12,967
+Experiment and open inquiry...
+
+657
+00:43:13,179 --> 00:43:16,580
+...slowly became respectable
+once again.
+
+658
+00:43:17,283 --> 00:43:21,344
+Forgotten books and fragments were
+read once more.
+
+659
+00:43:21,721 --> 00:43:25,782
+Leonardo and Copernicus
+and Columbus...
+
+660
+00:43:25,992 --> 00:43:29,155
+...were inspired by
+the Ionian tradition.
+
+661
+00:43:41,407 --> 00:43:45,207
+The Pythagoreans
+and their successors...
+
+662
+00:43:45,411 --> 00:43:48,403
+...held the peculiar notion that...
+
+663
+00:43:48,614 --> 00:43:50,878
+...the Earth was tainted...
+
+664
+00:43:51,084 --> 00:43:53,518
+...somehow nasty...
+
+665
+00:43:53,719 --> 00:43:58,349
+...while the heavens were
+pristine and divine.
+
+666
+00:43:59,025 --> 00:44:01,755
+So the fundamental idea
+that the Earth is a planet...
+
+667
+00:44:01,961 --> 00:44:04,691
+...that we're citizens
+of the universe...
+
+668
+00:44:04,897 --> 00:44:07,627
+...was rejected and forgotten.
+
+669
+00:44:11,037 --> 00:44:14,837
+This idea was first argued
+by Aristarchus...
+
+670
+00:44:15,041 --> 00:44:19,000
+...born here on Samos,
+three centuries after Pythagoras.
+
+671
+00:44:19,212 --> 00:44:22,045
+He held that the Earth moves
+around the sun.
+
+672
+00:44:22,248 --> 00:44:25,479
+He correctly located our place
+in the solar system.
+
+673
+00:44:25,685 --> 00:44:29,553
+For his trouble,
+he was accused of heresy.
+
+674
+00:44:31,324 --> 00:44:35,658
+From the size of the Earth's shadow
+on the moon during a lunar eclipse...
+
+675
+00:44:35,862 --> 00:44:40,060
+...he deduced that the sun
+had to be much, much larger...
+
+676
+00:44:40,266 --> 00:44:43,360
+...than the Earth,
+and also very far away.
+
+677
+00:44:43,769 --> 00:44:46,363
+From this he may have argued
+that it was absurd...
+
+678
+00:44:46,572 --> 00:44:49,598
+...for so large an object as the sun
+to be going around...
+
+679
+00:44:49,809 --> 00:44:52,903
+...so small an object as the Earth.
+
+680
+00:44:53,112 --> 00:44:57,981
+So he put the sun rather than the Earth
+at the center of the solar system.
+
+681
+00:44:58,184 --> 00:45:01,711
+And he had the Earth and the other
+planets going around the sun.
+
+682
+00:45:01,921 --> 00:45:05,288
+He also had the Earth rotating
+on its axis once a day.
+
+683
+00:45:05,491 --> 00:45:09,655
+These are ideas that we ordinarily
+associate with the name Copernicus.
+
+684
+00:45:09,862 --> 00:45:13,354
+But Copernicus seems to have gotten
+some hint of these ideas...
+
+685
+00:45:13,566 --> 00:45:16,194
+...by reading about Aristarchus.
+
+686
+00:45:16,669 --> 00:45:19,399
+In fact, in the manuscript
+of Copernicus' book...
+
+687
+00:45:19,605 --> 00:45:23,041
+...he referred to Aristarchus,
+but in the final version...
+
+688
+00:45:23,242 --> 00:45:25,938
+...he suppressed the citation.
+
+689
+00:45:26,646 --> 00:45:29,513
+Resistance to Aristarchus,
+a kind of...
+
+690
+00:45:30,149 --> 00:45:32,640
+...geocentrism in everyday life,
+is with us still.
+
+691
+00:45:32,852 --> 00:45:35,787
+We still talk about a sun rising...
+
+692
+00:45:35,988 --> 00:45:38,456
+...and the sun setting.
+
+693
+00:45:39,158 --> 00:45:41,752
+It's 2200 years since Aristarchus...
+
+694
+00:45:41,961 --> 00:45:46,830
+...and the language still pretends
+that the Earth does not turn...
+
+695
+00:45:47,667 --> 00:45:51,694
+...that the sun is not at the center
+of the solar system.
+
+696
+00:45:54,807 --> 00:45:58,573
+Aristarchus understood the basic
+scheme of the solar system...
+
+697
+00:45:58,778 --> 00:46:00,541
+...but not its scale.
+
+698
+00:46:03,149 --> 00:46:06,812
+He knew that the planets move
+in concentric orbits about the sun...
+
+699
+00:46:07,019 --> 00:46:10,250
+...and he probably knew their order
+out to Saturn.
+
+700
+00:46:11,791 --> 00:46:14,021
+But he was much too modest
+in his estimates...
+
+701
+00:46:14,227 --> 00:46:16,718
+...of how far apart the planets are.
+
+702
+00:46:17,063 --> 00:46:20,430
+In order to calculate the true scale
+of the solar system...
+
+703
+00:46:20,633 --> 00:46:22,260
+...you need a telescope.
+
+704
+00:46:22,668 --> 00:46:26,160
+It wasn't until the 1 7th century
+that astronomers were able to get...
+
+705
+00:46:26,372 --> 00:46:30,069
+...even a rough estimate
+of the distance to the sun.
+
+706
+00:46:32,078 --> 00:46:34,569
+And once you knew
+the distance to the sun...
+
+707
+00:46:34,780 --> 00:46:36,338
+...what about the stars?
+
+708
+00:46:36,549 --> 00:46:38,983
+How far away are they?
+
+709
+00:46:42,888 --> 00:46:46,380
+There is a way to measure
+the distance to the stars...
+
+710
+00:46:46,592 --> 00:46:49,322
+...and the Ionians were
+fully capable of discovering it.
+
+711
+00:46:49,528 --> 00:46:53,328
+Aristarchus had toyed
+with the daring idea...
+
+712
+00:46:53,532 --> 00:46:56,262
+...that the stars were distant suns.
+
+713
+00:46:56,469 --> 00:46:58,937
+Now, if a star were as near
+as the sun...
+
+714
+00:46:59,138 --> 00:47:02,369
+...it should appear as big
+and as bright as the sun.
+
+715
+00:47:02,575 --> 00:47:06,341
+Everyone knows that the farther away
+an object is, the smaller it seems.
+
+716
+00:47:06,545 --> 00:47:10,003
+This inverse proportionality between
+apparent size and distance...
+
+717
+00:47:10,216 --> 00:47:13,913
+...is the basis of perspective
+in art and photography.
+
+718
+00:47:14,120 --> 00:47:16,816
+So the further away we are
+from the sun...
+
+719
+00:47:17,023 --> 00:47:19,924
+...the smaller and dimmer it appears.
+
+720
+00:47:20,126 --> 00:47:23,323
+How far from the sun would we
+have to be for it to appear...
+
+721
+00:47:23,529 --> 00:47:25,793
+...as small and dim as a star?
+
+722
+00:47:25,998 --> 00:47:28,967
+Or equivalently,
+how small a piece of sun...
+
+723
+00:47:29,168 --> 00:47:31,398
+...would be as bright as a star?
+
+724
+00:47:31,771 --> 00:47:36,265
+An experiment to answer this question
+was performed in 17th-century Holland...
+
+725
+00:47:36,475 --> 00:47:41,310
+...by Christiaan Huygens and is
+very much in the Ionian tradition.
+
+726
+00:47:41,514 --> 00:47:46,451
+Huygens drilled a number of holes
+in a brass plate...
+
+727
+00:47:46,886 --> 00:47:49,286
+...and held the plate up to the sun.
+
+728
+00:47:49,488 --> 00:47:54,289
+He asked himself,
+which hole seemed as bright...
+
+729
+00:47:54,493 --> 00:47:58,759
+...as he remembered the star Sirius
+to have been the previous evening.
+
+730
+00:47:58,964 --> 00:48:01,990
+Well, the hole that matched was
+effectively...
+
+731
+00:48:02,201 --> 00:48:06,934
+...1 l28,000th the apparent size
+of the sun.
+
+732
+00:48:07,206 --> 00:48:11,267
+So Sirius, he reasoned,
+must be 28,000 times...
+
+733
+00:48:11,477 --> 00:48:15,777
+...further away than the sun,
+or about half a light-year away.
+
+734
+00:48:16,382 --> 00:48:19,146
+It's hard to remember
+just how bright a star is...
+
+735
+00:48:19,352 --> 00:48:23,186
+...hours after you've looked at it,
+but Huygens remembered very well.
+
+736
+00:48:23,389 --> 00:48:27,416
+If he had known that Sirius was
+intrinsically brighter than the sun...
+
+737
+00:48:27,626 --> 00:48:30,026
+...he would've gotten
+the answer exactly right.
+
+738
+00:48:30,229 --> 00:48:34,290
+Sirius is 8.8 light-years
+away from us.
+
+739
+00:48:35,267 --> 00:48:38,134
+Between Aristarchus and Huygens...
+
+740
+00:48:38,337 --> 00:48:41,568
+...people had answered that question
+which had so excited me...
+
+741
+00:48:41,774 --> 00:48:43,639
+...as a young boy growing up
+in Brooklyn:
+
+742
+00:48:43,843 --> 00:48:46,209
+The question, "What are the stars?"
+
+743
+00:48:49,648 --> 00:48:54,585
+And the answer is that the stars are
+mighty suns, light-years away...
+
+744
+00:48:54,787 --> 00:48:57,187
+...in the depths
+of interstellar space.
+
+745
+00:49:02,995 --> 00:49:07,329
+And around those suns,
+are there other planets?
+
+746
+00:49:08,401 --> 00:49:10,369
+And on those other worlds...
+
+747
+00:49:10,569 --> 00:49:13,538
+...are there beings
+who wonder as we do?
+
+748
+00:49:17,910 --> 00:49:20,310
+Here is a light bulb...
+
+749
+00:49:20,513 --> 00:49:23,073
+...which is supposed to represent
+a nearby star.
+
+750
+00:49:23,282 --> 00:49:26,740
+Next to it, and very hard to see
+because of the bright light...
+
+751
+00:49:26,952 --> 00:49:28,317
+...is a planet.
+
+752
+00:49:28,521 --> 00:49:32,048
+We'll need a volunteer.
+Who would like to come up, please?
+
+753
+00:49:32,725 --> 00:49:35,319
+Ordinarily, it's hard to
+see the planet...
+
+754
+00:49:35,528 --> 00:49:39,487
+...because it's so close that the star
+washes out the planet.
+
+755
+00:49:39,698 --> 00:49:44,135
+But if we're able to put something
+in front of the star...
+
+756
+00:49:44,336 --> 00:49:47,863
+...to make an artificial eclipse,
+then we might be able to see the planet.
+
+757
+00:49:48,073 --> 00:49:52,339
+I'm gonna stand over here.
+Imagine that I'm a telescope...
+
+758
+00:49:52,545 --> 00:49:53,978
+...somewhere near the Earth.
+
+759
+00:49:54,180 --> 00:49:58,082
+And, Tab, if you'd slowly move
+the disc across.
+
+760
+00:49:58,284 --> 00:50:00,275
+Good. A little faster would be nice.
+
+761
+00:50:00,486 --> 00:50:03,114
+Now you're just beginning to cover
+over the star.
+
+762
+00:50:03,322 --> 00:50:06,348
+I really can't see the planet at all.
+Keep going.
+
+763
+00:50:06,559 --> 00:50:08,026
+Now, right there...
+
+764
+00:50:08,227 --> 00:50:10,593
+...I can't see the star at all...
+
+765
+00:50:10,796 --> 00:50:14,698
+...and I see the planet lit
+by the light of the star.
+
+766
+00:50:14,900 --> 00:50:18,233
+Now, that is a method for looking
+for planets...
+
+767
+00:50:18,437 --> 00:50:20,268
+...around nearby stars.
+
+768
+00:50:20,473 --> 00:50:25,410
+And that method uses a spacecraft
+to hold the disc...
+
+769
+00:50:25,945 --> 00:50:28,413
+...and scan the sky
+for another telescope...
+
+770
+00:50:28,614 --> 00:50:31,344
+...to see if there are any planets.
+
+771
+00:50:31,550 --> 00:50:35,884
+Tab, you accomplished your mission
+to look for planets around other stars.
+
+772
+00:50:36,088 --> 00:50:39,251
+Thank you for being
+our interplanetary spacecraft.
+
+773
+00:50:39,458 --> 00:50:42,052
+So this is one way.
+
+774
+00:50:42,261 --> 00:50:45,662
+And there are spaceships
+that will be able to do this...
+
+775
+00:50:45,865 --> 00:50:47,628
+...in the next 1 0 years or so.
+
+776
+00:50:47,833 --> 00:50:49,300
+And there's another way.
+
+777
+00:50:49,502 --> 00:50:52,027
+This has already been tried
+from the Earth.
+
+778
+00:50:52,238 --> 00:50:56,334
+Imagine that there's a nearby star
+that you can see.
+
+779
+00:50:56,542 --> 00:51:00,535
+It's bright and it has
+a dark companion, a planet...
+
+780
+00:51:00,746 --> 00:51:04,147
+...shining only by reflected light
+near it, so dim you can't see it.
+
+781
+00:51:04,350 --> 00:51:09,117
+But imagine that this planet
+and its star...
+
+782
+00:51:09,321 --> 00:51:11,186
+...are going around each other.
+
+783
+00:51:12,324 --> 00:51:13,655
+Like that:
+
+784
+00:51:13,859 --> 00:51:16,453
+You can see the star,
+you can't see the planet.
+
+785
+00:51:16,662 --> 00:51:19,028
+So now I'm gonna need two volunteers.
+
+786
+00:51:21,233 --> 00:51:22,257
+You two.
+
+787
+00:51:23,602 --> 00:51:26,469
+Just to save time
+because they're in the front row.
+
+788
+00:51:26,672 --> 00:51:29,698
+I need one of you to turn
+the star and the planet...
+
+789
+00:51:29,909 --> 00:51:33,868
+...and another person to pull
+the star and planet along.
+
+790
+00:51:34,079 --> 00:51:35,546
+And what you will see...
+
+791
+00:51:35,748 --> 00:51:39,081
+...is that the star
+you can make out...
+
+792
+00:51:39,285 --> 00:51:41,913
+...will be moving
+in a funny, wiggly pattern...
+
+793
+00:51:42,121 --> 00:51:44,248
+...which will be the clue,
+the evidence...
+
+794
+00:51:44,456 --> 00:51:46,720
+...for the existence
+of the dark planet.
+
+795
+00:51:46,926 --> 00:51:50,123
+Okay, let's have a spin. Good.
+And a pull.
+
+796
+00:51:50,329 --> 00:51:51,990
+And you see this funny motion...
+
+797
+00:51:52,197 --> 00:51:56,861
+...that the star makes
+because of the planet. Thank you.
+
+798
+00:51:57,069 --> 00:52:00,266
+That's another way of finding out
+the existence of a planet...
+
+799
+00:52:00,472 --> 00:52:03,373
+...that you couldn't see directly.
+
+800
+00:52:03,576 --> 00:52:06,704
+Well, both of these methods are
+being used.
+
+801
+00:52:07,012 --> 00:52:11,676
+And by the time that you people are...
+
+802
+00:52:11,884 --> 00:52:13,681
+...as old as I am...
+
+803
+00:52:13,886 --> 00:52:17,253
+...we should know,
+for all the nearest stars...
+
+804
+00:52:17,456 --> 00:52:19,890
+...if they have planets
+going around them.
+
+805
+00:52:20,092 --> 00:52:24,461
+We might know dozens or even hundreds
+of other planetary systems...
+
+806
+00:52:24,663 --> 00:52:27,962
+...and see if they're like our own
+or very different...
+
+807
+00:52:28,167 --> 00:52:31,762
+...or no other planets
+going around other stars at all.
+
+808
+00:52:31,971 --> 00:52:34,235
+That will happen in your lifetime.
+
+809
+00:52:34,440 --> 00:52:39,104
+It'll be the first time in the world's
+history that anybody found out...
+
+810
+00:52:39,845 --> 00:52:42,575
+...if there are planets
+around the other stars.
+
+811
+00:52:42,781 --> 00:52:47,718
+Now, the nearby stars, the ones
+you can see with the naked eye...
+
+812
+00:52:48,020 --> 00:52:50,284
+...those are all
+in the solar neighborhood.
+
+813
+00:52:50,489 --> 00:52:52,980
+That's what astronomers call it:
+The neighborhood.
+
+814
+00:52:53,192 --> 00:52:57,788
+But it's a very tiny place
+in the Milky Way galaxy.
+
+815
+00:52:58,731 --> 00:53:00,858
+The Milky Way is that band of light...
+
+816
+00:53:01,066 --> 00:53:04,160
+...that you see across the sky
+on a clear night.
+
+817
+00:53:04,370 --> 00:53:07,498
+I can't tell if there are any more
+clear nights in Brooklyn.
+
+818
+00:53:07,706 --> 00:53:11,369
+You must've seen the Milky Way,
+a faint band of light at night.
+
+819
+00:53:11,577 --> 00:53:16,207
+Well, that's just 100 billion stars...
+
+820
+00:53:16,415 --> 00:53:18,349
+...all seen together...
+
+821
+00:53:18,550 --> 00:53:21,144
+...edge on, as in this picture.
+
+822
+00:53:21,353 --> 00:53:24,686
+If you could get out of
+the Milky Way and look down on it...
+
+823
+00:53:24,890 --> 00:53:26,790
+...it would look like that picture.
+
+824
+00:53:26,992 --> 00:53:29,153
+If we did look down
+on the Milky Way...
+
+825
+00:53:29,361 --> 00:53:32,057
+...where would the sun
+and nearby stars be?
+
+826
+00:53:32,264 --> 00:53:35,427
+Would it be in the center where things
+look important...
+
+827
+00:53:35,634 --> 00:53:37,101
+...or at least well-lit?
+
+828
+00:53:37,836 --> 00:53:41,169
+No. We would be way out here...
+
+829
+00:53:41,373 --> 00:53:45,366
+...in the suburbs,
+in the countryside of the galaxy.
+
+830
+00:53:45,577 --> 00:53:47,238
+We're not in any important place.
+
+831
+00:53:47,446 --> 00:53:51,212
+All the stars you could see would be
+in a little place like that.
+
+832
+00:53:51,417 --> 00:53:54,614
+And the Milky Way would be
+this band of light...
+
+833
+00:53:54,820 --> 00:53:57,380
+...100 billion stars all together.
+
+834
+00:53:57,856 --> 00:54:00,791
+The fact that we live
+in the outskirts of the galaxy...
+
+835
+00:54:00,993 --> 00:54:04,485
+...was discovered a long time ago...
+
+836
+00:54:04,697 --> 00:54:07,257
+...towards the end
+of the First World War...
+
+837
+00:54:07,466 --> 00:54:09,764
+...by a man named Harlow Shapley...
+
+838
+00:54:09,968 --> 00:54:14,200
+...who was mapping the position
+of these clusters of stars.
+
+839
+00:54:14,406 --> 00:54:16,897
+See, every one of these is a bunch...
+
+840
+00:54:17,109 --> 00:54:19,577
+...of maybe 1 0,000 stars all together.
+
+841
+00:54:19,778 --> 00:54:21,769
+It's called a globular cluster.
+
+842
+00:54:21,980 --> 00:54:25,279
+And you can see that they are
+centered around the middle...
+
+843
+00:54:25,484 --> 00:54:27,315
+...the center of the galaxy.
+
+844
+00:54:27,586 --> 00:54:31,352
+People used to think that the sun was
+at the center of the galaxy...
+
+845
+00:54:31,557 --> 00:54:35,789
+...something important about our
+position. That turns out to be wrong.
+
+846
+00:54:36,128 --> 00:54:38,358
+We live in the outskirts...
+
+847
+00:54:38,564 --> 00:54:40,998
+...the globular clusters are
+centered around...
+
+848
+00:54:41,500 --> 00:54:45,163
+...the marvelous middle
+of the Milky Way galaxy.
+
+849
+00:54:45,370 --> 00:54:49,204
+And then it turned out
+that this isn't the only galaxy.
+
+850
+00:54:49,408 --> 00:54:51,842
+We live in this one...
+
+851
+00:54:52,444 --> 00:54:54,207
+...but there are many others.
+
+852
+00:54:54,580 --> 00:54:57,572
+And as this picture reminds us...
+
+853
+00:54:58,283 --> 00:55:00,717
+...there are many different kinds
+of galaxies...
+
+854
+00:55:00,919 --> 00:55:03,319
+...of which ours might be
+just this one.
+
+855
+00:55:03,522 --> 00:55:08,084
+There are, in fact,
+100 billion other galaxies...
+
+856
+00:55:08,293 --> 00:55:13,230
+...each of which contains
+something like 100 billion stars.
+
+857
+00:55:13,966 --> 00:55:18,903
+Think of how many stars and planets
+and kinds of life there may be...
+
+858
+00:55:19,705 --> 00:55:23,869
+...in this vast and awesome universe.
+
+859
+00:55:26,678 --> 00:55:28,839
+As long as there have been humans...
+
+860
+00:55:29,047 --> 00:55:32,448
+...we have searched
+for our place in the cosmos.
+
+861
+00:55:32,651 --> 00:55:35,449
+Where are we? Who are we?
+
+862
+00:55:37,556 --> 00:55:41,856
+We find that we live
+on an insignificant planet...
+
+863
+00:55:42,060 --> 00:55:44,028
+...of a humdrum star...
+
+864
+00:55:44,229 --> 00:55:47,392
+...lost in a galaxy
+tucked away in some...
+
+865
+00:55:47,599 --> 00:55:50,796
+...forgotten corner of a universe
+in which there are...
+
+866
+00:55:51,003 --> 00:55:54,268
+...far more galaxies than people.
+
+867
+00:55:57,509 --> 00:56:01,275
+We make our world significant by
+the courage of our questions...
+
+868
+00:56:01,713 --> 00:56:04,341
+...and by the depth of our answers.
+
+869
+00:56:05,918 --> 00:56:09,012
+We embarked on our journey
+to the stars...
+
+870
+00:56:09,621 --> 00:56:12,215
+...with a question first framed...
+
+871
+00:56:12,424 --> 00:56:14,949
+...in the childhood of our species...
+
+872
+00:56:15,394 --> 00:56:19,660
+...and in each generation
+asked anew...
+
+873
+00:56:19,932 --> 00:56:22,093
+...with undiminished wonder:
+
+874
+00:56:22,467 --> 00:56:24,628
+"What are the stars?"
+
+875
+00:56:42,721 --> 00:56:45,588
+Exploration is in our nature.
+
+876
+00:56:46,191 --> 00:56:48,489
+We began as wanderers...
+
+877
+00:56:48,794 --> 00:56:51,661
+...and we are wanderers still.
+
+878
+00:57:02,941 --> 00:57:05,637
+We have lingered long enough...
+
+879
+00:57:05,844 --> 00:57:08,642
+...on the shores of the cosmic ocean.
+
+880
+00:57:08,881 --> 00:57:10,678
+We are ready at last...
+
+881
+00:57:10,883 --> 00:57:14,114
+...to set sail for the stars.
+

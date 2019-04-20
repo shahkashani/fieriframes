@@ -1,0 +1,3668 @@
+1
+00:02:48,387 --> 00:02:52,221
+If you wish to make
+an apple pie from scratch...
+
+2
+00:02:52,791 --> 00:02:56,887
+...you must first invent the universe.
+
+3
+00:02:57,096 --> 00:02:58,688
+Thank you very much.
+
+4
+00:02:59,865 --> 00:03:02,299
+Suppose I cut a piece...
+
+5
+00:03:03,168 --> 00:03:05,102
+...out of this apple pie.
+
+6
+00:03:17,783 --> 00:03:20,251
+Crumbly, but good.
+
+7
+00:03:23,589 --> 00:03:28,526
+And now suppose we cut
+this piece in half, or more or less.
+
+8
+00:03:30,129 --> 00:03:32,996
+And then cut this piece in half...
+
+9
+00:03:33,599 --> 00:03:35,760
+...and keep going.
+
+10
+00:03:35,968 --> 00:03:40,632
+How many cuts before we get
+down to an individual atom?
+
+11
+00:03:40,839 --> 00:03:45,538
+The answer is about
+90 successive cuts.
+
+12
+00:03:46,645 --> 00:03:49,978
+Of course, this knife isn't
+sharp enough...
+
+13
+00:03:50,182 --> 00:03:52,650
+...the pie is too crumbly...
+
+14
+00:03:52,851 --> 00:03:56,252
+...and an atom is too small
+to see in any case.
+
+15
+00:03:56,455 --> 00:03:59,891
+But there is a way to do it.
+
+16
+00:04:02,528 --> 00:04:06,760
+It was here at
+Cambridge University in England...
+
+17
+00:04:06,965 --> 00:04:10,264
+...that the nature of the atom was
+first understood...
+
+18
+00:04:10,469 --> 00:04:14,838
+...in part by shooting pieces
+of atoms at atoms...
+
+19
+00:04:15,040 --> 00:04:18,203
+...and seeing how they bounce off.
+
+20
+00:04:18,410 --> 00:04:21,937
+A typical atom is surrounded...
+
+21
+00:04:22,147 --> 00:04:25,913
+...by a kind of cloud of electrons.
+
+22
+00:04:26,118 --> 00:04:30,054
+The electrons are electrically
+charged, as the name suggests...
+
+23
+00:04:30,255 --> 00:04:33,622
+...and they determine the chemical
+properties of the atom.
+
+24
+00:04:33,826 --> 00:04:37,887
+For example, the glitter of gold...
+
+25
+00:04:40,866 --> 00:04:42,800
+...or the transparency of the solid...
+
+26
+00:04:43,001 --> 00:04:46,027
+...that's made from the atoms
+silicon and oxygen.
+
+27
+00:04:47,306 --> 00:04:49,536
+But deep inside the atom...
+
+28
+00:04:49,741 --> 00:04:53,802
+...hidden far beneath
+the outer electron cloud...
+
+29
+00:04:54,012 --> 00:04:58,039
+...is the nucleus, composed chiefly
+of protons and neutrons.
+
+30
+00:04:58,250 --> 00:05:00,616
+Atoms are very small.
+
+31
+00:05:00,819 --> 00:05:05,381
+100 million of them, end to end,
+would be about so big.
+
+32
+00:05:05,591 --> 00:05:10,494
+And the nucleus is 100,000 times
+smaller still.
+
+33
+00:05:10,996 --> 00:05:14,727
+Nevertheless, most of the mass
+in an atom is in the nucleus.
+
+34
+00:05:14,933 --> 00:05:17,993
+The electrons are by comparison...
+
+35
+00:05:18,203 --> 00:05:21,172
+...just bits of moving fluff.
+
+36
+00:05:21,373 --> 00:05:24,536
+Atoms are mainly empty space.
+
+37
+00:05:24,743 --> 00:05:28,804
+Matter is composed chiefly
+of nothing.
+
+38
+00:05:31,717 --> 00:05:34,845
+When we consider cutting this
+apple pie, but...
+
+39
+00:05:35,053 --> 00:05:38,489
+...down beyond a single atom...
+
+40
+00:05:38,757 --> 00:05:43,592
+...we confront an infinity
+of the very small.
+
+41
+00:05:43,795 --> 00:05:46,764
+And when we look up
+at the night sky...
+
+42
+00:05:46,965 --> 00:05:50,958
+...we confront an infinity
+of the very large.
+
+43
+00:05:51,170 --> 00:05:55,869
+These infinities are among the most
+awesome of human ideas.
+
+44
+00:05:56,074 --> 00:06:00,511
+They represent an unending regress
+which goes on...
+
+45
+00:06:00,913 --> 00:06:05,043
+...not just very far, but forever.
+
+46
+00:06:05,250 --> 00:06:09,118
+Have you ever stood between two
+parallel mirrors...
+
+47
+00:06:09,321 --> 00:06:10,720
+...in a barbershop, say...
+
+48
+00:06:10,923 --> 00:06:14,415
+...and seen a very large
+number of you?
+
+49
+00:06:14,626 --> 00:06:17,561
+Or you could use...
+
+50
+00:06:18,797 --> 00:06:21,265
+...two flat mirrors...
+
+51
+00:06:21,700 --> 00:06:24,100
+...and a candle flame...
+
+52
+00:06:24,303 --> 00:06:27,602
+...you would see a large number
+of images...
+
+53
+00:06:27,806 --> 00:06:31,606
+...each the reflection
+of another image.
+
+54
+00:06:33,512 --> 00:06:36,743
+You can't really see an infinity
+of images...
+
+55
+00:06:36,949 --> 00:06:40,282
+...because the mirrors aren't
+perfectly flat and aligned.
+
+56
+00:06:40,485 --> 00:06:43,886
+And there's a candle or
+a candle flame in the way...
+
+57
+00:06:44,089 --> 00:06:46,819
+...and light doesn't travel
+infinitely fast.
+
+58
+00:06:47,025 --> 00:06:49,459
+When we talk of real infinities...
+
+59
+00:06:49,661 --> 00:06:53,529
+...we're talking about a quantity
+larger than any number.
+
+60
+00:06:53,732 --> 00:06:58,192
+No matter what number you have in
+mind, infinity is larger.
+
+61
+00:07:01,907 --> 00:07:06,207
+There's a nice way
+to write large numbers.
+
+62
+00:07:06,411 --> 00:07:07,810
+You can...
+
+63
+00:07:08,880 --> 00:07:11,314
+...write the number 1000...
+
+64
+00:07:11,516 --> 00:07:14,110
+...as 10 to the power three...
+
+65
+00:07:14,319 --> 00:07:18,255
+...meaning, a one
+followed by three zeros.
+
+66
+00:07:18,457 --> 00:07:23,394
+Or a million is written as
+10 to the power six...
+
+67
+00:07:23,729 --> 00:07:28,496
+...meaning, a one
+followed by six zeros.
+
+68
+00:07:29,234 --> 00:07:33,364
+There's no largest number. If anybody
+gives you a candidate...
+
+69
+00:07:33,572 --> 00:07:35,563
+...you can always add the
+number one to it.
+
+70
+00:07:35,774 --> 00:07:38,709
+But there certainly are
+very big numbers.
+
+71
+00:07:38,910 --> 00:07:43,609
+The American mathematician Edward
+Kasner once asked his nephew...
+
+72
+00:07:43,815 --> 00:07:47,216
+...to invent a name for
+an extremely large number:
+
+73
+00:07:47,919 --> 00:07:51,013
+10 to the power 100...
+
+74
+00:07:51,223 --> 00:07:56,160
+...which I can't write out all the
+zeros because there isn't room.
+
+75
+00:07:56,361 --> 00:08:01,128
+The boy called it a googol.
+
+76
+00:08:02,834 --> 00:08:07,635
+If you think a googol is large,
+consider a googolplex.
+
+77
+00:08:08,340 --> 00:08:10,900
+It's 10 to the power of a googol.
+
+78
+00:08:11,109 --> 00:08:14,567
+That is, a one followed, not by
+100 zeros...
+
+79
+00:08:14,780 --> 00:08:17,943
+...but by a googol zeros.
+
+80
+00:08:19,017 --> 00:08:20,780
+Now, by comparison...
+
+81
+00:08:20,986 --> 00:08:23,648
+...with these enormous numbers...
+
+82
+00:08:23,855 --> 00:08:27,052
+...the total number of atoms
+in that apple pie...
+
+83
+00:08:27,259 --> 00:08:30,228
+...is only about 10 to the 26th.
+
+84
+00:08:30,429 --> 00:08:33,296
+Tiny compared to a googol and...
+
+85
+00:08:33,498 --> 00:08:37,059
+...of course, much, much less
+than a googolplex.
+
+86
+00:08:37,269 --> 00:08:38,861
+The number
+of elementary particles...
+
+87
+00:08:39,071 --> 00:08:41,039
+...protons, neutrons and electrons...
+
+88
+00:08:41,239 --> 00:08:42,934
+...in the accessible universe...
+
+89
+00:08:43,141 --> 00:08:45,439
+...is of the order of 10 to the 80th.
+
+90
+00:08:45,644 --> 00:08:47,669
+A one followed by 80 zeros.
+
+91
+00:08:47,879 --> 00:08:49,938
+Still much, much less than a googol...
+
+92
+00:08:50,148 --> 00:08:53,743
+...and vastly less than a googolplex.
+
+93
+00:08:53,952 --> 00:08:58,719
+And yet, these numbers, the googol
+and the googolplex...
+
+94
+00:08:58,924 --> 00:09:03,657
+...do not approach, they come
+nowhere near infinity.
+
+95
+00:09:03,862 --> 00:09:08,697
+In fact, a googolplex is precisely
+as far from infinity...
+
+96
+00:09:08,900 --> 00:09:11,767
+...as is the number one.
+
+97
+00:09:11,970 --> 00:09:15,201
+We started to write out
+a googolplex...
+
+98
+00:09:15,407 --> 00:09:17,204
+...but it wasn't easy.
+
+99
+00:09:19,044 --> 00:09:21,672
+SAGAN:
+It's a very big number.
+
+100
+00:09:41,032 --> 00:09:45,332
+Writing out a googolplex is a
+spectacularly futile exercise.
+
+101
+00:09:45,937 --> 00:09:49,964
+A piece of paper large enough to
+contain the zeros in a googolplex...
+
+102
+00:09:50,175 --> 00:09:54,373
+...couldn't be stuffed into
+the known universe.
+
+103
+00:10:00,085 --> 00:10:01,052
+Fortunately...
+
+104
+00:10:02,587 --> 00:10:04,054
+...there's a...
+
+105
+00:10:05,357 --> 00:10:07,689
+...much simpler
+and more concise way...
+
+106
+00:10:07,893 --> 00:10:09,986
+...to write a googolplex.
+
+107
+00:10:18,236 --> 00:10:19,635
+Like this.
+
+108
+00:10:19,838 --> 00:10:21,829
+And infinity...
+
+109
+00:10:25,010 --> 00:10:27,444
+...can be represented like this.
+
+110
+00:10:28,013 --> 00:10:31,915
+This is the Cavendish Laboratory
+at Cambridge University...
+
+111
+00:10:32,117 --> 00:10:36,076
+...where the constituents of the atom
+were first discovered.
+
+112
+00:10:36,288 --> 00:10:40,247
+The realm of the very small.
+
+113
+00:10:41,526 --> 00:10:45,553
+From the time of Democritus,
+in the fifth century B.C...
+
+114
+00:10:45,764 --> 00:10:49,495
+...people have speculated
+about the existence of atoms.
+
+115
+00:10:49,701 --> 00:10:53,068
+For the last few hundred years,
+there have been persuasive...
+
+116
+00:10:53,271 --> 00:10:56,832
+...but indirect arguments that all
+matter is made of atoms.
+
+117
+00:10:57,075 --> 00:11:01,671
+But only in our time, have we actually
+been able to see them.
+
+118
+00:11:01,880 --> 00:11:06,476
+Here the red blobs are the random
+throbbing motions...
+
+119
+00:11:06,952 --> 00:11:08,442
+...of uranium atoms...
+
+120
+00:11:08,653 --> 00:11:11,645
+...magnified 100 million times.
+
+121
+00:11:12,924 --> 00:11:17,452
+How Democritus of Abdera
+would've enjoyed this movie.
+
+122
+00:11:22,467 --> 00:11:27,234
+We pretty much take atoms for granted.
+
+123
+00:11:28,039 --> 00:11:31,031
+And yet, there are so
+many different kinds...
+
+124
+00:11:31,243 --> 00:11:35,646
+...lovely and useful at
+the same time.
+
+125
+00:11:35,847 --> 00:11:36,973
+Look.
+
+126
+00:12:04,276 --> 00:12:08,303
+There are some 92 chemically
+distinct kinds of atoms...
+
+127
+00:12:08,780 --> 00:12:10,611
+...naturally found on Earth.
+
+128
+00:12:10,815 --> 00:12:14,581
+They're called the chemical elements.
+
+129
+00:12:30,135 --> 00:12:32,660
+Virtually everything
+we see and know...
+
+130
+00:12:32,871 --> 00:12:35,271
+...all the beauty
+of the natural world...
+
+131
+00:12:35,473 --> 00:12:38,965
+...is made of these
+few kinds of atoms...
+
+132
+00:12:39,177 --> 00:12:43,546
+...arranged in harmonious
+chemical patterns.
+
+133
+00:12:59,965 --> 00:13:03,662
+Here we've represented
+all 92 of them.
+
+134
+00:13:03,868 --> 00:13:08,202
+At room temperature, many of
+them are solids.
+
+135
+00:13:08,406 --> 00:13:10,101
+A few are gases.
+
+136
+00:13:10,442 --> 00:13:11,773
+And two of them...
+
+137
+00:13:13,078 --> 00:13:16,104
+...bromine and mercury,
+are liquids.
+
+138
+00:13:17,782 --> 00:13:21,548
+They're arranged in order
+of complexity.
+
+139
+00:13:21,753 --> 00:13:25,587
+Hydrogen, the simplest element,
+is element number 1.
+
+140
+00:13:25,790 --> 00:13:28,953
+And uranium, the most complex...
+
+141
+00:13:29,394 --> 00:13:31,794
+...is element 92.
+
+142
+00:13:35,133 --> 00:13:37,966
+Some elements are very familiar.
+
+143
+00:13:38,637 --> 00:13:39,865
+For example...
+
+144
+00:13:40,071 --> 00:13:44,167
+...silicon, oxygen, magnesium,
+aluminum, iron...
+
+145
+00:13:44,376 --> 00:13:45,900
+...those that make up the Earth.
+
+146
+00:13:46,177 --> 00:13:50,671
+Or hydrogen, carbon, nitrogen,
+oxygen, phosphorus, sulfur...
+
+147
+00:13:50,882 --> 00:13:53,373
+...the elements that are
+essential for life.
+
+148
+00:13:53,585 --> 00:13:57,544
+Other elements are
+spectacularly unfamiliar.
+
+149
+00:13:57,756 --> 00:14:00,725
+For example, hafnium.
+
+150
+00:14:01,326 --> 00:14:02,725
+Erbium.
+
+151
+00:14:02,927 --> 00:14:04,827
+Dysprosium.
+
+152
+00:14:05,430 --> 00:14:07,728
+Praseodymium.
+
+153
+00:14:07,932 --> 00:14:10,833
+Elements we don't bump
+into in everyday life.
+
+154
+00:14:11,636 --> 00:14:16,573
+By and large, the more familiar an
+element is, the more abundant it is.
+
+155
+00:14:16,875 --> 00:14:19,207
+There's a great deal of iron
+on the Earth.
+
+156
+00:14:19,411 --> 00:14:23,006
+Not all that much yttrium.
+
+157
+00:14:23,214 --> 00:14:24,442
+The fact...
+
+158
+00:14:24,649 --> 00:14:28,244
+...that atoms are composed of only
+three kinds of elementary particles...
+
+159
+00:14:28,453 --> 00:14:30,921
+...protons, neutrons and electrons...
+
+160
+00:14:31,122 --> 00:14:33,522
+...is a comparatively recent finding.
+
+161
+00:14:33,725 --> 00:14:36,193
+The neutron was not discovered
+until 1932.
+
+162
+00:14:36,394 --> 00:14:40,854
+And it, like the electron and
+the proton, were discovered here...
+
+163
+00:14:41,066 --> 00:14:43,034
+...at Cambridge University.
+
+164
+00:14:43,234 --> 00:14:47,330
+Modern physics and chemistry
+have reduced the complexity...
+
+165
+00:14:47,539 --> 00:14:52,101
+...of the sensible world
+to an astonishing simplicity.
+
+166
+00:14:52,310 --> 00:14:56,542
+Three units, put together
+in different patterns...
+
+167
+00:14:56,748 --> 00:15:00,684
+...make, essentially, everything.
+
+168
+00:15:06,124 --> 00:15:09,616
+A neutron is electrically neutral...
+
+169
+00:15:09,828 --> 00:15:12,319
+...as its name suggests.
+
+170
+00:15:12,897 --> 00:15:16,731
+A proton has a positive
+electrical charge...
+
+171
+00:15:17,302 --> 00:15:21,568
+...and an electron an equal,
+negative electrical charge.
+
+172
+00:15:21,773 --> 00:15:24,298
+Since every atom is
+electrically neutral...
+
+173
+00:15:24,509 --> 00:15:26,739
+...the number of protons
+in the nucleus...
+
+174
+00:15:27,011 --> 00:15:31,072
+...must equal the number of electrons
+far away in the electron cloud.
+
+175
+00:15:31,282 --> 00:15:35,343
+The protons and neutrons, together,
+make up the nucleus of the atom.
+
+176
+00:15:36,421 --> 00:15:41,358
+Now, the chemistry of an atom,
+the nature of a chemical element...
+
+177
+00:15:41,559 --> 00:15:43,789
+...depends only on the number
+of electrons...
+
+178
+00:15:43,995 --> 00:15:47,590
+...which equals the number of protons,
+which is called the atomic number.
+
+179
+00:15:47,799 --> 00:15:50,097
+Chemistry is just numbers.
+
+180
+00:15:50,301 --> 00:15:53,395
+An idea which would have
+appealed to Pythagoras.
+
+181
+00:15:53,605 --> 00:15:55,004
+If you're an atom...
+
+182
+00:15:55,206 --> 00:15:58,403
+...and you have just one proton...
+
+183
+00:15:58,610 --> 00:16:00,077
+...you're hydrogen.
+
+184
+00:16:00,278 --> 00:16:02,473
+Two protons, helium.
+
+185
+00:16:02,680 --> 00:16:04,511
+Three, lithium.
+
+186
+00:16:04,716 --> 00:16:07,480
+Four, beryllium.
+Five protons, boron.
+
+187
+00:16:07,685 --> 00:16:12,247
+Six, carbon, and seven, nitrogen.
+Eight, oxygen, and so on.
+
+188
+00:16:12,457 --> 00:16:15,187
+All the way to 92 protons...
+
+189
+00:16:15,393 --> 00:16:18,385
+...in which case your name is uranium.
+
+190
+00:16:18,997 --> 00:16:22,125
+Protons have positive
+electrical charges...
+
+191
+00:16:22,333 --> 00:16:25,530
+...but like charges repel each other.
+
+192
+00:16:25,737 --> 00:16:28,137
+So why does the nucleus hold together?
+
+193
+00:16:28,339 --> 00:16:31,570
+Why don't the electrical
+repulsion of the protons...
+
+194
+00:16:31,776 --> 00:16:33,710
+...make the nucleus fly to pieces?
+
+195
+00:16:34,312 --> 00:16:36,837
+Because there's another
+force in nature.
+
+196
+00:16:37,048 --> 00:16:39,608
+Not electricity, not gravity...
+
+197
+00:16:39,818 --> 00:16:41,251
+...the nuclear force.
+
+198
+00:16:41,452 --> 00:16:44,353
+We can think of it as short-range...
+
+199
+00:16:44,556 --> 00:16:46,956
+...hooks which start working...
+
+200
+00:16:47,158 --> 00:16:50,685
+...when protons or neutrons
+are brought very close together.
+
+201
+00:16:50,895 --> 00:16:53,386
+The nuclear force can overcome...
+
+202
+00:16:54,132 --> 00:16:56,692
+...the electrical repulsion of the
+protons.
+
+203
+00:16:56,901 --> 00:16:59,961
+Since the neutrons exert
+nuclear forces...
+
+204
+00:17:00,471 --> 00:17:02,132
+...but not electrical forces...
+
+205
+00:17:02,340 --> 00:17:06,834
+...they are a kind of glue which holds
+the atomic nucleus together.
+
+206
+00:17:08,379 --> 00:17:12,907
+A lump of two protons
+and two neutrons...
+
+207
+00:17:13,117 --> 00:17:15,017
+...is the nucleus of a helium atom...
+
+208
+00:17:15,220 --> 00:17:17,688
+...and is very stable.
+
+209
+00:17:17,889 --> 00:17:22,383
+Three helium nuclei, stuck together by
+nuclear forces...
+
+210
+00:17:22,594 --> 00:17:24,425
+...makes carbon.
+
+211
+00:17:24,629 --> 00:17:28,030
+Four helium nuclei makes oxygen.
+
+212
+00:17:28,233 --> 00:17:31,100
+There's no difference between
+four helium nuclei...
+
+213
+00:17:31,336 --> 00:17:33,896
+...stuck together by nuclear forces
+and the oxygen nucleus.
+
+214
+00:17:34,105 --> 00:17:35,595
+They're the same thing.
+
+215
+00:17:35,974 --> 00:17:39,273
+Five helium nuclei makes neon.
+
+216
+00:17:39,477 --> 00:17:41,877
+Six makes magnesium.
+
+217
+00:17:42,080 --> 00:17:45,743
+Seven makes silicon.
+
+218
+00:17:45,950 --> 00:17:48,510
+Eight makes sulfur, and so on.
+
+219
+00:17:48,720 --> 00:17:51,120
+Increasing the atomic
+numbers by two...
+
+220
+00:17:51,322 --> 00:17:54,189
+...and always making
+some familiar element.
+
+221
+00:17:54,392 --> 00:17:55,324
+Every time...
+
+222
+00:17:56,294 --> 00:17:58,319
+...we add or subtract one proton...
+
+223
+00:17:58,529 --> 00:18:01,225
+...and enough neutrons
+to keep the nucleus together...
+
+224
+00:18:01,432 --> 00:18:03,900
+...we make a new chemical element.
+
+225
+00:18:04,102 --> 00:18:06,866
+Consider mercury:
+
+226
+00:18:07,071 --> 00:18:10,837
+If we subtract one proton
+from mercury...
+
+227
+00:18:11,042 --> 00:18:15,240
+...and three neutrons,
+we convert it into gold.
+
+228
+00:18:15,446 --> 00:18:19,542
+The dream of the ancient alchemists.
+
+229
+00:18:20,551 --> 00:18:24,419
+Beyond element 92, beyond uranium...
+
+230
+00:18:24,622 --> 00:18:27,090
+...there are other elements.
+
+231
+00:18:27,292 --> 00:18:29,453
+They don't occur naturally
+on the Earth.
+
+232
+00:18:29,661 --> 00:18:32,095
+They're synthesized by
+human beings and...
+
+233
+00:18:32,297 --> 00:18:34,925
+...fall to pieces pretty rapidly.
+
+234
+00:18:35,133 --> 00:18:38,762
+One of them, element 94,
+is called plutonium...
+
+235
+00:18:38,970 --> 00:18:42,701
+...and is one of the most
+toxic substances known.
+
+236
+00:18:42,907 --> 00:18:47,344
+Where do the naturally occurring
+chemical elements come from?
+
+237
+00:18:47,545 --> 00:18:51,982
+Perhaps a separate creation
+for each element?
+
+238
+00:18:52,183 --> 00:18:55,050
+But all the elements are made of the
+same elementary particles.
+
+239
+00:18:55,253 --> 00:18:58,245
+The universe, all of it,
+everywhere...
+
+240
+00:18:58,456 --> 00:19:01,857
+...is 99.9% hydrogen and helium.
+
+241
+00:19:02,093 --> 00:19:03,958
+The two simplest elements.
+
+242
+00:19:04,162 --> 00:19:05,356
+In fact, helium...
+
+243
+00:19:05,797 --> 00:19:09,699
+...was detected on the sun before it
+was ever found on the Earth.
+
+244
+00:19:09,901 --> 00:19:13,701
+Might the other chemical elements
+have somehow...
+
+245
+00:19:13,905 --> 00:19:17,864
+...evolved from hydrogen
+and helium?
+
+246
+00:19:18,076 --> 00:19:20,442
+To avoid the electrical repulsion...
+
+247
+00:19:21,145 --> 00:19:25,605
+...protons and neutrons must be brought
+very close together so the hooks...
+
+248
+00:19:25,817 --> 00:19:27,580
+...which represent nuclear forces...
+
+249
+00:19:27,785 --> 00:19:29,150
+...are engaged.
+
+250
+00:19:29,354 --> 00:19:32,482
+This happens only at very high
+temperatures, where particles...
+
+251
+00:19:32,690 --> 00:19:37,354
+...move so fast that there's no
+time for electrical repulsion to act.
+
+252
+00:19:37,628 --> 00:19:42,565
+Temperatures of tens of
+millions of degrees.
+
+253
+00:19:42,834 --> 00:19:46,235
+Such high temperatures are
+common in nature.
+
+254
+00:19:46,437 --> 00:19:47,734
+Where?
+
+255
+00:19:47,939 --> 00:19:50,874
+In the insides of the stars.
+
+256
+00:20:06,290 --> 00:20:10,056
+Atoms are made in the
+insides of stars.
+
+257
+00:20:10,261 --> 00:20:14,698
+In most of the stars we see, hydrogen
+nuclei are being jammed together...
+
+258
+00:20:14,899 --> 00:20:16,457
+...to form helium nuclei.
+
+259
+00:20:16,868 --> 00:20:21,396
+Every time a nucleus of helium is made,
+a photon of light is generated.
+
+260
+00:20:22,373 --> 00:20:25,831
+This is why the stars shine.
+
+261
+00:20:33,351 --> 00:20:37,344
+Stars are born in great
+clouds of gas and dust.
+
+262
+00:20:37,555 --> 00:20:41,286
+Like the Orion Nebula,
+1500 light-years away...
+
+263
+00:20:41,492 --> 00:20:45,485
+...parts of which
+are collapsing under gravity.
+
+264
+00:20:53,137 --> 00:20:57,540
+Collisions among the atoms heat
+the cloud until, in its interior...
+
+265
+00:20:57,742 --> 00:21:00,404
+...hydrogen begins to fuse
+into helium...
+
+266
+00:21:00,611 --> 00:21:03,409
+...and the stars turn on.
+
+267
+00:21:09,520 --> 00:21:12,216
+Stars are born in batches.
+
+268
+00:21:12,423 --> 00:21:14,823
+Later, they wander out
+of their nursery...
+
+269
+00:21:15,026 --> 00:21:17,654
+...to pursue their destiny
+in the Milky Way.
+
+270
+00:21:17,862 --> 00:21:20,695
+Adolescent stars, like the Pleiades...
+
+271
+00:21:20,898 --> 00:21:23,662
+...are still surrounded
+by gas and dust.
+
+272
+00:21:23,868 --> 00:21:28,328
+Eventually, they journey
+far from home.
+
+273
+00:21:32,143 --> 00:21:37,080
+Somewhere there are stars formed from
+the same cloud complex as the sun...
+
+274
+00:21:37,448 --> 00:21:39,609
+...5 billion years ago.
+
+275
+00:21:39,817 --> 00:21:42,377
+But we do not know which
+stars they are.
+
+276
+00:21:42,587 --> 00:21:44,487
+The siblings of the sun...
+
+277
+00:21:44,822 --> 00:21:49,555
+...may, for all we know, be on the
+other side of the galaxy.
+
+278
+00:21:51,162 --> 00:21:56,099
+Perhaps they also warm nearby
+planets as the sun does.
+
+279
+00:21:58,703 --> 00:22:01,604
+Perhaps they too have presided...
+
+280
+00:22:01,806 --> 00:22:05,708
+...over the evolution
+of life and intelligence.
+
+281
+00:22:27,265 --> 00:22:31,998
+The sun is the nearest star,
+a glowing sphere of gas...
+
+282
+00:22:32,503 --> 00:22:36,530
+...shining because of its heat,
+like a red-hot poker.
+
+283
+00:22:40,878 --> 00:22:45,815
+The surface we see in ordinary visible
+light is at 6000 degrees centigrade.
+
+284
+00:22:46,050 --> 00:22:47,847
+But in its hidden interior...
+
+285
+00:22:48,586 --> 00:22:52,044
+...in the nuclear furnace where
+sunlight is ultimately generated...
+
+286
+00:22:52,256 --> 00:22:55,851
+...its temperature is
+20 million degrees.
+
+287
+00:23:04,235 --> 00:23:05,224
+In x-rays...
+
+288
+00:23:05,436 --> 00:23:09,167
+...we see a part of the sun
+that is ordinarily invisible...
+
+289
+00:23:09,373 --> 00:23:12,001
+...its million-degree halo of gas...
+
+290
+00:23:12,210 --> 00:23:14,303
+...the solar corona.
+
+291
+00:23:14,745 --> 00:23:17,839
+In ordinary visible light, these
+cooler, darker regions...
+
+292
+00:23:18,049 --> 00:23:19,949
+...are the sunspots.
+
+293
+00:23:22,687 --> 00:23:27,147
+They are associated with
+great surges of flaming gas...
+
+294
+00:23:27,358 --> 00:23:31,727
+...tongues of fire which would engulf
+the Earth if it were this close.
+
+295
+00:23:32,063 --> 00:23:35,829
+These prominences are guided
+into paths determined...
+
+296
+00:23:36,033 --> 00:23:38,263
+...by the sun's magnetic field.
+
+297
+00:23:50,915 --> 00:23:53,145
+The dark regions of the x-ray sun...
+
+298
+00:23:53,351 --> 00:23:56,047
+...are holes in the solar corona...
+
+299
+00:23:56,254 --> 00:24:00,247
+...through which stream the protons
+and electrons of the solar wind...
+
+300
+00:24:00,458 --> 00:24:04,656
+...on their way past the planets
+to interstellar space.
+
+301
+00:24:07,164 --> 00:24:11,863
+All this churning power is driven
+by the sun's interior...
+
+302
+00:24:12,069 --> 00:24:15,971
+...which is converting 400 million
+tons of hydrogen into helium...
+
+303
+00:24:16,173 --> 00:24:17,697
+...every second.
+
+304
+00:24:17,908 --> 00:24:21,503
+The sun is a great fusion reactor...
+
+305
+00:24:21,746 --> 00:24:24,214
+...into which a million Earths
+would fit.
+
+306
+00:24:24,415 --> 00:24:27,543
+Luckily for us, it's safely placed...
+
+307
+00:24:27,752 --> 00:24:31,279
+...150 million kilometers away.
+
+308
+00:24:47,805 --> 00:24:51,707
+It is the destiny of stars
+to collapse.
+
+309
+00:24:52,810 --> 00:24:56,211
+Of the thousands of stars you see
+when you look up at the night sky...
+
+310
+00:24:56,414 --> 00:25:01,044
+...every one of them is living in
+an interval between two collapses.
+
+311
+00:25:01,252 --> 00:25:02,742
+An initial collapse of...
+
+312
+00:25:02,953 --> 00:25:06,445
+...a dark interstellar gas cloud
+to form the star...
+
+313
+00:25:06,657 --> 00:25:09,125
+...and a final collapse
+of the luminous star...
+
+314
+00:25:09,327 --> 00:25:11,090
+...on the way to its ultimate fate.
+
+315
+00:25:11,562 --> 00:25:16,499
+Gravity makes stars contract unless
+some other force intervenes.
+
+316
+00:25:16,901 --> 00:25:19,802
+The sun is an immense ball
+of radiating hydrogen.
+
+317
+00:25:20,004 --> 00:25:24,304
+The hot gas in its interior tries
+to make the sun expand.
+
+318
+00:25:24,508 --> 00:25:27,909
+The gravity tries to make
+the sun contract.
+
+319
+00:25:28,145 --> 00:25:31,376
+The present state of the sun is
+the balance of these two forces...
+
+320
+00:25:31,582 --> 00:25:36,144
+...an equilibrium between
+gravity and nuclear fire.
+
+321
+00:25:36,821 --> 00:25:39,483
+In this long middle age
+between collapses...
+
+322
+00:25:39,690 --> 00:25:42,386
+...the stars steadily shine.
+
+323
+00:25:42,593 --> 00:25:46,427
+But when the nuclear fuel is exhausted,
+the interior cools...
+
+324
+00:25:46,630 --> 00:25:49,428
+...the pressure no longer supports
+its outer layers...
+
+325
+00:25:49,633 --> 00:25:51,794
+...and the initial collapse resumes.
+
+326
+00:25:52,603 --> 00:25:54,901
+There are three ways that stars die.
+
+327
+00:25:55,106 --> 00:25:57,540
+Their fates are predestined.
+
+328
+00:25:57,742 --> 00:25:59,676
+Everything depends on their
+initial mass.
+
+329
+00:25:59,877 --> 00:26:02,471
+A typical star with a mass
+like the sun...
+
+330
+00:26:02,680 --> 00:26:05,274
+...will one day
+continue its collapse...
+
+331
+00:26:05,483 --> 00:26:08,384
+...until its density becomes very high.
+
+332
+00:26:08,586 --> 00:26:10,315
+And then the contraction is stopped...
+
+333
+00:26:10,521 --> 00:26:12,386
+...by the mutual repulsion of...
+
+334
+00:26:12,590 --> 00:26:15,855
+...the overcrowded electrons
+in its interior.
+
+335
+00:26:16,060 --> 00:26:18,824
+A collapsing star twice as
+massive as the sun...
+
+336
+00:26:19,029 --> 00:26:21,554
+...isn't stopped by the
+electron pressure.
+
+337
+00:26:21,766 --> 00:26:24,132
+It goes on falling in on itself...
+
+338
+00:26:24,335 --> 00:26:27,031
+...until nuclear forces
+come into play...
+
+339
+00:26:27,238 --> 00:26:30,332
+...and they hold up the
+weight of the star.
+
+340
+00:26:30,541 --> 00:26:33,704
+But a collapsing star three times as
+massive as the sun isn't...
+
+341
+00:26:33,911 --> 00:26:35,970
+...stopped even by nuclear forces.
+
+342
+00:26:36,180 --> 00:26:41,117
+There's no force known that can
+withstand this enormous compression.
+
+343
+00:26:41,352 --> 00:26:44,412
+And such a star has
+an astonishing destiny.
+
+344
+00:26:44,622 --> 00:26:46,351
+It continues to collapse...
+
+345
+00:26:46,624 --> 00:26:49,354
+...until it vanishes utterly.
+
+346
+00:26:50,594 --> 00:26:55,054
+Each star is described by the force
+that holds it up against gravity.
+
+347
+00:26:55,266 --> 00:26:58,702
+A star that's supported by
+the gas pressure...
+
+348
+00:26:58,903 --> 00:27:02,600
+...is a normal, run-of-the-mill star
+like the sun.
+
+349
+00:27:02,807 --> 00:27:06,504
+A collapsed star that's held up
+by electron forces...
+
+350
+00:27:06,710 --> 00:27:08,337
+...is called a white dwarf.
+
+351
+00:27:08,546 --> 00:27:12,380
+It's a sun shrunk to
+the size of the Earth.
+
+352
+00:27:12,583 --> 00:27:15,950
+A collapsed star supported
+by nuclear forces...
+
+353
+00:27:16,153 --> 00:27:18,018
+...is called a neutron star.
+
+354
+00:27:18,222 --> 00:27:21,749
+It's a sun shrunk to
+the size of a city.
+
+355
+00:27:21,959 --> 00:27:24,894
+And a star so massive that
+in its final collapse...
+
+356
+00:27:25,095 --> 00:27:26,790
+...it disappears altogether...
+
+357
+00:27:26,997 --> 00:27:28,658
+...is called a black hole.
+
+358
+00:27:28,866 --> 00:27:31,858
+It's a sun with no size at all.
+
+359
+00:27:32,536 --> 00:27:35,232
+But on their ways to their
+separate fates...
+
+360
+00:27:35,439 --> 00:27:40,103
+...all stars experience
+a premonition of death.
+
+361
+00:27:40,311 --> 00:27:42,779
+Before the final
+gravitational collapse...
+
+362
+00:27:42,980 --> 00:27:47,815
+...the star shudders and
+briefly swells into some...
+
+363
+00:27:48,285 --> 00:27:50,719
+...grotesque parody of itself.
+
+364
+00:27:50,921 --> 00:27:55,290
+With its last gasp,
+it becomes a red giant.
+
+365
+00:27:59,029 --> 00:28:01,520
+Some 5 billion years from now...
+
+366
+00:28:01,732 --> 00:28:06,135
+...there will be a last,
+perfect day on Earth.
+
+367
+00:28:09,139 --> 00:28:12,666
+Then, the sun will slowly change...
+
+368
+00:28:12,877 --> 00:28:15,903
+...and the Earth will die.
+
+369
+00:28:19,049 --> 00:28:21,950
+There is only so much
+hydrogen fuel in the sun.
+
+370
+00:28:22,152 --> 00:28:24,552
+When it's almost all
+converted to helium...
+
+371
+00:28:24,755 --> 00:28:28,418
+...the solar interior will continue
+its original collapse.
+
+372
+00:28:28,626 --> 00:28:33,086
+Higher temperatures in its core will
+make the outside of the sun expand...
+
+373
+00:28:33,330 --> 00:28:36,788
+...and the Earth will
+become slowly warmer.
+
+374
+00:28:37,034 --> 00:28:40,299
+Eventually, life will be
+extinguished...
+
+375
+00:28:40,671 --> 00:28:43,606
+...the oceans will evaporate
+and boil...
+
+376
+00:28:43,807 --> 00:28:47,834
+...and our atmosphere will
+gush away to space.
+
+377
+00:28:50,648 --> 00:28:54,448
+The sun will become a bloated
+red giant star...
+
+378
+00:28:54,652 --> 00:28:56,176
+...filling the sky...
+
+379
+00:28:56,420 --> 00:29:00,584
+...enveloping and devouring
+the planets Mercury and Venus.
+
+380
+00:29:00,791 --> 00:29:03,851
+And probably the Earth as well.
+
+381
+00:29:04,061 --> 00:29:08,998
+The inner solar system will
+reside inside the sun.
+
+382
+00:29:12,236 --> 00:29:15,103
+But perhaps by then, our
+descendants...
+
+383
+00:29:15,306 --> 00:29:17,866
+...will have ventured somewhere else.
+
+384
+00:29:21,979 --> 00:29:26,382
+In its final agonies, the sun
+will slowly pulsate.
+
+385
+00:29:26,584 --> 00:29:29,485
+By then, its core will have
+become so hot...
+
+386
+00:29:29,687 --> 00:29:33,123
+...that it temporarily converts
+helium into carbon.
+
+387
+00:29:33,324 --> 00:29:37,226
+The ash from today's nuclear fusion
+will become the fuel...
+
+388
+00:29:37,528 --> 00:29:42,397
+...to power the sun near the end of
+its life in its red giant stage.
+
+389
+00:29:44,201 --> 00:29:47,034
+Then the sun will lose
+great shells...
+
+390
+00:29:47,571 --> 00:29:49,766
+...of its outer atmosphere to space...
+
+391
+00:29:49,974 --> 00:29:53,375
+...filling the solar system
+with eerily glowing gas.
+
+392
+00:29:53,577 --> 00:29:56,637
+The ghost of a star, outward bound.
+
+393
+00:29:56,847 --> 00:30:00,339
+Perhaps half the mass of the sun
+will be lost in this way.
+
+394
+00:30:02,286 --> 00:30:05,585
+Viewed from elsewhere, our system
+will then resemble...
+
+395
+00:30:05,789 --> 00:30:07,916
+...the Ring Nebula in Lyra...
+
+396
+00:30:08,125 --> 00:30:12,755
+...the atmosphere of the sun
+expanding outward like a soap bubble.
+
+397
+00:30:13,631 --> 00:30:16,862
+And at the very center will be
+a white dwarf.
+
+398
+00:30:17,101 --> 00:30:19,569
+The hot exposed core of the sun...
+
+399
+00:30:19,770 --> 00:30:23,331
+...its nuclear fuel now
+exhausted, slowly cooling...
+
+400
+00:30:23,574 --> 00:30:27,010
+...to become a cold, dead star.
+
+401
+00:30:30,014 --> 00:30:32,642
+Such is the life of an ordinary star.
+
+402
+00:30:32,850 --> 00:30:36,047
+Born in a gas cloud,
+maturing as a yellow sun...
+
+403
+00:30:36,253 --> 00:30:38,084
+...decaying as a red giant...
+
+404
+00:30:38,288 --> 00:30:43,225
+...and dying as a white dwarf
+enveloped in its shroud of gas.
+
+405
+00:30:52,269 --> 00:30:55,363
+Suppose, as we traveled through
+interstellar space...
+
+406
+00:30:55,572 --> 00:30:57,403
+...in our ship of the imagination...
+
+407
+00:30:57,608 --> 00:31:01,977
+...we could sample the cold,
+thin gas between the stars.
+
+408
+00:31:02,179 --> 00:31:05,171
+We would find a great
+preponderance of hydrogen...
+
+409
+00:31:05,382 --> 00:31:07,942
+...an element as old as the universe.
+
+410
+00:31:08,152 --> 00:31:10,848
+We would find carbon,
+oxygen, silicon.
+
+411
+00:31:11,055 --> 00:31:14,149
+The most abundant atoms in the
+cosmos, apart from hydrogen...
+
+412
+00:31:14,358 --> 00:31:17,794
+...are those most easily made
+in the stars.
+
+413
+00:31:17,995 --> 00:31:21,396
+But we would also find
+a small proportion of rare elements.
+
+414
+00:31:21,598 --> 00:31:24,396
+Praseodymium, say, or gold.
+
+415
+00:31:24,601 --> 00:31:26,762
+They're not made in red giants.
+
+416
+00:31:26,970 --> 00:31:31,600
+Such elements are manufactured in
+one of the most dramatic gestures...
+
+417
+00:31:31,842 --> 00:31:34,333
+...of which a star is capable.
+
+418
+00:31:35,479 --> 00:31:38,744
+A star more than about one and
+a half times the mass of the sun...
+
+419
+00:31:39,149 --> 00:31:40,776
+...cannot become a white dwarf.
+
+420
+00:31:40,984 --> 00:31:43,953
+It will end its life by
+blowing itself up...
+
+421
+00:31:44,154 --> 00:31:48,614
+...in a titanic stellar explosion
+called a supernova.
+
+422
+00:31:50,160 --> 00:31:53,823
+There has been no supernova explosion
+in our province of the galaxy...
+
+423
+00:31:54,198 --> 00:31:55,927
+...since the telescope's invention...
+
+424
+00:31:56,133 --> 00:31:59,034
+...and our sun will not
+become a supernova.
+
+425
+00:31:59,236 --> 00:32:00,863
+But in our imagination...
+
+426
+00:32:01,405 --> 00:32:04,704
+...we can fulfill the dream of many
+earthbound astronomers...
+
+427
+00:32:05,142 --> 00:32:09,875
+...and safely witness, close-up,
+a supernova explosion.
+
+428
+00:32:14,251 --> 00:32:18,153
+Most of stellar evolution takes
+millions or billions of years.
+
+429
+00:32:18,388 --> 00:32:21,915
+But the interior collapse that
+triggers a supernova explosion...
+
+430
+00:32:22,159 --> 00:32:23,592
+...takes only seconds.
+
+431
+00:32:23,961 --> 00:32:27,954
+The star becomes brighter than
+all the other stars in the galaxy...
+
+432
+00:32:28,165 --> 00:32:29,564
+...put together.
+
+433
+00:33:05,269 --> 00:33:07,533
+If a nearby star became
+a supernova...
+
+434
+00:33:07,738 --> 00:33:12,471
+...it would be calamity enough for
+the inhabitants of this alien system.
+
+435
+00:33:12,676 --> 00:33:15,076
+But if their own sun went supernova...
+
+436
+00:33:15,279 --> 00:33:18,612
+...it would be
+an unprecedented catastrophe.
+
+437
+00:33:18,816 --> 00:33:21,250
+Worlds would be charred and vaporized.
+
+438
+00:33:21,451 --> 00:33:25,911
+Life, even on the outer planets,
+would be extinguished.
+
+439
+00:33:26,123 --> 00:33:30,321
+In our ship of the imagination, we
+are now backing away from the star.
+
+440
+00:33:30,527 --> 00:33:32,188
+But the explosion fragments...
+
+441
+00:33:32,396 --> 00:33:35,888
+...traveling almost at the speed
+of light, are overtaking us.
+
+442
+00:33:36,099 --> 00:33:40,695
+Individual atomic nuclei, accelerated
+to high speeds in the explosion...
+
+443
+00:33:40,904 --> 00:33:42,838
+...become cosmic rays.
+
+444
+00:33:43,040 --> 00:33:47,306
+This is another way that stars return
+the atoms they've synthesized...
+
+445
+00:33:47,511 --> 00:33:49,376
+...back into space.
+
+446
+00:33:50,147 --> 00:33:52,206
+The shock wave
+of expanding gases...
+
+447
+00:33:52,416 --> 00:33:54,941
+...heats and compresses
+the interstellar gas...
+
+448
+00:33:55,152 --> 00:33:58,144
+...triggering a later generation
+of stars to form.
+
+449
+00:33:58,355 --> 00:33:59,686
+In this sense also...
+
+450
+00:33:59,890 --> 00:34:04,293
+...stars are phoenixes
+rising from their own ashes.
+
+451
+00:34:09,132 --> 00:34:12,966
+The cosmos was originally
+all hydrogen and helium.
+
+452
+00:34:13,203 --> 00:34:16,570
+Heavier elements were made
+in red giants and in supernovas...
+
+453
+00:34:16,773 --> 00:34:18,764
+...and then blown off to space...
+
+454
+00:34:18,976 --> 00:34:21,706
+...where they were available
+for subsequent generations...
+
+455
+00:34:21,912 --> 00:34:23,539
+...of stars and planets.
+
+456
+00:34:23,747 --> 00:34:27,513
+Our sun is probably a
+third-generation star.
+
+457
+00:34:27,718 --> 00:34:29,345
+Except for hydrogen and helium...
+
+458
+00:34:29,553 --> 00:34:34,490
+...every atom in the sun and the Earth
+was synthesized in other stars.
+
+459
+00:34:34,758 --> 00:34:39,286
+The silicon in the rocks, the oxygen
+in the air, the carbon in our DNA...
+
+460
+00:34:39,496 --> 00:34:43,262
+...the gold in our banks, the
+uranium in our arsenals...
+
+461
+00:34:43,467 --> 00:34:47,062
+...were all made thousands
+of light-years away...
+
+462
+00:34:47,271 --> 00:34:49,136
+...and billions of years ago.
+
+463
+00:34:49,339 --> 00:34:53,673
+Our planet, our society
+and we ourselves...
+
+464
+00:34:53,877 --> 00:34:57,142
+...are built of star stuff.
+
+465
+00:35:02,152 --> 00:35:05,121
+We're in a lava tube.
+
+466
+00:35:05,889 --> 00:35:10,223
+A cave carved through the Earth...
+
+467
+00:35:10,427 --> 00:35:12,987
+...by a river of molten rock.
+
+468
+00:35:13,997 --> 00:35:16,056
+To do a little experiment...
+
+469
+00:35:17,067 --> 00:35:20,468
+...we've brought a Geiger counter...
+
+470
+00:35:23,507 --> 00:35:27,102
+...and a piece of uranium ore.
+
+471
+00:35:27,844 --> 00:35:32,781
+The Geiger counter is sensitive to
+high-energy charged particles...
+
+472
+00:35:33,150 --> 00:35:36,813
+...protons, helium nuclei, gamma rays.
+
+473
+00:35:37,087 --> 00:35:40,488
+If we bring it close
+to the uranium ore...
+
+474
+00:35:40,691 --> 00:35:45,253
+...the count rate, the number of
+clicks, increases dramatically.
+
+475
+00:35:47,931 --> 00:35:50,229
+We also have a lead canister here.
+
+476
+00:35:50,801 --> 00:35:53,361
+And if I drop the uranium ore...
+
+477
+00:35:53,904 --> 00:35:58,603
+...into the canister, which absorbs
+the radiation, and cover it up...
+
+478
+00:36:00,978 --> 00:36:04,175
+...I then find the count-rate
+goes down substantially...
+
+479
+00:36:04,381 --> 00:36:06,076
+...but it doesn't go down to zero.
+
+480
+00:36:07,284 --> 00:36:10,378
+What's the source of the
+remaining counts?
+
+481
+00:36:11,488 --> 00:36:15,948
+Some of them come from radioactivity
+in the walls of the cave.
+
+482
+00:36:16,159 --> 00:36:18,354
+But there's more to it than that.
+
+483
+00:36:18,562 --> 00:36:21,998
+Some of the counts are due to
+high-energy charged particles...
+
+484
+00:36:22,199 --> 00:36:26,260
+...which are penetrating the
+roof of the cave.
+
+485
+00:36:26,470 --> 00:36:29,598
+We are listening to cosmic rays.
+
+486
+00:36:30,774 --> 00:36:35,234
+Every second they are penetrating
+my body...
+
+487
+00:36:35,445 --> 00:36:36,707
+...and yours.
+
+488
+00:36:36,913 --> 00:36:40,178
+They don't do much damage. Cosmic
+rays have bombarded the Earth...
+
+489
+00:36:40,417 --> 00:36:43,011
+...for the entire history of
+life on our planet.
+
+490
+00:36:43,220 --> 00:36:45,814
+But they do cause some mutations...
+
+491
+00:36:46,023 --> 00:36:48,856
+...and they do affect life
+on the Earth.
+
+492
+00:36:50,994 --> 00:36:53,986
+The cosmic rays, mainly protons...
+
+493
+00:36:54,197 --> 00:36:59,134
+...are penetrating through the meters
+of rock in the cave above me.
+
+494
+00:36:59,336 --> 00:37:02,032
+To do this, they have to
+be very energetic and in fact...
+
+495
+00:37:02,406 --> 00:37:05,466
+...they are traveling almost
+at the speed of light.
+
+496
+00:37:06,276 --> 00:37:07,675
+Think of it.
+
+497
+00:37:08,145 --> 00:37:10,613
+A star blows up...
+
+498
+00:37:10,947 --> 00:37:13,438
+...thousands of light-years
+away in space...
+
+499
+00:37:13,650 --> 00:37:16,448
+...and produces cosmic rays which...
+
+500
+00:37:16,653 --> 00:37:19,918
+...spiral through the Milky Way
+galaxy for...
+
+501
+00:37:20,123 --> 00:37:23,149
+...millions of years until,
+quite by accident...
+
+502
+00:37:23,360 --> 00:37:26,124
+...some of them strike the Earth...
+
+503
+00:37:26,329 --> 00:37:30,231
+...penetrate this cave,
+reach this Geiger counter...
+
+504
+00:37:30,500 --> 00:37:31,865
+...and us.
+
+505
+00:37:32,235 --> 00:37:37,104
+The evolution of life on Earth is
+driven in part through mutations...
+
+506
+00:37:37,307 --> 00:37:40,401
+...by the deaths of distant stars.
+
+507
+00:37:40,610 --> 00:37:43,408
+We are, in a very deep sense...
+
+508
+00:37:43,647 --> 00:37:46,377
+...tied to the cosmos.
+
+509
+00:37:49,052 --> 00:37:51,987
+Our ancestors knew this well.
+
+510
+00:37:52,189 --> 00:37:54,851
+The movements of the sun, the moon,
+and the stars...
+
+511
+00:37:55,058 --> 00:37:59,654
+...could be used by those skilled in
+such arts to foretell the seasons.
+
+512
+00:37:59,863 --> 00:38:02,798
+So the ancient astronomers
+all over the world...
+
+513
+00:38:02,999 --> 00:38:05,092
+...studied the night sky with care...
+
+514
+00:38:05,302 --> 00:38:09,363
+...memorizing and recording the
+position of every visible star.
+
+515
+00:38:09,573 --> 00:38:13,976
+To them, the appearance of any new
+star would have been significant.
+
+516
+00:38:14,177 --> 00:38:18,614
+What would they have made of the
+apparition of a supernova...
+
+517
+00:38:18,815 --> 00:38:22,307
+...brighter than every other
+star in the sky?
+
+518
+00:38:28,692 --> 00:38:33,356
+On July 4th, in the year 1054...
+
+519
+00:38:33,563 --> 00:38:38,500
+...Chinese astronomers recorded what
+they called a guest star...
+
+520
+00:38:38,702 --> 00:38:40,795
+...in the constellation of
+Taurus the Bull.
+
+521
+00:38:41,004 --> 00:38:45,134
+A star never before seen
+burst into radiance...
+
+522
+00:38:45,342 --> 00:38:48,470
+...became almost as bright
+as the full moon.
+
+523
+00:38:48,678 --> 00:38:53,115
+Halfway around the world, here in
+the American Southwest...
+
+524
+00:38:53,316 --> 00:38:58,015
+...there was then a high culture,
+rich in astronomical tradition.
+
+525
+00:38:58,221 --> 00:39:02,453
+They too must have seen this
+brilliant new star.
+
+526
+00:39:02,659 --> 00:39:06,026
+From carbon-14 dating...
+
+527
+00:39:06,263 --> 00:39:10,723
+...of the remains of a charcoal fire,
+we know that in this very spot...
+
+528
+00:39:10,934 --> 00:39:14,563
+...there were people living
+in the 11th century.
+
+529
+00:39:15,305 --> 00:39:20,242
+The people were the Anasazi, the
+antecedents of the Hopi of today.
+
+530
+00:39:20,744 --> 00:39:23,645
+And one of them
+seems to have drawn...
+
+531
+00:39:23,914 --> 00:39:27,247
+...on this overhang, protected
+from the weather...
+
+532
+00:39:27,450 --> 00:39:29,441
+...a picture of the new star.
+
+533
+00:39:29,653 --> 00:39:34,090
+Its position near the crescent moon
+would have been just what we see here.
+
+534
+00:39:34,291 --> 00:39:37,192
+And the handprint is, perhaps...
+
+535
+00:39:37,394 --> 00:39:40,124
+...the artist's signature.
+
+536
+00:39:40,830 --> 00:39:45,290
+This remarkable star is now
+called the Crab Supernova.
+
+537
+00:39:45,502 --> 00:39:48,596
+"Nova" from the Latin word for new
+and "Crab" because...
+
+538
+00:39:48,805 --> 00:39:52,002
+...that's what an astronomer centuries
+later was reminded of...
+
+539
+00:39:52,209 --> 00:39:56,009
+...when looking at this explosion or
+remnant through the telescope.
+
+540
+00:39:56,213 --> 00:40:00,206
+The Crab is a star that
+blew itself up.
+
+541
+00:40:00,417 --> 00:40:03,181
+The explosion was seen
+for three months.
+
+542
+00:40:03,386 --> 00:40:07,254
+It was easily visible
+in broad daylight.
+
+543
+00:40:07,457 --> 00:40:10,324
+And you could read by it at night.
+
+544
+00:40:12,462 --> 00:40:14,589
+Imagine the night when that...
+
+545
+00:40:14,798 --> 00:40:17,426
+...colossal stellar explosion...
+
+546
+00:40:17,634 --> 00:40:20,228
+...first burst forth.
+
+547
+00:40:29,412 --> 00:40:30,811
+A thousand years ago...
+
+548
+00:40:31,047 --> 00:40:34,574
+...people gazed up in amazement
+at the brilliant new star...
+
+549
+00:40:34,784 --> 00:40:37,218
+...and wondered what it was.
+
+550
+00:40:41,258 --> 00:40:44,853
+We are the first generation
+privileged to know the answer.
+
+551
+00:40:45,061 --> 00:40:48,326
+Through the telescope we have seen
+what lies today...
+
+552
+00:40:48,531 --> 00:40:51,762
+...at the spot in the sky noted
+by the ancient astronomers.
+
+553
+00:40:51,968 --> 00:40:55,563
+A great luminous cloud,
+the remains of a star...
+
+554
+00:40:55,772 --> 00:41:00,709
+...violently unraveling itself back
+into interstellar space.
+
+555
+00:41:06,049 --> 00:41:09,382
+Only the massive red giants
+become supernovas.
+
+556
+00:41:09,586 --> 00:41:12,680
+But every supernova was
+once a red giant.
+
+557
+00:41:12,889 --> 00:41:14,151
+In the history of the galaxy...
+
+558
+00:41:14,357 --> 00:41:18,453
+...hundreds of millions of red
+giants have become supernovas.
+
+559
+00:41:21,131 --> 00:41:24,794
+The bit of the star that isn't blown
+away collapses under gravity...
+
+560
+00:41:25,001 --> 00:41:28,266
+...spinning ever faster like a
+pirouetting ice skater...
+
+561
+00:41:28,471 --> 00:41:29,802
+...bringing in her arms.
+
+562
+00:41:30,006 --> 00:41:33,407
+The star becomes a single, massive
+atomic nucleus...
+
+563
+00:41:33,610 --> 00:41:35,271
+...a neutron star.
+
+564
+00:41:35,478 --> 00:41:38,709
+The one in the Crab Nebula
+is spinning 30 times a second.
+
+565
+00:41:38,915 --> 00:41:40,974
+It emits a beamed pattern of light...
+
+566
+00:41:41,184 --> 00:41:45,018
+...and seems to us to be blinking on
+and off with astonishing regularity.
+
+567
+00:41:45,221 --> 00:41:48,952
+Such neutron stars are
+called pulsars.
+
+568
+00:41:50,593 --> 00:41:52,618
+Neutron star matter...
+
+569
+00:41:52,829 --> 00:41:56,731
+...weighs about a mountain
+per teaspoonful.
+
+570
+00:41:56,933 --> 00:42:00,369
+So much that if I had a piece of it
+here and let it go...
+
+571
+00:42:00,570 --> 00:42:02,936
+...I could hardly
+prevent it from falling.
+
+572
+00:42:03,139 --> 00:42:06,074
+It would effortlessly pass through the
+Earth like a...
+
+573
+00:42:06,276 --> 00:42:08,642
+...a knife through warm butter.
+
+574
+00:42:08,845 --> 00:42:12,246
+It would carve a hole for itself
+completely through the Earth...
+
+575
+00:42:12,449 --> 00:42:16,476
+...emerging out the other side
+perhaps in China.
+
+576
+00:42:16,686 --> 00:42:20,315
+The people there might be
+walking along when a...
+
+577
+00:42:20,523 --> 00:42:25,324
+...tiny lump of neutron star matter
+comes booming out of the ground...
+
+578
+00:42:25,528 --> 00:42:27,155
+...and then falls back again.
+
+579
+00:42:27,364 --> 00:42:28,797
+The incident might...
+
+580
+00:42:29,032 --> 00:42:32,695
+...make an agreeable break in the
+routine of the day.
+
+581
+00:42:32,902 --> 00:42:36,303
+The neutron star matter, pulled
+back by the Earth's gravity...
+
+582
+00:42:36,506 --> 00:42:38,974
+...would plunge again
+through the Earth...
+
+583
+00:42:39,175 --> 00:42:43,578
+...eventually punching hundreds of
+thousands of holes...
+
+584
+00:42:43,780 --> 00:42:48,581
+...before friction with the interior
+of our planet stopped the motion.
+
+585
+00:42:48,785 --> 00:42:50,946
+By the time it's at rest at
+the center of the Earth...
+
+586
+00:42:51,187 --> 00:42:55,886
+...the inside of our world would look
+a little bit like Swiss cheese.
+
+587
+00:43:11,040 --> 00:43:15,739
+There are places in the galaxy
+where a neutron star and a red giant...
+
+588
+00:43:16,045 --> 00:43:19,981
+...are locked in a mutual
+gravitational embrace.
+
+589
+00:43:20,183 --> 00:43:22,549
+Tendrils of red giant star stuff...
+
+590
+00:43:22,752 --> 00:43:25,585
+...spiral into a disc
+of accreting matter...
+
+591
+00:43:25,789 --> 00:43:29,190
+...centered on the hot neutron star.
+
+592
+00:43:39,169 --> 00:43:42,297
+Every star exists in
+a state of tension...
+
+593
+00:43:42,505 --> 00:43:44,530
+...between the force that
+holds it up...
+
+594
+00:43:44,741 --> 00:43:47,209
+...and gravity, the force that
+would pull it down.
+
+595
+00:43:47,410 --> 00:43:51,744
+If gravity were to prevail, a
+stellar madness would ensue...
+
+596
+00:43:51,948 --> 00:43:56,044
+...more bizarre than
+anything in wonderland.
+
+597
+00:43:57,654 --> 00:44:00,555
+Alice and her colleagues feel,
+more or less...
+
+598
+00:44:00,757 --> 00:44:03,317
+...at home in the gravitational
+pull of the Earth...
+
+599
+00:44:03,526 --> 00:44:06,324
+...called one g,
+"g" for Earth gravity.
+
+600
+00:44:06,729 --> 00:44:10,187
+What would happen if we made the
+gravity less, or more?
+
+601
+00:44:10,400 --> 00:44:12,459
+At lower gravity, things get lighter.
+
+602
+00:44:12,669 --> 00:44:15,433
+Near zero g, the slightest motion
+sends our friends...
+
+603
+00:44:15,638 --> 00:44:17,629
+...floating and tumbling in the air.
+
+604
+00:44:17,841 --> 00:44:20,639
+Little blobs of liquid
+tea are everywhere.
+
+605
+00:44:21,077 --> 00:44:22,601
+Curious.
+
+606
+00:44:23,146 --> 00:44:25,614
+If we now return the gravity
+to one g...
+
+607
+00:44:26,149 --> 00:44:30,210
+...it's raining tea, and our friends
+fall back to Earth.
+
+608
+00:44:31,588 --> 00:44:35,080
+I've been to a couple of
+parties like that myself.
+
+609
+00:44:37,093 --> 00:44:40,551
+At higher gravities, two or
+three g's, say, things get...
+
+610
+00:44:40,763 --> 00:44:43,391
+...really laid back.
+
+611
+00:44:43,600 --> 00:44:47,593
+Everyone feels heavy and leaden.
+
+612
+00:44:50,273 --> 00:44:53,709
+Except by special dispensation...
+
+613
+00:44:54,010 --> 00:44:55,773
+...the Cheshire cat.
+
+614
+00:44:56,579 --> 00:44:59,571
+As a kindness, we remove them.
+
+615
+00:44:59,782 --> 00:45:03,274
+At thousands of g's,
+trees become squashed.
+
+616
+00:45:03,486 --> 00:45:07,923
+At 100,000 g's, rocks
+become crushed by their own weight.
+
+617
+00:45:08,124 --> 00:45:11,753
+At all these gravities, a beam of
+light remains unaffected...
+
+618
+00:45:11,961 --> 00:45:13,929
+...continuing up in a straight line.
+
+619
+00:45:14,130 --> 00:45:15,825
+But at billions of g's...
+
+620
+00:45:16,032 --> 00:45:20,560
+...a beam of light feels the gravity
+and begins to bend back on itself.
+
+621
+00:45:20,770 --> 00:45:24,228
+Curiouser and curiouser.
+
+622
+00:45:24,440 --> 00:45:28,501
+Such a place, where the gravity is so
+large that even light can't get out...
+
+623
+00:45:28,711 --> 00:45:31,202
+...is called a black hole.
+
+624
+00:45:31,414 --> 00:45:34,679
+It's a star in which light
+itself is imprisoned.
+
+625
+00:45:34,884 --> 00:45:37,182
+Black holes were
+theoretical constructs...
+
+626
+00:45:37,387 --> 00:45:40,686
+...speculated about since 1783.
+
+627
+00:45:40,890 --> 00:45:44,485
+But in our time, we've
+verified the invisible.
+
+628
+00:45:44,694 --> 00:45:48,323
+This bright star has a
+massive, unseen companion.
+
+629
+00:45:48,531 --> 00:45:53,366
+Satellite observatories find the
+companion to be an x-ray source...
+
+630
+00:45:53,570 --> 00:45:56,095
+...called Cygnus X-1.
+
+631
+00:45:56,306 --> 00:45:58,866
+These x-rays are like
+the footprints...
+
+632
+00:45:59,075 --> 00:46:03,808
+...of an invisible man
+walking in the snow.
+
+633
+00:46:09,118 --> 00:46:12,178
+The x-rays are thought to be
+generated by friction...
+
+634
+00:46:12,388 --> 00:46:15,880
+...in the accretion disc
+surrounding the black hole.
+
+635
+00:46:16,092 --> 00:46:19,289
+The matter in the disc
+slowly disappears...
+
+636
+00:46:19,495 --> 00:46:21,463
+...down the black hole.
+
+637
+00:46:23,967 --> 00:46:28,063
+Massive black holes, produced by the
+collapse of a billion suns...
+
+638
+00:46:28,271 --> 00:46:30,865
+...may be sitting at the centers
+of other galaxies...
+
+639
+00:46:31,074 --> 00:46:35,067
+...curiously producing great
+jets of radiation...
+
+640
+00:46:35,278 --> 00:46:37,371
+...pouring out into space.
+
+641
+00:46:40,283 --> 00:46:43,980
+At high enough density,
+the star winks out...
+
+642
+00:46:44,187 --> 00:46:48,055
+...and vanishes from our universe
+leaving only its gravity behind.
+
+643
+00:46:48,257 --> 00:46:53,092
+It slips through a self-generated
+crack in the space-time continuum.
+
+644
+00:46:53,296 --> 00:46:57,596
+A black hole is a place
+where a star once was.
+
+645
+00:46:58,301 --> 00:47:01,168
+Here we have a flat two-
+dimensional surface...
+
+646
+00:47:01,371 --> 00:47:06,138
+...with grid lines on it, something
+like a piece of graph paper.
+
+647
+00:47:07,043 --> 00:47:09,204
+Suppose we take a small mass...
+
+648
+00:47:09,412 --> 00:47:14,145
+...drop it on the surface and
+watch how the surface distorts...
+
+649
+00:47:14,350 --> 00:47:18,218
+...or puckers into
+the third physical dimension.
+
+650
+00:47:22,091 --> 00:47:26,528
+Gravity can be understood as
+a curvature of space.
+
+651
+00:47:28,264 --> 00:47:31,290
+If our moving ball approaches a
+stationary distortion...
+
+652
+00:47:31,501 --> 00:47:34,868
+...it rolls around it like a
+planet orbiting the sun.
+
+653
+00:47:35,071 --> 00:47:39,474
+In this interpretation, due to
+Einstein, gravity is only a pucker...
+
+654
+00:47:39,676 --> 00:47:43,237
+...in the fabric of space which
+moving objects encounter.
+
+655
+00:47:43,446 --> 00:47:48,383
+Space is warped by mass into an
+additional physical dimension.
+
+656
+00:47:50,887 --> 00:47:55,483
+The larger the local mass, the
+greater is the local gravity...
+
+657
+00:47:55,692 --> 00:47:59,150
+...and the more intense is
+the distortion...
+
+658
+00:47:59,362 --> 00:48:02,559
+...or pucker, or warp of space.
+
+659
+00:48:02,765 --> 00:48:04,858
+So, by this analogy...
+
+660
+00:48:05,068 --> 00:48:09,698
+...a black hole is a kind of
+bottomless pit.
+
+661
+00:48:09,906 --> 00:48:11,771
+What would happen if you fell in?
+
+662
+00:48:11,974 --> 00:48:15,171
+Assuming you could survive the
+gravitational tides...
+
+663
+00:48:15,378 --> 00:48:20,042
+...and the intense radiation flux,
+it is just barely possible...
+
+664
+00:48:20,249 --> 00:48:23,343
+...that by plunging into
+a black hole...
+
+665
+00:48:23,553 --> 00:48:27,319
+...you might emerge in another
+part of space-time.
+
+666
+00:48:27,523 --> 00:48:29,218
+Somewhere else in space...
+
+667
+00:48:29,425 --> 00:48:33,020
+...some-when else in time.
+
+668
+00:48:33,229 --> 00:48:35,163
+In this view, space is...
+
+669
+00:48:35,364 --> 00:48:38,356
+...filled with a network
+of wormholes...
+
+670
+00:48:38,568 --> 00:48:40,433
+...something like the wormholes
+in an apple.
+
+671
+00:48:40,636 --> 00:48:43,730
+Although by no means is this
+point demonstrated...
+
+672
+00:48:43,940 --> 00:48:47,137
+...it is merely an exciting suggestion.
+
+673
+00:48:47,343 --> 00:48:48,742
+If it is true...
+
+674
+00:48:48,945 --> 00:48:52,938
+...then perhaps there exist
+gravity tunnels...
+
+675
+00:48:53,149 --> 00:48:56,550
+...a kind of interstellar or
+intergalactic subway...
+
+676
+00:48:56,753 --> 00:48:58,482
+...which would permit you
+to get from...
+
+677
+00:48:58,688 --> 00:49:01,179
+...here to there in much less than
+the usual time.
+
+678
+00:49:01,390 --> 00:49:05,349
+A kind of cosmic rapid transit system.
+
+679
+00:49:08,064 --> 00:49:10,464
+We cannot generate black holes...
+
+680
+00:49:10,666 --> 00:49:13,396
+...our technology is far
+too feeble to...
+
+681
+00:49:13,603 --> 00:49:16,299
+...move such massive amounts
+of matter around.
+
+682
+00:49:16,506 --> 00:49:19,498
+But perhaps someday, it will be
+possible to voyage hundreds or...
+
+683
+00:49:19,709 --> 00:49:23,577
+...thousands of light-years to
+a black hole like Cygnus X-1.
+
+684
+00:49:23,780 --> 00:49:25,941
+We would plunge down to emerge...
+
+685
+00:49:26,149 --> 00:49:29,209
+...in some unimaginably
+exotic time and place.
+
+686
+00:49:29,418 --> 00:49:34,082
+Our common-sense notions of reality
+severely challenged.
+
+687
+00:49:36,325 --> 00:49:38,987
+Perhaps the cosmos is infested
+with wormholes...
+
+688
+00:49:39,195 --> 00:49:41,527
+...every one of them a
+tunnel to somewhere.
+
+689
+00:49:41,731 --> 00:49:45,963
+Perhaps other civilizations, with
+vastly more advanced technologies...
+
+690
+00:49:46,169 --> 00:49:50,572
+...are today riding the
+gravity express.
+
+691
+00:49:52,875 --> 00:49:56,572
+It's even possible that a
+black hole is a gate...
+
+692
+00:49:56,779 --> 00:50:00,146
+...to another, and
+quite different, universe.
+
+693
+00:50:38,187 --> 00:50:40,678
+The lives and deaths of the stars...
+
+694
+00:50:40,890 --> 00:50:44,291
+...seem impossibly remote
+from human experience...
+
+695
+00:50:44,493 --> 00:50:48,395
+...and yet we're related in the most
+intimate way to their life cycles.
+
+696
+00:50:48,598 --> 00:50:50,566
+The very matter that makes us up...
+
+697
+00:50:50,766 --> 00:50:55,703
+...was generated long ago and far away
+in red giant stars.
+
+698
+00:50:56,806 --> 00:51:00,469
+A blade of grass,
+as Walt Whitman said...
+
+699
+00:51:00,676 --> 00:51:02,906
+"...is the journey work of the stars."
+
+700
+00:51:03,112 --> 00:51:04,636
+The formation of the solar system...
+
+701
+00:51:04,847 --> 00:51:07,975
+...may have been triggered by a
+nearby supernova explosion.
+
+702
+00:51:08,184 --> 00:51:09,674
+After the sun turned on...
+
+703
+00:51:09,886 --> 00:51:12,719
+...its ultraviolet light poured
+into our atmosphere.
+
+704
+00:51:12,922 --> 00:51:14,913
+Its warmth generated lightning.
+
+705
+00:51:15,124 --> 00:51:18,025
+And these energy sources sparked
+the origin of life.
+
+706
+00:51:19,061 --> 00:51:21,393
+Plants harvest sunlight...
+
+707
+00:51:21,597 --> 00:51:24,498
+...converting solar into
+chemical energy.
+
+708
+00:51:25,301 --> 00:51:28,395
+We and the other animals are
+parasites on the plants.
+
+709
+00:51:28,604 --> 00:51:32,540
+So we are, all of us, solar-powered.
+
+710
+00:51:32,942 --> 00:51:35,433
+The evolution of life is
+driven by mutations.
+
+711
+00:51:35,645 --> 00:51:39,775
+They are caused partly by natural
+radioactivity and cosmic rays.
+
+712
+00:51:39,982 --> 00:51:44,282
+But they are both generated in the
+spectacular deaths of massive stars...
+
+713
+00:51:44,487 --> 00:51:46,478
+...thousands of light-years distant.
+
+714
+00:51:48,024 --> 00:51:51,653
+Think of the sun's heat on your
+upturned face...
+
+715
+00:51:51,861 --> 00:51:54,125
+...on a cloudless summer's day.
+
+716
+00:51:54,330 --> 00:51:57,458
+From 150 million kilometers away...
+
+717
+00:51:57,667 --> 00:52:00,135
+...we recognize its power.
+
+718
+00:52:00,336 --> 00:52:04,170
+What would we feel on its seething,
+self-luminous surface...
+
+719
+00:52:04,373 --> 00:52:07,831
+...or immersed in its heart
+of nuclear fire?
+
+720
+00:52:08,044 --> 00:52:12,981
+And yet, the sun is an ordinary,
+even a mediocre star.
+
+721
+00:52:13,215 --> 00:52:17,049
+Our ancestors worshiped the sun
+and they were far from foolish.
+
+722
+00:52:17,253 --> 00:52:20,051
+It makes good sense to revere
+the sun and the stars.
+
+723
+00:52:20,256 --> 00:52:24,215
+Because we are their children.
+
+724
+00:52:27,196 --> 00:52:31,292
+We have witnessed the life
+cycles of the stars.
+
+725
+00:52:31,500 --> 00:52:35,937
+They are born, they mature
+and then they die.
+
+726
+00:52:36,138 --> 00:52:38,402
+As time goes on, there are
+more white dwarfs...
+
+727
+00:52:38,607 --> 00:52:41,098
+...more neutron stars,
+more black holes.
+
+728
+00:52:41,310 --> 00:52:44,143
+The remains of the stars accumulate...
+
+729
+00:52:44,347 --> 00:52:46,440
+...as the eons pass.
+
+730
+00:52:46,649 --> 00:52:50,415
+But interstellar space also becomes
+enriched in heavy elements...
+
+731
+00:52:50,619 --> 00:52:54,578
+...out of which form new generations
+of stars and planets...
+
+732
+00:52:54,790 --> 00:52:56,849
+...life and intelligence.
+
+733
+00:52:57,059 --> 00:53:01,257
+The events in one star can influence
+a world halfway across the galaxy...
+
+734
+00:53:01,464 --> 00:53:03,694
+...and a billion years in the future.
+
+735
+00:53:11,107 --> 00:53:14,634
+The vast interstellar clouds
+of gas and dust...
+
+736
+00:53:14,844 --> 00:53:16,471
+...are stellar nurseries.
+
+737
+00:53:16,679 --> 00:53:20,740
+Here first begins the inexorable
+gravitational collapse...
+
+738
+00:53:20,950 --> 00:53:24,010
+...which dominates the
+lives of the stars.
+
+739
+00:53:24,220 --> 00:53:28,623
+Massive suns may evolve through the
+red giant stage in only millions of years.
+
+740
+00:53:28,824 --> 00:53:33,090
+Dying young, never leaving the
+cloud in which they were born.
+
+741
+00:53:35,131 --> 00:53:39,693
+Other suns, longer-lived, wander
+out of the nursery.
+
+742
+00:53:39,902 --> 00:53:42,029
+Our sun is such a star...
+
+743
+00:53:42,238 --> 00:53:45,298
+...as are most
+of the stars in the sky.
+
+744
+00:53:56,485 --> 00:54:01,047
+Most stars are members of double
+or multiple star systems...
+
+745
+00:54:01,257 --> 00:54:05,557
+...and live to process their nuclear
+fuel over billions of years.
+
+746
+00:54:05,761 --> 00:54:08,821
+The galaxy is 10 billion years old.
+
+747
+00:54:09,031 --> 00:54:10,623
+Old enough to have spawned...
+
+748
+00:54:10,833 --> 00:54:14,599
+...only a few generations
+of ordinary stars.
+
+749
+00:54:19,408 --> 00:54:22,741
+The objects we encounter
+in a voyage through the Milky Way...
+
+750
+00:54:22,945 --> 00:54:27,075
+...are stages in the life cycle
+of the stars.
+
+751
+00:54:27,283 --> 00:54:29,513
+Some are bright and new...
+
+752
+00:54:29,718 --> 00:54:33,711
+...and others are as ancient as
+the galaxy itself.
+
+753
+00:54:45,568 --> 00:54:49,095
+Surrounding the Milky Way
+is a halo of matter...
+
+754
+00:54:49,305 --> 00:54:52,297
+...which includes
+the globular clusters...
+
+755
+00:54:52,508 --> 00:54:55,944
+...each containing up to
+a million elderly stars.
+
+756
+00:54:56,145 --> 00:55:00,514
+At the centers of globular clusters
+and at the core of the galaxy...
+
+757
+00:55:00,716 --> 00:55:05,380
+...there may be massive black holes
+ticking and purring...
+
+758
+00:55:05,588 --> 00:55:08,113
+...the subject of future exploration.
+
+759
+00:55:26,008 --> 00:55:28,943
+We on Earth marvel,
+and rightly so...
+
+760
+00:55:29,145 --> 00:55:32,171
+...at the daily return
+of our single sun.
+
+761
+00:55:32,381 --> 00:55:36,147
+But from a planet orbiting a star
+in a distant globular cluster...
+
+762
+00:55:36,352 --> 00:55:39,185
+...a still more glorious dawn awaits.
+
+763
+00:55:39,388 --> 00:55:42,653
+Not a sunrise, but a galaxy-rise.
+
+764
+00:55:42,858 --> 00:55:46,589
+A morning filled with
+400 billion suns...
+
+765
+00:55:46,795 --> 00:55:49,059
+...the rising of the Milky Way.
+
+766
+00:55:49,265 --> 00:55:53,167
+An enormous spiral form
+with collapsing gas clouds...
+
+767
+00:55:53,369 --> 00:55:57,100
+...condensing planetary systems,
+luminous supergiants...
+
+768
+00:55:57,306 --> 00:55:59,274
+...stable middle-aged stars...
+
+769
+00:55:59,475 --> 00:56:03,844
+...red giants, white dwarfs, planetary
+nebulas, supernovas...
+
+770
+00:56:04,046 --> 00:56:08,483
+...neutron stars, pulsars,
+black holes and...
+
+771
+00:56:08,717 --> 00:56:11,686
+...there is every reason to think,
+other exotic objects...
+
+772
+00:56:11,921 --> 00:56:14,116
+...that we have not yet discovered.
+
+773
+00:56:17,126 --> 00:56:20,994
+From such a world, high above
+the disc of the Milky Way...
+
+774
+00:56:21,197 --> 00:56:25,224
+...it would be clear as it is
+beginning to be clear on our world...
+
+775
+00:56:25,434 --> 00:56:28,494
+...that we are made
+by the atoms in the stars...
+
+776
+00:56:28,704 --> 00:56:32,765
+...that our matter
+and our form are determined...
+
+777
+00:56:32,975 --> 00:56:36,570
+...by the cosmos
+of which we are a part.
+
+778
+00:56:44,920 --> 00:56:49,186
+I only have a moment, but I wanted you
+to see a picture of Betelgeuse...
+
+779
+00:56:49,391 --> 00:56:51,325
+...in the constellation Orion.
+
+780
+00:56:51,527 --> 00:56:54,621
+The first image of the surface
+of another star.
+
+781
+00:56:54,897 --> 00:56:57,559
+But the most exciting recent
+stellar discovery...
+
+782
+00:56:57,766 --> 00:56:59,597
+...has been of a nearby supernova...
+
+783
+00:56:59,802 --> 00:57:01,997
+...in a companion galaxy
+to the Milky Way.
+
+784
+00:57:02,204 --> 00:57:06,504
+We are here seeing chemical elements
+in the process of synthesis...
+
+785
+00:57:06,709 --> 00:57:10,270
+...and have had our first glimpse
+of the supernova...
+
+786
+00:57:10,479 --> 00:57:13,642
+...through a brand-new field:
+neutrino astronomy.
+
+787
+00:57:13,849 --> 00:57:17,046
+And we're now seeing, around
+neighboring stars...
+
+788
+00:57:17,620 --> 00:57:21,317
+...discs of gas and dust just
+like those needed to explain...
+
+789
+00:57:21,523 --> 00:57:24,253
+...the origin of the planets
+in our solar system.
+
+790
+00:57:24,460 --> 00:57:27,190
+Worlds may be forming here.
+
+791
+00:57:27,396 --> 00:57:30,661
+It's like a snapshot of our
+solar system's past.
+
+792
+00:57:31,100 --> 00:57:34,228
+And there are so many such
+discs being found these days...
+
+793
+00:57:34,436 --> 00:57:38,964
+...that planets may be very common
+among the stars of the Milky Way.
+
