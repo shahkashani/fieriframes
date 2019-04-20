@@ -81,9 +81,10 @@ const allEffects = [
     stutterDelay: 0
   }),
   new stills.filters.Tint({
-    factor: 1.5
+    factor: 1.7
   }),
-  new stills.filters.Invert()
+  new stills.filters.Invert(),
+  new stills.filters.Gray()
 ];
 
 let useEffects = [];
