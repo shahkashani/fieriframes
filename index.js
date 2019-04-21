@@ -10,7 +10,7 @@ const argv = require('yargs')
   .describe('post', 'Upload image to the destinations')
   .describe('effects', 'Apply a specific GIF effect (by name)')
   .describe('local', 'Local folder to read videos from instead of S3')
-  .describe('captionFileGlob', 'Use a particular caption glob')
+  .describe('caption', 'Use a particular caption glob')
   .describe('type', 'The type of image generated').argv;
 
 const stills = require('stills');
@@ -40,10 +40,10 @@ const {
   GIF_EFFECT_RATE
 } = process.env;
 
-const { local, effects, captionFileGlob } = argv;
+const { local, effects, caption } = argv;
 
 const GIF_STILL_RATE = 0.5;
-const CAPTION_RATE = captionFileGlob ? 1 : 0.8;
+const CAPTION_RATE = caption ? 1 : 0.8;
 const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
 
 const randomly = (rate, hit = true, miss = false) =>
@@ -100,7 +100,7 @@ const filters = compact([
   randomly(
     CAPTION_RATE,
     new stills.filters.Captions({
-      captionFileGlob,
+      captionFileGlob: caption ? `*${caption}*` : null,
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
       isSequential: true,
