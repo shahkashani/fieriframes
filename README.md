@@ -36,13 +36,29 @@ Now, any changes you make to `stills` will automatically be picked up by `fierif
 
 # How do I generate a still?
 
-Run `node index.js --help`
+Put some videos in `videos` and then run `npm run generate`.
 
-This should explain most things.
+You can also do things like `npm run generate -- --type=gif`.
 
-Usually while developing, you'd put a bunch of videos in `videos/` run `node index.js --local=videos` or `npm run generate`.
+## Can I specify what effects to use, etc.?
 
-You can also pick a type of image to generate instead of letting the generator pick, e.g. `node index.js --local=videos --type=gif` (or `--type=still`).
+Absolutely. `node index.js --help` will output some helpful instructions.
+
+```
+Usage: index.js <command> [options]
+
+Options:
+  --help     Show help                                                 [boolean]
+  --version  Show version number                                       [boolean]
+  --post     Upload image to the destinations                          [boolean]
+  --effects  Apply a specific GIF effect (by name)                       [array]
+  --local    Local folder to read videos from instead of S3
+  --caption  Use a particular caption glob
+  --type     The type of image generated
+                         [choices: "still", "gif", "random"] [default: "random"]
+```
+
+Example: `node index.js --local=videos --type=gif --effects=stutter --caption=Mothman`
 
 ## S3
 
