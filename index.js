@@ -119,8 +119,7 @@ const destinations = argv.post
         consumerSecret: TUMBLR_CONSUMER_SECRET,
         token: TUMBLR_ACCESS_TOKEN_KEY,
         tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-        blogName: TUMBLR_BLOG_NAME,
-        tags: ['Guy Fieri']
+        blogName: TUMBLR_BLOG_NAME
       }),
       new stills.destinations.Twitter({
         consumerKey: TWITTER_CONSUMER_KEY,
@@ -130,6 +129,17 @@ const destinations = argv.post
       })
     ]
   : [];
+
+const taggers = [
+  new stills.taggers.Episode(),
+  new stills.taggers.Static({
+    tags: ['Guy Fieri', 'guyfieri']
+  }),
+  new stills.taggers.Captions(),
+  new stills.taggers.Filters({
+    shuffle: 'tw:flashing'
+  })
+];
 
 const getPostText = async captions => {
   if (!POST_TEXT_GENERATOR_URL) {
@@ -170,7 +180,8 @@ const getPostText = async captions => {
     source,
     content,
     filters,
-    destinations
+    destinations,
+    taggers
   };
 
   const tumblrFictionConfig = async mainResult => {
