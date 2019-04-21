@@ -100,7 +100,7 @@ const filters = compact([
   randomly(
     CAPTION_RATE,
     new stills.filters.Captions({
-      captionFileGlob: caption ? `*${caption}*` : null,
+      captionFileGlob: caption ? `*${caption}*` : undefined,
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
       isSequential: true,
