@@ -133,7 +133,7 @@ const destinations = argv.post
 const taggers = [
   new stills.taggers.Episode(),
   new stills.taggers.Static({
-    tags: ['Guy Fieri', 'guyfieri', 'diners drive-ins and dives']
+    tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives']
   }),
   new stills.taggers.Captions(),
   new stills.taggers.Filters({
