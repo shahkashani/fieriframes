@@ -137,7 +137,8 @@ const taggers = [
   }),
   new stills.taggers.Captions(),
   new stills.taggers.Filters({
-    shuffle: 'tw:flashing'
+    shuffle: 'tw:flashing',
+    stutter: 'tw:flashing'
   })
 ];
 
