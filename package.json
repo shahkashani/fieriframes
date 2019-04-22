@@ -22,7 +22,7 @@
     "lodash": "^4.17.11",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "stills": "^6.1.1",
+    "stills": "^6.1.2",
     "yargs": "^13.2.1"
   }
 }
