@@ -8,35 +8,15 @@ This bot is powered by another terrible library I wrote, called [stills](https:/
 
 To change the way the stills generator works, you're really going to have to change the `stills` engine. So these instructions will show you how to pull down that repo and link things up locally so you dev on both the `fieriframes` bot (which, again, does nothing) and the underlying engine.
 
-# Setup
-
-## Dependencies
-
-1. See the [stills README](https://github.com/shahkashani/stills)
-1. nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
-
-## `stills` engine
-
-1. `git clone https://github.com/shahkashani/stills.git`
-1. `cd stills`
-1. `nvm install`
-1. `npm install`
-1. `npm link`
-1. `cd ../`
-
-## `fieriframes` bot
-
-1. `git clone https://github.com/shahkashani/fieriframes.git`
-1. `cd fieriframes`
-1. `nvm install`
-1. `npm install`
-1. `npm link stills`
-
-Now, any changes you make to `stills` will automatically be picked up by `fieriframes`. If you make something cool, please make a PR from your `stills` fork against the master repo.
-
 # How do I generate a still?
 
-Put some videos in `videos` and then run `npm run generate`.
+## Setup
+
+1. Install the dependencies in the [stills README](https://github.com/shahkashani/stills)
+1. Install nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
+1. Put some videos in `videos`
+1. Run `nvm install`
+1. Run `npm run generate`.
 
 You can also do things like `npm run generate -- --type=gif`.
 
@@ -93,6 +73,10 @@ TWITTER_ACCESS_TOKEN_KEY=
 TWITTER_ACCESS_TOKEN_SECRET=
 ```
 
-## Tada
+# Trying to add captions?
+
+Just drop a new .srt file or .txt file into the `captions` folder. If you're adding author quotes, you might find [goodquotes](https://github.com/shahkashani/goodquotes) useful.
+
+# Tada
 
 I think that's it! Let me know if you run into any troubles. PRs accepted! Make a fork and open one against this repo!
