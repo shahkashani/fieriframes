@@ -6,7 +6,9 @@ This is the source code behind [Fieri Frames](http://fieriframes.tumblr.com). If
 
 This bot is powered by another terrible library I wrote, called [stills](https://github.com/shahkashani/stills).
 
-To change the way the stills generator works, you're really going to have to change the `stills` engine. So these instructions will show you how to pull down that repo and link things up locally so you dev on both the `fieriframes` bot (which, again, does nothing) and the underlying engine.
+If you just wanna generate stills, all you need is this repo and some videos. So keep reading.
+
+If you wanna change the way the stills generator works, you're really going to have to change the `stills` engine. The instructions in [CONTRIBUTING](./CONTRIBUTING.md) will show you how to set all of that up.
 
 # How do I generate a still?
 
