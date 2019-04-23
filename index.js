@@ -84,7 +84,8 @@ const allEffects = [
     factor: 1.7
   }),
   new stills.filters.Invert(),
-  new stills.filters.Gray()
+  new stills.filters.Gray(),
+  new stills.filters.Reverse()
 ];
 
 let useEffects = [];
