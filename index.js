@@ -85,7 +85,9 @@ const allEffects = [
   }),
   new stills.filters.Invert(),
   new stills.filters.Gray(),
-  new stills.filters.Reverse()
+  new stills.filters.Reverse(),
+  new stills.filters.Implode(),
+  new stills.filters.Rotate()
 ];
 
 let useEffects = [];
