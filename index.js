@@ -87,7 +87,6 @@ const allEffects = [
   new stills.filters.Gray(),
   new stills.filters.Reverse(),
   new stills.filters.Implode(),
-  new stills.filters.Rotate(),
   new stills.filters.Swirl()
 ];
 
