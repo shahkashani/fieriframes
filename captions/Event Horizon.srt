@@ -40,17 +40,17 @@ I miss you.
 
 12
 00:05:20,520 --> 00:05:24,120
-(PA) 'Dr Weir, report to the
-Lewis & Clark in Docking Bay four.'
+(PA) Dr. Weir, report to
+Lewis & Clark in Docking Bay four.
 
 13
 00:05:41,320 --> 00:05:44,080
-- 'lon drive set.'
-- 'Thank you.'
+- Ion drive set.
+- Thank you.
 
 14
 00:05:45,920 --> 00:05:49,920
-'Heading: vector one-nine degrees.'
+Heading: vector one-nine degrees.
 
 15
 00:05:53,920 --> 00:05:57,440
@@ -395,12 +395,12 @@ Why aren't you on the bridge?
 
 94
 00:11:40,640 --> 00:11:43,320
-(Peters) 'OK, Denny,
-here we go. Happy birthday.'
+(Peters) OK, Denny,
+here we go. Happy birthday.
 
 95
 00:11:43,320 --> 00:11:45,320
-'Play horsey, Mommy! Play horsey!'
+Play horsey, Mommy! Play horsey!
 
 96
 00:11:45,320 --> 00:11:46,560
@@ -1439,7 +1439,7 @@ it's never been used.
 
 329
 00:24:54,360 --> 00:24:56,480
-(Weir) 'You haven't seen any crew?'
+(Weir) You haven't seen any crew?
 
 330
 00:24:56,480 --> 00:24:59,800
@@ -1469,12 +1469,12 @@ got a case of the willies.
 
 336
 00:25:17,640 --> 00:25:19,840
-(Starck) 'Cooper, back to your post.
+(Starck) Cooper, back to your post.
 
 337
 00:25:19,840 --> 00:25:22,080
-'Miller, your heart rate
-just rocketed.'
+Miller, your heart rate
+just rocketed.
 
 338
 00:25:22,080 --> 00:25:23,480
@@ -1492,8 +1492,8 @@ containment, Dr Weir.
 
 341
 00:25:33,000 --> 00:25:35,800
-(Weir) 'The engineering decks
-are on the other side.'
+(Weir) The engineering decks
+are on the other side.
 
 342
 00:25:35,800 --> 00:25:37,760
@@ -1505,12 +1505,12 @@ What the hell is this place, Dr Weir?
 
 344
 00:25:56,480 --> 00:25:59,560
-'It's to enter the second containment
+It's to enter the second containment
 
 345
 00:25:59,560 --> 00:26:01,440
-'without compromising
-the magnetic fields.'
+Without compromising
+the magnetic fields.
 
 346
 00:26:02,800 --> 00:26:05,400
@@ -1549,7 +1549,7 @@ turn back and left?
 354
 00:26:58,720 --> 00:27:02,320
 - What is it?
-- 'Ship's log.'
+- "Ship's log."
 
 355
 00:27:16,280 --> 00:27:18,560
@@ -1581,17 +1581,17 @@ Decompression doesn't do that.
 
 362
 00:27:41,840 --> 00:27:43,920
-(Smith) 'Looks like
+(Smith) Looks like
 it was caused by...
 
 363
 00:27:43,920 --> 00:27:45,960
-'I don't know, an animal.
+I don't know, an animal.
 
 364
 00:27:45,960 --> 00:27:49,200
-'Look at the soft tissue,
-the massive abrasions.'
+Look at the soft tissue,
+the massive abrasions.
 
 365
 00:27:49,200 --> 00:27:51,320
@@ -1919,7 +1919,7 @@ Captain Miller.
 
 441
 00:33:56,000 --> 00:33:57,960
-'Captain Miller, do you copy?'
+Captain Miller, do you copy?
 
 442
 00:33:57,960 --> 00:33:59,480
@@ -2280,7 +2280,7 @@ DJ, where are you?
 
 525
 00:38:26,360 --> 00:38:28,640
-(DJ) 'I'm up on Deck 4.'
+(DJ) I'm up on Deck 4.
 
 526
 00:38:59,240 --> 00:39:02,200
@@ -2322,23 +2322,23 @@ in the ship's log.
 
 535
 00:40:11,760 --> 00:40:14,280
-'I'm very proud of my crew.
+I'm very proud of my crew.
 
 536
 00:40:14,280 --> 00:40:16,920
-'I'd like to name my station heads:
+I'd like to name my station heads:
 
 537
 00:40:16,920 --> 00:40:19,560
-'Chris Chambers, Janice Reuben,
+Chris Chambers, Janice Reuben,
 
 538
 00:40:19,560 --> 00:40:22,680
-'Ben Fender, Dick Smith.
+Ben Fender, Dick Smith.
 
 539
 00:40:23,840 --> 00:40:26,200
-'We've reached safe distance...'
+We've reached safe distance...
 
 540
 00:40:26,200 --> 00:40:28,640
@@ -2347,21 +2347,21 @@ ship's captain.
 
 541
 00:40:28,640 --> 00:40:31,240
-'..we're preparing
+We're preparing
 to engage the gravity drive
 
 542
 00:40:31,240 --> 00:40:33,840
-'and open the gateway
+and open the gateway
 to Proxima Centauri.
 
 543
 00:40:33,840 --> 00:40:36,400
-"'Ave atque vale."
+"Ave atque vale."
 
 544
 00:40:36,400 --> 00:40:38,960
-'Hail and farewell.'
+"Hail and farewell."
 
 545
 00:40:38,960 --> 00:40:42,800
@@ -2883,7 +2883,7 @@ anyone in the airlock?
 
 668
 00:48:56,640 --> 00:48:58,800
-(Miller) 'That's a negative, Starck.'
+(Miller) That's a negative, Starck.
 
 669
 00:48:58,800 --> 00:49:00,160
@@ -2908,8 +2908,8 @@ Miller, come in.
 
 674
 00:49:11,960 --> 00:49:14,760
-'Miller, come in.
-We have an emergency.'
+Miller, come in.
+We have an emergency.
 
 675
 00:49:14,760 --> 00:49:16,480
@@ -3098,7 +3098,7 @@ Come on. Please...
 
 716
 00:51:09,840 --> 00:51:12,320
-- 'Captain!'
+- Captain!
 - Patch me through.
 
 717
@@ -3138,15 +3138,15 @@ Tuck yourself into a ball.
 
 725
 00:51:37,680 --> 00:51:39,960
-(Justin) 'I can't breathe!
+(Justin) I can't breathe!
 
 726
 00:51:39,960 --> 00:51:41,280
-'Oh! Oh, God!
+Oh! Oh, God!
 
 727
 00:51:41,280 --> 00:51:43,920
-'Oh, God, it hurts!'
+Oh, God, it hurts!
 
 728
 00:51:43,920 --> 00:51:48,160
@@ -3220,8 +3220,8 @@ Give me some more glycerine now!
 
 745
 00:52:30,720 --> 00:52:34,600
-- 'One thing at a time.'
-- 'Christ, he's bleeding!'
+- One thing at a time.
+- Christ, he's bleeding!
 
 746
 00:52:43,640 --> 00:52:47,440
@@ -3573,7 +3573,7 @@ in the translation.
 
 826
 00:57:35,760 --> 00:57:39,600
-(Voice) 'Liberate tutemet...'
+(Voice) "Liberate tutemet..."
 
 827
 00:57:39,600 --> 00:57:41,400
@@ -3609,8 +3609,8 @@ And it gets worse.
 
 835
 00:58:00,440 --> 00:58:03,960
-(Voice) 'Liberate tutemet
-ex inferis.'
+(Voice) "Liberate tutemet
+ex inferis."
 
 836
 00:58:03,960 --> 00:58:05,520
@@ -3678,7 +3678,7 @@ he sure believes in hell.
 851
 00:58:56,680 --> 00:58:58,640
 (Cooper on intercom)
-'Captain Miller!'
+"Captain Miller!"
 
 852
 00:59:01,920 --> 00:59:03,800
@@ -3686,8 +3686,8 @@ It better be good, Coop.
 
 853
 00:59:03,800 --> 00:59:07,840
-(Cooper) 'Ready to repressurise
-the Clark and get out of here.'
+(Cooper) Ready to repressurise
+the Clark and get out of here.
 
 854
 00:59:07,840 --> 00:59:09,320
@@ -3725,12 +3725,12 @@ Give me 20 minutes to plug it.
 
 862
 00:59:35,440 --> 00:59:38,200
-(Miller) 'Cooper,
+(Miller) Cooper,
 you are the life-saver.
 
 863
 00:59:38,200 --> 00:59:40,400
-'20 minutes and we're under way.'
+20 minutes and we're under way.
 
 864
 00:59:43,720 --> 00:59:45,640
@@ -3778,8 +3778,8 @@ Miller!
 
 875
 01:00:18,720 --> 01:00:23,880
-(Voice) 'Liberate tutemet
-ex inferis.'
+(Voice) "Liberate tutemet
+ex inferis."
 
 876
 01:00:23,880 --> 01:00:27,320
@@ -4114,7 +4114,7 @@ and we can go.
 
 955
 01:07:00,080 --> 01:07:02,640
-- 'Two minutes, tops.'
+- Two minutes, tops.
 - Roger that.
 
 956
@@ -4148,11 +4148,11 @@ Captain Miller, do you copy? Over.
 
 963
 01:07:27,880 --> 01:07:30,360
-'Captain Miller, do you copy? Over.'
+Captain Miller, do you copy? Over.
 
 964
 01:07:30,360 --> 01:07:31,520
-'Go ahead, Smitty.'
+Go ahead, Smitty.
 
 965
 01:07:31,520 --> 01:07:35,440
@@ -4166,13 +4166,13 @@ I wanna check something out.
 
 967
 01:07:43,920 --> 01:07:46,760
-- 'Smith, get out.'
+- Smith, get out.
 - Come again, sir?
 
 968
 01:07:46,760 --> 01:07:50,160
-'Explosives are missing.
-Weir's put it on Clark.'
+Explosives are missing.
+Weir's put it on Clark.
 
 969
 01:07:50,200 --> 01:07:53,600
@@ -4276,8 +4276,8 @@ What was that?
 
 993
 01:10:19,320 --> 01:10:22,920
-'Clark's gone.
-Smitty and Cooper are dead.'
+Clark's gone.
+Smitty and Cooper are dead.
 
 994
 01:10:22,920 --> 01:10:24,280
@@ -4285,7 +4285,7 @@ What the...?
 
 995
 01:10:24,280 --> 01:10:26,480
-'You spot Weir, take him out.'
+You spot Weir, take him out.
 
 996
 01:10:26,480 --> 01:10:28,360
@@ -4293,7 +4293,7 @@ Understood.
 
 997
 01:10:28,360 --> 01:10:30,400
-'Be careful, DJ.'
+Be careful, DJ.
 
 998
 01:10:30,400 --> 01:10:32,240
@@ -4317,7 +4317,7 @@ Aah!
 
 1003
 01:10:56,880 --> 01:11:00,640
-(Miller) 'DJ! DJ, answer me!'
+(Miller) "DJ! DJ, answer me!"
 
 1004
 01:11:12,200 --> 01:11:13,360
@@ -4686,13 +4686,13 @@ behind me, Lieutenant.
 
 1090
 01:19:28,080 --> 01:19:32,000
-(Computer) 'Gateway opening
-in T-minus five minutes.'
+(Computer) "Gateway opening
+in T-minus five minutes."
 
 1091
 01:19:38,280 --> 01:19:40,560
 (Computer)
-'Emergency beacon activated.'
+"Emergency beacon activated."
 
 1092
 01:19:42,080 --> 01:19:43,720
@@ -4732,18 +4732,18 @@ Run!
 
 1101
 01:20:30,080 --> 01:20:34,280
-(Computer) 'Gateway opening
-in T-minus three minutes.'
+(Computer) "Gateway opening
+in T-minus three minutes."
 
 1102
 01:20:37,560 --> 01:20:40,600
-(Computer) 'Detonator release
-is authorised.'
+(Computer) "Detonator release
+is authorised."
 
 1103
 01:20:42,000 --> 01:20:44,840
-(Computer) 'The main
-corridor is now armed.'
+(Computer) "The main
+corridor is now armed."
 
 1104
 01:20:44,840 --> 01:20:47,120
@@ -4759,7 +4759,7 @@ Miller. Miller, can you hear me?
 
 1107
 01:20:52,880 --> 01:20:55,800
-'We have to get out of here now.'
+We have to get out of here now.
 
 1108
 01:20:55,800 --> 01:20:57,240
@@ -4771,8 +4771,8 @@ You let me burn!
 
 1110
 01:21:15,920 --> 01:21:20,360
-(Computer) 'Gateway opening
-in T-minus two minutes.'
+(Computer) "Gateway opening
+in T-minus two minutes."
 
 1111
 01:21:25,640 --> 01:21:27,600
@@ -4921,7 +4921,7 @@ They belong to the ship.
 
 1146
 01:23:33,640 --> 01:23:36,080
-(Computer) 'Gateway opening.'
+(Computer) "Gateway opening."
 
 1147
 01:23:47,680 --> 01:23:49,240
@@ -5001,17 +5001,17 @@ Miller.
 
 1166
 01:25:56,160 --> 01:25:59,840
-(Man) 'This is Rescue One.
+(Man) This is Rescue One.
 We have contact.
 
 1167
 01:25:59,840 --> 01:26:03,520
-'Approaching the wreckage
+Approaching the wreckage
 of the Event Horizon.
 
 1168
 01:26:03,520 --> 01:26:05,320
-'Prepare to board.'
+Prepare to board.
 
 1169
 01:26:14,400 --> 01:26:17,280
