@@ -170,8 +170,6 @@ const taggers = [
   const tags = get(tumblr, 'tags', []);
   const reblog = tumblr
     ? {
-        blogName: tumblr.blogName,
-        postId: tumblr.postId,
         url: tumblr.url
       }
     : null;
