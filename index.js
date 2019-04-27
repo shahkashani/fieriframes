@@ -168,14 +168,10 @@ const taggers = [
   const captions = get(result, 'filters.captions', []);
   const tumblr = get(result, 'destinations.tumblr');
   const tags = get(tumblr, 'tags', []);
-  const reblog = tumblr
-    ? {
-        url: tumblr.url
-      }
-    : null;
+  const url = get(tumblr, 'url');
   if (destinations.length) {
     if (captions.length) {
-      await fiction.post(output, captions, tags, reblog);
+      await fiction.post(output, captions, tags, url);
     }
     stills.deleteStills(result);
   }
