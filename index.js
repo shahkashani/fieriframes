@@ -132,7 +132,7 @@ const destinations = argv.post
         tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
         blogName: TUMBLR_BLOG_NAME
       }),
-      new stils.destinations.Twitter({
+      new stills.destinations.Twitter({
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
         accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
