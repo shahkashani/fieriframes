@@ -15,8 +15,8 @@ const argv = require('yargs')
 
 const stills = require('stills');
 const { resolve } = require('path');
-const { compact, random, sample, sampleSize, get } = require('lodash');
-const rp = require('request-promise');
+const { compact, random, sampleSize, get } = require('lodash');
+const FieriFiction = require('fierifiction');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -32,12 +32,9 @@ const {
   TWITTER_CONSUMER_SECRET,
   TWITTER_ACCESS_TOKEN_KEY,
   TWITTER_ACCESS_TOKEN_SECRET,
-  TWITTER_QUOTE_CONSUMER_KEY,
-  TWITTER_QUOTE_CONSUMER_SECRET,
-  TWITTER_QUOTE_ACCESS_TOKEN_KEY,
-  TWITTER_QUOTE_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL,
-  GIF_EFFECT_RATE
+  GIF_EFFECT_RATE,
+  WATSON_API_KEY
 } = process.env;
 
 const { local, effects, caption } = argv;
@@ -45,6 +42,16 @@ const { local, effects, caption } = argv;
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
 const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
+
+const fiction = new FieriFiction({
+  tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
+  tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
+  tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
+  tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+  tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
+  watsonApiKey: WATSON_API_KEY,
+  textGeneratorUrl: POST_TEXT_GENERATOR_URL
+});
 
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
@@ -146,132 +153,31 @@ const taggers = [
   })
 ];
 
-const getPostText = async captions => {
-  if (!POST_TEXT_GENERATOR_URL) {
-    return null;
-  }
-  console.log('\n🎁 Talking to Dreamscape');
-  const input = captions
-    .join(' ')
-    .replace(/\\n/gi, ' ')
-    .replace(/\s{2,}/, ' ');
-  let output;
-  try {
-    const req = await rp({
-      uri: POST_TEXT_GENERATOR_URL,
-      qs: {
-        q: input,
-        length: 100
-      },
-      json: true
-    });
-    output = req.output;
-    if (output) {
-      const match = output.match(/[.!?]/gi);
-      const lastIndex = output.lastIndexOf(match[match.length - 1]);
-      output = output.slice(0, lastIndex + 1);
-    }
-  } catch (err) {
-    console.log(`💥 Something borked: ${err}`);
-  }
-
-  return output;
-};
-
 (async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
-  const mainConfig = {
+  const result = await stills.generate({
     source,
     content,
     filters,
     destinations,
     taggers
-  };
+  });
 
-  const tumblrFictionConfig = async mainResult => {
-    // This gives us all the info we need to reblog the main post
-    const { blogName, postId, tags } = get(
-      mainResult,
-      'destinations.tumblr',
-      {}
-    );
-    const { captions } = mainResult.filters;
-    if (!blogName || !postId || !captions || captions.length === 0) {
-      return;
-    }
-    // Use the caption from the main post to generate a story
-    const postText = await getPostText(captions);
-    return {
-      image: mainResult.content,
-      getPostText: () => postText,
-      destinations: [
-        new stills.destinations.Tumblr({
-          // Just use the same tags as the main post
-          tags,
-          reblog: {
-            blogName,
-            postId
-          },
-          consumerKey: TUMBLR_CONSUMER_KEY,
-          consumerSecret: TUMBLR_CONSUMER_SECRET,
-          token: TUMBLR_ACCESS_TOKEN_KEY,
-          tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-          blogName: TUMBLR_REBLOG_BLOG_NAME
-        })
-      ]
-    };
-  };
-
-  const twitterFictionConfig = async (tumblrFictionResult, [mainResult]) => {
-    const { text } = get(tumblrFictionResult, 'destinations.tumblr', {});
-
-    // We didn't post the main post to Twitter, so skip this one too.
-    // Also skip if there is no story to post.
-    if (!mainResult.destinations.twitter || !text) {
-      return;
-    }
-    return {
-      image: mainResult.content,
-      getPostText: () => text,
-      filters: [
-        new stills.filters.Annotate({
-          text,
-          style: {
-            color: 'white',
-            padding: 150,
-            bgColor: sample([
-              '#231f20',
-              '#a5311f',
-              '#7a2417',
-              '#a48752',
-              '#42403d'
-            ]),
-            lineSpacing: 10,
-            localFontPath: resolve('./fonts/legend.ttf'),
-            localFontName: 'Legend',
-            font: '50px Legend'
-          }
-        })
-      ],
-      destinations: [
-        new stills.destinations.Twitter({
-          consumerKey: TWITTER_QUOTE_CONSUMER_KEY,
-          consumerSecret: TWITTER_QUOTE_CONSUMER_SECRET,
-          accessTokenKey: TWITTER_QUOTE_ACCESS_TOKEN_KEY,
-          accessTokenSecret: TWITTER_QUOTE_ACCESS_TOKEN_SECRET
-        })
-      ]
-    };
-  };
-
-  const results = await stills.generateChain([
-    mainConfig,
-    tumblrFictionConfig,
-    twitterFictionConfig
-  ]);
-
+  const output = result.content;
+  const captions = get(result, 'filters.captions', []);
+  const tumblr = get(result, 'destinations.tumblr');
+  const tags = get(tumblr, 'tags', []);
+  const reblog = tumblr
+    ? {
+        blogName: tumblr.blogName,
+        postId: tumblr.postId
+      }
+    : null;
   if (destinations.length) {
-    stills.deleteStills(results);
+    if (captions.length) {
+      await fiction.post(output, captions, tags, reblog);
+    }
+    stills.deleteStills(result);
   }
 })();
