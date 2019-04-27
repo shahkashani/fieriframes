@@ -34,7 +34,8 @@ const {
   TWITTER_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
-  WATSON_API_KEY
+  WATSON_API_KEY,
+  GCLOUD_ACCESS_TOKEN
 } = process.env;
 
 const { local, effects, caption } = argv;
@@ -50,6 +51,7 @@ const fiction = new FieriFiction({
   tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
   tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
   watsonApiKey: WATSON_API_KEY,
+  gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
   textGeneratorUrl: POST_TEXT_GENERATOR_URL
 });
 
