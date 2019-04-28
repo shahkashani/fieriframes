@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v3.1.1",
+    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v3.2.0",
     "lodash": "^4.17.11",
     "stills": "^6.9.0",
     "yargs": "^13.2.1"
