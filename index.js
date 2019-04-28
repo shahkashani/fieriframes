@@ -35,7 +35,8 @@ const {
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
   WATSON_API_KEY,
-  GCLOUD_ACCESS_TOKEN
+  GCLOUD_ACCESS_TOKEN,
+  FIERIFICTION_VIDEO_RATE
 } = process.env;
 
 const { local, effects, caption } = argv;
@@ -43,6 +44,9 @@ const { local, effects, caption } = argv;
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
 const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
+const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
+  ? parseFloat(FIERIFICTION_VIDEO_RATE)
+  : 0.5;
 
 const fiction = new FieriFiction({
   tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
@@ -172,10 +176,24 @@ const taggers = [
   const tags = get(tumblr, 'tags', []);
   if (destinations.length) {
     if (captions.length) {
-      await fiction.post(output, captions, tags, tumblr.url, {
-        blogName: tumblr.blogName,
-        postId: tumblr.postId
-      });
+      const generator = randomly(
+        NUM_FIERIFICTION_VIDEO_RATE,
+        async () => {
+          await fiction.postVideo(output, captions, tags, tumblr.url, {
+            postId: tumblr.postId,
+            blogName: tumblr.blogName
+          });
+        },
+        async () => {
+          await fiction.postText(
+            captions,
+            tumblr.postId,
+            tumblr.blogName,
+            tags
+          );
+        }
+      );
+      await generator();
     }
     stills.deleteStills(result);
   }
