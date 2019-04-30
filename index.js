@@ -34,7 +34,6 @@ const {
   TWITTER_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
-  WATSON_API_KEY,
   GCLOUD_ACCESS_TOKEN,
   FIERIFICTION_VIDEO_RATE
 } = process.env;
@@ -54,9 +53,9 @@ const fiction = new FieriFiction({
   tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
   tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
   tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
-  watsonApiKey: WATSON_API_KEY,
   gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
-  textGeneratorUrl: POST_TEXT_GENERATOR_URL
+  textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+  speakingRate: 1.1
 });
 
 const randomly = (rate, hit = true, miss = false) =>
