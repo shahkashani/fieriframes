@@ -56,7 +56,7 @@ const fiction = new FieriFiction({
   gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
   textGeneratorUrl: POST_TEXT_GENERATOR_URL,
   speakingRate: 1.1,
-  pitch: random(0, 20)
+  pitch: random(-20, 20)
 });
 
 const randomly = (rate, hit = true, miss = false) =>
