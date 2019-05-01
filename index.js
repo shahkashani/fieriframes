@@ -55,7 +55,8 @@ const fiction = new FieriFiction({
   tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
   gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
   textGeneratorUrl: POST_TEXT_GENERATOR_URL,
-  speakingRate: 1.1
+  speakingRate: 1.1,
+  pitch: random(0, 20)
 });
 
 const randomly = (rate, hit = true, miss = false) =>
