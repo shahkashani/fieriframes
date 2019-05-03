@@ -69,7 +69,7 @@ Awakey-wakey!
 
 17
 00:02:26,069 --> 00:02:26,777
-[ Knocking ]
+[Knocking]
 
 18
 00:02:26,902 --> 00:02:29,860
@@ -87,7 +87,7 @@ Hi. Hey.
 21
 00:02:33,944 --> 00:02:36,444
 - Deacon?
-- [ Hisses]
+- [Hisses]
 
 22
 00:02:36,570 --> 00:02:38,902
@@ -124,7 +124,7 @@ in about 15 minutes, okay?
 
 29
 00:02:51,820 --> 00:02:53,278
-[ Door closes, knocking]
+[Door closes, knocking]
 
 30
 00:02:53,403 --> 00:02:54,279
@@ -132,7 +132,7 @@ Vladislav?
 
 31
 00:02:54,403 --> 00:02:56,736
-- [ Women moaning]
+- [Women moaning]
 - VLADISLAV: [Hisses]
 
 32
@@ -184,8 +184,8 @@ Petyr?
 
 43
 00:03:56,697 --> 00:04:00,197
-- [ Normal voice] Petyr, wake up.
-- [ Hisses]
+- [Normal voice] Petyr, wake up.
+- [Hisses]
 
 44
 00:04:00,822 --> 00:04:01,863
@@ -217,7 +217,7 @@ floor down here, Petyr, and...
 50
 00:04:15,864 --> 00:04:17,614
 - Like this... It seems...
-- [ Clatter]
+- [Clatter]
 
 51
 00:04:17,739 --> 00:04:20,948
@@ -241,7 +241,7 @@ You know, maybe...
 
 55
 00:04:30,615 --> 00:04:32,031
-[ Hisses]
+[Hisses]
 
 56
 00:04:32,156 --> 00:04:34,156
@@ -250,7 +250,7 @@ Okay.
 57
 00:04:35,156 --> 00:04:37,198
 - I got you this chicken.
-- [ Chicken clucking]
+- [Chicken clucking]
 
 58
 00:04:37,323 --> 00:04:40,115
@@ -971,7 +971,7 @@ cannot wear silver.
 
 212
 00:13:31,593 --> 00:13:33,676
-[ Breathes sharply]
+[Breathes sharply]
 
 213
 00:13:33,800 --> 00:13:35,801
@@ -983,7 +983,7 @@ cannot wear silver.
 
 215
 00:13:38,634 --> 00:13:40,342
-[ Breathes deeply]
+[Breathes deeply]
 
 216
 00:13:40,467 --> 00:13:43,051
@@ -1656,7 +1656,7 @@ Shit!
 
 360
 00:20:19,189 --> 00:20:21,065
-[ Spits, gargles]
+[Spits, gargles]
 
 361
 00:20:25,440 --> 00:20:28,024
@@ -1783,7 +1783,7 @@ See me.
 388
 00:22:13,277 --> 00:22:16,402
 - See me.
-- [ Door opens]
+- [Door opens]
 
 389
 00:22:17,111 --> 00:22:19,777
@@ -1892,7 +1892,7 @@ She's in.
 
 412
 00:23:29,405 --> 00:23:31,530
-[ <i>Big-band music plays</i> ]
+[<i>Big-band music plays</i>]
 
 413
 00:23:33,488 --> 00:23:34,988
@@ -2004,7 +2004,7 @@ I would.
 
 437
 00:24:30,907 --> 00:24:32,699
-<i>[ Man singing operatically]</i>
+<i>[Man singing operatically]</i>
 
 438
 00:24:32,824 --> 00:24:35,657
@@ -2141,7 +2141,7 @@ Not cool.
 
 467
 00:25:48,826 --> 00:25:50,909
-[ Door rattles]
+[Door rattles]
 
 468
 00:25:51,035 --> 00:25:52,493
@@ -2149,7 +2149,7 @@ You don't think this is weird?
 
 469
 00:25:52,619 --> 00:25:54,076
-[ Door rattles]
+[Door rattles]
 
 470
 00:25:54,201 --> 00:25:55,410
@@ -2157,7 +2157,7 @@ For fuck's sakes.
 
 471
 00:25:55,535 --> 00:25:56,827
-[ Door rattles]
+[Door rattles]
 
 472
 00:26:01,660 --> 00:26:03,161
@@ -2166,7 +2166,7 @@ Jackie?!
 473
 00:26:03,285 --> 00:26:05,119
 - Jackie!
-- [ Pounding on window]
+- [Pounding on window]
 
 474
 00:26:05,243 --> 00:26:08,535
@@ -2193,11 +2193,11 @@ Shit! Shit!
 
 479
 00:26:18,411 --> 00:26:20,536
-[ Bat screeching ]
+[Bat screeching]
 
 480
 00:26:21,703 --> 00:26:22,745
-VLADISLAV: [ Yowling ]
+VLADISLAV: [Yowling]
 
 481
 00:26:22,869 --> 00:26:25,077
@@ -2221,7 +2221,7 @@ VIAGO: [Hisses]
 
 486
 00:26:33,953 --> 00:26:35,953
-[ Hisses]
+[Hisses]
 
 487
 00:26:40,203 --> 00:26:42,786
@@ -2230,7 +2230,7 @@ VIAGO: [Hisses]
 488
 00:26:44,120 --> 00:26:45,953
 - Fuck off.
-- [ Pounding stops]
+- [Pounding stops]
 
 489
 00:26:49,828 --> 00:26:51,704
@@ -2242,7 +2242,7 @@ Where am I?
 
 491
 00:26:59,746 --> 00:27:01,662
-[ Hisses]
+[Hisses]
 
 492
 00:27:01,787 --> 00:27:03,370
@@ -2282,7 +2282,7 @@ Freaks!
 
 501
 00:27:36,372 --> 00:27:37,414
-[ Hisses]
+[Hisses]
 
 502
 00:27:39,747 --> 00:27:43,080
@@ -2299,7 +2299,7 @@ DEACON: Who let Petyr out?
 
 505
 00:28:08,290 --> 00:28:10,248
-[ <i>Slow music plays</i> ]
+[<i>Slow music plays</i>]
 
 506
 00:28:46,041 --> 00:28:47,041
@@ -2316,7 +2316,7 @@ What are you doing, Nick?
 
 509
 00:28:51,958 --> 00:28:54,207
-- [ Record scratches ]
+- [Record scratches]
 - Come into the house.
 
 510
@@ -2538,11 +2538,11 @@ a few things.
 
 556
 00:30:46,837 --> 00:30:48,712
-[ Record scratching ]
+[Record scratching]
 
 557
 00:30:48,837 --> 00:30:51,670
-[ <i>Big-band music plays</i> ]
+[<i>Big-band music plays</i>]
 
 558
 00:30:51,795 --> 00:30:53,879
@@ -2739,7 +2739,7 @@ Big Kumara!
 600
 00:32:22,798 --> 00:32:24,840
 - NICK: Right.
-- [ Sarcastically] Great.
+- [Sarcastically] Great.
 
 601
 00:32:24,965 --> 00:32:27,466
@@ -2770,7 +2770,7 @@ Gentlemen, you are most welcome.
 
 607
 00:32:38,257 --> 00:32:39,716
-[ Laughter]
+[Laughter]
 
 608
 00:32:39,841 --> 00:32:41,257
@@ -2845,7 +2845,7 @@ at the moment.
 
 624
 00:33:21,134 --> 00:33:23,551
-- [ Screaming]
+- [Screaming]
 - ♪ Cool vibe ♪
 
 625
@@ -2960,7 +2960,7 @@ It's Count Fag-ula.
 
 648
 00:34:09,011 --> 00:34:09,886
-[ Laughter]
+[Laughter]
 
 649
 00:34:10,011 --> 00:34:11,385
@@ -3038,13 +3038,13 @@ I've still got my glasses.
 
 664
 00:34:37,928 --> 00:34:39,595
-- [ Snarling]
+- [Snarling]
 - Oh, oh, oh, oh!
 
 665
 00:34:39,720 --> 00:34:41,845
 - Whoa, whoa, whoa, whoa.
-- [ Snarling ]
+- [Snarling]
 
 666
 00:34:41,970 --> 00:34:43,553
@@ -3095,7 +3095,7 @@ We didn't want this to happen.
 
 676
 00:34:59,638 --> 00:35:02,096
-[Werewolves howling ]
+[Werewolves howling]
 
 677
 00:35:04,721 --> 00:35:05,947
@@ -3127,7 +3127,7 @@ Are you okay, Stu?
 
 683
 00:35:15,055 --> 00:35:17,472
-[ Indistinct conversation]
+[Indistinct conversation]
 
 684
 00:35:17,597 --> 00:35:20,555
@@ -3397,7 +3397,7 @@ is eat a live being
 742
 00:37:40,976 --> 00:37:43,393
 - or eat blood or eat meat.
-- [ Grunts]
+- [Grunts]
 
 743
 00:37:43,518 --> 00:37:45,156
@@ -3441,7 +3441,7 @@ will focus it.
 751
 00:38:04,977 --> 00:38:06,120
 - Maybe smile.
-- [ Camera shutter clicks]
+- [Camera shutter clicks]
 
 752
 00:38:06,144 --> 00:38:07,810
@@ -3528,15 +3528,15 @@ a virgin if she's doing that.
 
 770
 00:38:58,646 --> 00:39:00,979
-[ <i>Choir singing operatically</i> ]
+[<i>Choir singing operatically</i>]
 
 771
 00:39:05,896 --> 00:39:07,730
-[ Record scratching ]
+[Record scratching]
 
 772
 00:39:07,854 --> 00:39:10,813
-[ <i>Music continues</i> ]
+[<i>Music continues</i>]
 
 773
 00:39:11,897 --> 00:39:12,896
@@ -3575,7 +3575,7 @@ He looks so old.
 
 781
 00:39:30,105 --> 00:39:31,897
-[ <i>Speaking German</i> ]
+[<i>Speaking German</i>]
 
 782
 00:39:32,022 --> 00:39:33,522
@@ -3694,7 +3694,7 @@ Oh!
 807
 00:41:39,777 --> 00:41:42,860
 - I'm a vampire!
-- [ Crowd cheering]
+- [Crowd cheering]
 
 808
 00:41:42,985 --> 00:41:44,401
@@ -3743,7 +3743,7 @@ I'm a vampire, though.
 818
 00:41:59,985 --> 00:42:02,736
 - I'm a vampire hunter, man.
-- [ Laughs] No, you're not.
+- [Laughs] No, you're not.
 
 819
 00:42:02,861 --> 00:42:04,653
@@ -3781,7 +3781,7 @@ Um...
 
 826
 00:42:16,278 --> 00:42:18,944
-[ Hisses]
+[Hisses]
 
 827
 00:42:22,028 --> 00:42:24,903
@@ -3847,7 +3847,7 @@ You idiot!
 
 840
 00:42:52,695 --> 00:42:54,655
-[ Bat screeching ]
+[Bat screeching]
 
 841
 00:42:54,779 --> 00:42:56,029
@@ -3868,7 +3868,7 @@ VLADISLAV: [Laughs]
 
 845
 00:43:04,112 --> 00:43:05,738
-[ Bat screeching ]
+[Bat screeching]
 
 846
 00:43:06,529 --> 00:43:08,863
@@ -4004,8 +4004,8 @@ So don't believe the hype.
 
 875
 00:44:56,033 --> 00:44:57,509
-[ Electricity crackles,
-bat screeches ]
+[Electricity crackles,
+bat screeches]
 
 876
 00:44:57,533 --> 00:44:59,492
@@ -4014,7 +4014,7 @@ bat screeches ]
 877
 00:45:06,450 --> 00:45:08,867
 - DEACON: Jackie?!
-- [ Knocking ]
+- [Knocking]
 
 878
 00:45:10,284 --> 00:45:11,576
@@ -4527,7 +4527,7 @@ like a man.
 
 988
 00:50:39,004 --> 00:50:41,379
-- [ Hisses]
+- [Hisses]
 - We can talk about this, okay?
 
 989
@@ -4549,7 +4549,7 @@ DEACON: [Growls]
 
 993
 00:50:49,545 --> 00:50:51,344
-- [ Knock on door]
+- [Knock on door]
 - VLADISLAV: Shh, shh, shh!
 
 994
@@ -5203,7 +5203,7 @@ You were saying yes.
 
 1131
 00:56:13,557 --> 00:56:16,474
-VIAGO: [ Breathes deeply]
+VIAGO: [Breathes deeply]
 
 1132
 00:56:16,599 --> 00:56:20,474
@@ -5244,7 +5244,7 @@ Shall we go, Stu?
 
 1140
 00:56:46,100 --> 00:56:48,266
-[ Gate creaks]
+[Gate creaks]
 
 1141
 00:56:59,142 --> 00:57:01,850
@@ -5425,7 +5425,7 @@ Who is it? Show me.
 
 1179
 00:59:11,814 --> 00:59:13,689
-[ Breathes deeply]
+[Breathes deeply]
 
 1180
 00:59:13,814 --> 00:59:15,605
@@ -5433,7 +5433,7 @@ Hmm.
 
 1181
 00:59:15,730 --> 00:59:18,356
-[ Breathes deeply]
+[Breathes deeply]
 Okay.
 
 1182
@@ -5643,7 +5643,7 @@ We're leaving in 10 minutes.
 
 1226
 01:01:11,818 --> 01:01:14,110
-- [ Sighs]
+- [Sighs]
 - VLADISLAV: Have a good time.
 
 1227
@@ -5680,13 +5680,13 @@ Can I introduce Gary and Alicia?
 
 1234
 01:01:45,277 --> 01:01:46,836
-- [ Gary and Alicia groaning]
+- [Gary and Alicia groaning]
 - Hi. How are you?
 
 1235
 01:01:46,860 --> 01:01:48,819
 - Hi.
-- [ Groaning continues]
+- [Groaning continues]
 
 1236
 01:01:48,944 --> 01:01:51,361
@@ -5818,7 +5818,7 @@ they want to eat you at all?
 1263
 01:02:44,862 --> 01:02:46,089
 - Uh, no.
-- [ Microphone feedback]
+- [Microphone feedback]
 
 1264
 01:02:46,113 --> 01:02:47,779
@@ -5939,7 +5939,7 @@ I will meet...
 1289
 01:04:05,366 --> 01:04:08,865
 - all of you.
-- [ Laughter, applause]
+- [Laughter, applause]
 
 1290
 01:04:08,990 --> 01:04:10,533
@@ -6208,7 +6208,7 @@ forget Unholy Masquerade rules.
 1346
 01:06:28,954 --> 01:06:31,329
 - They brought a human.
-- [ Crowd murmuring]
+- [Crowd murmuring]
 
 1347
 01:06:31,454 --> 01:06:36,079
@@ -6376,7 +6376,7 @@ away and smell yourself.
 
 1381
 01:07:41,498 --> 01:07:43,957
-- [ Crowd hisses]
+- [Crowd hisses]
 - I can't wait anymore.
 
 1382
@@ -6389,7 +6389,7 @@ VLADISLAV: No!
 
 1384
 01:07:50,498 --> 01:07:52,165
-[ Hisses]
+[Hisses]
 
 1385
 01:07:57,290 --> 01:08:00,124
@@ -6566,7 +6566,7 @@ Get him, Vladislav!
 
 1423
 01:09:26,085 --> 01:09:27,084
-[ Hisses]
+[Hisses]
 
 1424
 01:09:36,544 --> 01:09:38,752
@@ -6655,7 +6655,7 @@ Oh, no.
 
 1442
 01:10:22,546 --> 01:10:24,920
-- [ Chuckles] Here we go again.
+- [Chuckles] Here we go again.
 - Here we go again.
 
 1443
@@ -6877,7 +6877,7 @@ Get back to your trees, okay?
 
 1490
 01:11:51,799 --> 01:11:53,965
-- [ Werewolves snarling]
+- [Werewolves snarling]
 - Right.
 
 1491
@@ -6926,7 +6926,7 @@ Let's go! Let's go! Come on!
 
 1500
 01:12:13,633 --> 01:12:17,091
-- [ Growls]
+- [Growls]
 - VIAGO: Run, Stu, run! No!
 
 1501
@@ -6935,7 +6935,7 @@ Let's go! Let's go!
 
 1502
 01:12:24,133 --> 01:12:25,258
-[Werewolves growling ]
+[Werewolves growling]
 
 1503
 01:12:25,383 --> 01:12:26,425
@@ -6949,11 +6949,11 @@ Let's go! Let's go!
 1505
 01:12:33,633 --> 01:12:36,758
 - CAMERAMAN: [Panting]
-- [ Rapid footsteps]
+- [Rapid footsteps]
 
 1506
 01:12:40,342 --> 01:12:42,676
-- [ Growls]
+- [Growls]
 - CAMERAMAN: [Screams]
 
 1507
@@ -6977,7 +6977,7 @@ Stu! Stu!
 
 1511
 01:13:01,968 --> 01:13:04,676
-- [ Screams]
+- [Screams]
 - NICK: Stu!
 
 1512
@@ -7012,7 +7012,7 @@ Fuck off, asshole!
 1518
 01:13:18,343 --> 01:13:20,969
 - Fuck off!
-- [ Growls]
+- [Growls]
 
 1519
 01:13:21,093 --> 01:13:24,343
@@ -7061,7 +7061,7 @@ NICK: Stu!
 
 1529
 01:13:46,761 --> 01:13:49,011
-[Werewolves howling ]
+[Werewolves howling]
 
 1530
 01:13:58,053 --> 01:14:00,387
@@ -7225,7 +7225,7 @@ I hope I made you feel better.
 
 1567
 01:16:12,975 --> 01:16:15,100
-[ Radio chatter]
+[Radio chatter]
 
 1568
 01:16:15,224 --> 01:16:17,534
@@ -7314,7 +7314,7 @@ is gonna have to be put down.
 1585
 01:16:49,976 --> 01:16:52,017
 - What a shame.
-- [ Dog whines]
+- [Dog whines]
 
 1586
 01:16:53,184 --> 01:16:55,393
@@ -7579,7 +7579,7 @@ you know [Growls]
 
 1642
 01:20:17,941 --> 01:20:19,525
-[ Laughter]
+[Laughter]
 
 1643
 01:20:21,316 --> 01:20:22,626
@@ -7597,7 +7597,7 @@ or pee on anything.
 
 1646
 01:20:26,400 --> 01:20:27,483
-[ Laughter]
+[Laughter]
 
 1647
 01:20:27,608 --> 01:20:28,626
@@ -7729,7 +7729,7 @@ I bit you on the neck.
 
 1674
 01:21:28,736 --> 01:21:30,360
-[ Laughing ]
+[Laughing]
 That's right.
 
 1675
@@ -7861,7 +7861,7 @@ at my jokes, right, guys?
 1702
 01:22:51,697 --> 01:22:53,905
 - TOGETHER: Yeah!
-- [ Laughter]
+- [Laughter]
 
 1703
 01:22:54,030 --> 01:22:54,905
@@ -7927,7 +7927,7 @@ though?
 
 1716
 01:23:16,156 --> 01:23:17,823
-[ Laughter]
+[Laughter]
 
 1717
 01:23:17,948 --> 01:23:19,614
