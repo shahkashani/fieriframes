@@ -99,7 +99,9 @@ const allEffects = [
   new stills.filters.Reverse(),
   new stills.filters.Implode(),
   new stills.filters.Swirl(),
-  new stills.filters.Rotate()
+  new stills.filters.Rotate(),
+  new stills.filters.Flip(),
+  new stills.filters.Flop()
 ];
 
 let useEffects = [];
