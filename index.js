@@ -77,7 +77,7 @@ const isGif = type === 'gif';
 
 const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 
-const allEffects = [
+const gifEffects = [
   new stills.filters.FaceZoom({
     lastFrameDelayMs: 500,
     startPosition: 0.9
@@ -104,13 +104,17 @@ const allEffects = [
   new stills.filters.Flop()
 ];
 
-let useEffects = [];
+const stillEffects = [
+  new stills.filters.FacePinch({
+    avoidDescriptors: [resolve('./faces/guy-fieri.json')]
+  })
+];
 
-if (isGif) {
-  useEffects = effects
-    ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
-    : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
-}
+let allEffects = isGif ? gifEffects : stillEffects;
+
+let useEffects = effects
+  ? allEffects.filter(e => effects.indexOf(e.name) !== -1)
+  : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects), []);
 
 const filters = compact([
   ...useEffects,
