@@ -107,6 +107,9 @@ const gifEffects = [
 const stillEffects = [
   new stills.filters.FacePinch({
     avoidDescriptors: [resolve('./faces/guy-fieri.json')]
+  }),
+  new stills.filters.FaceGlow({
+    avoidDescriptors: [resolve('./faces/guy-fieri.json')]
   })
 ];
 
