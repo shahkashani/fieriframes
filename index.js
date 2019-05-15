@@ -77,6 +77,8 @@ const isGif = type === 'gif';
 
 const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 
+const avoidDescriptors = []; //[resolve('./faces/guy-fieri.json')];
+
 const gifEffects = [
   new stills.filters.FaceZoom({
     lastFrameDelayMs: 500,
@@ -101,15 +103,29 @@ const gifEffects = [
   new stills.filters.Swirl(),
   new stills.filters.Rotate(),
   new stills.filters.Flip(),
-  new stills.filters.Flop()
+  new stills.filters.Flop(),
+  new stills.filters.FaceOrb(),
+  new stills.filters.FaceDemonize({
+    avoidDescriptors
+  }),
+  new stills.filters.FacePinch({
+    avoidDescriptors
+  }),
+  new stills.filters.FaceGlow({
+    avoidDescriptors
+  })
 ];
 
 const stillEffects = [
+  new stills.filters.FaceOrb(),
   new stills.filters.FacePinch({
-    avoidDescriptors: [resolve('./faces/guy-fieri.json')]
+    avoidDescriptors
   }),
   new stills.filters.FaceGlow({
-    avoidDescriptors: [resolve('./faces/guy-fieri.json')]
+    avoidDescriptors
+  }),
+  new stills.filters.FaceDemonize({
+    avoidDescriptors
   })
 ];
 
