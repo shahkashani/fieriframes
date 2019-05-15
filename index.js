@@ -103,7 +103,8 @@ const gifEffects = [
   new stills.filters.Swirl(),
   new stills.filters.Rotate(),
   new stills.filters.Flip(),
-  new stills.filters.Flop(),
+  new stills.filters.Flop()
+  /*
   new stills.filters.FaceOrb(),
   new stills.filters.FaceDemonize({
     avoidDescriptors
@@ -114,6 +115,7 @@ const gifEffects = [
   new stills.filters.FaceGlow({
     avoidDescriptors
   })
+  */
 ];
 
 const stillEffects = [
