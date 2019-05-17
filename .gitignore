@@ -1,7 +1,5 @@
 node_modules/
 videos/
-stills/
-gifs/
 .DS_Store
 .env
 /*.png

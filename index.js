@@ -35,7 +35,8 @@ const {
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
   GCLOUD_ACCESS_TOKEN,
-  FIERIFICTION_VIDEO_RATE
+  FIERIFICTION_VIDEO_RATE,
+  GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
 const { local, effects, caption } = argv;
@@ -54,6 +55,10 @@ const fiction = new FieriFiction({
   tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
   tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
   gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
+  googleCloudCredentials: Buffer.from(
+    GOOGLE_CLOUD_CREDENTIALS_BASE64,
+    'base64'
+  ).toString(),
   textGeneratorUrl: POST_TEXT_GENERATOR_URL
 });
 
@@ -103,8 +108,7 @@ const gifEffects = [
   new stills.filters.Swirl(),
   new stills.filters.Rotate(),
   new stills.filters.Flip(),
-  new stills.filters.Flop()
-  /*
+  new stills.filters.Flop(),
   new stills.filters.FaceOrb(),
   new stills.filters.FaceDemonize({
     avoidDescriptors
@@ -115,7 +119,6 @@ const gifEffects = [
   new stills.filters.FaceGlow({
     avoidDescriptors
   })
-  */
 ];
 
 const stillEffects = [

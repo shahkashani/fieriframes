@@ -13,13 +13,16 @@
     "start": "node logo.js",
     "post": "node index.js --post",
     "generate": "node index.js --local=videos/",
-    "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'"
+    "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'",
+    "docker:build": "docker build . -t fieriframes",
+    "docker:generate": "docker run -v $(pwd)/videos:/app/videos -t fieriframes npm run generate",
+    "docker:post": "docker run -t fieriframes npm run post"
   },
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v3.6.0",
+    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v3.7.0",
     "lodash": "^4.17.11",
     "stills": "^6.13.1",
     "yargs": "^13.2.1"
