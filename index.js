@@ -110,6 +110,9 @@ const gifEffects = [
   new stills.filters.Flip(),
   new stills.filters.Flop(),
   new stills.filters.FaceOrb(),
+  new stills.filters.FaceDemonEyes({
+    avoidDescriptors
+  }),
   new stills.filters.FaceDemonize({
     avoidDescriptors
   }),
@@ -123,6 +126,9 @@ const gifEffects = [
 
 const stillEffects = [
   new stills.filters.FaceOrb(),
+  new stills.filters.FaceDemonEyes({
+    avoidDescriptors
+  }),
   new stills.filters.FacePinch({
     avoidDescriptors
   }),
