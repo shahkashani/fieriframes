@@ -82,7 +82,7 @@ const isGif = type === 'gif';
 
 const content = isGif ? new stills.content.Gif() : new stills.content.Still();
 
-const avoidDescriptors = []; //[resolve('./faces/guy-fieri.json')];
+const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
 const gifEffects = [
   new stills.filters.FaceZoom({
