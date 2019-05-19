@@ -104,9 +104,13 @@ const gifEffects = [
   new stills.filters.Reverse(),
   new stills.filters.Implode(),
   new stills.filters.Swirl(),
-  new stills.filters.Rotate(),
+  new stills.filters.Rotate({
+    useProgress: false,
+    degrees: 15
+  }),
   new stills.filters.Flip(),
   new stills.filters.Flop(),
+  new stills.filters.Jitter(),
   new stills.filters.FaceOrb(),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
