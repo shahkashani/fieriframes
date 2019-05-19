@@ -191,7 +191,8 @@ const taggers = [
   new stills.taggers.Captions(),
   new stills.taggers.Filters({
     shuffle: 'tw:flashing',
-    stutter: 'tw:flashing'
+    stutter: 'tw:flashing',
+    jitter: 'tw:flashing'
   })
 ];
 
