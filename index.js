@@ -34,7 +34,6 @@ const {
   TWITTER_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
-  GCLOUD_ACCESS_TOKEN,
   FIERIFICTION_VIDEO_RATE,
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
@@ -54,7 +53,6 @@ const fiction = new FieriFiction({
   tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
   tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
   tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
-  gcloudAccessToken: GCLOUD_ACCESS_TOKEN,
   googleCloudCredentials: Buffer.from(
     GOOGLE_CLOUD_CREDENTIALS_BASE64,
     'base64'
