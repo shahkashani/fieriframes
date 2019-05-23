@@ -5,13 +5,13 @@ const argv = require('yargs')
   .usage('Usage: $0 <command> [options]')
   .default('type', 'random')
   .array('effects')
-  .array('tags')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
   .describe('post', 'Upload image to the destinations')
   .describe('effects', 'Apply a specific GIF effect (by name)')
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
+  .describe('background', 'Background color for captions')
   .describe('sourceFilter', 'A pattern to match source videos against')
   .describe('type', 'The type of image generated').argv;
 
@@ -40,7 +40,7 @@ const {
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
-const { local, effects, caption, sourceFilter, tags } = argv;
+const { local, effects, caption, sourceFilter, background } = argv;
 
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
@@ -157,6 +157,7 @@ const filters = compact([
   randomly(
     CAPTION_RATE,
     new stills.filters.Captions({
+      background,
       captionFileGlob: caption ? `*${caption}*` : undefined,
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
@@ -187,12 +188,10 @@ const destinations = argv.post
     ]
   : [];
 
-const extraTags = tags || [];
-
 const taggers = [
   new stills.taggers.Episode(),
   new stills.taggers.Static({
-    tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives', ...extraTags]
+    tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives']
   }),
   new stills.taggers.Captions(),
   new stills.taggers.Filters({
