@@ -5,6 +5,7 @@ const argv = require('yargs')
   .usage('Usage: $0 <command> [options]')
   .default('type', 'random')
   .array('effects')
+  .array('tags')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
   .describe('post', 'Upload image to the destinations')
@@ -39,7 +40,7 @@ const {
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
-const { local, effects, caption, sourceFilter } = argv;
+const { local, effects, caption, sourceFilter, tags } = argv;
 
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
@@ -186,10 +187,12 @@ const destinations = argv.post
     ]
   : [];
 
+const extraTags = tags || [];
+
 const taggers = [
   new stills.taggers.Episode(),
   new stills.taggers.Static({
-    tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives']
+    tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives', ...extraTags]
   }),
   new stills.taggers.Captions(),
   new stills.taggers.Filters({
