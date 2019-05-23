@@ -11,6 +11,7 @@ const argv = require('yargs')
   .describe('effects', 'Apply a specific GIF effect (by name)')
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
+  .describe('sourceFilter', 'A pattern to match source videos against')
   .describe('type', 'The type of image generated').argv;
 
 const stills = require('stills');
@@ -38,7 +39,7 @@ const {
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
-const { local, effects, caption } = argv;
+const { local, effects, caption, sourceFilter } = argv;
 
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
@@ -70,7 +71,9 @@ const source = local
   : new stills.sources.S3({
       accessKeyId: S3_ACCESS_KEY_ID,
       secretAccessKey: S3_SECRET_ACCESS_KEY,
-      bucket: S3_BUCKET
+      bucket: S3_BUCKET,
+      filter: file =>
+        !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1
     });
 
 const type =

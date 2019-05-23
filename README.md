@@ -14,13 +14,25 @@ If you wanna change the way the stills generator works, you're really going to h
 
 ## Setup
 
+### Not using Docker
+
 1. Install the dependencies in the [stills README](https://github.com/shahkashani/stills)
 1. Install nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
-1. Put some videos in `videos`
+1. Put some videos in `./videos`
 1. Run `nvm install`
 1. Run `npm run generate`.
 
 You can also do things like `npm run generate -- --type=gif`.
+
+### Using Docker
+
+1. `docker build . -t fieriframes`
+1. Put some videos in `./videos`
+1. `docker run -v $(pwd)/videos:/app/videos -t fieriframes npm run generate`
+
+You don't need to install any of the aforementioned dependencies if you decide to use Docker.
+
+The trade-off is that it's hell of a lot slower, especially if you use it for development (it'll occasionally reinstall imagemagick and other dependencies).
 
 ## Can I specify what effects to use, etc.?
 
