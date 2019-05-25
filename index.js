@@ -7,6 +7,7 @@ const argv = require('yargs')
   .array('effects')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
+  .boolean('face')
   .describe('post', 'Upload image to the destinations')
   .describe('effects', 'Apply a specific GIF effect (by name)')
   .describe('local', 'Local folder to read videos from instead of S3')
@@ -40,7 +41,7 @@ const {
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
-const { local, effects, caption, sourceFilter, background } = argv;
+const { local, effects, caption, sourceFilter, background, face } = argv;
 
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
@@ -67,7 +68,8 @@ const randomly = (rate, hit = true, miss = false) =>
 
 const source = local
   ? new stills.sources.Local({
-      folder: local
+      folder: local,
+      filter: sourceFilter
     })
   : new stills.sources.S3({
       accessKeyId: S3_ACCESS_KEY_ID,
@@ -105,7 +107,9 @@ const gifEffects = [
   }),
   new stills.filters.Invert(),
   new stills.filters.Gray(),
-  new stills.filters.Reverse(),
+  new stills.filters.Reverse({
+    detectSceneChange: false
+  }),
   new stills.filters.Implode(),
   new stills.filters.Swirl(),
   new stills.filters.Rotate({
@@ -116,6 +120,7 @@ const gifEffects = [
   new stills.filters.Flop(),
   new stills.filters.Jitter(),
   new stills.filters.FaceOrb(),
+  new stills.filters.FaceStretch(),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
   }),
@@ -132,6 +137,7 @@ const gifEffects = [
 
 const stillEffects = [
   new stills.filters.FaceOrb(),
+  new stills.filters.FaceStretch(),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
   }),
@@ -201,6 +207,8 @@ const taggers = [
   })
 ];
 
+const validators = face ? [new stills.validators.FaceDetection()] : [];
+
 (async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
@@ -209,7 +217,8 @@ const taggers = [
     content,
     filters,
     destinations,
-    taggers
+    taggers,
+    validators
   });
 
   const output = result.content;
