@@ -120,7 +120,9 @@ const gifEffects = [
   new stills.filters.Flop(),
   new stills.filters.Jitter(),
   new stills.filters.FaceOrb(),
-  new stills.filters.FaceStretch(),
+  new stills.filters.FaceStretch({
+    useProgress: randomly(0.5)
+  }),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
   }),
