@@ -13,6 +13,7 @@ const argv = require('yargs')
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
   .describe('background', 'Background color for captions')
+  .describe('outputFolder', 'Output folder')
   .describe('sourceFilter', 'A pattern to match source videos against')
   .describe('type', 'The type of image generated').argv;
 
@@ -20,6 +21,7 @@ const stills = require('stills');
 const { resolve } = require('path');
 const { compact, random, sampleSize, get } = require('lodash');
 const FieriFiction = require('fierifiction');
+const { copyFileSync } = require('fs');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -41,7 +43,15 @@ const {
   GOOGLE_CLOUD_CREDENTIALS_BASE64
 } = process.env;
 
-const { local, effects, caption, sourceFilter, background, face } = argv;
+const {
+  local,
+  effects,
+  caption,
+  sourceFilter,
+  background,
+  face,
+  outputFolder
+} = argv;
 
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
@@ -133,7 +143,8 @@ const gifEffects = [
     avoidDescriptors
   }),
   new stills.filters.FaceGlow({
-    avoidDescriptors
+    avoidDescriptors,
+    blur: 0.1
   })
 ];
 
@@ -147,7 +158,8 @@ const stillEffects = [
     avoidDescriptors
   }),
   new stills.filters.FaceGlow({
-    avoidDescriptors
+    avoidDescriptors,
+    blur: 0.1
   }),
   new stills.filters.FaceDemonize({
     avoidDescriptors
@@ -227,6 +239,7 @@ const validators = face ? [new stills.validators.FaceDetection()] : [];
   const captions = get(result, 'filters.captions', []);
   const tumblr = get(result, 'destinations.tumblr');
   const tags = get(tumblr, 'tags', []);
+
   if (destinations.length) {
     if (captions.length) {
       const generator = randomly(
@@ -249,5 +262,7 @@ const validators = face ? [new stills.validators.FaceDetection()] : [];
       await generator();
     }
     stills.deleteStills(result);
+  } else if (outputFolder) {
+    copyFileSync(output, `${outputFolder}/${output}`);
   }
 })();
