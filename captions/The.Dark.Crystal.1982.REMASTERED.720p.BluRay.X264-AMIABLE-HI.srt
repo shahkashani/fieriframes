@@ -1,0 +1,4151 @@
+1
+00:00:28,362 --> 00:00:30,354
+[THUNDER RUMBLING]
+
+2
+00:00:32,658 --> 00:00:34,570
+<i>NARRATOR:
+Another world...</i>
+
+3
+00:00:34,743 --> 00:00:36,484
+<i>...another time...</i>
+
+4
+00:00:36,662 --> 00:00:38,904
+<i>...in the age of wonder.</i>
+
+5
+00:00:40,249 --> 00:00:43,993
+<i>A thousand years ago,
+this land was green and good...</i>
+
+6
+00:00:44,169 --> 00:00:47,003
+<i>...until the Crystal cracked.</i>
+
+7
+00:00:47,172 --> 00:00:49,004
+<i>For a single piece was lost...</i>
+
+8
+00:00:49,174 --> 00:00:51,336
+<i>...a shard of the Crystal.</i>
+
+9
+00:00:52,844 --> 00:00:54,881
+<i>Then strife began...</i>
+
+10
+00:00:55,055 --> 00:00:58,139
+<i>...and two new races appeared:</i>
+
+11
+00:00:58,308 --> 00:01:00,971
+<i>The cruel Skeksis.</i>
+
+12
+00:01:01,144 --> 00:01:03,386
+<i>The gentle Mystics.</i>
+
+13
+00:01:04,147 --> 00:01:07,015
+[THUNDER CRASHING]
+
+14
+00:01:08,110 --> 00:01:12,730
+<i>Here, in the castle of the Crystal,
+the Skeksis took control.</i>
+
+15
+00:01:12,906 --> 00:01:14,772
+[THUNDER CRASHING]
+
+16
+00:01:14,950 --> 00:01:16,942
+[♪♪♪]
+
+17
+00:01:24,501 --> 00:01:27,869
+<i>Now the Skeksis gather
+in the sacred chamber...</i>
+
+18
+00:01:28,046 --> 00:01:32,541
+<i>...where the Crystal hangs
+above a shaft of air and fire.</i>
+
+19
+00:01:35,137 --> 00:01:37,925
+<i>The Skeksis, with their hard
+and twisted bodies...</i>
+
+20
+00:01:38,098 --> 00:01:40,590
+<i>...their harsh and twisted wills.</i>
+
+21
+00:01:43,103 --> 00:01:46,392
+<i>For a thousand years
+they have ruled...</i>
+
+22
+00:01:46,565 --> 00:01:49,023
+<i>...yet now, there are only 10.</i>
+
+23
+00:01:50,360 --> 00:01:53,944
+<i>A dying race
+ruled by a dying emperor...</i>
+
+24
+00:01:54,114 --> 00:01:58,404
+<i>...imprisoned within themselves
+in a dying land.</i>
+
+25
+00:02:02,831 --> 00:02:05,824
+<i>Today, once more
+they gather at the Crystal...</i>
+
+26
+00:02:06,001 --> 00:02:10,086
+<i>...as the first sun climbs
+to its peak.</i>
+
+27
+00:02:10,255 --> 00:02:12,588
+<i>For this is the way of the Skeksis.</i>
+
+28
+00:02:12,758 --> 00:02:14,545
+<i>As they ravage the land...</i>
+
+29
+00:02:14,718 --> 00:02:19,053
+<i>...so, too, they learn
+to draw new life from the sun.</i>
+
+30
+00:02:19,222 --> 00:02:22,386
+<i>Today, once more
+they will replenish themselves...</i>
+
+31
+00:02:22,559 --> 00:02:24,391
+<i>...cheat death again...</i>
+
+32
+00:02:24,561 --> 00:02:27,269
+<i>...through the power
+of their source...</i>
+
+33
+00:02:27,439 --> 00:02:30,273
+<i>...their treasure, their fate:</i>
+
+34
+00:02:31,360 --> 00:02:33,727
+<i>The Dark Crystal.</i>
+
+35
+00:02:34,196 --> 00:02:36,188
+[♪♪♪]
+
+36
+00:02:47,125 --> 00:02:50,914
+<i>But today, the ceremony of the sun
+gives no comfort.</i>
+
+37
+00:02:51,088 --> 00:02:53,080
+<i>Today, an emperor lies dying.</i>
+
+38
+00:02:53,256 --> 00:02:55,919
+<i>Today, a new emperor...</i>
+
+39
+00:02:56,093 --> 00:02:58,335
+<i>...must seize the throne.</i>
+
+40
+00:03:05,143 --> 00:03:07,760
+[♪♪♪]
+
+41
+00:04:09,708 --> 00:04:13,543
+<i>A thousand years ago,
+the Crystal cracked.</i>
+
+42
+00:04:13,712 --> 00:04:17,251
+<i>And here, far from the castle...</i>
+
+43
+00:04:17,424 --> 00:04:22,044
+<i>...the race of Mystics came
+to live in a dream of peace.</i>
+
+44
+00:04:24,765 --> 00:04:29,510
+<i>Their ways were the gentle ways
+of natural wizards.</i>
+
+45
+00:04:29,686 --> 00:04:32,394
+<i>Yet now, there are only 10...</i>
+
+46
+00:04:32,564 --> 00:04:34,430
+<i>...a dying race...</i>
+
+47
+00:04:34,608 --> 00:04:40,104
+<i>...numbly rehearsing the ancient ways
+in a blur of forgetfulness.</i>
+
+48
+00:04:41,114 --> 00:04:42,696
+<i>But today...</i>
+
+49
+00:04:43,992 --> 00:04:46,530
+<i>...the ritual gives no comfort.</i>
+
+50
+00:04:46,703 --> 00:04:51,494
+<i>Today, the wisest of the Mystics
+lies dying.</i>
+
+51
+00:04:52,083 --> 00:04:55,872
+<i>Today, they summon the one
+who must save them.</i>
+
+52
+00:04:56,254 --> 00:04:59,292
+[CHANTING]
+
+53
+00:05:24,449 --> 00:05:28,409
+[PIPE PLAYING]
+
+54
+00:05:28,620 --> 00:05:30,907
+<i>In the valley of the Mystics...</i>
+
+55
+00:05:31,081 --> 00:05:33,869
+<i>...there lives a Gelfling, Jen.</i>
+
+56
+00:05:34,042 --> 00:05:37,911
+<i>The Skeksis killed his family,
+destroyed his clan.</i>
+
+57
+00:05:38,088 --> 00:05:39,954
+<i>Only Jen survived...</i>
+
+58
+00:05:40,131 --> 00:05:44,000
+<i>...to be raised by the wisest
+of the Mystics.</i>
+
+59
+00:05:44,177 --> 00:05:47,136
+<i>But there is a prophecy.</i>
+
+60
+00:05:47,305 --> 00:05:49,592
+<i>A thousand years have passed...</i>
+
+61
+00:05:49,766 --> 00:05:54,101
+<i>...and now, once more the world
+must undergo a time of testing.</i>
+
+62
+00:05:54,271 --> 00:05:56,183
+<i>Now it must be healed...</i>
+
+63
+00:05:56,356 --> 00:06:00,020
+<i>...or pass forever
+into the rule of evil.</i>
+
+64
+00:06:00,193 --> 00:06:04,779
+<i>At this time,
+Jen is the chosen one.</i>
+
+65
+00:06:05,532 --> 00:06:08,320
+<i>Today, Jen's pipe gives no comfort.</i>
+
+66
+00:06:08,493 --> 00:06:11,406
+<i>For today, his master lies dying...</i>
+
+67
+00:06:11,580 --> 00:06:14,664
+<i>...and a journey must begin.</i>
+
+68
+00:06:14,833 --> 00:06:17,871
+<i>The journey of Jen.</i>
+
+69
+00:06:19,087 --> 00:06:20,874
+[CHITTERING]
+
+70
+00:06:28,471 --> 00:06:30,463
+[CHIRPING]
+
+71
+00:06:36,646 --> 00:06:39,764
+[♪♪♪]
+
+72
+00:07:02,881 --> 00:07:04,964
+Master?
+
+73
+00:07:05,133 --> 00:07:09,468
+At the time
+when three suns meet...
+
+74
+00:07:09,638 --> 00:07:11,379
+Master, what's wrong?
+
+75
+00:07:11,556 --> 00:07:14,424
+You are in danger...
+
+76
+00:07:14,601 --> 00:07:16,433
+...Gelfling...
+
+77
+00:07:18,229 --> 00:07:21,438
+...and I must leave you.
+
+78
+00:07:21,608 --> 00:07:23,895
+Leave me?
+
+79
+00:07:24,069 --> 00:07:26,026
+Master, no.
+
+80
+00:07:26,196 --> 00:07:31,658
+Gelfling, I have told you
+of the Skeksis.
+
+81
+00:07:32,869 --> 00:07:36,033
+The Skeksis killed
+my mother and father.
+
+82
+00:07:37,082 --> 00:07:40,541
+The story runs deeper
+than you know...
+
+83
+00:07:40,710 --> 00:07:43,874
+...and you are part of it.
+
+84
+00:07:46,883 --> 00:07:48,920
+I don't understand.
+
+85
+00:07:51,721 --> 00:07:54,885
+The Skeksis will vow...
+
+86
+00:07:55,058 --> 00:07:57,015
+...to destroy you.
+
+87
+00:07:58,561 --> 00:08:01,019
+For the prophecy says...
+
+88
+00:08:01,189 --> 00:08:03,932
+...you must find the Shard...
+
+89
+00:08:05,402 --> 00:08:08,395
+...the Crystal Shard.
+
+90
+00:08:08,571 --> 00:08:10,403
+JEN:
+The Crystal Shard?
+
+91
+00:08:10,573 --> 00:08:13,737
+To save our world, Gelfling...
+
+92
+00:08:13,910 --> 00:08:18,120
+...you must find the Shard...
+
+93
+00:08:20,959 --> 00:08:24,999
+...before the three suns meet.
+
+94
+00:08:26,131 --> 00:08:30,842
+If not, Skeksis rule forever.
+
+95
+00:08:31,011 --> 00:08:33,094
+Where is it?
+
+96
+00:08:34,472 --> 00:08:36,964
+Aughra holds the Shard.
+
+97
+00:08:38,268 --> 00:08:41,807
+Follow the greater sun for a day...
+
+98
+00:08:41,980 --> 00:08:44,893
+...to the home of Aughra.
+
+99
+00:08:45,066 --> 00:08:47,854
+There. She knows...
+
+100
+00:08:48,028 --> 00:08:50,941
+...all the secrets.
+
+101
+00:08:52,490 --> 00:08:56,029
+Aughra? Follow the greater sun?
+
+102
+00:08:56,202 --> 00:08:59,661
+But, master, I'm only a Gelfling.
+
+103
+00:08:59,831 --> 00:09:03,666
+I should've told you these things...
+
+104
+00:09:03,835 --> 00:09:06,122
+...long ago.
+
+105
+00:09:06,296 --> 00:09:08,538
+Now it is up to you.
+
+106
+00:09:10,258 --> 00:09:13,626
+Remember me, Jen.
+
+107
+00:09:13,803 --> 00:09:17,422
+We may meet in another life...
+
+108
+00:09:19,184 --> 00:09:23,224
+...but not again in this one.
+
+109
+00:09:24,481 --> 00:09:27,019
+[BREATHES DEEPLY]
+
+110
+00:09:32,781 --> 00:09:34,192
+Master.
+
+111
+00:09:36,534 --> 00:09:38,241
+Don't leave me.
+
+112
+00:09:38,453 --> 00:09:40,115
+[THUNDER RUMBLING]
+
+113
+00:09:45,335 --> 00:09:48,329
+[THUNDER CRASHING AND
+ELECTRICITY CRACKLING]
+
+114
+00:10:05,939 --> 00:10:09,273
+[GASPING]
+
+115
+00:10:12,821 --> 00:10:14,187
+[WHIMPERS]
+
+116
+00:10:14,823 --> 00:10:17,736
+[HISSES]
+
+117
+00:10:17,992 --> 00:10:20,325
+Hmm...
+
+118
+00:10:20,662 --> 00:10:22,949
+I hate your whimper.
+
+119
+00:10:25,667 --> 00:10:27,659
+[CONTINUES WHIMPERING]
+
+120
+00:10:32,924 --> 00:10:34,506
+Quiet!
+
+121
+00:10:45,603 --> 00:10:46,844
+[GRUNTS]
+
+122
+00:10:47,355 --> 00:10:48,721
+[GRUMBLING]
+
+123
+00:10:48,898 --> 00:10:51,060
+[WHISPERS]
+
+124
+00:10:56,614 --> 00:11:00,153
+He is not dead yet...
+
+125
+00:11:00,326 --> 00:11:04,161
+- ...my Lord Chamberlain.
+- Hmm...
+
+126
+00:11:04,497 --> 00:11:06,159
+Kneel!
+
+127
+00:11:06,332 --> 00:11:08,198
+Bow!
+
+128
+00:11:11,713 --> 00:11:13,955
+[GASPING]
+
+129
+00:11:14,340 --> 00:11:15,330
+Mine!
+
+130
+00:11:15,508 --> 00:11:16,589
+[GROWLS]
+
+131
+00:11:16,759 --> 00:11:17,795
+Mine!
+
+132
+00:11:17,969 --> 00:11:19,926
+Hmm...
+
+133
+00:11:20,638 --> 00:11:21,879
+[GRUNTS]
+
+134
+00:11:22,098 --> 00:11:23,760
+Back!
+
+135
+00:11:25,143 --> 00:11:28,352
+I... I... I...
+
+136
+00:11:28,521 --> 00:11:34,017
+I am still emperor.
+
+137
+00:11:34,194 --> 00:11:35,651
+I...
+
+138
+00:11:37,488 --> 00:11:39,525
+[GASPS]
+
+139
+00:11:47,040 --> 00:11:49,032
+[♪♪♪]
+
+140
+00:11:50,793 --> 00:11:52,500
+Hmm...
+
+141
+00:11:52,837 --> 00:11:54,794
+[GRUMBLE]
+
+142
+00:12:27,121 --> 00:12:28,532
+[♪♪♪]
+
+143
+00:12:28,706 --> 00:12:32,666
+<i>JEN: Oh, master, I'll go
+where you send me...</i>
+
+144
+00:12:34,420 --> 00:12:36,707
+<i>...though I barely understand.</i>
+
+145
+00:13:01,531 --> 00:13:04,274
+[PLAYING GENTLE MUSIC]
+
+146
+00:13:04,617 --> 00:13:06,950
+[HUMMING SOFTLY]
+
+147
+00:13:13,543 --> 00:13:16,877
+MYSTIC:
+Dear friend, be well.
+
+148
+00:13:18,589 --> 00:13:20,831
+Receive your belongings.
+
+149
+00:13:21,009 --> 00:13:23,592
+Receive them serenely.
+
+150
+00:13:26,764 --> 00:13:29,723
+Now we send forth Jen.
+
+151
+00:13:29,892 --> 00:13:32,430
+Watch over his dangerous quest.
+
+152
+00:13:35,940 --> 00:13:38,398
+<i>JEN:
+Dear, dear master...</i>
+
+153
+00:13:38,568 --> 00:13:40,560
+<i>...I'll find the Shard.</i>
+
+154
+00:13:48,745 --> 00:13:51,158
+<i>I'm not ready to go alone.</i>
+
+155
+00:13:54,751 --> 00:13:57,994
+<i>All right. Alone, then.</i>
+
+156
+00:13:59,797 --> 00:14:01,789
+[♪♪♪]
+
+157
+00:14:25,156 --> 00:14:28,240
+The emperor is dead.
+
+158
+00:14:29,369 --> 00:14:32,737
+Which one of us
+will be the new emperor?
+
+159
+00:14:32,914 --> 00:14:37,329
+Oh, yes. My Lord Chamberlain,
+time to choose an emperor.
+
+160
+00:14:37,502 --> 00:14:39,209
+It should be me.
+
+161
+00:14:40,046 --> 00:14:41,378
+Yes.
+
+162
+00:14:41,547 --> 00:14:44,881
+Not him. I must rule.
+
+163
+00:14:46,677 --> 00:14:48,293
+You should be the emperor.
+
+164
+00:14:48,471 --> 00:14:51,134
+- There's going to be a fight.
+- Uh-huh.
+
+165
+00:14:52,016 --> 00:14:55,976
+Hmm... It's time to make my move.
+
+166
+00:14:57,939 --> 00:15:00,272
+It's me.
+
+167
+00:15:05,530 --> 00:15:07,112
+We're all with you.
+
+168
+00:15:07,281 --> 00:15:08,488
+[GRUNTS]
+
+169
+00:15:10,076 --> 00:15:11,863
+[GRUNTS]
+
+170
+00:15:12,745 --> 00:15:16,580
+- Chamberlain, no. Wait. Stop. You can't.
+- Get back, spithead!
+
+171
+00:15:16,749 --> 00:15:18,081
+Huh?
+
+172
+00:15:18,418 --> 00:15:20,159
+GENERAL:
+Chamberlain!
+
+173
+00:15:20,336 --> 00:15:22,328
+Lay down that sceptre!
+
+174
+00:15:22,505 --> 00:15:25,088
+[HISSING]
+
+175
+00:15:30,138 --> 00:15:32,175
+- I challenge.
+- Hmm?
+
+176
+00:15:33,641 --> 00:15:35,303
+Hmm...
+
+177
+00:15:35,560 --> 00:15:37,802
+Trial by stone.
+
+178
+00:15:38,396 --> 00:15:40,854
+Trial by stone!
+
+179
+00:15:41,232 --> 00:15:43,724
+Trial by stone!
+
+180
+00:15:43,901 --> 00:15:46,894
+- Slaves, raise the stone.
+SKEKSIS 1: Trial by stone!
+
+181
+00:15:47,071 --> 00:15:49,313
+Get out there! Move!
+
+182
+00:15:49,615 --> 00:15:53,279
+GROUP: Trial by stone!
+SLAVE MASTER: Let's pull that rope!
+
+183
+00:15:53,453 --> 00:15:56,161
+Come on, slaves! Pull!
+
+184
+00:15:56,330 --> 00:15:58,287
+Slaves, pull!
+
+185
+00:15:58,541 --> 00:16:00,453
+[♪♪♪]
+
+186
+00:16:02,587 --> 00:16:04,453
+Pull, pull!
+
+187
+00:16:05,214 --> 00:16:07,752
+Harder! Pull!
+
+188
+00:16:23,441 --> 00:16:26,024
+[SHRIEK]
+
+189
+00:16:31,699 --> 00:16:33,782
+[SKEKSIS CHEERING]
+
+190
+00:16:34,410 --> 00:16:36,697
+[GRUNTING]
+
+191
+00:16:38,122 --> 00:16:42,867
+SKEKSIS 1: Chamberlain for emperor!
+Chamberlain for emperor!
+
+192
+00:16:43,336 --> 00:16:44,668
+SKEKSIS 2:
+Take him!
+
+193
+00:16:48,799 --> 00:16:50,461
+Take the first blow, Chamberlain!
+
+194
+00:16:53,179 --> 00:16:55,967
+GENERAL:
+You whimpering worm.
+
+195
+00:16:56,182 --> 00:16:57,218
+[GROWLING]
+
+196
+00:17:05,191 --> 00:17:07,183
+[CHATTERING]
+
+197
+00:17:08,945 --> 00:17:10,106
+He can't beat that.
+
+198
+00:17:10,279 --> 00:17:11,645
+[LAUGHING]
+
+199
+00:17:12,949 --> 00:17:14,281
+SKEKSIS 2:
+Let's see what you can do.
+
+200
+00:17:14,450 --> 00:17:15,941
+You can do it!
+
+201
+00:17:17,036 --> 00:17:18,072
+[GROWLS]
+
+202
+00:17:18,287 --> 00:17:20,279
+[CHATTERING AND LAUGHING]
+
+203
+00:17:24,460 --> 00:17:26,122
+[SHRIEKING]
+
+204
+00:17:28,923 --> 00:17:31,040
+SKEKSIS 1:
+Good hit, Lord Chamberlain!
+
+205
+00:17:31,217 --> 00:17:32,924
+SKEKSIS 3:
+Lord Chamberlain!
+
+206
+00:17:34,971 --> 00:17:37,930
+Weak blow! Weak blow.
+
+207
+00:17:40,142 --> 00:17:41,474
+General!
+
+208
+00:17:41,644 --> 00:17:43,852
+The general's really mad now.
+
+209
+00:17:45,690 --> 00:17:47,647
+SKEKSIS 1: Come on, general!
+SKEKSIS 2: Watch out.
+
+210
+00:17:47,817 --> 00:17:48,978
+Here he goes.
+
+211
+00:17:49,193 --> 00:17:50,400
+[ROARS]
+
+212
+00:17:56,492 --> 00:17:58,404
+Me, the emperor!
+
+213
+00:17:58,828 --> 00:18:00,820
+[CHATTERING]
+
+214
+00:18:02,206 --> 00:18:06,075
+The emperor lives!
+
+215
+00:18:08,879 --> 00:18:10,336
+[GRUMBLES]
+
+216
+00:18:12,883 --> 00:18:17,048
+Now, by the law, he must pay.
+
+217
+00:18:17,597 --> 00:18:20,055
+[WHIMPERING]
+
+218
+00:18:21,559 --> 00:18:24,347
+Stop him. Stop him.
+
+219
+00:18:28,107 --> 00:18:29,848
+[GRUNTS]
+
+220
+00:18:30,026 --> 00:18:31,642
+[SCREAMING]
+
+221
+00:18:35,197 --> 00:18:37,280
+Take him now!
+
+222
+00:18:37,450 --> 00:18:38,861
+[ALL SHOUTING]
+
+223
+00:18:44,874 --> 00:18:46,115
+Get him.
+
+224
+00:18:50,087 --> 00:18:53,330
+SKEKSIS 3: Strip him!
+- Now, let him go!
+
+225
+00:18:53,883 --> 00:18:56,045
+The Chamberlain is banished.
+
+226
+00:18:56,218 --> 00:18:58,210
+[CHATTERING CONTINUES]
+
+227
+00:19:00,848 --> 00:19:02,680
+SKEKSIS 4:
+Away!
+
+228
+00:19:03,976 --> 00:19:07,469
+Now, bow down to me!
+
+229
+00:19:09,732 --> 00:19:13,692
+I am emperor!
+
+230
+00:19:13,861 --> 00:19:16,604
+CROWD:
+Hail to the new emperor!
+
+231
+00:19:16,781 --> 00:19:20,149
+Hail!
+
+232
+00:19:20,326 --> 00:19:23,410
+Hail to the new emperor!
+
+233
+00:19:23,579 --> 00:19:25,115
+Hail to the new emperor!
+
+234
+00:19:25,539 --> 00:19:27,531
+[WHIMPERING]
+
+235
+00:19:32,421 --> 00:19:34,287
+[WHIRRING]
+
+236
+00:19:35,257 --> 00:19:37,123
+[♪♪♪]
+
+237
+00:19:38,761 --> 00:19:41,048
+The Crystal.
+
+238
+00:19:42,098 --> 00:19:44,806
+- The Crystal calls.
+CROWD: The Crystal.
+
+239
+00:19:44,975 --> 00:19:47,433
+To the Crystal chamber!
+
+240
+00:19:49,480 --> 00:19:51,096
+SKEKSIS 4:
+Hurry.
+
+241
+00:19:55,986 --> 00:19:57,898
+Hurry.
+
+242
+00:19:58,072 --> 00:20:00,029
+[MURMURING]
+
+243
+00:20:17,967 --> 00:20:19,458
+Eh?
+
+244
+00:20:20,386 --> 00:20:23,174
+Huh? A Gelfling alive?
+
+245
+00:20:23,347 --> 00:20:25,839
+SKEKSIS 1:
+A Gelfling?
+
+246
+00:20:26,016 --> 00:20:28,508
+- The prophecy.
+- The prophecy.
+
+247
+00:20:28,728 --> 00:20:31,937
+SKEKSIS 2: The prophecy says
+Gelfling will destroy us.
+
+248
+00:20:32,940 --> 00:20:35,023
+No. Garthim!
+
+249
+00:20:35,234 --> 00:20:37,100
+Attack!
+
+250
+00:20:40,197 --> 00:20:43,816
+Garthim soldiers,
+find the Gelfling!
+
+251
+00:20:43,993 --> 00:20:45,985
+[♪♪♪]
+
+252
+00:20:49,582 --> 00:20:52,120
+Garthim!
+
+253
+00:20:52,293 --> 00:20:54,455
+The Gelfling!
+
+254
+00:20:54,628 --> 00:20:57,541
+Bring him to the castle!
+
+255
+00:20:59,675 --> 00:21:02,042
+Garthim!
+
+256
+00:21:04,263 --> 00:21:07,802
+Garthim, death to Gelfling!
+
+257
+00:21:10,770 --> 00:21:13,513
+SKEKSIS 3:
+Go kill the Gelfling!
+
+258
+00:21:18,861 --> 00:21:21,319
+[CLICKING]
+
+259
+00:21:37,171 --> 00:21:38,503
+Hmm...
+
+260
+00:21:39,965 --> 00:21:43,800
+SKEKSIS 1: Ugly.
+SKEKSIS 2: Hideous Gelfling.
+
+261
+00:22:15,793 --> 00:22:17,534
+<i>JEN:
+What in the world?</i>
+
+262
+00:22:18,963 --> 00:22:21,046
+<i>This place is weird.</i>
+
+263
+00:22:22,216 --> 00:22:26,210
+<i>Let's see.
+Her name is Aughra.</i>
+
+264
+00:22:28,514 --> 00:22:31,382
+<i>Follow the greater sun for a day...</i>
+
+265
+00:22:31,559 --> 00:22:33,516
+<i>...to the home of Aughra.</i>
+
+266
+00:22:34,186 --> 00:22:37,270
+<i>Hmm. Some directions.</i>
+
+267
+00:22:37,439 --> 00:22:40,182
+<i>Who is Aughra, anyway?</i>
+
+268
+00:22:40,359 --> 00:22:43,193
+<i>One of these things?</i>
+
+269
+00:22:43,362 --> 00:22:45,274
+<i>Maybe she murders Gelflings.</i>
+
+270
+00:22:46,824 --> 00:22:48,736
+<i>What am I doing here?</i>
+
+271
+00:22:51,370 --> 00:22:52,906
+[GRUNTS]
+
+272
+00:23:03,340 --> 00:23:05,502
+[SPEAKING IN FOREIGN LANGUAGE]
+
+273
+00:23:18,063 --> 00:23:21,181
+[GASPS THEN SNIFFING]
+
+274
+00:23:21,358 --> 00:23:24,442
+Are you a Gelfling?
+
+275
+00:23:25,613 --> 00:23:27,821
+Yes. My name is Jen.
+
+276
+00:23:30,200 --> 00:23:34,194
+But Gelfling all dead. Garthim kill
+them all. You can't be Gelfling.
+
+277
+00:23:34,371 --> 00:23:37,614
+You look like Gelfling,
+smell like Gelfling.
+
+278
+00:23:39,460 --> 00:23:42,544
+- Maybe you are Gelfling.
+- I'm looking for Aughra.
+
+279
+00:23:43,589 --> 00:23:45,706
+[SNORTS]
+
+280
+00:23:45,883 --> 00:23:49,627
+- Who sent you?
+- My master, wisest of the Mystics.
+
+281
+00:23:50,554 --> 00:23:52,170
+Where is he? Around here?
+
+282
+00:23:52,348 --> 00:23:55,591
+- He's dead.
+- Could be anywhere, then.
+
+283
+00:23:56,518 --> 00:23:58,885
+Are you Aughra?
+
+284
+00:23:59,355 --> 00:24:01,017
+Are you afraid of me?
+
+285
+00:24:01,190 --> 00:24:04,900
+Think I'm going to eat you? Hmm?
+
+286
+00:24:05,069 --> 00:24:07,026
+What do you want of me?
+
+287
+00:24:07,863 --> 00:24:10,571
+A Shard. A Crystal Shard.
+
+288
+00:24:10,741 --> 00:24:14,405
+That's all you want?
+A Crystal Shard?
+
+289
+00:24:14,954 --> 00:24:16,240
+[SCOFFS]
+
+290
+00:24:17,039 --> 00:24:18,450
+Drop him.
+
+291
+00:24:19,541 --> 00:24:22,033
+[AUGHRA SPEAKING
+IN FOREIGN LANGUAGE]
+
+292
+00:24:41,647 --> 00:24:43,058
+JEN:
+Ow!
+
+293
+00:24:43,232 --> 00:24:44,814
+Oh, no.
+
+294
+00:24:50,030 --> 00:24:51,646
+Aughra?
+
+295
+00:24:53,283 --> 00:24:55,115
+Aughra?
+
+296
+00:25:06,672 --> 00:25:08,664
+[♪♪♪]
+
+297
+00:25:37,453 --> 00:25:39,911
+What's it for? Hmm? Hmm?
+
+298
+00:25:40,080 --> 00:25:44,324
+Is that what you want to know?
+You want to know what this is all about?
+
+299
+00:25:44,501 --> 00:25:47,585
+Is that it, Gelfling?
+You don't know?
+
+300
+00:25:47,755 --> 00:25:49,917
+You've never looked at the heavens.
+
+301
+00:25:50,090 --> 00:25:52,377
+Everything in the heavens is here...
+
+302
+00:25:52,551 --> 00:25:56,511
+...moving as the heavens move.
+
+303
+00:25:56,680 --> 00:26:00,845
+This is how to know when.
+That's what.
+
+304
+00:26:01,852 --> 00:26:05,562
+Suns, moons, stars.
+
+305
+00:26:05,731 --> 00:26:08,599
+Yes, the angle of eternity.
+
+306
+00:26:09,109 --> 00:26:11,852
+That's how I know it's coming.
+
+307
+00:26:12,029 --> 00:26:14,146
+How else can I make the prediction?
+
+308
+00:26:14,323 --> 00:26:15,609
+[GRUNTS]
+
+309
+00:26:15,783 --> 00:26:19,697
+A thousand years ago,
+there was a Great Conjunction.
+
+310
+00:26:19,870 --> 00:26:21,361
+I was there.
+
+311
+00:26:21,538 --> 00:26:23,746
+Three suns lined up.
+
+312
+00:26:23,916 --> 00:26:25,748
+That's when
+the Crystal cracked.
+
+313
+00:26:25,918 --> 00:26:29,252
+That's when the Skeksis
+appeared. And the Mystics.
+
+314
+00:26:29,421 --> 00:26:31,287
+Another Great Conjunction
+coming up.
+
+315
+00:26:31,465 --> 00:26:33,422
+Anything could happen.
+
+316
+00:26:33,592 --> 00:26:35,504
+Whole world might burn up.
+
+317
+00:26:35,719 --> 00:26:36,755
+[SCOFFS]
+
+318
+00:26:36,929 --> 00:26:39,012
+End of Aughra.
+
+319
+00:26:39,223 --> 00:26:40,839
+[AUGHRA MUTTERING]
+
+320
+00:26:41,725 --> 00:26:44,889
+Better have your Shard
+before that, Gelfling.
+
+321
+00:26:46,396 --> 00:26:50,606
+Now, ask what the Great Conjunction is.
+What's the Great Conjunction?
+
+322
+00:26:51,860 --> 00:26:55,479
+What's the Great Conjunction?
+You tell me.
+
+323
+00:26:56,156 --> 00:26:59,945
+The Great Conjunction
+is the end of the world...
+
+324
+00:27:00,119 --> 00:27:01,485
+...or the beginning.
+
+325
+00:27:03,872 --> 00:27:07,081
+End, begin. All the same.
+
+326
+00:27:07,251 --> 00:27:08,787
+Big change.
+
+327
+00:27:08,961 --> 00:27:11,044
+Sometimes good. Hmph.
+
+328
+00:27:11,213 --> 00:27:12,704
+Sometimes bad.
+
+329
+00:27:12,881 --> 00:27:15,089
+Ah. There it is.
+
+330
+00:27:17,261 --> 00:27:19,344
+Gelfling knows nothing.
+
+331
+00:27:21,390 --> 00:27:24,383
+Aughra, what do I do
+with the Shard?
+
+332
+00:27:24,560 --> 00:27:28,304
+- Heal the Dark Crystal.
+- But how?
+
+333
+00:27:28,480 --> 00:27:30,597
+Questions, questions.
+Too many questions.
+
+334
+00:27:30,774 --> 00:27:32,731
+Do you want a Shard? Here.
+
+335
+00:27:37,823 --> 00:27:39,780
+Which one is it?
+
+336
+00:27:39,950 --> 00:27:41,612
+Don't know.
+
+337
+00:27:41,869 --> 00:27:45,704
+[GRUNTING]
+
+338
+00:27:45,873 --> 00:27:48,115
+Don't know.
+
+339
+00:27:48,292 --> 00:27:50,124
+Listen, Gelfling.
+
+340
+00:27:50,294 --> 00:27:53,002
+There is much to be learned...
+
+341
+00:27:53,172 --> 00:27:56,916
+...and you have no time.
+
+342
+00:27:57,301 --> 00:27:59,293
+[♪♪♪]
+
+343
+00:28:12,983 --> 00:28:16,021
+<i>JEN:
+Which one? Which one is it?</i>
+
+344
+00:28:16,195 --> 00:28:19,063
+<i>It's one of these three, I'm sure.</i>
+
+345
+00:28:19,281 --> 00:28:23,150
+You've already taken too long,
+Gelfling. Hurry.
+
+346
+00:28:24,244 --> 00:28:26,201
+<i>But how do I choose?</i>
+
+347
+00:28:28,749 --> 00:28:32,117
+[CHANTING]
+
+348
+00:28:40,886 --> 00:28:43,799
+[PIPE PLAYING]
+
+349
+00:28:48,936 --> 00:28:51,474
+[CRYSTAL RINGS]
+
+350
+00:28:55,317 --> 00:28:58,105
+Yes!
+
+351
+00:28:58,278 --> 00:29:02,272
+Now you don't know what to do with it.
+No one told you that, did they?
+
+352
+00:29:02,449 --> 00:29:04,907
+But Aughra knows.
+
+353
+00:29:05,869 --> 00:29:07,531
+[GASPS]
+
+354
+00:29:09,915 --> 00:29:11,372
+Garthim!
+
+355
+00:29:13,377 --> 00:29:15,084
+[♪♪♪]
+
+356
+00:29:20,425 --> 00:29:22,508
+Out! Get out!
+
+357
+00:29:22,678 --> 00:29:25,136
+Garthim, get out!
+
+358
+00:29:25,347 --> 00:29:27,054
+[GRUNTING]
+
+359
+00:29:27,391 --> 00:29:28,802
+Take your hands off...!
+
+360
+00:29:38,443 --> 00:29:40,275
+[AUGHRA YELLING]
+
+361
+00:29:55,127 --> 00:29:56,493
+[GRUNTING]
+
+362
+00:30:00,257 --> 00:30:01,839
+[GRUNTING]
+
+363
+00:30:13,103 --> 00:30:15,095
+[♪♪♪]
+
+364
+00:30:19,067 --> 00:30:20,683
+Aughra.
+
+365
+00:30:29,369 --> 00:30:31,907
+Hmm...
+
+366
+00:30:40,714 --> 00:30:42,706
+[♪♪♪]
+
+367
+00:30:55,812 --> 00:30:58,896
+HIGH PRIEST:
+At last, the Crystal calls.
+
+368
+00:30:59,066 --> 00:31:03,527
+It is time,
+time to return to the castle.
+
+369
+00:31:27,677 --> 00:31:29,669
+[CREATURES CHIRPING
+AND SQUAWKING]
+
+370
+00:31:37,604 --> 00:31:39,266
+[SQUEAKS]
+
+371
+00:31:59,918 --> 00:32:01,910
+[CHITTERING]
+
+372
+00:32:26,111 --> 00:32:28,524
+<i>JEN:
+Now I've got the Shard...</i>
+
+373
+00:32:28,697 --> 00:32:30,984
+<i>...but what do I do with it?</i>
+
+374
+00:32:31,158 --> 00:32:32,774
+<i>What is it?</i>
+
+375
+00:32:32,951 --> 00:32:35,568
+<i>Am I supposed to take it somewhere?</i>
+
+376
+00:32:35,745 --> 00:32:38,658
+<i>What's so special about this Shard?</i>
+
+377
+00:32:38,832 --> 00:32:40,789
+<i>It doesn't look like any...</i>
+
+378
+00:32:41,293 --> 00:32:43,000
+<i>Oh.</i>
+
+379
+00:32:47,090 --> 00:32:48,922
+[BIRDS CHIRPING]
+
+380
+00:32:56,183 --> 00:32:58,140
+<i>I don't like this.</i>
+
+381
+00:33:02,439 --> 00:33:04,431
+[CHIRPING AND SQUAWKING]
+
+382
+00:33:18,038 --> 00:33:19,529
+[GASPS]
+
+383
+00:33:59,955 --> 00:34:01,287
+[RUSTLING]
+
+384
+00:34:15,262 --> 00:34:16,594
+[BARKS]
+
+385
+00:34:19,724 --> 00:34:21,465
+Oh, no. Right in the mud.
+
+386
+00:34:21,810 --> 00:34:23,517
+[GROWLING]
+
+387
+00:34:43,873 --> 00:34:45,284
+Fizzgig.
+
+388
+00:34:45,542 --> 00:34:48,159
+[SPEAKS IN FOREIGN LANGUAGE]
+
+389
+00:34:48,753 --> 00:34:50,164
+[WHIMPERS]
+
+390
+00:34:52,340 --> 00:34:54,081
+[SPEAKING IN FOREIGN LANGUAGE]
+
+391
+00:34:54,259 --> 00:34:55,249
+Huh?
+
+392
+00:34:58,555 --> 00:35:01,172
+You Gelfling, like me?
+
+393
+00:35:01,349 --> 00:35:02,760
+Well, yes.
+
+394
+00:35:02,934 --> 00:35:05,597
+But I thought I was the only one.
+
+395
+00:35:05,770 --> 00:35:07,352
+I thought I was.
+
+396
+00:35:09,316 --> 00:35:10,352
+KIRA:
+Oh.
+
+397
+00:35:11,568 --> 00:35:13,981
+Here. I'll help you out.
+
+398
+00:35:16,114 --> 00:35:20,028
+<i>KIRA: The first thing I remember is fire.
+JEN: Where did it start?</i>
+
+399
+00:35:20,201 --> 00:35:23,410
+<i>KIRA:
+It's a war, I think.</i>
+
+400
+00:35:23,580 --> 00:35:28,041
+<i>A tree. My mother
+puts me right inside, and we...</i>
+
+401
+00:35:28,209 --> 00:35:29,871
+<i>Mother! Mother, the monster!</i>
+
+402
+00:35:30,045 --> 00:35:31,877
+<i>JEN: First thing I remember
+is the kind one.</i>
+
+403
+00:35:32,047 --> 00:35:36,212
+<i>He picks me up. He makes the monsters
+disappear, and I'd be safe.</i>
+
+404
+00:35:36,384 --> 00:35:38,250
+<i>KIRA:
+I am safe.</i>
+
+405
+00:35:38,428 --> 00:35:40,090
+<i>JEN:
+What's happening?</i>
+
+406
+00:35:40,263 --> 00:35:43,176
+<i>KIRA: We're dream-fasting,
+sharing our memories.</i>
+
+407
+00:35:43,725 --> 00:35:44,932
+[JEN LAUGHS]
+
+408
+00:35:45,101 --> 00:35:47,013
+<i>JEN:
+I'm having a bath.</i>
+
+409
+00:35:47,187 --> 00:35:50,680
+<i>KIRA: When I was little,
+I used to get fed by my new mom.</i>
+
+410
+00:35:50,857 --> 00:35:52,849
+<i>She called me Kira.</i>
+
+411
+00:35:53,026 --> 00:35:55,609
+<i>JEN: And Master showed me
+the whole valley stretching out.</i>
+
+412
+00:35:55,779 --> 00:35:58,271
+<i>I thought it went on forever.
+Kira, watch out!</i>
+
+413
+00:35:58,448 --> 00:36:00,940
+<i>KIRA: The Garthim!
+They capture the Podlings.</i>
+
+414
+00:36:01,117 --> 00:36:02,653
+<i>JEN: Then I am happy.
+KIRA: It makes me cry.</i>
+
+415
+00:36:02,827 --> 00:36:06,286
+<i>JEN: My master is family,
+teacher and friend.</i>
+
+416
+00:36:06,456 --> 00:36:08,618
+<i>And I can nearly forget
+everything that happened.</i>
+
+417
+00:36:08,792 --> 00:36:10,954
+<i>KIRA: And talk with flowers
+and all the living things.</i>
+
+418
+00:36:11,127 --> 00:36:13,460
+<i>JEN: He shows me numbers
+and things called words.</i>
+
+419
+00:36:13,630 --> 00:36:16,794
+<i>Everywhere I go,
+I learn the shapes of kindness.</i>
+
+420
+00:36:16,966 --> 00:36:20,334
+<i>I learn from them all,
+except there's no one here like me.</i>
+
+421
+00:36:20,512 --> 00:36:22,128
+<i>I need to find...</i>
+
+422
+00:36:22,305 --> 00:36:25,173
+<i>KIRA: I love them all,
+except I need to find...</i>
+
+423
+00:36:25,350 --> 00:36:26,682
+<i>JEN: Wait.
+KIRA: I want...</i>
+
+424
+00:36:26,851 --> 00:36:28,808
+<i>JEN: It's going away.
+KIRA: It's going away.</i>
+
+425
+00:36:32,482 --> 00:36:34,895
+- Ha-ha-ha.
+JEN: Oh, no. I'm sinking.
+
+426
+00:36:35,068 --> 00:36:37,936
+KIRA: Don't move.
+- Don't move? Where would I go?
+
+427
+00:36:40,990 --> 00:36:42,276
+[CALLING IN FOREIGN LANGUAGE]
+
+428
+00:36:50,875 --> 00:36:52,867
+[CREATURE GROWLING]
+
+429
+00:36:55,171 --> 00:36:56,787
+[WHIMPERING]
+
+430
+00:37:00,218 --> 00:37:01,800
+[ROARS]
+
+431
+00:37:02,178 --> 00:37:05,046
+- What is that?
+- Just a Nebrie.
+
+432
+00:37:05,223 --> 00:37:07,055
+She won't hurt you.
+
+433
+00:37:07,225 --> 00:37:08,966
+[SPEAKS IN FOREIGN LANGUAGE]
+
+434
+00:37:10,729 --> 00:37:12,015
+JEN:
+Kira.
+
+435
+00:37:13,440 --> 00:37:15,352
+Your name is Kira.
+
+436
+00:37:15,525 --> 00:37:18,563
+We were dream-fasted, you and I.
+
+437
+00:37:19,904 --> 00:37:22,237
+Fizzgig. Fizzgig.
+
+438
+00:37:23,575 --> 00:37:25,783
+Come on.
+
+439
+00:37:26,870 --> 00:37:28,862
+[KIRA SPEAKS
+IN FOREIGN LANGUAGE]
+
+440
+00:37:31,124 --> 00:37:32,160
+[FIZZGIG GROWLING]
+
+441
+00:37:32,333 --> 00:37:33,540
+KIRA:
+Fizzgig!
+
+442
+00:37:35,211 --> 00:37:37,999
+[SPEAKS IN FOREIGN LANGUAGE]
+
+443
+00:37:38,381 --> 00:37:41,715
+- You seem very strange to him.
+- He seems pretty strange to me.
+
+444
+00:37:41,885 --> 00:37:43,251
+He's nervous.
+
+445
+00:37:43,428 --> 00:37:47,263
+Here, Skeksis are watching always.
+We must go.
+
+446
+00:37:48,725 --> 00:37:50,136
+Come.
+
+447
+00:37:53,062 --> 00:37:55,725
+[CREATURE ROARING
+THEN FIZZGIG WHIMPERS]
+
+448
+00:38:03,573 --> 00:38:04,803
+[♪♪♪]
+
+449
+00:38:04,991 --> 00:38:09,986
+SKEKSIS 1: Roast Nebrie, my favourite.
+SKEKSIS 2: I want the rare piece.
+
+450
+00:38:16,586 --> 00:38:17,918
+SLAVE MASTER:
+Slaves.
+
+451
+00:38:22,050 --> 00:38:23,541
+[BELCHING]
+
+452
+00:38:27,555 --> 00:38:28,671
+[GRUNTS]
+
+453
+00:38:28,848 --> 00:38:31,215
+You slime face!
+
+454
+00:38:39,651 --> 00:38:41,768
+[SLURPS]
+
+455
+00:38:45,907 --> 00:38:48,194
+[WHIMPERING]
+
+456
+00:38:49,536 --> 00:38:51,903
+Oh, yes, yes, yes!
+
+457
+00:39:00,713 --> 00:39:02,249
+[GRUNTS]
+
+458
+00:39:02,423 --> 00:39:03,959
+Rotten!
+
+459
+00:39:05,134 --> 00:39:07,547
+Yuch. Ooh. Blech!
+
+460
+00:39:09,055 --> 00:39:11,172
+SLAVE MASTER:
+Slaves!
+
+461
+00:39:11,349 --> 00:39:12,510
+Eat!
+
+462
+00:39:22,902 --> 00:39:25,189
+It seems to me that Gelfling...
+
+463
+00:39:26,489 --> 00:39:28,446
+...has escaped, huh?
+
+464
+00:39:28,616 --> 00:39:32,860
+No Gelfling ever escaped
+from my deadly Garthim.
+
+465
+00:39:38,418 --> 00:39:41,206
+More food. More food!
+
+466
+00:39:43,214 --> 00:39:46,127
+Something stuck in my teeth.
+
+467
+00:39:49,220 --> 00:39:50,711
+Enchanting meal.
+
+468
+00:39:52,265 --> 00:39:54,257
+[MOANING]
+
+469
+00:39:56,936 --> 00:39:58,143
+Hm?
+
+470
+00:40:07,697 --> 00:40:11,031
+GENERAL:
+Ah. Dessert! Crawlies!
+
+471
+00:40:11,200 --> 00:40:13,692
+SKEKSIS 1:
+Dessert!
+
+472
+00:40:13,870 --> 00:40:16,078
+SKEKSIS 2: Stop it!
+SKEKSIS 3: Crawlie!
+
+473
+00:40:16,247 --> 00:40:18,034
+[YELLING AND CHATTERING]
+
+474
+00:40:20,209 --> 00:40:21,791
+[SHRIEKS]
+
+475
+00:40:25,924 --> 00:40:28,416
+Not bad at all.
+
+476
+00:40:29,552 --> 00:40:32,920
+Look. The Garthim return.
+
+477
+00:40:33,097 --> 00:40:34,554
+The Gelfling.
+
+478
+00:40:34,724 --> 00:40:36,716
+[CHATTERING]
+
+479
+00:40:49,906 --> 00:40:52,319
+Release the Gelfling.
+
+480
+00:40:52,533 --> 00:40:54,650
+[GRUNTING]
+
+481
+00:40:56,120 --> 00:40:57,486
+[GASPS]
+
+482
+00:40:57,664 --> 00:40:59,155
+[SKEKSIS MURMURING]
+
+483
+00:41:00,333 --> 00:41:03,246
+- What's this?
+- Fools! Skeksis fools!
+
+484
+00:41:03,419 --> 00:41:05,251
+What do you want with me?
+
+485
+00:41:06,339 --> 00:41:07,625
+This is no Gelfling!
+
+486
+00:41:08,466 --> 00:41:12,631
+Of course I'm no Gelfling,
+you putrid lizards!
+
+487
+00:41:12,804 --> 00:41:14,670
+I'll get my eye to you.
+
+488
+00:41:14,931 --> 00:41:15,967
+[WHIMPERING]
+
+489
+00:41:16,724 --> 00:41:19,808
+She was with him.
+She helped him. Where is he?
+
+490
+00:41:20,228 --> 00:41:23,972
+Gone! Gelfling gone.
+Stupid Garthim.
+
+491
+00:41:24,148 --> 00:41:25,264
+[GRUNTS]
+
+492
+00:41:25,441 --> 00:41:28,525
+You want Gelfling, why not ask me?
+
+493
+00:41:28,695 --> 00:41:31,984
+Easier to send your crab-brained
+soldiers, burn my home!
+
+494
+00:41:32,156 --> 00:41:36,400
+Now home gone, Gelfling gone.
+Nothing but Aughra!
+
+495
+00:41:36,577 --> 00:41:39,411
+Mouldy mildew mother of mouthmuck!
+
+496
+00:41:39,580 --> 00:41:41,242
+Dangle and strangle to death!
+
+497
+00:41:41,416 --> 00:41:43,453
+Oh, how crude!
+
+498
+00:41:43,626 --> 00:41:47,461
+GENERAL: Watch your tongue,
+harridan. We are lords of the Crystal.
+
+499
+00:41:47,630 --> 00:41:49,462
+Lords? Not for long.
+
+500
+00:41:49,632 --> 00:41:51,669
+What about the prophecy...
+
+501
+00:41:51,843 --> 00:41:54,005
+...that a Gelfling
+will end Skeksis power?
+
+502
+00:41:55,221 --> 00:41:57,053
+[GRUNTS]
+
+503
+00:41:57,223 --> 00:42:00,591
+He'll come, make you crawl,
+like the worms you are.
+
+504
+00:42:00,768 --> 00:42:04,478
+- Find that Gelfling now!
+- Hmm...
+
+505
+00:42:04,647 --> 00:42:06,639
+Crystal bats, fly!
+
+506
+00:42:06,816 --> 00:42:09,149
+Search the land!
+Search the water!
+
+507
+00:42:09,318 --> 00:42:11,526
+Search the sky!
+
+508
+00:42:11,696 --> 00:42:13,688
+[♪♪♪]
+
+509
+00:42:22,081 --> 00:42:26,917
+[KIRA HUMMING]
+
+510
+00:42:52,028 --> 00:42:56,443
+[PIPE PLAYING AND
+KIRA CONTINUES HUMMING]
+
+511
+00:43:28,314 --> 00:43:30,351
+[GROWLS AND BARKS
+THEN KIRA GASPS]
+
+512
+00:43:31,609 --> 00:43:33,817
+KIRA:
+Jen, get down. Down.
+
+513
+00:43:34,028 --> 00:43:36,020
+[♪♪♪]
+
+514
+00:43:41,410 --> 00:43:43,242
+[SHRIEKS]
+
+515
+00:43:47,750 --> 00:43:50,584
+- What was that?
+- A Crystal bat.
+
+516
+00:43:50,753 --> 00:43:53,336
+What they see,
+the Skeksis see too.
+
+517
+00:43:53,506 --> 00:43:56,123
+- Did it see us?
+- No, I don't think so.
+
+518
+00:44:14,569 --> 00:44:16,561
+[♪♪♪]
+
+519
+00:44:28,833 --> 00:44:31,450
+[CHATTERING AND LAUGHING]
+
+520
+00:44:32,503 --> 00:44:35,837
+JEN: Aren't these the people
+from your memory?
+
+521
+00:44:36,007 --> 00:44:39,546
+When the Garthim killed my parents,
+the Podlings adopted me.
+
+522
+00:44:39,719 --> 00:44:41,210
+They're my clan.
+
+523
+00:44:42,096 --> 00:44:44,213
+[SPEAKING IN FOREIGN LANGUAGE]
+
+524
+00:44:48,102 --> 00:44:49,434
+[SPEAKS IN FOREIGN LANGUAGE]
+
+525
+00:44:52,148 --> 00:44:53,855
+Come.
+
+526
+00:44:54,108 --> 00:44:56,100
+[♪♪♪]
+
+527
+00:44:58,821 --> 00:45:00,813
+[PLAYING LIVELY MUSIC]
+
+528
+00:45:06,329 --> 00:45:08,321
+[CHATTERING IN
+FOREIGN LANGUAGE]
+
+529
+00:45:18,716 --> 00:45:20,708
+- How do you say "thank you"?
+- Oh.
+
+530
+00:45:20,885 --> 00:45:22,001
+[SPEAKS IN FOREIGN LANGUAGE]
+
+531
+00:45:23,221 --> 00:45:26,214
+[ALL SPEAKING
+IN FOREIGN LANGUAGE]
+
+532
+00:45:45,660 --> 00:45:46,946
+[LAUGHS]
+
+533
+00:46:05,054 --> 00:46:08,923
+JEN: You know the three suns in the sky?
+They're going to come together soon.
+
+534
+00:46:09,100 --> 00:46:11,763
+It's called the Great...
+The Great something or other.
+
+535
+00:46:11,936 --> 00:46:14,679
+It's a prophecy. He told me
+that I must find the Shard...
+
+536
+00:46:14,855 --> 00:46:18,474
+...and that everything must be done
+before the three suns join in one.
+
+537
+00:46:18,651 --> 00:46:21,314
+And that's all.
+And then he died.
+
+538
+00:46:22,196 --> 00:46:24,028
+[SQUEALING]
+
+539
+00:46:32,123 --> 00:46:34,615
+KIRA:
+Jen, what's the Shard for?
+
+540
+00:46:34,792 --> 00:46:37,205
+That's just it. I don't know.
+I found the Shard.
+
+541
+00:46:37,378 --> 00:46:39,244
+But you don't know
+what to do with it.
+
+542
+00:46:39,422 --> 00:46:40,788
+[SPEAKING IN FOREIGN LANGUAGE]
+
+543
+00:47:14,498 --> 00:47:16,410
+[CRASHING]
+
+544
+00:47:16,709 --> 00:47:19,247
+[ALL SCREAMING
+AND CLAMOURING]
+
+545
+00:47:32,641 --> 00:47:34,974
+[♪♪♪]
+
+546
+00:47:37,897 --> 00:47:39,354
+[ROARS]
+
+547
+00:47:42,026 --> 00:47:44,143
+KIRA:
+Jen, this way!
+
+548
+00:47:49,658 --> 00:47:50,899
+Ow!
+
+549
+00:47:51,077 --> 00:47:53,444
+[CLANGS]
+
+550
+00:47:55,456 --> 00:47:58,164
+Through here! Hurry!
+
+551
+00:48:09,929 --> 00:48:12,467
+[FIZZGIG BARKING AND WHINING]
+
+552
+00:48:19,855 --> 00:48:21,642
+[SCREAMING]
+
+553
+00:48:39,250 --> 00:48:40,286
+[GASPS]
+
+554
+00:48:42,837 --> 00:48:44,544
+KIRA:
+Jen...
+
+555
+00:48:44,713 --> 00:48:46,625
+JEN:
+Come on. Run.
+
+556
+00:48:48,592 --> 00:48:51,335
+- What was that creature?
+- Skeksis.
+
+557
+00:49:01,230 --> 00:49:03,768
+Hmm...
+
+558
+00:49:08,237 --> 00:49:10,149
+[BARKING]
+
+559
+00:49:17,204 --> 00:49:18,820
+[GRUNTS]
+
+560
+00:49:19,748 --> 00:49:22,582
+Wait! They won't find us here.
+
+561
+00:49:30,217 --> 00:49:32,834
+- It's all my fault.
+- That Skeksis...
+
+562
+00:49:34,180 --> 00:49:36,388
+He saved us from his own Garthim.
+
+563
+00:49:38,434 --> 00:49:41,643
+First Aughra's, then your village.
+
+564
+00:49:47,651 --> 00:49:50,439
+I wish I'd never heard of this Shard.
+
+565
+00:49:50,613 --> 00:49:52,320
+No, Jen!
+
+566
+00:49:54,825 --> 00:49:57,943
+Oh, Jen, they hurt your arm.
+
+567
+00:49:58,120 --> 00:50:00,863
+Here. This moss'll make it better.
+
+568
+00:50:05,336 --> 00:50:07,578
+It wasn't your fault.
+
+569
+00:50:09,673 --> 00:50:12,381
+The Garthim have always come.
+
+570
+00:50:20,684 --> 00:50:23,518
+[♪♪♪]
+
+571
+00:50:36,200 --> 00:50:39,819
+<i>JEN:
+Oh, Master, I remember the valley.</i>
+
+572
+00:50:39,995 --> 00:50:42,282
+<i>I didn't understand.</i>
+
+573
+00:50:42,456 --> 00:50:46,951
+<i>I miss the other masters
+with the old, old magic and chants.</i>
+
+574
+00:50:47,127 --> 00:50:49,210
+<i>I never loved them enough.</i>
+
+575
+00:50:49,380 --> 00:50:51,872
+<i>Out here in the world, look at me.</i>
+
+576
+00:50:52,049 --> 00:50:56,009
+<i>I'm not a hero,
+not the way you wanted.</i>
+
+577
+00:50:56,178 --> 00:50:59,512
+<i>Master, nothing is simple anymore.</i>
+
+578
+00:50:59,682 --> 00:51:02,516
+<i>Master. Master?</i>
+
+579
+00:51:05,187 --> 00:51:07,520
+Where are we?
+
+580
+00:51:07,690 --> 00:51:09,556
+- Safe.
+- Safe?
+
+581
+00:51:09,733 --> 00:51:11,190
+[GURGLES]
+
+582
+00:51:11,360 --> 00:51:13,352
+JEN:
+I don't think anywhere is safe anymore.
+
+583
+00:51:24,373 --> 00:51:26,080
+These are ruins.
+
+584
+00:51:27,960 --> 00:51:31,124
+They're the houses of the old ones.
+
+585
+00:51:31,297 --> 00:51:33,755
+JEN:
+You mean our ancestors?
+
+586
+00:51:34,925 --> 00:51:36,917
+[♪♪♪]
+
+587
+00:51:41,307 --> 00:51:45,051
+Jen? Here's the Shard.
+
+588
+00:51:48,230 --> 00:51:50,688
+JEN:
+I can feel something...
+
+589
+00:51:50,858 --> 00:51:55,523
+- ...hear it almost.
+- We don't go in here anymore.
+
+590
+00:51:55,696 --> 00:51:58,780
+Bad things happened in here once.
+
+591
+00:52:00,117 --> 00:52:03,110
+But they were Gelfling, like us.
+
+592
+00:52:03,287 --> 00:52:04,869
+KIRA:
+Yes.
+
+593
+00:52:05,039 --> 00:52:08,874
+They were all killed
+by the Skeksis long ago.
+
+594
+00:52:47,331 --> 00:52:50,995
+Kira! Kira, look here.
+
+595
+00:52:52,503 --> 00:52:54,210
+Just look at this.
+
+596
+00:52:54,380 --> 00:52:57,214
+That... That looks just like the Shard.
+
+597
+00:52:57,383 --> 00:52:59,295
+What does it mean?
+
+598
+00:52:59,468 --> 00:53:01,710
+KIRA:
+And what are those funny marks?
+
+599
+00:53:01,887 --> 00:53:04,379
+JEN:
+This is all writing.
+
+600
+00:53:04,556 --> 00:53:06,092
+KIRA:
+What's writing?
+
+601
+00:53:06,266 --> 00:53:08,758
+Words that stay. My master taught me.
+
+602
+00:53:09,144 --> 00:53:10,510
+KIRA:
+Oh.
+
+603
+00:53:11,230 --> 00:53:14,439
+JEN:
+"When single shines the triple sun...
+
+604
+00:53:14,608 --> 00:53:17,851
+...what was sundered and undone...
+
+605
+00:53:18,028 --> 00:53:21,021
+...shall be whole, the two made one...
+
+606
+00:53:21,198 --> 00:53:25,568
+...by Gelfling hand, or else by none."
+
+607
+00:53:25,744 --> 00:53:29,033
+By Gelfling hand?
+Do you know what that means?
+
+608
+00:53:29,206 --> 00:53:31,163
+Wait.
+
+609
+00:53:31,333 --> 00:53:33,791
+This is a piece of the Dark Crystal.
+
+610
+00:53:33,961 --> 00:53:36,920
+- Then that's what my master meant.
+- Yes.
+
+611
+00:53:37,089 --> 00:53:40,253
+- I have to put it...
+- You have to heal the... The Dark Crystal.
+
+612
+00:53:40,426 --> 00:53:42,088
+CHAMBERLAIN:
+Prophecy?
+
+613
+00:53:42,261 --> 00:53:45,254
+- Jen, Skeksis!
+- Stay! Stay! No!
+
+614
+00:53:45,514 --> 00:53:48,507
+Stay. Stay. Am friend.
+
+615
+00:53:48,684 --> 00:53:50,016
+[BARKS]
+
+616
+00:53:50,227 --> 00:53:51,934
+Stay. Am friend.
+
+617
+00:53:52,104 --> 00:53:55,268
+Prophecy.
+Prophecy cause all this trouble.
+
+618
+00:53:55,441 --> 00:53:56,807
+JEN: That prophecy?
+- Yes!
+
+619
+00:53:56,984 --> 00:53:59,601
+- That's why Skeksis killed Gelfling?
+- Yes!
+
+620
+00:53:59,862 --> 00:54:04,402
+Yes. Bad mistake.
+Skeksis afraid, fear Gelfling.
+
+621
+00:54:04,950 --> 00:54:06,361
+But you're a Skeksis.
+
+622
+00:54:06,535 --> 00:54:09,403
+But I am friend,
+save you from Garthim.
+
+623
+00:54:10,164 --> 00:54:12,747
+JEN: Why?
+- Don't listen to him. It's a trick.
+
+624
+00:54:12,916 --> 00:54:15,579
+No! Please! Must listen.
+
+625
+00:54:15,753 --> 00:54:17,289
+Am outcast.
+
+626
+00:54:17,463 --> 00:54:20,376
+If I make peace, am outcast no more.
+
+627
+00:54:20,549 --> 00:54:22,882
+- Will you stop the Garthim attacks?
+- Yes!
+
+628
+00:54:23,051 --> 00:54:25,589
+Please, come to the castle. Please!
+
+629
+00:54:25,763 --> 00:54:27,629
+Show them you want peace.
+
+630
+00:54:27,806 --> 00:54:32,471
+Show them Gelflings will not harm us.
+Please, please.
+
+631
+00:54:32,644 --> 00:54:34,010
+Please.
+
+632
+00:54:34,229 --> 00:54:37,188
+Jen! No!
+
+633
+00:54:38,358 --> 00:54:40,224
+Come. Please.
+
+634
+00:54:40,402 --> 00:54:42,564
+Please. Yes. Please?
+
+635
+00:54:42,738 --> 00:54:43,979
+[♪♪♪]
+
+636
+00:54:44,990 --> 00:54:46,902
+- Yes.
+- No!
+
+637
+00:54:47,075 --> 00:54:48,941
+Come on, Kira.
+
+638
+00:54:49,119 --> 00:54:51,532
+CHAMBERLAIN:
+No? Wait!
+
+639
+00:54:52,414 --> 00:54:54,326
+Wait, please?
+
+640
+00:54:54,500 --> 00:54:56,537
+Please? Wait!
+
+641
+00:54:56,710 --> 00:54:59,293
+Please make peace!
+
+642
+00:55:01,423 --> 00:55:04,666
+Now I know what I have to do.
+How do I get to the castle?
+
+643
+00:55:04,843 --> 00:55:06,675
+I'll show you.
+
+644
+00:55:10,224 --> 00:55:13,137
+[TRILLING]
+
+645
+00:55:18,732 --> 00:55:20,974
+[KIRA SPEAKS
+IN FOREIGN LANGUAGE]
+
+646
+00:55:24,321 --> 00:55:25,937
+Over here!
+
+647
+00:55:26,114 --> 00:55:27,525
+[SPEAKS IN FOREIGN LANGUAGE]
+
+648
+00:55:27,699 --> 00:55:30,988
+JEN: What's that?
+KIRA: It's a landstrider.
+
+649
+00:55:31,995 --> 00:55:34,282
+[SPEAKING IN FOREIGN LANGUAGE]
+
+650
+00:55:34,456 --> 00:55:37,699
+JEN: How did you learn to call them?
+- The Podlings taught me.
+
+651
+00:55:44,258 --> 00:55:45,294
+[GASPS]
+
+652
+00:55:45,467 --> 00:55:47,174
+Don't be afraid.
+
+653
+00:55:47,344 --> 00:55:49,336
+[SPEAKING IN FOREIGN LANGUAGE]
+
+654
+00:55:50,639 --> 00:55:53,006
+Let's go.
+
+655
+00:55:57,312 --> 00:55:59,429
+- They'll take us.
+- But...
+
+656
+00:56:00,023 --> 00:56:01,810
+Kira, you don't have to go.
+
+657
+00:56:03,360 --> 00:56:04,817
+I know.
+
+658
+00:56:06,363 --> 00:56:08,070
+All right. Together, then.
+
+659
+00:56:08,949 --> 00:56:12,283
+[BARKING]
+
+660
+00:56:16,415 --> 00:56:18,031
+No, no, Fizzgig. You stay here.
+
+661
+00:56:19,251 --> 00:56:21,743
+[SCREAMS]
+
+662
+00:56:22,379 --> 00:56:23,711
+Oh.
+
+663
+00:56:25,173 --> 00:56:27,085
+KIRA:
+Oh, all right. Come on.
+
+664
+00:56:27,926 --> 00:56:30,464
+[SPEAKS IN FOREIGN LANGUAGE]
+
+665
+00:56:32,723 --> 00:56:36,182
+- Hang on, Jen. They go fast.
+- Yes.
+
+666
+00:56:37,060 --> 00:56:39,677
+[♪♪♪]
+
+667
+00:56:46,236 --> 00:56:48,398
+The prophecy didn't say
+anything about this.
+
+668
+00:56:49,615 --> 00:56:51,652
+Prophets don't know everything.
+
+669
+00:57:09,927 --> 00:57:11,919
+[ANIMALS SQUAWKING
+AND GRUNTING]
+
+670
+00:57:24,232 --> 00:57:26,690
+SCIENTIST:
+Silence, animals!
+
+671
+00:57:26,860 --> 00:57:29,398
+You're next, little Podling.
+
+672
+00:57:29,863 --> 00:57:32,697
+[CRYING IN FOREIGN LANGUAGE]
+
+673
+00:57:37,120 --> 00:57:38,907
+This won't hurt.
+
+674
+00:57:39,081 --> 00:57:43,166
+We just want to drain
+your living essence.
+
+675
+00:57:43,335 --> 00:57:46,919
+Then you can be the same
+as the other Podlings here:
+
+676
+00:57:47,089 --> 00:57:48,830
+A slave.
+
+677
+00:57:49,883 --> 00:57:51,590
+Open the wall!
+
+678
+00:57:55,597 --> 00:57:57,463
+Now, Podling.
+
+679
+00:58:01,937 --> 00:58:05,806
+Out there is the great shaft
+of the castle.
+
+680
+00:58:06,191 --> 00:58:08,979
+Position the reflector.
+
+681
+00:58:12,155 --> 00:58:14,488
+The reflector will capture the beams...
+
+682
+00:58:14,658 --> 00:58:17,617
+...of the Dark Crystal
+floating high above.
+
+683
+00:58:17,786 --> 00:58:20,995
+Look into the reflector, Podling.
+
+684
+00:58:21,164 --> 00:58:24,748
+Feel the power of the Dark Crystal.
+
+685
+00:58:28,588 --> 00:58:33,674
+Mm, ah... Yes!
+And now the beam will rid you...
+
+686
+00:58:33,844 --> 00:58:36,086
+...of your fears, your thoughts...
+
+687
+00:58:36,555 --> 00:58:39,138
+...your vital essence.
+
+688
+00:58:45,522 --> 00:58:47,809
+Mm...
+
+689
+00:58:47,983 --> 00:58:50,225
+Ah...
+
+690
+00:58:52,904 --> 00:58:54,440
+You're very lucky, slave.
+
+691
+00:58:54,614 --> 00:58:57,903
+Only the emperor
+can drink your essence.
+
+692
+00:59:00,829 --> 00:59:02,912
+Ah!
+
+693
+00:59:03,832 --> 00:59:05,414
+[CLANKING]
+
+694
+00:59:05,584 --> 00:59:08,452
+He's here! Close it, slave!
+
+695
+00:59:13,800 --> 00:59:16,258
+- Is it ready?
+- Very fresh.
+
+696
+00:59:16,428 --> 00:59:18,795
+Very strong, sire.
+
+697
+00:59:25,270 --> 00:59:26,886
+Ahh...
+
+698
+00:59:28,231 --> 00:59:29,347
+Now...
+
+699
+00:59:29,566 --> 00:59:32,525
+Oh, it will make you young again, sire.
+
+700
+00:59:41,453 --> 00:59:42,739
+Ha. Heh.
+
+701
+00:59:48,960 --> 00:59:50,826
+[LAUGHING]
+
+702
+00:59:51,379 --> 00:59:53,086
+Young!
+
+703
+00:59:55,008 --> 00:59:56,920
+Yes, young!
+
+704
+00:59:57,844 --> 00:59:58,880
+Huh?
+
+705
+01:00:00,639 --> 01:00:02,471
+[GASPS]
+
+706
+01:00:05,811 --> 01:00:08,804
+You fraud! Aah!
+
+707
+01:00:08,980 --> 01:00:11,347
+Wait. Please, sire.
+
+708
+01:00:11,525 --> 01:00:13,187
+[ROARS]
+
+709
+01:00:14,277 --> 01:00:16,360
+Liar!
+
+710
+01:00:16,530 --> 01:00:18,362
+Slave squeezer!
+
+711
+01:00:18,532 --> 01:00:21,240
+It always worked better...
+
+712
+01:00:21,409 --> 01:00:23,867
+...when we used Gelflings.
+
+713
+01:00:26,790 --> 01:00:29,123
+[SNIFFING]
+
+714
+01:00:31,628 --> 01:00:33,620
+[♪♪♪]
+
+715
+01:00:45,100 --> 01:00:48,093
+KIRA: Look.
+- The ones who raided your village.
+
+716
+01:00:48,270 --> 01:00:50,136
+Let's go.
+
+717
+01:00:53,400 --> 01:00:54,936
+Kira!
+
+718
+01:00:57,946 --> 01:00:59,812
+[KIRA YELLS]
+
+719
+01:01:03,618 --> 01:01:06,235
+[ALL YELLING]
+
+720
+01:01:06,454 --> 01:01:07,990
+Come on.
+
+721
+01:01:19,801 --> 01:01:21,417
+Get him! Aah!
+
+722
+01:01:23,054 --> 01:01:24,590
+[BARKING]
+
+723
+01:01:28,727 --> 01:01:32,141
+- Kira, are you all right?
+- Yes, but we've got to get them out.
+
+724
+01:01:41,114 --> 01:01:43,401
+[SQUEALING]
+
+725
+01:01:53,793 --> 01:01:55,159
+[SQUEALING]
+
+726
+01:01:57,714 --> 01:01:59,125
+Hurry!
+
+727
+01:02:01,885 --> 01:02:03,717
+They're coming!
+
+728
+01:02:05,680 --> 01:02:07,467
+Fizzgig!
+
+729
+01:02:11,853 --> 01:02:13,185
+Hang on.
+
+730
+01:02:28,203 --> 01:02:29,944
+Wings.
+
+731
+01:02:30,121 --> 01:02:32,113
+I don't have wings.
+
+732
+01:02:32,290 --> 01:02:34,202
+KIRA:
+Of course not.
+
+733
+01:02:34,376 --> 01:02:36,333
+You're a boy.
+
+734
+01:02:46,638 --> 01:02:47,799
+[FIZZGIG BARKING]
+
+735
+01:02:47,973 --> 01:02:49,339
+Fizzgig!
+
+736
+01:02:56,273 --> 01:02:58,936
+Yes. A way into the castle.
+
+737
+01:02:59,109 --> 01:03:01,817
+This must lead into the lower part.
+
+738
+01:03:01,987 --> 01:03:04,695
+- Come on.
+- I don't want to go in there.
+
+739
+01:03:04,864 --> 01:03:06,730
+JEN:
+We have to go on.
+
+740
+01:03:09,828 --> 01:03:11,820
+[♪♪♪]
+
+741
+01:03:25,010 --> 01:03:26,717
+Fizzgig, come on.
+
+742
+01:03:29,472 --> 01:03:31,304
+Hmm...
+
+743
+01:04:00,170 --> 01:04:01,251
+KIRA:
+Oh!
+
+744
+01:04:01,421 --> 01:04:02,878
+Careful.
+
+745
+01:04:17,187 --> 01:04:19,099
+[♪♪♪]
+
+746
+01:04:20,065 --> 01:04:21,146
+JEN:
+Which way now?
+
+747
+01:04:22,317 --> 01:04:26,106
+I want to go back.
+I smell death here.
+
+748
+01:04:26,279 --> 01:04:28,396
+[WHIMPERS]
+
+749
+01:04:30,283 --> 01:04:32,491
+I know, but we have no choice.
+
+750
+01:04:32,660 --> 01:04:33,696
+[KIRA GASPS]
+
+751
+01:04:33,870 --> 01:04:35,702
+[FIZZGIG BARKING]
+
+752
+01:04:35,872 --> 01:04:38,660
+KIRA: Skeksis!
+CHAMBERLAIN: I knew you would come.
+
+753
+01:04:40,043 --> 01:04:45,163
+Do not be afraid.
+I am here to help you. Yes.
+
+754
+01:04:45,382 --> 01:04:50,093
+Come, we'll show them. Gelflings
+live with Skeksis together in peace.
+
+755
+01:04:50,261 --> 01:04:51,877
+Please.
+
+756
+01:04:52,055 --> 01:04:54,047
+[ALL GRUNTING]
+
+757
+01:04:54,224 --> 01:04:55,806
+JEN:
+Let go!
+
+758
+01:04:56,476 --> 01:04:58,183
+[GROWLING]
+
+759
+01:04:58,353 --> 01:05:00,845
+CHAMBERLAIN:
+I'll show them.
+
+760
+01:05:02,982 --> 01:05:04,439
+[SHRIEKS]
+
+761
+01:05:04,984 --> 01:05:06,725
+My hand!
+
+762
+01:05:07,779 --> 01:05:10,487
+So my hand.
+
+763
+01:05:14,285 --> 01:05:16,277
+[WHIMPERING]
+
+764
+01:05:17,956 --> 01:05:19,822
+Gelfling, you die!
+
+765
+01:05:23,086 --> 01:05:26,124
+KIRA:
+Jen! Let go.
+
+766
+01:05:26,297 --> 01:05:29,165
+Let go of me. Jen.
+
+767
+01:05:29,884 --> 01:05:32,217
+Come. Yes.
+
+768
+01:05:32,929 --> 01:05:36,218
+KIRA: Let go!
+CHAMBERLAIN: Now. Yes.
+
+769
+01:05:36,391 --> 01:05:39,054
+Gelfling, come.
+
+770
+01:05:39,227 --> 01:05:41,139
+No, Fizzgig. You stay with Jen.
+
+771
+01:05:41,312 --> 01:05:42,894
+- Yes.
+- Let go.
+
+772
+01:05:43,064 --> 01:05:47,855
+Let go! Let go of me! Jen! Jen!
+
+773
+01:05:48,027 --> 01:05:50,064
+[WHIMPERS]
+
+774
+01:05:53,116 --> 01:05:56,484
+I like those grey ones that go
+mushy when you put them on your fork.
+
+775
+01:05:56,661 --> 01:05:59,028
+Chamberlain.
+Chamberlain, get out.
+
+776
+01:05:59,205 --> 01:06:01,197
+Get out.
+
+777
+01:06:01,958 --> 01:06:02,994
+[SHRIEKING]
+
+778
+01:06:03,168 --> 01:06:06,957
+BOTH:
+Gelfling! Gelfling! Gelfling!
+
+779
+01:06:07,797 --> 01:06:09,789
+[BOTH SHRIEKING AND SHOUTING]
+
+780
+01:06:14,137 --> 01:06:18,097
+Gelfling! Gelfling in the castle!
+
+781
+01:06:23,062 --> 01:06:26,476
+Come and look!
+Such an ugly monster!
+
+782
+01:06:33,615 --> 01:06:36,153
+Awful. So awful.
+
+783
+01:06:36,326 --> 01:06:38,283
+Ahh. Huh?
+
+784
+01:06:41,915 --> 01:06:45,829
+Royal sire, I bring you Gelfling.
+
+785
+01:06:47,212 --> 01:06:49,204
+[SKEKSIS MURMURING]
+
+786
+01:06:49,547 --> 01:06:51,755
+I, I have done this.
+
+787
+01:06:51,925 --> 01:06:55,635
+I have caught her.
+I bring you the Gelfling.
+
+788
+01:06:55,803 --> 01:06:59,717
+I was wounded.
+I suffered horrible, searing pain.
+
+789
+01:07:00,350 --> 01:07:04,014
+SCIENTIST:
+A live Gelfling. Ha, ha.
+
+790
+01:07:04,270 --> 01:07:07,604
+Kill her! We are sworn
+to kill all Gelflings!
+
+791
+01:07:07,774 --> 01:07:09,811
+No! She's mine!
+
+792
+01:07:10,860 --> 01:07:15,571
+But, sire, you could drink her essence.
+
+793
+01:07:15,740 --> 01:07:18,949
+Because of the prophecy,
+we must kill the Gelfling!
+
+794
+01:07:20,411 --> 01:07:23,825
+No. First we take her essence, then kill.
+
+795
+01:07:24,040 --> 01:07:26,248
+[SKEKSIS CHATTERING]
+
+796
+01:07:26,417 --> 01:07:28,909
+SKEKSIS 1: Drain her first, then kill her.
+SKEKSIS 2: Drain her!
+
+797
+01:07:29,087 --> 01:07:32,080
+Let's take her essence. Yes.
+
+798
+01:07:33,466 --> 01:07:37,506
+Essence! Drain her essence!
+Essence!
+
+799
+01:07:38,513 --> 01:07:41,506
+[CHATTERING]
+
+800
+01:07:42,392 --> 01:07:44,179
+Take her essence!
+
+801
+01:07:44,352 --> 01:07:47,516
+As for the whimpering Chamberlain,
+return his robes to him.
+
+802
+01:07:47,730 --> 01:07:50,564
+Hmm...
+
+803
+01:07:54,279 --> 01:07:56,271
+[♪♪♪]
+
+804
+01:08:08,543 --> 01:08:11,035
+[WHIMPERS]
+
+805
+01:08:17,176 --> 01:08:19,338
+[ANIMALS TWITTERING]
+
+806
+01:08:20,555 --> 01:08:23,138
+SCIENTIST:
+Silence. Silence, animals.
+
+807
+01:08:33,943 --> 01:08:35,935
+[KIRA GRUNTING]
+
+808
+01:08:40,700 --> 01:08:42,692
+There.
+
+809
+01:08:43,244 --> 01:08:44,655
+Yes.
+
+810
+01:08:49,334 --> 01:08:51,326
+[♪♪♪]
+
+811
+01:09:17,236 --> 01:09:18,852
+[GASPS]
+
+812
+01:09:27,664 --> 01:09:31,453
+Ah... Yes. Essence of Gelfling.
+
+813
+01:09:35,171 --> 01:09:36,378
+Kira, fight them!
+
+814
+01:09:36,547 --> 01:09:38,209
+[GASPS]
+
+815
+01:09:38,549 --> 01:09:41,087
+Fight them. Fight.
+
+816
+01:09:41,302 --> 01:09:42,838
+Jen?
+
+817
+01:09:43,388 --> 01:09:45,129
+Jen!
+
+818
+01:09:45,682 --> 01:09:48,015
+You, Kira, call the animals.
+
+819
+01:09:48,184 --> 01:09:51,768
+You have the gift.
+Call them to freedom. Loud.
+
+820
+01:09:53,106 --> 01:09:55,268
+[CALLING IN FOREIGN LANGUAGE]
+
+821
+01:09:55,441 --> 01:09:58,400
+SCIENTIST:
+Quiet, Gelfling. Be quiet.
+
+822
+01:09:59,404 --> 01:10:01,396
+[CHITTERING]
+
+823
+01:10:02,365 --> 01:10:03,947
+[ROARING]
+
+824
+01:10:04,951 --> 01:10:07,159
+[ANIMALS CHITTERING
+AND SQUEAKING]
+
+825
+01:10:07,495 --> 01:10:08,906
+Huh?
+
+826
+01:10:16,170 --> 01:10:18,628
+Quiet, all of you.
+
+827
+01:10:19,215 --> 01:10:24,506
+- Stop. Stop. I warn you.
+- Gelfling, free me.
+
+828
+01:10:32,145 --> 01:10:34,057
+SCIENTIST:
+Back to your cages!
+
+829
+01:10:36,357 --> 01:10:38,349
+[GRUNTING]
+
+830
+01:10:42,905 --> 01:10:45,488
+Back to your cages!
+
+831
+01:10:46,117 --> 01:10:47,358
+[YELLING]
+
+832
+01:10:50,037 --> 01:10:53,326
+All of you, get down!
+
+833
+01:10:56,461 --> 01:10:58,248
+[YELLING AND GRUNTING]
+
+834
+01:11:12,310 --> 01:11:14,973
+No. No!
+
+835
+01:11:15,480 --> 01:11:18,393
+[SCREAMS]
+
+836
+01:11:22,904 --> 01:11:24,896
+[♪♪♪]
+
+837
+01:11:34,957 --> 01:11:37,574
+[SPEAKING IN FOREIGN LANGUAGE]
+
+838
+01:11:51,265 --> 01:11:56,351
+Too late, Gelfling! You've come too late.
+The Great Conjunction is at hand.
+
+839
+01:11:56,521 --> 01:11:59,184
+Now the Skeksis will
+have power over the stars!
+
+840
+01:12:00,983 --> 01:12:02,940
+When is the Conjunction?
+
+841
+01:12:03,110 --> 01:12:05,568
+Very soon three suns touch.
+
+842
+01:12:06,489 --> 01:12:08,446
+Jen!
+
+843
+01:12:09,742 --> 01:12:11,358
+Go, Gelfling...
+
+844
+01:12:11,536 --> 01:12:14,119
+...I fear, to death.
+
+845
+01:12:14,288 --> 01:12:16,280
+[♪♪♪]
+
+846
+01:12:28,261 --> 01:12:30,503
+[BARKING]
+
+847
+01:12:31,347 --> 01:12:33,680
+JEN:
+Get down, Fizzgig. Quiet.
+
+848
+01:12:37,144 --> 01:12:38,476
+[FIZZGIG BARKS]
+
+849
+01:12:38,646 --> 01:12:41,104
+Yes. Big help you've been.
+
+850
+01:12:45,444 --> 01:12:46,935
+[GASPS]
+
+851
+01:12:51,701 --> 01:12:52,987
+Oh, no.
+
+852
+01:12:56,038 --> 01:12:57,449
+Now where am I?
+
+853
+01:12:57,623 --> 01:12:58,659
+[WHIMPERING]
+
+854
+01:12:58,833 --> 01:13:00,449
+Fizzgig!
+
+855
+01:13:02,628 --> 01:13:04,164
+[CLICKING]
+
+856
+01:13:04,714 --> 01:13:06,080
+[GASPS]
+
+857
+01:13:06,632 --> 01:13:08,123
+Garthim!
+
+858
+01:13:08,301 --> 01:13:10,133
+[♪♪♪]
+
+859
+01:13:19,520 --> 01:13:20,977
+[GRUNTING]
+
+860
+01:13:52,845 --> 01:13:54,837
+[♪♪♪]
+
+861
+01:14:01,979 --> 01:14:04,312
+<i>JEN:
+Is that the Crystal?</i>
+
+862
+01:14:37,640 --> 01:14:41,008
+- Aughra, you're alive!
+- No time.
+
+863
+01:14:41,185 --> 01:14:44,303
+No time.
+"When single shines the triple sun."
+
+864
+01:14:44,689 --> 01:14:45,725
+Where's Kira?
+
+865
+01:14:51,904 --> 01:14:54,647
+The Great Conjunction comes.
+
+866
+01:14:58,244 --> 01:15:00,236
+[♪♪♪]
+
+867
+01:15:03,541 --> 01:15:05,533
+[CLICKING]
+
+868
+01:15:11,549 --> 01:15:15,293
+[CHANTING]
+
+869
+01:15:36,365 --> 01:15:38,357
+[SQUEAKING]
+
+870
+01:15:49,545 --> 01:15:51,537
+[♪♪♪]
+
+871
+01:15:56,635 --> 01:15:59,799
+<i>JEN:
+Yes. The Crystal.</i>
+
+872
+01:16:01,599 --> 01:16:04,307
+[♪♪♪]
+
+873
+01:16:13,986 --> 01:16:15,978
+[FOOTSTEPS APPROACHING]
+
+874
+01:16:54,902 --> 01:16:56,894
+[♪♪♪]
+
+875
+01:17:09,125 --> 01:17:11,037
+<i>JEN:
+This is what I came for.</i>
+
+876
+01:17:12,837 --> 01:17:15,045
+<i>The Dark Crystal.</i>
+
+877
+01:17:17,883 --> 01:17:19,715
+<i>The Three Suns.</i>
+
+878
+01:17:24,473 --> 01:17:26,385
+<i>The Shard.</i>
+
+879
+01:18:26,744 --> 01:18:27,734
+[GASPS]
+
+880
+01:18:37,504 --> 01:18:39,211
+JEN [SOFTLY]: Kira.
+- [SOFTLY] Jen.
+
+881
+01:18:50,601 --> 01:18:53,844
+GENERAL:
+The Great Conjunction comes.
+
+882
+01:18:56,273 --> 01:19:00,563
+Now we will live forever.
+
+883
+01:19:01,612 --> 01:19:05,151
+GROUP:
+We will live forever.
+
+884
+01:19:05,950 --> 01:19:09,409
+We will live forever.
+
+885
+01:19:10,079 --> 01:19:11,820
+We will live forever.
+
+886
+01:19:11,997 --> 01:19:13,579
+[BARKS]
+
+887
+01:19:14,083 --> 01:19:15,369
+Shh!
+
+888
+01:19:15,542 --> 01:19:18,205
+[FIZZGIG BARKING]
+
+889
+01:19:18,379 --> 01:19:19,711
+[GASPS]
+
+890
+01:19:21,465 --> 01:19:24,378
+- A Gelfling.
+- A Gelfling!
+
+891
+01:19:24,551 --> 01:19:27,669
+Shh. Get down, down. Fizzgig, no.
+
+892
+01:19:27,846 --> 01:19:30,634
+The Gelfling must die.
+
+893
+01:19:30,808 --> 01:19:32,299
+[SKEKSIS EXCLAIMING]
+
+894
+01:19:32,476 --> 01:19:34,388
+Kill her!
+
+895
+01:19:34,561 --> 01:19:36,427
+She will destroy us!
+
+896
+01:19:36,605 --> 01:19:38,016
+[SNARLS]
+
+897
+01:19:38,190 --> 01:19:41,558
+Gelfling, you die!
+
+898
+01:19:41,735 --> 01:19:43,226
+[SHRIEKS]
+
+899
+01:19:44,613 --> 01:19:45,694
+SKEKSIS 1:
+Two Gelfling.
+
+900
+01:19:45,906 --> 01:19:47,898
+[♪♪♪]
+
+901
+01:19:53,831 --> 01:19:57,666
+SKEKSIS:
+Garthim!
+
+902
+01:19:57,835 --> 01:19:59,827
+[CLICKING]
+
+903
+01:20:00,004 --> 01:20:02,838
+Yes, get Garthim.
+
+904
+01:20:05,926 --> 01:20:07,258
+[GASPS]
+
+905
+01:20:12,433 --> 01:20:13,969
+No!
+
+906
+01:20:15,978 --> 01:20:17,139
+The Shard!
+
+907
+01:20:20,691 --> 01:20:22,353
+The Shard is mine.
+
+908
+01:20:22,526 --> 01:20:23,983
+[FIZZGIG SNARLING]
+
+909
+01:20:27,323 --> 01:20:29,440
+Let go, smelly hairball!
+
+910
+01:20:30,200 --> 01:20:31,532
+[YELPS]
+
+911
+01:20:32,411 --> 01:20:33,947
+Fizzgig!
+
+912
+01:20:40,210 --> 01:20:42,247
+SKEKSIS 2:
+She has the Shard.
+
+913
+01:20:44,465 --> 01:20:46,206
+Take it from her. Now.
+
+914
+01:20:47,384 --> 01:20:48,500
+JEN:
+Watch out, Kira!
+
+915
+01:20:48,677 --> 01:20:49,713
+[ROARS]
+
+916
+01:20:54,058 --> 01:20:56,391
+- Kira, behind you!
+SKEKSIS 1: Get her!
+
+917
+01:20:57,436 --> 01:20:59,553
+JEN:
+No! Leave her alone!
+
+918
+01:20:59,730 --> 01:21:02,222
+Give us the Shard and you can go free.
+
+919
+01:21:02,816 --> 01:21:05,900
+- No.
+- Yes! Just don't harm her.
+
+920
+01:21:06,945 --> 01:21:10,234
+No, Jen. Heal the Crystal.
+
+921
+01:21:10,407 --> 01:21:11,648
+Kira!
+
+922
+01:21:12,117 --> 01:21:14,109
+[♪♪♪]
+
+923
+01:21:15,204 --> 01:21:16,820
+[YELLS]
+
+924
+01:21:18,791 --> 01:21:20,657
+[KIRA GROANING]
+
+925
+01:21:21,085 --> 01:21:22,417
+[GASPS]
+
+926
+01:21:27,841 --> 01:21:29,673
+Jen...
+
+927
+01:21:37,976 --> 01:21:40,059
+JEN:
+Kira.
+
+928
+01:21:41,480 --> 01:21:43,221
+[♪♪♪]
+
+929
+01:21:43,399 --> 01:21:45,686
+SKEKSIS 1:
+No, Gelfling, no!
+
+930
+01:21:46,276 --> 01:21:47,892
+SKEKSIS 2:
+Gelfling, no.
+
+931
+01:21:48,362 --> 01:21:51,571
+[SKEKSIS SHOUTING]
+
+932
+01:21:57,913 --> 01:21:59,825
+[YELLS]
+
+933
+01:22:01,875 --> 01:22:03,832
+[SCREAMING]
+
+934
+01:22:42,791 --> 01:22:44,783
+[MYSTICS CHANTING]
+
+935
+01:22:58,265 --> 01:23:00,257
+[CHANTING]
+
+936
+01:23:00,434 --> 01:23:01,800
+[SCREECHING]
+
+937
+01:23:01,977 --> 01:23:03,764
+[SNARLS]
+
+938
+01:23:21,914 --> 01:23:25,624
+[FIZZGIG YELPING]
+
+939
+01:23:29,213 --> 01:23:30,203
+[GASPS]
+
+940
+01:23:32,216 --> 01:23:34,173
+AUGHRA:
+How did you get out there?
+
+941
+01:23:38,889 --> 01:23:40,801
+Come on, then.
+
+942
+01:23:50,234 --> 01:23:52,567
+[SHRIEKING]
+
+943
+01:24:08,377 --> 01:24:10,835
+[BARKING]
+
+944
+01:24:50,627 --> 01:24:54,041
+[♪♪♪]
+
+945
+01:25:22,284 --> 01:25:24,321
+AUGHRA:
+"What was sundered and undone...
+
+946
+01:25:24,494 --> 01:25:28,454
+...shall be whole, the two made one."
+
+947
+01:25:36,923 --> 01:25:40,337
+And now the prophecy...
+
+948
+01:25:40,510 --> 01:25:43,173
+...is fulfilled.
+
+949
+01:25:43,347 --> 01:25:45,339
+[♪♪♪]
+
+950
+01:25:45,891 --> 01:25:48,850
+We are again...
+
+951
+01:25:49,019 --> 01:25:51,181
+...one.
+
+952
+01:26:03,492 --> 01:26:05,484
+Many ages ago...
+
+953
+01:26:05,661 --> 01:26:09,120
+...in our arrogance and delusion...
+
+954
+01:26:09,581 --> 01:26:13,951
+...we shattered the pure Crystal...
+
+955
+01:26:14,378 --> 01:26:18,588
+...and our world split apart.
+
+956
+01:26:20,300 --> 01:26:23,589
+Your courage and sacrifice...
+
+957
+01:26:23,762 --> 01:26:27,346
+...have made us whole...
+
+958
+01:26:27,516 --> 01:26:32,307
+...and restored the true power
+of the Crystal.
+
+959
+01:26:35,107 --> 01:26:38,271
+Hold her to you.
+
+960
+01:26:38,443 --> 01:26:40,981
+She is part of you...
+
+961
+01:26:41,154 --> 01:26:45,194
+...as we all are part of each other.
+
+962
+01:26:45,951 --> 01:26:49,240
+[URSKEKS CHANTING]
+
+963
+01:26:49,663 --> 01:26:51,655
+[♪♪♪]
+
+964
+01:27:10,892 --> 01:27:12,929
+Now we leave you...
+
+965
+01:27:13,103 --> 01:27:15,390
+...the Crystal of Truth.
+
+966
+01:27:16,982 --> 01:27:19,315
+Make your world...
+
+967
+01:27:19,484 --> 01:27:21,476
+...in its light.
+
+968
+01:27:29,077 --> 01:27:31,069
+[♪♪♪]
+
+969
+01:28:11,912 --> 01:28:13,904
+[♪♪♪]
+
