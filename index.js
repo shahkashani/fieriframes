@@ -40,7 +40,8 @@ const {
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
   FIERIFICTION_VIDEO_RATE,
-  GOOGLE_CLOUD_CREDENTIALS_BASE64
+  GOOGLE_CLOUD_CREDENTIALS_BASE64,
+  GIF_LENGTH_SECONDS
 } = process.env;
 
 const {
@@ -59,6 +60,9 @@ const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
 const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
   ? parseFloat(FIERIFICTION_VIDEO_RATE)
   : 0.5;
+const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
+  ? parseFloat(GIF_LENGTH_SECONDS)
+  : 2;
 
 const fiction = new FieriFiction({
   tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
@@ -94,7 +98,11 @@ const type =
 
 const isGif = type === 'gif';
 
-const content = isGif ? new stills.content.Gif() : new stills.content.Still();
+const content = isGif
+  ? new stills.content.Gif({
+      duration: NUM_GIF_LENGTH_SECONDS
+    })
+  : new stills.content.Still();
 
 const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
