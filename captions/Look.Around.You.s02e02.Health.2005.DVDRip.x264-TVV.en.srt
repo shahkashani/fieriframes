@@ -1,0 +1,1896 @@
+1
+00:00:03,360 --> 00:00:05,670
+You're watching Two.
+
+2
+00:00:05,720 --> 00:00:10,351
+And now for our weekly look at the
+world of science and technology -
+
+3
+00:00:10,400 --> 00:00:12,392
+Look Around You.
+
+4
+00:00:15,760 --> 00:00:17,831
+On tonight's programme...
+
+5
+00:00:17,880 --> 00:00:21,317
+We'll be lifting the lid
+on the toilet of the future.
+
+6
+00:00:21,360 --> 00:00:25,320
+We'll be looking at what
+Pam gets up to while she's asleep.
+
+7
+00:00:25,360 --> 00:00:29,434
+And finding out which one of us
+will be having plastic surgery
+
+8
+00:00:29,480 --> 00:00:31,437
+right here on the programme.
+
+9
+00:00:31,480 --> 00:00:35,554
+That's all on tonight's
+healthy edition of Look Around You.
+
+10
+00:01:04,840 --> 00:01:06,832
+# Look Around You #
+
+11
+00:01:10,480 --> 00:01:13,040
+Hello, and welcome
+to Look Around You.
+
+12
+00:01:13,080 --> 00:01:17,871
+Tonight's programme is all about the
+most important thing in your life,
+
+13
+00:01:17,920 --> 00:01:19,798
+so important that without it
+
+14
+00:01:19,840 --> 00:01:22,719
+you wouldn't even be watching
+this programme.
+
+15
+00:01:22,760 --> 00:01:26,071
+I'm talking, of course,
+about your health.
+
+16
+00:01:26,120 --> 00:01:30,194
+Our healths have improved radically
+over the past few decades.
+
+17
+00:01:30,240 --> 00:01:32,596
+In fact, if current trends continue
+
+18
+00:01:32,640 --> 00:01:38,079
+then by 2010 the average life
+expectancy will be 400 years.
+
+19
+00:01:38,120 --> 00:01:42,399
+With most of us reaching puberty
+at around the age of 80.
+
+20
+00:01:42,440 --> 00:01:45,239
+It's all thanks to advances
+in medical science
+
+21
+00:01:45,280 --> 00:01:48,114
+and British technology
+is leading the field
+
+22
+00:01:48,160 --> 00:01:51,278
+with familiar products
+like asthma cigarettes,
+
+23
+00:01:51,320 --> 00:01:53,596
+the diarrhoea machine,
+and, of course,
+
+24
+00:01:53,640 --> 00:01:56,712
+the controversial Psuicide Spray.
+
+25
+00:01:59,520 --> 00:02:03,434
+Thanks, Pam(!) But the next big
+thing in modern healthcare
+
+26
+00:02:03,480 --> 00:02:06,359
+comes not from Britain or America,
+or even Norway,
+
+27
+00:02:06,400 --> 00:02:08,198
+but from China.
+
+28
+00:02:08,240 --> 00:02:12,439
+So please welcome
+the future of healthcare, Medibot.
+
+29
+00:02:21,520 --> 00:02:23,239
+'Medibot!'
+
+30
+00:02:23,280 --> 00:02:27,752
+Medibot is the only robot in the
+world qualified to perform surgery
+
+31
+00:02:27,800 --> 00:02:30,031
+- and being a robot...
+-'Medibot!'
+
+32
+00:02:30,080 --> 00:02:34,916
+Hello - he can work faster and more
+accurately than a human surgeon.
+
+33
+00:02:34,960 --> 00:02:39,671
+So let's meet the man who works
+with Medibot on a daily basis,
+
+34
+00:02:39,720 --> 00:02:41,837
+Dr Franklin Fu.
+
+35
+00:02:47,440 --> 00:02:50,433
+- Welcome to Look Around You.
+- Hello.
+
+36
+00:02:50,480 --> 00:02:54,394
+You're going to be giving us
+a demonstration of the Medibot.
+
+37
+00:02:54,440 --> 00:02:58,673
+Yes, I'm going to be performing
+plastic surgery on Jack's face.
+
+38
+00:02:58,720 --> 00:03:02,157
+Now, I'm sure that
+our female viewers are thinking,
+
+39
+00:03:02,200 --> 00:03:05,318
+and probably
+one or two male viewers, as well,
+
+40
+00:03:05,360 --> 00:03:08,000
+how on earth
+could you improve on this?
+
+41
+00:03:08,040 --> 00:03:10,032
+Well, I certainly try.
+
+42
+00:03:10,080 --> 00:03:11,799
+Through the course of my work
+
+43
+00:03:11,840 --> 00:03:15,072
+I have studied
+hundreds and hundreds of faces,
+
+44
+00:03:15,120 --> 00:03:18,591
+analysing the proportions
+and sizes of features
+
+45
+00:03:18,640 --> 00:03:22,634
+and it is this information
+I will be applying to Jack
+
+46
+00:03:22,680 --> 00:03:25,878
+as I try to create
+the optimum male face.
+
+47
+00:03:25,920 --> 00:03:29,231
+So Jack should end up
+with perfect looks?
+
+48
+00:03:29,280 --> 00:03:31,556
+Well, I hope so.
+
+49
+00:03:31,600 --> 00:03:34,399
+And Dr Fu will be
+assisted by Medibot...
+
+50
+00:03:34,440 --> 00:03:37,000
+-'Medibot!'
+- Oh, I think he likes me.
+
+51
+00:03:37,040 --> 00:03:40,397
+- (Laughter)
+- You better move round there, Jack.
+
+52
+00:03:40,440 --> 00:03:45,640
+Now, Doctor, Medibot is clearly
+a pretty serious piece of kit.
+
+53
+00:03:45,680 --> 00:03:47,911
+Presumably he's quite expensive?
+
+54
+00:03:47,960 --> 00:03:51,158
+Oh, yes. Medibot is very expensive.
+
+55
+00:03:51,200 --> 00:03:55,752
+In fact, there are only
+four Medibots in the world.
+
+56
+00:03:55,800 --> 00:04:00,079
+This one here and the other three
+belong to Tony Curtis.
+
+57
+00:04:01,080 --> 00:04:05,438
+So just how good is the Medibot?
+Is he as good as a human surgeon?
+
+58
+00:04:05,480 --> 00:04:08,279
+(Dr Fu) Oh, I'd say better.
+He's so versatile.
+
+59
+00:04:08,320 --> 00:04:12,837
+He can do anything,
+from complex surgery to, er...
+
+60
+00:04:12,880 --> 00:04:15,156
+taking a urine sample.
+
+61
+00:04:15,200 --> 00:04:19,274
+I won't keep you any longer.
+Best of luck with the operation.
+
+62
+00:04:19,320 --> 00:04:20,879
+'Medibot!'
+
+63
+00:04:20,920 --> 00:04:25,711
+We'll be following Jack's progress
+throughout the rest of the show.
+
+64
+00:04:39,960 --> 00:04:41,917
+Over the past few months
+
+65
+00:04:41,960 --> 00:04:46,910
+our newspapers have been filled with
+horrifying accounts of a new disease
+
+66
+00:04:46,960 --> 00:04:50,192
+that has been spreading
+at an alarming rate.
+
+67
+00:04:50,240 --> 00:04:54,314
+It's a disease for which
+at present there is no known cure.
+
+68
+00:04:54,360 --> 00:04:56,511
+And it's all the more terrifying
+
+69
+00:04:56,560 --> 00:05:00,873
+because scientists don't even know
+what causes the disease.
+
+70
+00:05:00,920 --> 00:05:05,517
+I'm talking, of course,
+about geodermic granititis,
+
+71
+00:05:05,560 --> 00:05:08,280
+more commonly known as Cobbles.
+
+72
+00:05:08,320 --> 00:05:10,312
+(# Sad music)
+
+73
+00:05:10,360 --> 00:05:14,434
+Cobbles is a wicked disease
+that strikes indiscriminately,
+
+74
+00:05:14,480 --> 00:05:16,790
+attacking
+the central nervous system,
+
+75
+00:05:16,840 --> 00:05:19,799
+fooling it into calcifying
+bodily tissue,
+
+76
+00:05:19,840 --> 00:05:24,710
+eventually turning the victim into
+what is essentially a pile of rocks.
+
+77
+00:05:26,400 --> 00:05:30,394
+Cobbles sufferers try to lead
+as normal a life as possible
+
+78
+00:05:30,440 --> 00:05:32,238
+but it's hard.
+
+79
+00:05:32,280 --> 00:05:34,078
+Extreme mental anguish,
+
+80
+00:05:34,120 --> 00:05:38,353
+coupled with almost insurmountable
+physical difficulties
+
+81
+00:05:38,400 --> 00:05:40,835
+can make life intolerable.
+
+82
+00:05:45,000 --> 00:05:48,437
+But now there may be
+a light at the end of the tunnel
+
+83
+00:05:48,480 --> 00:05:53,600
+because a British doctor claims to
+have made an important breakthrough.
+
+84
+00:05:53,640 --> 00:05:57,714
+And he joins us in the studio now -
+Dr Phillip Lavender.
+
+85
+00:06:07,640 --> 00:06:10,280
+Doctor, thank you
+for coming on the show.
+
+86
+00:06:10,320 --> 00:06:12,755
+Thank you for having me on the show.
+
+87
+00:06:12,800 --> 00:06:16,510
+Now, you're a sufferer from
+the condition yourself, aren't you?
+
+88
+00:06:16,560 --> 00:06:19,758
+- I am, Pam, yes.
+- How long have you had Cobbles?
+
+89
+00:06:19,800 --> 00:06:22,520
+Just over two years now.
+
+90
+00:06:22,560 --> 00:06:25,439
+But you've been very busy,
+haven't you?
+
+91
+00:06:25,480 --> 00:06:27,392
+I've spent most of that time
+
+92
+00:06:27,440 --> 00:06:30,274
+trying to find a cure
+with my research team.
+
+93
+00:06:30,320 --> 00:06:33,711
+- And you're going to show us it?
+- Certainly.
+
+94
+00:06:36,520 --> 00:06:38,796
+Now, Doctor, what exactly is it?
+
+95
+00:06:38,840 --> 00:06:41,992
+We've produced what is
+essentially a body cream
+
+96
+00:06:42,040 --> 00:06:45,477
+which rejuvenates dormant tissue
+and skin cells
+
+97
+00:06:45,520 --> 00:06:49,434
+and aims to reverse
+the damaging effects of Cobbles.
+
+98
+00:06:49,480 --> 00:06:51,915
+I see. And what does it contain?
+
+99
+00:06:51,960 --> 00:06:55,715
+Well, cream, potassium, nitrates,
+potassium nitrates
+
+100
+00:06:55,760 --> 00:06:58,753
+- and nitrate of potassiate nitrate.
+- OK.
+
+101
+00:06:58,800 --> 00:07:01,554
+We're going to demonstrate
+how it works.
+
+102
+00:07:01,600 --> 00:07:06,072
+That's right, Pam. So if you take
+a small amount with your fingers.
+
+103
+00:07:06,120 --> 00:07:07,315
+- OK.
+- OK.
+
+104
+00:07:07,360 --> 00:07:09,795
+And just start applying that to me.
+
+105
+00:07:09,840 --> 00:07:11,877
+OK, where shall I put it?
+
+106
+00:07:11,920 --> 00:07:14,071
+- Er, no, not there.
+- Oh, sorry.
+
+107
+00:07:14,120 --> 00:07:16,112
+Try higher up.
+
+108
+00:07:16,760 --> 00:07:19,514
+- Not in my mouth!
+- I'm so sorry.
+
+109
+00:07:19,560 --> 00:07:22,439
+Let me just... Whoops.
+Sorry, I'll just...
+
+110
+00:07:23,800 --> 00:07:25,757
+Right. Erm...
+
+111
+00:07:25,800 --> 00:07:28,838
+- So how about...there?
+- Yeah, that's OK.
+
+112
+00:07:28,880 --> 00:07:32,430
+And so you can see
+the cream is now working its way
+
+113
+00:07:32,480 --> 00:07:35,154
+slowly through my semi-porous rock.
+
+114
+00:07:35,200 --> 00:07:38,352
+Right. Now, just before
+the programme started
+
+115
+00:07:38,400 --> 00:07:41,711
+we applied some cream to a small
+area of Dr Lavender's body
+
+116
+00:07:41,760 --> 00:07:43,831
+so that we could see its effect.
+
+117
+00:07:43,880 --> 00:07:46,111
+That's right, Pam,
+and if we just look,
+
+118
+00:07:46,160 --> 00:07:49,039
+it's just round here, by my bottom.
+
+119
+00:07:49,080 --> 00:07:52,232
+- (Pam) That is remarkable.
+- (Dr Lavender chuckles)
+
+120
+00:07:52,280 --> 00:07:54,954
+We want to do this
+for the entire body
+
+121
+00:07:55,000 --> 00:07:59,870
+but at the moment the cream only
+lasts for about 15 minutes
+
+122
+00:07:59,920 --> 00:08:03,391
+before the skin
+starts to become rock again,
+
+123
+00:08:03,440 --> 00:08:06,000
+so this is something
+we need to work on.
+
+124
+00:08:06,040 --> 00:08:11,399
+Well, Doctor, we all hope you find a
+cure for your terrible affliction.
+
+125
+00:08:11,440 --> 00:08:15,036
+Well, it's not all bad.
+At least we can fly. Goodbye.
+
+126
+00:08:27,480 --> 00:08:31,190
+Well, I'm now in the special
+operating area of the studio
+
+127
+00:08:31,240 --> 00:08:34,836
+with Dr Fu and Medibot,
+the robotic surgeon.
+
+128
+00:08:34,880 --> 00:08:39,193
+Medibot's just about to perform
+plastic surgery on Jack's face
+
+129
+00:08:39,240 --> 00:08:41,357
+under the supervision of Dr Fu here.
+
+130
+00:08:41,400 --> 00:08:43,790
+Doctor, what's happening now?
+
+131
+00:08:43,840 --> 00:08:48,198
+At the moment I'm in the final
+stages of the preparation,
+
+132
+00:08:48,240 --> 00:08:52,200
+and, er, I'm about
+to load Medibot up with
+
+133
+00:08:52,240 --> 00:08:56,314
+a very special
+plastic surgery computer program.
+
+134
+00:08:59,880 --> 00:09:03,999
+So, Doctor, tell us,
+how will Medibot be working tonight?
+
+135
+00:09:04,040 --> 00:09:08,831
+- (Computer program loading)
+- Medibot will use a powerful laser
+
+136
+00:09:08,880 --> 00:09:12,715
+to carry out most of the remodelling
+of Jack's features.
+
+137
+00:09:12,760 --> 00:09:14,956
+- I see.
+- Medibot?
+
+138
+00:09:15,000 --> 00:09:17,959
+-'Medibot!'
+- Please configure laser settings.
+
+139
+00:09:22,040 --> 00:09:24,111
+And how's our patient doing?
+
+140
+00:09:24,160 --> 00:09:26,994
+- I could do with a pint.
+- Medibot?
+
+141
+00:09:27,040 --> 00:09:29,680
+-'Medibot!'
+- Prepare the anaesthetic.
+
+142
+00:09:32,920 --> 00:09:37,358
+Doctor, may I ask, what is it you
+keep putting into Medibot's mouth?
+
+143
+00:09:37,400 --> 00:09:41,189
+Oh, these are just hundreds
+and thousands, he loves them.
+
+144
+00:09:41,240 --> 00:09:43,311
+'Medibot!'
+
+145
+00:09:43,840 --> 00:09:47,800
+OK, I think Jack
+is ready to go under now
+
+146
+00:09:47,840 --> 00:09:51,959
+so if you would all like to say
+goodbye - I mean, good night.
+
+147
+00:09:52,000 --> 00:09:53,992
+(Laughs) Just joking.
+
+148
+00:09:54,040 --> 00:09:57,158
+- Well, best of luck, old chap.
+- Thanks, Pete.
+
+149
+00:09:57,200 --> 00:10:00,272
+- Nice knowing you, Jack.
+- Thanks, Pealy(!)
+
+150
+00:10:00,320 --> 00:10:02,960
+- You look after our boy.
+- Of course.
+
+151
+00:10:03,000 --> 00:10:06,755
+- Hope you're all right, Jack.
+- I'll be fine. Bye-bye. Bye.
+
+152
+00:10:06,800 --> 00:10:08,154
+Bye-bye.
+
+153
+00:10:09,200 --> 00:10:13,080
+So, Jack, if you would like
+to lie very still.
+
+154
+00:10:13,120 --> 00:10:15,351
+Very, very still. Thank you.
+
+155
+00:10:17,040 --> 00:10:19,032
+- Medibot!
+-'Medibot!'
+
+156
+00:10:19,080 --> 00:10:21,879
+Administer the anaesthetic, please.
+
+157
+00:10:30,360 --> 00:10:32,113
+Well, sweet dreams, Jack,
+
+158
+00:10:32,160 --> 00:10:35,790
+and we'll be checking back on him
+throughout the programme.
+
+159
+00:10:50,560 --> 00:10:52,791
+First you sense it -
+feel it inside -
+
+160
+00:10:52,840 --> 00:10:55,719
+then you realise,
+he's looking at you.
+
+161
+00:10:55,760 --> 00:10:58,400
+Go on, look at him.
+
+162
+00:10:58,440 --> 00:11:01,114
+Now he's waving at you -
+he likes you.
+
+163
+00:11:02,520 --> 00:11:04,955
+Go on, smile at him. Smile.
+
+164
+00:11:05,000 --> 00:11:08,311
+But you can't
+because of your disgusting teeth.
+
+165
+00:11:09,320 --> 00:11:13,234
+But now there's no need
+to be ashamed of your smile.
+
+166
+00:11:13,280 --> 00:11:16,990
+Brush with Jenny
+and you'll soon see the difference.
+
+167
+00:11:17,040 --> 00:11:20,317
+Jenny is gentle, mild
+and kind to your teeth.
+
+168
+00:11:20,360 --> 00:11:22,591
+Now, ready for that smile?
+
+169
+00:11:26,880 --> 00:11:31,352
+Say goodbye to disgusting teeth
+with Jenny, the mild toothpaste.
+
+170
+00:11:31,400 --> 00:11:33,596
+And now, new Lenny for men.
+
+171
+00:11:38,000 --> 00:11:41,994
+These days we're bombarded
+with adverts for new toothpaste,
+
+172
+00:11:42,040 --> 00:11:44,236
+mouthwash or dental loaf.
+
+173
+00:11:45,200 --> 00:11:48,989
+In the last year a staggering
+50 new brands of toothpaste
+
+174
+00:11:49,040 --> 00:11:51,919
+have been launched
+in Great Britain alone.
+
+175
+00:11:51,960 --> 00:11:54,839
+But do these products
+really do anything?
+
+176
+00:11:54,880 --> 00:11:58,032
+Well, new research has shown
+that most of these
+
+177
+00:11:58,080 --> 00:12:02,677
+are no better than brushing with
+good old-fashioned soap and water.
+
+178
+00:12:02,720 --> 00:12:06,316
+So it might be worth
+investing in one of these -
+
+179
+00:12:06,360 --> 00:12:09,273
+an electric toothbrush
+with a difference.
+
+180
+00:12:09,320 --> 00:12:14,031
+If you look at its head you'll see
+that it doesn't have any bristles.
+
+181
+00:12:14,080 --> 00:12:18,279
+Well, because this toothbrush
+doesn't use toothpaste
+
+182
+00:12:18,320 --> 00:12:21,233
+to clean your teeth but electricity.
+
+183
+00:12:21,280 --> 00:12:25,160
+The powerful electric current
+not only burns away plaque
+
+184
+00:12:25,200 --> 00:12:27,271
+but it hardens the tooth enamel
+
+185
+00:12:27,320 --> 00:12:31,360
+making your teeth
+up to 120 times stronger.
+
+186
+00:12:31,400 --> 00:12:34,711
+So let's put it to
+the Look Around You test.
+
+187
+00:12:34,760 --> 00:12:36,991
+OK, then, Peter. Plug me in.
+
+188
+00:12:37,040 --> 00:12:38,269
+OK.
+
+189
+00:12:39,080 --> 00:12:41,037
+- OK?
+- Yeah.
+
+190
+00:12:41,080 --> 00:12:44,278
+- Oh, I think you switched it off.
+- Oh.
+
+191
+00:12:44,320 --> 00:12:46,630
+- (Electrical hum)
+- And off we go.
+
+192
+00:12:58,840 --> 00:13:03,039
+Cleaning your teeth like this
+is actually quite painful
+
+193
+00:13:03,080 --> 00:13:06,596
+but who cares when it leaves
+your teeth strong enough
+
+194
+00:13:06,640 --> 00:13:08,438
+to be able to do this?
+
+195
+00:13:12,880 --> 00:13:15,349
+However, there is one side effect.
+
+196
+00:13:15,400 --> 00:13:17,835
+(Quickly) Because the current also
+passes through your vocal cords
+
+197
+00:13:17,880 --> 00:13:20,600
+it can affect your speech patterns
+so it won't be in the shops yet.
+
+198
+00:13:20,640 --> 00:13:21,710
+But we'll keep you posted.
+
+199
+00:13:22,480 --> 00:13:26,110
+- You still hungry, Pealy?
+- Mm, I might finish the rest now.
+
+200
+00:13:35,960 --> 00:13:37,952
+- Medibot.
+-'Medibot!'
+
+201
+00:13:38,000 --> 00:13:40,754
+Increase intensity by 2.4 per cent.
+
+202
+00:13:47,040 --> 00:13:51,432
+As you can see, Jack's plastic
+surgery operation is in full swing.
+
+203
+00:13:52,520 --> 00:13:54,751
+- Medibot.
+-'Medibot!'
+
+204
+00:13:54,800 --> 00:13:58,760
+Make an incision into the cartilage
+just above the bridge.
+
+205
+00:13:58,800 --> 00:14:01,793
+Doctor, sorry to disturb you
+but can you tell me,
+
+206
+00:14:01,840 --> 00:14:03,832
+how's the operation going?
+
+207
+00:14:03,880 --> 00:14:07,191
+Pretty good.
+At the moment we are stripping away
+
+208
+00:14:07,240 --> 00:14:09,994
+the extraneous tissue
+from Jack's face,
+
+209
+00:14:10,040 --> 00:14:14,080
+so hopefully we will be on course
+to finishing in time.
+
+210
+00:14:14,120 --> 00:14:16,112
+And how's your assistant?
+
+211
+00:14:16,160 --> 00:14:20,279
+Oh, Medibot? He's doing a great job.
+Aren't you, Medibot?
+
+212
+00:14:20,320 --> 00:14:21,720
+'Medibot!'
+
+213
+00:14:21,760 --> 00:14:26,551
+Now, I've heard that this Medibot
+has a special, secret talent.
+
+214
+00:14:26,600 --> 00:14:32,995
+Oh, yes, er... Erm, I found out
+that he can play the mouth organ.
+
+215
+00:14:33,040 --> 00:14:35,953
+- Really?
+- Yes. Listen to this.
+
+216
+00:14:38,720 --> 00:14:41,713
+- (Plays random notes)
+- That's great.
+
+217
+00:14:41,760 --> 00:14:45,913
+No, er, sorry, it's the wrong
+way round. Here we go.
+
+218
+00:14:45,960 --> 00:14:47,917
+(# Chirpy tune)
+
+219
+00:14:47,960 --> 00:14:50,475
+(Laughing)
+
+220
+00:14:50,520 --> 00:14:52,910
+He's so... He gets me all the time.
+
+221
+00:15:00,400 --> 00:15:06,237
+Of legend told, brave lady of old
+would sleep all night and day
+
+222
+00:15:07,240 --> 00:15:13,510
+With rump so soft and, oh, so oft
+upon bed of feather and hay
+
+223
+00:15:14,560 --> 00:15:20,192
+So lady brave to you I say,
+have a lovely sleep, my darling.
+
+224
+00:15:20,240 --> 00:15:23,631
+Have a lovely, lovely sleep...
+
+225
+00:15:24,520 --> 00:15:26,113
+my darling.
+
+226
+00:15:26,160 --> 00:15:27,958
+Sleep well.
+
+227
+00:15:28,000 --> 00:15:30,720
+- Good night.
+- (Alarm clock ringing)
+
+228
+00:15:35,640 --> 00:15:37,438
+(Ringing stops)
+
+229
+00:15:39,720 --> 00:15:42,792
+Ah, 40 winks - sheer bliss.
+
+230
+00:15:42,840 --> 00:15:47,357
+You know, we spend almost
+30 per cent of our lives asleep
+
+231
+00:15:47,400 --> 00:15:50,677
+yet we only know about 20 per cent
+of what is happening to us
+
+232
+00:15:50,720 --> 00:15:52,120
+during this state.
+
+233
+00:15:52,160 --> 00:15:56,040
+In fact, scientists
+are only about 10 per cent sure
+
+234
+00:15:56,080 --> 00:15:58,276
+as to why humans sleep at all.
+
+235
+00:15:58,320 --> 00:16:02,200
+So what does go on
+when the lights go out?
+
+236
+00:16:05,000 --> 00:16:08,789
+Here at the National Sleep Research
+Centre in St St Johnn's,
+
+237
+00:16:08,840 --> 00:16:11,230
+some fascinating studies
+are being done
+
+238
+00:16:11,280 --> 00:16:14,273
+to try and solve
+some of the mysteries of sleep.
+
+239
+00:16:19,080 --> 00:16:22,960
+Professor Keith Craven
+is the Institute's director.
+
+240
+00:16:23,000 --> 00:16:27,995
+The Centre's been running
+for about 140 years now.
+
+241
+00:16:28,040 --> 00:16:31,954
+It began life under the patronage
+of Queen Victoria
+
+242
+00:16:32,000 --> 00:16:35,676
+but of course in those days
+it wasn't a sleep institute
+
+243
+00:16:35,720 --> 00:16:39,680
+it was a sanctuary
+for elephants and butterflies.
+
+244
+00:16:39,720 --> 00:16:44,033
+(Pam) At any one time there are
+up to 20 full-time volunteers
+
+245
+00:16:44,080 --> 00:16:47,960
+who allow their sleeping behaviour
+and even their dreams
+
+246
+00:16:48,000 --> 00:16:52,438
+to be monitored and analysed
+by Professor Craven's research team.
+
+247
+00:16:52,480 --> 00:16:54,711
+One of the patients, Michael,
+
+248
+00:16:54,760 --> 00:16:57,434
+is wired up to a machine
+called a Somnascope
+
+249
+00:16:57,480 --> 00:17:01,872
+which allows scientists to actually
+watch dreams as they happen.
+
+250
+00:17:01,920 --> 00:17:05,038
+This is an intriguing piece
+of equipment.
+
+251
+00:17:05,080 --> 00:17:08,357
+Can you tell us about
+what we're looking at here?
+
+252
+00:17:08,400 --> 00:17:10,392
+Certainly, Pam.
+
+253
+00:17:11,280 --> 00:17:15,274
+This is one of
+Michael's recurring dreams,
+
+254
+00:17:15,320 --> 00:17:18,040
+we call it the Montgomery Dream.
+
+255
+00:17:18,080 --> 00:17:23,678
+In it he sees himself as the
+character of Montgomery the butler.
+
+256
+00:17:23,720 --> 00:17:27,600
+Er, Montgomery is about to
+serve breakfast to his master
+
+257
+00:17:27,640 --> 00:17:31,190
+but suddenly has an urge
+to eat all the jam.
+
+258
+00:17:32,480 --> 00:17:36,235
+And in a moment the mistress
+of the house is going to come in -
+
+259
+00:17:36,280 --> 00:17:41,719
+there she is - and she gives him
+a jolly good telling off.
+
+260
+00:17:41,760 --> 00:17:45,356
+Put that jam down at once!
+It's the master's.
+
+261
+00:17:45,400 --> 00:17:47,392
+You know what this means?
+
+262
+00:17:47,440 --> 00:17:49,511
+- (Chuckles)
+- You little turd!
+
+263
+00:17:49,560 --> 00:17:52,871
+Professor, what can we learn
+from watching dreams?
+
+264
+00:17:52,920 --> 00:17:56,516
+Well, their hopes, their fears,
+
+265
+00:17:56,560 --> 00:17:59,678
+their sexual desires,
+
+266
+00:17:59,720 --> 00:18:02,360
+their worries, er...
+
+267
+00:18:02,400 --> 00:18:05,996
+Things that might not be apparent
+on the surface.
+
+268
+00:18:06,040 --> 00:18:09,238
+Stop eating that jam,
+you little shit!
+
+269
+00:18:09,280 --> 00:18:13,832
+(Pam) Professor Craven has an
+extensive library of people's dreams
+
+270
+00:18:13,880 --> 00:18:15,917
+all captured on video cassette.
+
+271
+00:18:15,960 --> 00:18:19,237
+So, Professor,
+what are we going to look at now?
+
+272
+00:18:19,280 --> 00:18:23,160
+Well, Pam, you're privileged,
+if I may say so myself,
+
+273
+00:18:23,200 --> 00:18:25,874
+to watch one of my own dreams.
+
+274
+00:18:25,920 --> 00:18:27,877
+- Oh, thank you.
+- Yes.
+
+275
+00:18:27,920 --> 00:18:33,518
+We were particularly happy with it
+because it's a very clear recording.
+
+276
+00:18:33,560 --> 00:18:35,631
+OK, well let's take a look at it.
+
+277
+00:18:45,960 --> 00:18:47,952
+(# Gentle piano)
+
+278
+00:18:52,560 --> 00:18:56,998
+Craven! Craven?! Chapter nine!
+
+279
+00:18:57,040 --> 00:18:58,793
+Read!
+
+280
+00:18:58,840 --> 00:19:01,150
+(Gibbers)
+
+281
+00:19:01,880 --> 00:19:05,351
+What's the matter with you,
+you filthy fool?
+
+282
+00:19:05,400 --> 00:19:08,154
+Idiot! Pidiot! Pridiot!
+
+283
+00:19:08,200 --> 00:19:14,231
+Peroxamidiot!
+Cabbage hall idiot investment bond!
+
+284
+00:19:14,280 --> 00:19:16,749
+(Sobbing)
+
+285
+00:19:16,800 --> 00:19:19,713
+(Baby crying, echoing)
+
+286
+00:19:28,800 --> 00:19:31,156
+Where's my pipe?
+
+287
+00:19:31,200 --> 00:19:35,114
+You're an embarrassment, boy!
+You've embarrassed the pipe!
+
+288
+00:19:35,160 --> 00:19:37,231
+(Craven moaning)
+
+289
+00:19:49,600 --> 00:19:52,069
+- Hello.
+- (Distorted voice) Hello!
+
+290
+00:19:52,120 --> 00:19:54,077
+Do you like my perfume?
+
+291
+00:19:54,120 --> 00:19:59,275
+- (Craven) Mmm.
+- (Woman moans in ecstasy)
+
+292
+00:19:59,320 --> 00:20:01,789
+(Both moaning)
+
+293
+00:20:07,120 --> 00:20:09,316
+I had that one last night.
+
+294
+00:20:11,760 --> 00:20:13,592
+Hola? Flamingo.
+
+295
+00:20:13,640 --> 00:20:18,669
+(Pam) Our unconscious minds
+are actually extremely active
+
+296
+00:20:18,720 --> 00:20:22,634
+and Professor Craven's team
+have been developing new ways
+
+297
+00:20:22,680 --> 00:20:26,310
+of harnessing the brain's powers
+while we're asleep.
+
+298
+00:20:28,680 --> 00:20:33,311
+Well, you've seen just a fraction
+of some of the work we're doing
+
+299
+00:20:33,360 --> 00:20:35,317
+here at the Institute.
+
+300
+00:20:35,360 --> 00:20:38,717
+And perhaps you might like
+to be a volunteer
+
+301
+00:20:38,760 --> 00:20:40,752
+in one of our latest projects?
+
+302
+00:20:40,800 --> 00:20:43,269
+Of course,
+but what would it involve?
+
+303
+00:20:47,760 --> 00:20:50,958
+It would involve driving
+this motor car
+
+304
+00:20:51,000 --> 00:20:52,992
+at high speed around the test track.
+
+305
+00:20:53,040 --> 00:20:56,829
+- That looks like fun.
+- But you will be fast asleep.
+
+306
+00:20:56,880 --> 00:20:59,918
+Hm, I might have known
+there had to be a catch.
+
+307
+00:20:59,960 --> 00:21:02,236
+I'd better get on with my training
+
+308
+00:21:02,280 --> 00:21:06,559
+but I'm beginning to wish I'd never
+got out of bed this morning.
+
+309
+00:21:07,600 --> 00:21:11,071
+(Quickly) You can see how Pam got on
+at the end of the programme.
+
+310
+00:21:11,120 --> 00:21:15,160
+But now let's see
+how Jack's plastic surgery is going.
+
+311
+00:21:15,200 --> 00:21:18,511
+- Doctor, what's happening?
+- We're at the end now.
+
+312
+00:21:18,560 --> 00:21:20,552
+Just finishing off.
+
+313
+00:21:20,600 --> 00:21:23,354
+That was quick.
+And how's the patient?
+
+314
+00:21:23,400 --> 00:21:25,915
+You can ask him yourself,
+he's awake.
+
+315
+00:21:25,960 --> 00:21:27,633
+Jack?
+
+316
+00:21:27,680 --> 00:21:29,672
+- Mm?
+- How are you feeling?
+
+317
+00:21:29,720 --> 00:21:34,476
+My face feels a bit numb
+but I'm all right, thanks, Pam.
+
+318
+00:21:34,520 --> 00:21:39,993
+Well, why don't we, er...er, clean
+him up so we can all take a look?
+
+319
+00:21:40,040 --> 00:21:41,599
+I can't wait.
+
+320
+00:21:41,640 --> 00:21:44,394
+Medibot,
+give me some tissues, please.
+
+321
+00:21:44,440 --> 00:21:46,079
+'Medibot!'
+
+322
+00:21:47,960 --> 00:21:49,394
+'Medibot!'
+
+323
+00:21:50,360 --> 00:21:52,431
+While Jack's getting cleaned up,
+
+324
+00:21:52,480 --> 00:21:55,552
+let's remind ourselves
+of what he used to look like
+
+325
+00:21:55,600 --> 00:21:58,638
+with this special report
+from Loorizons,
+
+326
+00:21:58,680 --> 00:22:02,071
+the toilet industry's
+annual exhibition in Bath.
+
+327
+00:22:03,040 --> 00:22:05,032
+(# Bleeping electronica)
+
+328
+00:22:06,640 --> 00:22:11,078
+(Jack) To the germs in your home
+your toilet is like Las Vegas.
+
+329
+00:22:14,360 --> 00:22:17,194
+If you think about it,
+when you use the toilet
+
+330
+00:22:17,240 --> 00:22:20,517
+you're leaving a meal
+for millions of hungry germs
+
+331
+00:22:20,560 --> 00:22:22,552
+and that's not a nice thought.
+
+332
+00:22:24,000 --> 00:22:27,550
+There are dozens of products
+on the market these days,
+
+333
+00:22:27,600 --> 00:22:29,751
+all promising to destroy germs,
+
+334
+00:22:29,800 --> 00:22:33,874
+from the bleach pill
+to the toilet tarvunty.
+
+335
+00:22:33,920 --> 00:22:36,879
+But none of them
+are 100 per cent effective.
+
+336
+00:22:36,920 --> 00:22:41,392
+But now there's a new British
+invention which may be the answer
+
+337
+00:22:41,440 --> 00:22:43,113
+and here it is.
+
+338
+00:22:43,160 --> 00:22:45,720
+It's called the Sani-sac
+and as you can see
+
+339
+00:22:45,760 --> 00:22:49,071
+it takes its inspiration
+from the good old tea bag.
+
+340
+00:22:49,120 --> 00:22:53,160
+However, inside is not tea
+but coffee.
+
+341
+00:22:53,200 --> 00:22:57,717
+Coffee has been used for centuries
+as a powerful sterilising agent
+
+342
+00:22:57,760 --> 00:23:00,480
+which is why
+most men normally drink tea.
+
+343
+00:23:00,520 --> 00:23:03,240
+So let's see the Sani-sac in action.
+
+344
+00:23:04,280 --> 00:23:07,830
+You just pop your Sani-sac
+into the top of your cistern,
+
+345
+00:23:07,880 --> 00:23:09,712
+very simple, there it is.
+
+346
+00:23:12,040 --> 00:23:14,032
+Give your loo a good flush...
+
+347
+00:23:18,360 --> 00:23:23,230
+and now your toilet's so clean
+you can even drink out of it.
+
+348
+00:23:28,800 --> 00:23:30,234
+Ahh.
+
+349
+00:23:39,640 --> 00:23:42,360
+(Quickly) The final of our Look
+Around You Invention of the Year
+
+350
+00:23:42,400 --> 00:23:46,280
+is at the end of the series
+and one winner will win this trophy
+
+351
+00:23:46,320 --> 00:23:48,755
+presented by His Royal Highness
+Sir Prince Charles.
+
+352
+00:23:48,800 --> 00:23:50,792
+So that's certainly something
+to look forward to.
+
+353
+00:23:51,560 --> 00:23:55,952
+And in honour of his remarkable
+achievement against such adversity
+
+354
+00:23:56,000 --> 00:23:58,640
+the invention
+we're putting forward this week
+
+355
+00:23:58,680 --> 00:24:02,469
+is the anti-cobbling cream,
+created by Dr Phillip Lavender.
+
+356
+00:24:02,520 --> 00:24:06,150
+- (Lavender) Hello again.
+- Congratulations, Doctor.
+
+357
+00:24:06,200 --> 00:24:09,113
+- Thank you very much indeed.
+- And here's your rosette.
+
+358
+00:24:09,160 --> 00:24:12,517
+Ah, thank you, Pealy.
+Ooh. (Chuckles)
+
+359
+00:24:12,560 --> 00:24:15,678
+And what a very quick voice
+you've got. Goodbye.
+
+360
+00:24:21,480 --> 00:24:24,552
+Now it's the moment
+we've all been waiting for
+
+361
+00:24:24,600 --> 00:24:28,435
+because it's time to unveil
+Jack Morgan's brand-new face.
+
+362
+00:24:28,480 --> 00:24:30,437
+Doctor, how do you think
+you've done?
+
+363
+00:24:30,480 --> 00:24:32,631
+Er, pretty good, Pete.
+
+364
+00:24:32,680 --> 00:24:35,559
+I think me and Medibot
+have done a good job.
+
+365
+00:24:35,600 --> 00:24:37,557
+Don't you think, Medibot?
+
+366
+00:24:37,600 --> 00:24:39,080
+'Medibot!'
+
+367
+00:24:39,120 --> 00:24:41,840
+Let's remind ourselves
+of what Jack looked like
+
+368
+00:24:41,880 --> 00:24:44,315
+before he went under the laser.
+
+369
+00:24:45,840 --> 00:24:48,355
+There he is.
+
+370
+00:24:48,400 --> 00:24:52,110
+So, Doctor, if you'd like to get
+ready to do the honours.
+
+371
+00:24:52,160 --> 00:24:55,870
+- (Drum roll)
+- (Jack) I hope he hasn't ruined me.
+
+372
+00:24:55,920 --> 00:25:01,439
+So let's all now take a look
+at the brand-new Jack Morgan!
+
+373
+00:25:18,040 --> 00:25:19,599
+Well?
+
+374
+00:25:19,640 --> 00:25:21,632
+I love it.
+
+375
+00:25:21,680 --> 00:25:25,356
+I love it. I love it!
+
+376
+00:25:25,400 --> 00:25:28,916
+Jack, it's amazing.
+You're absolutely gorgeous.
+
+377
+00:25:28,960 --> 00:25:31,111
+(Jack) Thanks, Pealy. I love it!
+
+378
+00:25:31,160 --> 00:25:33,629
+- I love it.
+- Jack, you look amazing.
+
+379
+00:25:33,680 --> 00:25:35,672
+Doctor, I love it. I love it.
+
+380
+00:25:35,720 --> 00:25:39,111
+- Don't thank me, thank Medibot.
+- Thanks, Medibot.
+
+381
+00:25:39,160 --> 00:25:41,720
+Give him some
+hundreds and thousands.
+
+382
+00:25:41,760 --> 00:25:44,719
+- There we are. Good boy.
+-'Medibot!'
+
+383
+00:25:44,760 --> 00:25:46,558
+What really sets it off is the tusk.
+
+384
+00:25:46,600 --> 00:25:49,798
+Unbelievable. I really love it.
+
+385
+00:25:49,840 --> 00:25:54,471
+Well, you've got to have it changed
+back before next week's show.
+
+386
+00:25:54,520 --> 00:25:56,557
+Oh! But I love it.
+
+387
+00:25:56,600 --> 00:25:59,160
+That's all we've got
+time for tonight.
+
+388
+00:25:59,200 --> 00:26:01,590
+Thank you to all our guests
+for taking part -
+
+389
+00:26:01,640 --> 00:26:04,519
+to Dr Phillip Lavender,
+to Medibot...
+
+390
+00:26:04,560 --> 00:26:07,519
+-'Medibot!'
+- ..and, of course, Dr Fu.
+
+391
+00:26:07,560 --> 00:26:08,960
+Thanks, Doctor.
+
+392
+00:26:09,000 --> 00:26:10,753
+Thoctor.
+
+393
+00:26:15,400 --> 00:26:17,471
+We'll be back at the same time
+next week
+
+394
+00:26:17,520 --> 00:26:20,513
+to give you a ringside seat
+to the future of sport,
+
+395
+00:26:20,560 --> 00:26:22,677
+so don't miss it.
+
+396
+00:26:22,720 --> 00:26:26,077
+So in the meantime - what
+a poseur - take care of yourself
+
+397
+00:26:26,120 --> 00:26:29,318
+and remember,
+wherever you are, whatever you do...
+
+398
+00:26:29,360 --> 00:26:31,920
+-'Medibot!'
+- (All) Look around you!
+
+399
+00:26:31,960 --> 00:26:34,350
+- (# Theme tune)
+- Wow, absolutely...
+
+400
+00:26:34,400 --> 00:26:35,390
+But this is...
+
+401
+00:26:35,440 --> 00:26:38,114
+..I never though I'd look like this.
+
+402
+00:26:43,240 --> 00:26:45,232
+Good luck, Pam.
+
+403
+00:27:12,720 --> 00:27:15,110
+# Look Around You #
+
+404
+00:27:31,160 --> 00:27:35,552
+(Peter) If you'd like to find out
+more information about Cobbles
+
+405
+00:27:35,600 --> 00:27:40,231
+you can pick up a leaflet from
+your GP or local quarry, priced 1p.
+
+406
+00:27:44,360 --> 00:27:46,158
+'Medibot!'
+
