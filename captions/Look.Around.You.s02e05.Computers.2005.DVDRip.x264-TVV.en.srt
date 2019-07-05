@@ -1,0 +1,2166 @@
+1
+00:00:02,160 --> 00:00:04,152
+This is BBC2.
+
+2
+00:00:05,360 --> 00:00:07,920
+In a moment we'll be going over
+to Shepherd's Bush
+
+3
+00:00:07,960 --> 00:00:11,112
+for tonight's edition of
+Look Around You.
+
+4
+00:00:11,160 --> 00:00:16,554
+But first, let's take a look at the
+line-up for this coming Antmas Eve.
+
+5
+00:00:17,280 --> 00:00:21,797
+Programmes for Antmas Eve on BBC2
+start at 6.15
+
+6
+00:00:21,840 --> 00:00:26,198
+with action-packed drama
+in The American Policeman.
+
+7
+00:00:26,240 --> 00:00:28,960
+A faulty headlight
+leads the American Policeman
+
+8
+00:00:29,000 --> 00:00:31,799
+to a case of semi-murder.
+
+9
+00:00:31,840 --> 00:00:34,639
+At 6.50 it's The Good News,
+
+10
+00:00:34,680 --> 00:00:36,717
+followed at 7.20 by For Sale,
+
+11
+00:00:36,760 --> 00:00:41,232
+which looks at a new housing
+development in Lake Windermere.
+
+12
+00:00:41,280 --> 00:00:44,876
+Closedown is at the earlier time
+of 7.45.
+
+13
+00:00:44,920 --> 00:00:48,516
+Then at 7.50
+we pay another enchanting visit
+
+14
+00:00:48,560 --> 00:00:51,029
+to Tlentifini Maarhaysu.
+
+15
+00:00:52,880 --> 00:00:55,031
+At 8.40 it's The Bad News.
+
+16
+00:00:55,080 --> 00:00:58,152
+Then at 9.20 we join Dr Bukovsky
+
+17
+00:00:58,200 --> 00:01:02,956
+on his search
+for Britain's Most Beautiful Bottom.
+
+18
+00:01:03,000 --> 00:01:04,992
+Newsnight Special is at 10.30,
+
+19
+00:01:05,040 --> 00:01:07,919
+which takes a look
+at a revolutionary new bird
+
+20
+00:01:07,960 --> 00:01:11,237
+which has the British chicken
+industry running scared.
+
+21
+00:01:13,000 --> 00:01:15,595
+Imagine That! is at 11.30
+
+22
+00:01:15,640 --> 00:01:18,360
+and this week the businessmen
+are trying to imagine
+
+23
+00:01:18,400 --> 00:01:23,156
+a young Margaret Thatcher
+tossing pancakes in the nuddy.
+
+24
+00:01:23,200 --> 00:01:26,511
+And with Football Highlights
+at 12.25,
+
+25
+00:01:26,560 --> 00:01:31,191
+that rounds up programmes
+for Antmas Eve on BBC2.
+
+26
+00:01:34,080 --> 00:01:37,915
+Well, that certainly sounds
+like a very merry Antmas Eve.
+
+27
+00:01:37,960 --> 00:01:40,794
+And now, Look Around You.
+
+28
+00:01:42,960 --> 00:01:46,476
+Hello. Coming up
+on tonight's programme...
+
+29
+00:01:46,520 --> 00:01:49,911
+We'll be taking a look at the
+world's first computer for women.
+
+30
+00:01:49,960 --> 00:01:54,273
+We'll be demonstrating the very
+latest in computer shaving systems.
+
+31
+00:01:54,320 --> 00:01:58,712
+Giving you a sneak preview of the
+next generation of computer games.
+
+32
+00:01:58,760 --> 00:02:02,879
+And meeting Britain's
+most powerful computer.
+
+33
+00:02:02,920 --> 00:02:07,199
+That's all on tonight's
+computerised edition of...
+
+34
+00:02:17,800 --> 00:02:19,598
+(Computer beeps)
+
+35
+00:02:21,440 --> 00:02:23,750
+(Computer)'Look Around Yog.'
+
+36
+00:02:52,560 --> 00:02:54,711
+♪ Look Around You ♪
+
+37
+00:02:57,000 --> 00:02:59,799
+Hello and welcome to
+Look Around You.
+
+38
+00:02:59,840 --> 00:03:04,790
+Tonight's programme is all about the
+world and the future of computers.
+
+39
+00:03:04,840 --> 00:03:08,675
+Computers are increasingly
+becoming part of our daily lives.
+
+40
+00:03:08,720 --> 00:03:10,518
+They're used for everything now,
+
+41
+00:03:10,560 --> 00:03:13,837
+from helping with the resurrection
+of King Henry VIII
+
+42
+00:03:13,880 --> 00:03:17,430
+to the controlling
+of Britain's second sun.
+
+43
+00:03:17,480 --> 00:03:20,917
+But computers, of course,
+aren't 100 per cent reliable.
+
+44
+00:03:20,960 --> 00:03:22,997
+Recently a faulty computer program
+
+45
+00:03:23,040 --> 00:03:26,238
+was blamed for the disastrous
+redecoration of the White House,
+
+46
+00:03:26,280 --> 00:03:31,036
+which led to computers being banned
+in America for three years.
+
+47
+00:03:31,080 --> 00:03:33,231
+But one thing is certain.
+
+48
+00:03:33,280 --> 00:03:35,840
+Computers are here to stay.
+
+49
+00:03:35,880 --> 00:03:39,669
+In fact, experts predict
+that by the year 1990,
+
+50
+00:03:39,720 --> 00:03:42,599
+the number of computers
+in Great Britain alone
+
+51
+00:03:42,640 --> 00:03:45,712
+could be as many as 10,000.
+
+52
+00:03:45,760 --> 00:03:47,558
+Now, that sounds a lot,
+
+53
+00:03:47,600 --> 00:03:50,877
+but there's one computer
+that's more powerful than them all.
+
+54
+00:03:50,920 --> 00:03:53,879
+It's Britain's most
+technologically advanced computer
+
+55
+00:03:53,920 --> 00:03:56,833
+and it goes by the name
+of Bournemouth.
+
+56
+00:03:56,880 --> 00:03:58,712
+There he is.
+
+57
+00:03:58,760 --> 00:04:00,956
+And here to tell us
+all about Bournemouth
+
+58
+00:04:01,000 --> 00:04:03,390
+is the presenter
+of BBC's computer programme
+
+59
+00:04:03,440 --> 00:04:05,716
+and a man who loves
+computers so much,
+
+60
+00:04:05,760 --> 00:04:09,276
+he even changed his name
+to Computer Jones.
+
+61
+00:04:15,880 --> 00:04:18,236
+- Welcome to Look Around You.
+- Hello, Peter.
+
+62
+00:04:18,280 --> 00:04:21,398
+You were involved in the programming
+of this computer.
+
+63
+00:04:21,440 --> 00:04:23,671
+I was its chief programmer,
+actually.
+
+64
+00:04:23,720 --> 00:04:26,952
+Now, you've programmed hundreds
+of computers in your career.
+
+65
+00:04:27,000 --> 00:04:29,037
+What makes Bournemouth so special?
+
+66
+00:04:29,080 --> 00:04:33,393
+Well, Bournemouth isn't like other
+computers because he's so powerful.
+
+67
+00:04:33,440 --> 00:04:35,432
+In fact, he's so intelligent
+
+68
+00:04:35,480 --> 00:04:38,075
+he'd look on you and I
+as a couple of morons.
+
+69
+00:04:38,120 --> 00:04:39,554
+- Really?
+- Yes.
+
+70
+00:04:39,600 --> 00:04:43,389
+Which is why the government use him
+to sort out their problems.
+
+71
+00:04:43,440 --> 00:04:45,432
+So what sort of things has he done?
+
+72
+00:04:45,480 --> 00:04:49,315
+Well, Bournemouth has been involved
+in pretty much everything recently.
+
+73
+00:04:49,360 --> 00:04:52,239
+He helped in the introduction
+of the negative currency
+
+74
+00:04:52,280 --> 00:04:56,069
+and he even assisted the police
+in the recent margarine riots.
+
+75
+00:04:56,120 --> 00:04:59,318
+So he certainly knows how to handle
+himself in the real world.
+
+76
+00:05:03,520 --> 00:05:06,354
+We're really going to put
+Bournemouth to the test now
+
+77
+00:05:06,400 --> 00:05:09,598
+because we've devised
+a special Look Around You challenge.
+
+78
+00:05:09,640 --> 00:05:12,997
+As you can see, we're locking
+Bournemouth inside this cage here
+
+79
+00:05:13,040 --> 00:05:16,033
+and his task is to escape
+by the end of the programme.
+
+80
+00:05:16,080 --> 00:05:17,070
+Thanks.
+
+81
+00:05:17,120 --> 00:05:21,160
+The cage is made from reinforced
+steel so it's extremely secure.
+
+82
+00:05:21,680 --> 00:05:25,117
+You're gonna need some pretty big
+brains to work your way out of this.
+
+83
+00:05:25,160 --> 00:05:27,152
+Well, best of luck, Bournemouth.
+
+84
+00:05:27,200 --> 00:05:30,796
+We'll see if he manages to escape
+before the end of the show.
+
+85
+00:05:30,840 --> 00:05:32,832
+(Jack) Good luck, Bournemouth.
+
+86
+00:05:56,760 --> 00:05:58,991
+(Jack) What's in a name?
+
+87
+00:05:59,040 --> 00:06:03,398
+Well, letters, but for some of us
+it's not that simple.
+
+88
+00:06:03,440 --> 00:06:05,830
+A recent survey
+found that most Britons
+
+89
+00:06:05,880 --> 00:06:07,678
+had trouble remembering names,
+
+90
+00:06:07,720 --> 00:06:11,111
+with the name Philip
+proving to be the most difficult.
+
+91
+00:06:11,160 --> 00:06:13,470
+Some things
+seem to stay with us for ever.
+
+92
+00:06:13,520 --> 00:06:16,080
+For example
+everyone remembers where they were
+
+93
+00:06:16,120 --> 00:06:19,511
+when they heard the news that
+President Kennedy had been stabbed.
+
+94
+00:06:19,560 --> 00:06:23,554
+For years scientists have wondered
+exactly which part of the brain
+
+95
+00:06:23,600 --> 00:06:27,753
+is responsible for storing these
+so-called permanent remembrances.
+
+96
+00:06:27,800 --> 00:06:30,440
+And now, with the help of computers,
+
+97
+00:06:30,480 --> 00:06:33,837
+the part of the brain that labels
+some memories as unforgettable
+
+98
+00:06:33,880 --> 00:06:37,112
+has been identified and utilised
+in a new invention
+
+99
+00:06:37,160 --> 00:06:40,119
+which claims to make forgetfulness
+a distant memory.
+
+100
+00:06:40,160 --> 00:06:43,756
+And it's our Invention of The Week.
+It's called the Memory Helmet.
+
+101
+00:06:43,800 --> 00:06:48,033
+To demonstrate it I'll enlist the
+help of our very own Pam Bachelor.
+
+102
+00:06:49,000 --> 00:06:50,559
+I'm not sure about this.
+
+103
+00:06:50,600 --> 00:06:52,637
+Don't worry,
+it's not as scary as it looks.
+
+104
+00:06:52,680 --> 00:06:55,354
+- How's your Shakespeare?
+- A bit rusty, I'm afraid.
+
+105
+00:06:55,400 --> 00:06:58,234
+Think you could remember
+the titles of all his plays?
+
+106
+00:06:58,280 --> 00:07:03,355
+Goodness, I can only think of David
+and the one about the farm.
+
+107
+00:07:03,400 --> 00:07:06,359
+In a moment you'll know them all,
+guaranteed.
+
+108
+00:07:06,400 --> 00:07:08,596
+If you could just pop this on.
+
+109
+00:07:10,760 --> 00:07:13,116
+- Sorry, I won't knock you out.
+- It's OK.
+
+110
+00:07:13,160 --> 00:07:15,311
+- Is that OK?
+- Yes, thanks.
+
+111
+00:07:15,360 --> 00:07:17,158
+I'm going to show you a card
+
+112
+00:07:17,200 --> 00:07:20,591
+on which is written the titles
+of all of Shakespeare's plays,
+
+113
+00:07:20,640 --> 00:07:22,438
+but just for one second,
+
+114
+00:07:22,480 --> 00:07:25,154
+and as soon as you see it
+I want you to blink.
+
+115
+00:07:25,200 --> 00:07:26,714
+- OK?
+- OK.
+
+116
+00:07:26,760 --> 00:07:29,832
+- Now, blink.
+- Ooh.
+
+117
+00:07:29,880 --> 00:07:32,714
+Good. That information
+is instantly stored
+
+118
+00:07:32,760 --> 00:07:34,558
+in the helmet's computer chip.
+
+119
+00:07:34,600 --> 00:07:37,434
+In a moment
+it's going to transfer that data
+
+120
+00:07:37,480 --> 00:07:41,315
+via her optic nerve
+into Pam's memory glands.
+
+121
+00:07:41,360 --> 00:07:45,320
+Now, because of the huge drain
+of mental energy on the brain,
+
+122
+00:07:45,360 --> 00:07:48,159
+this will cause Pam's voice
+to lower in pitch,
+
+123
+00:07:48,200 --> 00:07:50,032
+so don't be alarmed.
+
+124
+00:07:50,080 --> 00:07:52,037
+Now, let me just turn you on.
+
+125
+00:07:52,080 --> 00:07:55,630
+I must admit, it's a little bit
+fiddly. It's round here somewhere.
+
+126
+00:07:55,680 --> 00:07:57,717
+- Ow.
+- OK, let's just have a look.
+
+127
+00:07:59,960 --> 00:08:02,270
+- Are you OK, Pam?
+- (Deep voice) Yes. Ooh!
+
+128
+00:08:02,320 --> 00:08:05,074
+Pam Bachelor,
+will you please give us the titles
+
+129
+00:08:05,120 --> 00:08:09,592
+of all of Shakespeare's plays,
+starting now?
+
+130
+00:08:27,000 --> 00:08:29,356
+- Summer In Paris.
+- (Buzzer)
+
+131
+00:08:29,400 --> 00:08:31,392
+- Betty's Revenge.
+- (Buzzer)
+
+132
+00:08:38,400 --> 00:08:41,359
+- Fantastic. Fantastic.
+- Well done, Pam, that was great.
+
+133
+00:08:41,400 --> 00:08:43,232
+- Wasn't that great?
+- Impressive.
+
+134
+00:08:43,280 --> 00:08:45,840
+- Did I get them all?
+- 100 per cent.
+
+135
+00:08:45,880 --> 00:08:47,360
+Thank you very much.
+
+136
+00:08:47,400 --> 00:08:49,995
+The Memory Helmet
+and its inventor Simon Teigh
+
+137
+00:08:50,040 --> 00:08:54,910
+win a place in the live final of our
+Invention of the Year competition
+
+138
+00:08:54,960 --> 00:08:56,758
+at the end of the series,
+
+139
+00:08:56,800 --> 00:09:00,111
+where he could be walking away
+with this magnificent trophy,
+
+140
+00:09:00,160 --> 00:09:04,598
+presented by His Royal Highness
+Sir Prince Charles.
+
+141
+00:09:10,440 --> 00:09:12,750
+We've got
+some rather disappointing news,
+
+142
+00:09:12,800 --> 00:09:16,191
+because we've had to stop
+the Look Around You challenge.
+
+143
+00:09:16,240 --> 00:09:20,314
+If you remember, we'd set Britain's
+most powerful computer, Bournemouth,
+
+144
+00:09:20,360 --> 00:09:22,955
+the task of escaping from this cage.
+
+145
+00:09:23,000 --> 00:09:25,595
+But unfortunately
+Bournemouth has broken down
+
+146
+00:09:25,640 --> 00:09:27,950
+and needs to be repaired
+immediately.
+
+147
+00:09:28,000 --> 00:09:30,469
+This is Eddie Yorque,
+our chief technician.
+
+148
+00:09:30,520 --> 00:09:32,512
+Eddie, if I can stop you
+for a moment,
+
+149
+00:09:32,560 --> 00:09:34,358
+can you tell us what happened?
+
+150
+00:09:34,400 --> 00:09:39,839
+Yeah, we received a telephone call
+from Computer Jones
+
+151
+00:09:39,880 --> 00:09:42,315
+saying the circuit boards
+had overheated...
+
+152
+00:09:42,360 --> 00:09:44,192
+(Computer) Hang on,
+I didn't call you.
+
+153
+00:09:44,240 --> 00:09:46,550
+Wait a minute,
+I know what's happened.
+
+154
+00:09:46,600 --> 00:09:49,069
+Leave him in his cage, will you?
+
+155
+00:09:49,120 --> 00:09:50,713
+What has happened?
+
+156
+00:09:50,760 --> 00:09:54,276
+He's tapped into your telephone
+system and impersonated my voice.
+
+157
+00:09:54,320 --> 00:09:57,199
+- Wow.
+- He does a good impression of me.
+
+158
+00:09:57,240 --> 00:10:00,312
+Listen. Bournemouth, say something.
+
+159
+00:10:01,440 --> 00:10:04,194
+- What would you like me to say?
+- Oh, anything.
+
+160
+00:10:04,240 --> 00:10:07,711
+(Sighs) Hello,
+this is Computer Jones speaking.
+
+161
+00:10:07,760 --> 00:10:12,551
+I'm 57, I live on my own and I
+practise kissing on my Labrador.
+
+162
+00:10:12,600 --> 00:10:14,876
+- Thank you, Bournemouth.
+- That is good.
+
+163
+00:10:14,920 --> 00:10:19,039
+He called poor Eddie and got him
+to take him out of the cage.
+
+164
+00:10:19,080 --> 00:10:22,073
+- Well, you don't win that easily.
+- Oh, really?
+
+165
+00:10:22,120 --> 00:10:26,000
+Well, it seems that the Look Around
+You challenge is back on.
+
+166
+00:10:26,040 --> 00:10:28,111
+So let's see if Bournemouth
+can escape
+
+167
+00:10:28,160 --> 00:10:30,550
+before the end of the programme.
+
+168
+00:10:50,720 --> 00:10:52,791
+(Pealy) Everyone loves a good game,
+
+169
+00:10:52,840 --> 00:10:56,356
+whether it's an exciting
+round of Zero-X
+
+170
+00:10:56,400 --> 00:10:58,960
+or a 20-second bout
+of quick-fire chess.
+
+171
+00:10:59,000 --> 00:11:01,515
+- Come on! Take it!
+- Check him!
+
+172
+00:11:01,560 --> 00:11:05,952
+But today the gaming world has
+really taken technology to heart,
+
+173
+00:11:06,000 --> 00:11:10,836
+with the robot John McEnroe being
+this year's most sought-after toy.
+
+174
+00:11:10,880 --> 00:11:13,076
+'You cannot be serious!'
+
+175
+00:11:13,120 --> 00:11:16,591
+But if you don't have five and a
+half million dollars to spare,
+
+176
+00:11:16,640 --> 00:11:20,429
+there's still one place you can go
+for all your hi-tech thrills.
+
+177
+00:11:20,480 --> 00:11:25,077
+And that place is
+Grithiffths Games Megamart.
+
+178
+00:11:27,080 --> 00:11:29,151
+Computers aren't just
+for boring things
+
+179
+00:11:29,200 --> 00:11:32,159
+like writing poetry
+or organising a funeral.
+
+180
+00:11:32,200 --> 00:11:34,396
+You can have
+a lot of fun with them too
+
+181
+00:11:34,440 --> 00:11:38,195
+and when it comes to games,
+Grithiffths have got the lot.
+
+182
+00:11:42,360 --> 00:11:44,556
+As Britain's leading game retailer,
+
+183
+00:11:44,600 --> 00:11:46,796
+Grithiffths gets
+all the latest games,
+
+184
+00:11:46,840 --> 00:11:50,516
+from America,
+Japan and, of course, Norway.
+
+185
+00:11:52,800 --> 00:11:56,237
+Lee Grithiffths is the managing
+director of Grithiffths
+
+186
+00:11:56,280 --> 00:11:59,796
+and when he's not selling games,
+he's playing games.
+
+187
+00:12:00,880 --> 00:12:03,236
+You look like you're enjoying
+yourself.
+
+188
+00:12:03,280 --> 00:12:06,717
+Yes, I'm just playing this new game
+called Window Cleaner.
+
+189
+00:12:07,920 --> 00:12:11,357
+- Ooh! It's very energetic.
+- Yes, it is.
+
+190
+00:12:11,400 --> 00:12:15,553
+I'm just trying to work up a really
+good thick head of foam.
+
+191
+00:12:15,600 --> 00:12:17,717
+(Squelching)
+
+192
+00:12:17,760 --> 00:12:22,118
+The graphics are very realistic.
+It's like I'm watching a film.
+
+193
+00:12:22,160 --> 00:12:27,076
+Yes, the games are becoming
+a lot more realistic these days.
+
+194
+00:12:27,120 --> 00:12:29,555
+It's what's known as
+simulation games.
+
+195
+00:12:29,600 --> 00:12:34,356
+Simulation is where the computer
+re-creates a real-world situation,
+
+196
+00:12:34,400 --> 00:12:39,475
+anything from taking a fully
+accredited British driving test...
+
+197
+00:12:41,200 --> 00:12:43,351
+to a spot of horse-fighting.
+
+198
+00:12:43,400 --> 00:12:45,676
+(Computer)'Booma! Booma! Booma!'
+
+199
+00:12:48,480 --> 00:12:50,949
+This is a popular game.
+It's called Holiday.
+
+200
+00:12:51,000 --> 00:12:54,311
+It re-creates the experience
+of being on a summer holiday.
+
+201
+00:12:54,360 --> 00:12:57,319
+There are three settings:
+Blackpool, camping
+
+202
+00:12:57,360 --> 00:12:59,158
+and a package holiday to Spain.
+
+203
+00:12:59,200 --> 00:13:01,032
+So where are you now?
+
+204
+00:13:01,080 --> 00:13:03,311
+I'm in Spain.
+It's the best one, really.
+
+205
+00:13:03,360 --> 00:13:05,670
+Lee, I noticed
+you've taken your top off.
+
+206
+00:13:05,720 --> 00:13:07,712
+That's the best way
+to enjoy the game.
+
+207
+00:13:07,760 --> 00:13:10,434
+It's the total holiday experience,
+
+208
+00:13:10,480 --> 00:13:13,552
+so you can really immerse yourself
+in the whole thing.
+
+209
+00:13:13,600 --> 00:13:15,592
+It even comes with its own beach.
+
+210
+00:13:15,640 --> 00:13:20,760
+It's a box of sand, really, but it
+all adds to the reality of the thing
+
+211
+00:13:20,800 --> 00:13:23,679
+and it's Spanish sand, so...
+
+212
+00:13:23,720 --> 00:13:26,554
+- So they say.
+- (Laughs)
+
+213
+00:13:26,600 --> 00:13:29,752
+The most popular computer game
+at the moment is this one,
+
+214
+00:13:29,800 --> 00:13:33,111
+based on a recently discovered novel
+by F Scott Fitzgerald.
+
+215
+00:13:33,160 --> 00:13:34,594
+(Computer)'Diarrhoea Dan.'
+
+216
+00:13:34,640 --> 00:13:36,632
+So why is it so popular?
+
+217
+00:13:36,680 --> 00:13:39,036
+Well, he's such a great character.
+
+218
+00:13:39,080 --> 00:13:41,800
+People always love
+toilet-based games
+
+219
+00:13:41,840 --> 00:13:44,878
+and this is the best of the bunch,
+it's great fun.
+
+220
+00:13:45,840 --> 00:13:48,753
+What does Lee think the future holds
+for computer games?
+
+221
+00:13:48,800 --> 00:13:54,956
+Well, Pealy, I've always been
+a big fan of romantic, sad films,
+
+222
+00:13:55,000 --> 00:13:57,037
+you know, the weepies,
+
+223
+00:13:57,080 --> 00:14:00,278
+so I think that a computer game
+that could be
+
+224
+00:14:00,320 --> 00:14:04,792
+just as emotionally involving
+as a sad film...
+
+225
+00:14:04,840 --> 00:14:10,791
+er, so sad that it can
+actually make you physically cry...
+
+226
+00:14:13,440 --> 00:14:15,432
+I'd like to see that.
+
+227
+00:14:16,080 --> 00:14:18,072
+It would be fantastic.
+
+228
+00:14:30,400 --> 00:14:33,518
+It's official. Men love computers.
+
+229
+00:14:33,560 --> 00:14:36,155
+That's according to
+the latest survey carried out
+
+230
+00:14:36,200 --> 00:14:41,070
+by popular men's leisure magazine
+Popular Men's Leisure Magazine.
+
+231
+00:14:41,120 --> 00:14:45,831
+PMLM asked 2,000 men
+to rank various leisure activities
+
+232
+00:14:45,880 --> 00:14:47,872
+in order of preference.
+
+233
+00:14:47,920 --> 00:14:49,912
+And, somewhat surprisingly,
+
+234
+00:14:49,960 --> 00:14:52,919
+using a home computer
+comes top of the list,
+
+235
+00:14:52,960 --> 00:14:57,239
+beating some rather more traditional
+male pursuits.
+
+236
+00:14:57,280 --> 00:15:02,071
+So clearly men have taken computers
+to heart. But what about women?
+
+237
+00:15:02,120 --> 00:15:06,433
+Well, PMLM carried out
+the same survey for them
+
+238
+00:15:06,480 --> 00:15:08,278
+and, rather interestingly,
+
+239
+00:15:08,320 --> 00:15:12,030
+using a home computer
+didn't even make the top ten.
+
+240
+00:15:12,880 --> 00:15:15,236
+But all this may be about to change
+
+241
+00:15:15,280 --> 00:15:18,717
+because...step in the world's
+first computer for women.
+
+242
+00:15:18,760 --> 00:15:20,752
+It's called the Petticoat 5
+
+243
+00:15:20,800 --> 00:15:25,192
+and here to tell us all about it
+is its designer Patricia.
+
+244
+00:15:32,200 --> 00:15:35,159
+- Hello, Patricia. Welcome.
+- Hello.
+
+245
+00:15:35,200 --> 00:15:38,716
+Now, the first thing to mention is
+you only have one name, don't you?
+
+246
+00:15:38,760 --> 00:15:41,958
+Well, no, I do have a surname,
+actually, but it's silent.
+
+247
+00:15:42,000 --> 00:15:46,358
+OK. Now, a computer for women.
+How did the idea come about?
+
+248
+00:15:46,400 --> 00:15:50,076
+I had the idea in a dream originally
+
+249
+00:15:50,120 --> 00:15:52,954
+and then the next night
+I dreamt about it again.
+
+250
+00:15:53,000 --> 00:15:57,995
+Then I probably had the same dream
+for the next 40 or 50 nights
+
+251
+00:15:58,040 --> 00:16:00,953
+and I thought, "Yes, I'll do that."
+
+252
+00:16:01,000 --> 00:16:05,119
+- And that became the Petticoat 5?
+- Yes, the Petticoat 5.
+
+253
+00:16:05,160 --> 00:16:08,392
+It's a computer
+made by women for women.
+
+254
+00:16:08,440 --> 00:16:10,511
+So, let's take a look at it.
+
+255
+00:16:10,560 --> 00:16:13,519
+The first thing you notice
+is the shape of the keys.
+
+256
+00:16:13,560 --> 00:16:17,315
+Yes. They're designed to make it
+easier to type with long nails.
+
+257
+00:16:17,360 --> 00:16:19,556
+That is a good idea.
+And what is this?
+
+258
+00:16:19,600 --> 00:16:21,831
+That's a place to put your rings.
+
+259
+00:16:21,880 --> 00:16:25,430
+And on the side here
+we have a tissue dispenser...
+
+260
+00:16:25,480 --> 00:16:26,914
+(Coughs)
+
+261
+00:16:26,960 --> 00:16:29,475
+..and over here is a vanity mirror
+
+262
+00:16:29,520 --> 00:16:31,876
+which pops up
+when you press this button.
+
+263
+00:16:31,920 --> 00:16:34,196
+And the space bar is an emery board.
+
+264
+00:16:34,240 --> 00:16:37,392
+So I suppose you could
+fix your make-up while you work?
+
+265
+00:16:37,440 --> 00:16:41,036
+Yes, you could. Although
+I don't wear make-up myself.
+
+266
+00:16:41,080 --> 00:16:44,437
+- OK. Now, may I have a go?
+- Certainly.
+
+267
+00:16:47,240 --> 00:16:49,630
+Mm, the keys are nice and long,
+aren't they?
+
+268
+00:16:49,680 --> 00:16:51,911
+- What's that smell?
+- Peppermint.
+
+269
+00:16:51,960 --> 00:16:53,838
+Every time you press the letter S
+
+270
+00:16:53,880 --> 00:16:57,874
+it releases a small amount of
+air freshener from this nozzle here.
+
+271
+00:16:57,920 --> 00:17:00,071
+Try it. Press S.
+
+272
+00:17:00,120 --> 00:17:02,316
+- Not F. S.
+- Sorry.
+
+273
+00:17:02,360 --> 00:17:04,750
+- Not X. S.
+- Sorry.
+
+274
+00:17:04,800 --> 00:17:05,995
+Ooh.
+
+275
+00:17:06,040 --> 00:17:09,477
+And we also do two other refill
+cartridges in pine and tomato.
+
+276
+00:17:09,520 --> 00:17:12,080
+Well, it smells better
+than my current computer.
+
+277
+00:17:12,120 --> 00:17:15,079
+The good news is the Petticoat 5
+
+278
+00:17:15,120 --> 00:17:18,272
+will soon be available from
+your high street computer store.
+
+279
+00:17:18,320 --> 00:17:21,119
+At present there's only one program
+available for it,
+
+280
+00:17:21,160 --> 00:17:23,072
+which is a lipstick colour chart,
+
+281
+00:17:23,120 --> 00:17:24,998
+but there are plans for many more.
+
+282
+00:17:25,640 --> 00:17:29,270
+(Pam) Thank you
+and best of luck, Patricia...
+
+283
+00:17:34,560 --> 00:17:36,711
+We're back with
+the computer challenge
+
+284
+00:17:36,760 --> 00:17:39,036
+and there's been
+an exciting development.
+
+285
+00:17:39,080 --> 00:17:42,471
+Bournemouth has escaped
+from the cage.
+
+286
+00:17:42,520 --> 00:17:44,955
+None of us can work out
+how he's managed to do it
+
+287
+00:17:45,000 --> 00:17:48,710
+because, as you can see,
+the cage is still locked.
+
+288
+00:17:48,760 --> 00:17:52,276
+I'm here with our special guest
+Computer Jones.
+
+289
+00:17:52,320 --> 00:17:53,800
+What's your theory?
+
+290
+00:17:53,840 --> 00:17:56,071
+I think I've worked out
+what he's done.
+
+291
+00:17:56,120 --> 00:17:59,113
+- Can someone open the cage for me?
+- Certainly.
+
+292
+00:18:00,960 --> 00:18:03,998
+- Thanks, Eddie. OK.
+- Thank you.
+
+293
+00:18:09,440 --> 00:18:12,080
+- Aha.
+- What's going on?
+
+294
+00:18:12,120 --> 00:18:14,396
+Yes, it's just as I thought.
+
+295
+00:18:14,440 --> 00:18:16,909
+He's cheated.
+He's made himself invisible.
+
+296
+00:18:17,960 --> 00:18:21,954
+I'm going to deactivate his
+invisibility mode. Simple as that.
+
+297
+00:18:24,960 --> 00:18:27,270
+- There.
+-'Oh, hello again.'
+
+298
+00:18:27,320 --> 00:18:30,677
+- Bournemouth's back.
+- He won't be doing that again.
+
+299
+00:18:30,720 --> 00:18:33,474
+- Has he done that before?
+- No.
+
+300
+00:18:33,520 --> 00:18:37,594
+Never. I knew he was capable of
+invisibility but he's never done it.
+
+301
+00:18:37,640 --> 00:18:39,836
+Well, I wonder what he'll try next.
+
+302
+00:18:39,880 --> 00:18:42,793
+'Excuse me,
+may I go to the toilet, please?'
+
+303
+00:18:42,840 --> 00:18:45,230
+(Computer) Nice try, Bournemouth.
+
+304
+00:18:49,200 --> 00:18:53,319
+Earlier on we showed you a computer
+for women, the Petticoat 5.
+
+305
+00:18:53,360 --> 00:18:56,512
+But now it's time to have a look
+at one for us blokes.
+
+306
+00:18:56,560 --> 00:18:58,040
+Hm.
+
+307
+00:18:58,080 --> 00:19:00,800
+If you've been
+in a hotel or pub toilet recently,
+
+308
+00:19:00,840 --> 00:19:02,991
+you may well have seen one of these.
+
+309
+00:19:03,040 --> 00:19:04,633
+A Computashave.
+
+310
+00:19:04,680 --> 00:19:08,071
+These machines have revolutionised
+the way men shave,
+
+311
+00:19:08,120 --> 00:19:10,112
+but they've been around for a while,
+
+312
+00:19:10,160 --> 00:19:13,119
+so you're probably wondering
+why we're showing it to you.
+
+313
+00:19:13,160 --> 00:19:14,480
+Why are we?
+
+314
+00:19:14,520 --> 00:19:18,594
+Well, Jack, this latest model
+has a rather remarkable new feature.
+
+315
+00:19:18,640 --> 00:19:22,793
+And to help us demonstrate it
+is our technician Eddie Yorque.
+
+316
+00:19:23,640 --> 00:19:26,235
+- Busy night for you, isn't it?
+- Yeah, a bit.
+
+317
+00:19:26,280 --> 00:19:28,272
+Now, Eddie, as you can see,
+
+318
+00:19:28,320 --> 00:19:31,791
+is blessed with
+a rather magnificent beard.
+
+319
+00:19:31,840 --> 00:19:34,116
+Have you used a Computashave before?
+
+320
+00:19:34,160 --> 00:19:37,631
+Erm, no. I've seen one
+but I've never used one.
+
+321
+00:19:37,680 --> 00:19:39,273
+Well, they're very simple.
+
+322
+00:19:39,320 --> 00:19:44,236
+I'll just stand you
+into the head brace like so.
+
+323
+00:19:44,960 --> 00:19:47,031
+Now, keep very still.
+
+324
+00:19:49,240 --> 00:19:51,232
+We'll turn the unit on.
+
+325
+00:19:52,400 --> 00:19:54,392
+And the laser sets to work,
+
+326
+00:19:54,440 --> 00:19:57,080
+removing all the hair
+from Eddie's face.
+
+327
+00:19:58,120 --> 00:19:59,918
+So let's have a look.
+
+328
+00:19:59,960 --> 00:20:01,633
+OK.
+
+329
+00:20:03,160 --> 00:20:06,676
+And, as you can see,
+beard is completely gone.
+
+330
+00:20:06,720 --> 00:20:10,111
+- Good shave?
+- Yeah. Very smooth.
+
+331
+00:20:10,160 --> 00:20:12,914
+The main thing is,
+will your wife be pleased?
+
+332
+00:20:12,960 --> 00:20:15,714
+Er, yeah, probably.
+
+333
+00:20:15,760 --> 00:20:17,558
+(Laughs) Thanks, Eddie.
+
+334
+00:20:18,320 --> 00:20:21,552
+So, a very close shave,
+but what's the big deal, Pete?
+
+335
+00:20:21,600 --> 00:20:23,876
+Ah. Well, let's try out
+the new function.
+
+336
+00:20:23,920 --> 00:20:26,833
+If I can position you
+in the head brace.
+
+337
+00:20:26,880 --> 00:20:28,599
+OK.
+
+338
+00:20:28,640 --> 00:20:30,757
+Tap away at the console.
+
+339
+00:20:32,840 --> 00:20:34,832
+Now, watch this.
+
+340
+00:20:41,920 --> 00:20:44,151
+- Gosh.
+- So, what do you think?
+
+341
+00:20:44,200 --> 00:20:46,476
+Let me have a look.
+
+342
+00:20:46,520 --> 00:20:49,991
+Hm. I think it makes me look
+ten years older.
+
+343
+00:20:50,040 --> 00:20:51,838
+How does it all work, Pete?
+
+344
+00:20:51,880 --> 00:20:54,839
+Well, when the laser removed
+Eddie's facial hair,
+
+345
+00:20:54,880 --> 00:20:57,793
+it was stored in a special chamber.
+
+346
+00:20:57,840 --> 00:21:00,230
+When I set the machine
+into reverse mode,
+
+347
+00:21:00,280 --> 00:21:03,239
+it literally fired the hairs back
+at Jack's face
+
+348
+00:21:03,280 --> 00:21:05,158
+with such enormous speed
+
+349
+00:21:05,200 --> 00:21:08,159
+that the hairs became
+so firmly embedded in the follicles
+
+350
+00:21:08,200 --> 00:21:11,591
+that they will continue to grow
+as if they were his own.
+
+351
+00:21:14,040 --> 00:21:16,874
+But of course they're not his own,
+they're Eddie's.
+
+352
+00:21:16,920 --> 00:21:19,355
+So effectively
+Jack's wearing Eddie's beard.
+
+353
+00:21:19,400 --> 00:21:21,835
+And because the microchip remembers
+
+354
+00:21:21,880 --> 00:21:24,918
+the exact location
+of every hair on Eddie's face,
+
+355
+00:21:24,960 --> 00:21:27,555
+the beards are completely identical,
+
+356
+00:21:27,600 --> 00:21:29,592
+as you can see.
+
+357
+00:21:29,640 --> 00:21:31,632
+I'm not so sure about this beard.
+
+358
+00:21:31,680 --> 00:21:33,478
+OK, so what do you fancy, sir?
+
+359
+00:21:33,520 --> 00:21:35,273
+I fancy something a bit more modern.
+
+360
+00:21:35,320 --> 00:21:37,676
+Coming right up.
+
+361
+00:21:41,000 --> 00:21:44,550
+The beauty of this system is that if
+you're not happy with the results,
+
+362
+00:21:44,600 --> 00:21:49,152
+you're just a button away from any
+one of a thousand different styles.
+
+363
+00:21:50,760 --> 00:21:53,070
+Hm. That's a bit more like it.
+
+364
+00:22:06,360 --> 00:22:08,352
+(Jack) Next week
+is our live special,
+
+365
+00:22:08,400 --> 00:22:11,154
+featuring our
+Invention of the Year final,
+
+366
+00:22:11,200 --> 00:22:14,398
+our search for the finest inventor
+in Britain.
+
+367
+00:22:15,680 --> 00:22:18,320
+And His Royal Highness
+Sir Prince Charles
+
+368
+00:22:18,360 --> 00:22:20,795
+will be here live
+at Television Centre
+
+369
+00:22:20,840 --> 00:22:23,400
+to present the award
+to one lucky winner.
+
+370
+00:22:26,200 --> 00:22:27,998
+And who will it be?
+
+371
+00:22:28,040 --> 00:22:29,679
+The nominations are...
+
+372
+00:22:34,160 --> 00:22:37,995
+Designed and made by Championess,
+her computer recently predicted
+
+373
+00:22:38,040 --> 00:22:40,999
+the winner
+of this year's horse Oscars,
+
+374
+00:22:41,040 --> 00:22:43,396
+Georgy Girl.
+
+375
+00:22:46,720 --> 00:22:50,430
+His cream reverses
+the damaging effects of cobbles,
+
+376
+00:22:50,480 --> 00:22:53,632
+a disease that turns
+healthy human skin into rock.
+
+377
+00:22:53,680 --> 00:22:58,471
+Dr Lavender made the headlines
+recently after treating Rod Stewart.
+
+378
+00:23:03,200 --> 00:23:06,272
+Psilence is a spray
+containing liquid skin
+
+379
+00:23:06,320 --> 00:23:09,438
+which eliminates all sound
+when applied to the ears.
+
+380
+00:23:09,480 --> 00:23:13,713
+Hatred has recently brought out
+a new product in the range,
+
+381
+00:23:13,760 --> 00:23:15,752
+Psightless.
+
+382
+00:23:19,480 --> 00:23:21,995
+This invention
+harnesses and amplifies
+
+383
+00:23:22,040 --> 00:23:26,159
+the natural harmonics of vegetables
+to produce music.
+
+384
+00:23:26,200 --> 00:23:29,272
+Teddy's orchestra have just returned
+from a sell-out tour
+
+385
+00:23:29,320 --> 00:23:32,119
+of North Korea, Libya and Iran.
+
+386
+00:23:33,680 --> 00:23:36,354
+(Pam) As seen earlier...
+
+387
+00:23:37,680 --> 00:23:39,717
+(Jack) If you're watching, Mr Teigh,
+
+388
+00:23:39,760 --> 00:23:42,355
+please remember to give us
+your full details
+
+389
+00:23:42,400 --> 00:23:45,074
+so we can send you your invitation.
+
+390
+00:23:45,120 --> 00:23:47,715
+And with one final invention
+next week,
+
+391
+00:23:47,760 --> 00:23:50,150
+this promises to be
+an unmissable occasion.
+
+392
+00:23:50,200 --> 00:23:52,032
+We do hope you'll be joining us
+
+393
+00:23:52,080 --> 00:23:56,040
+for the Look Around You
+Invention of the Year final.
+
+394
+00:24:01,400 --> 00:24:03,471
+Well, that's about it for tonight.
+
+395
+00:24:03,520 --> 00:24:06,160
+It looks like Bournemouth
+has lost the challenge.
+
+396
+00:24:06,200 --> 00:24:08,431
+He has failed to escape
+from his cage.
+
+397
+00:24:08,480 --> 00:24:10,711
+The programme's not over yet, Peter.
+
+398
+00:24:10,760 --> 00:24:12,752
+Well, that may be, Computer Jones.
+
+399
+00:24:12,800 --> 00:24:15,759
+Pealy, you saw something
+unusual-looking moments ago.
+
+400
+00:24:15,800 --> 00:24:18,110
+Yes. When we were filming
+the last item
+
+401
+00:24:18,160 --> 00:24:20,550
+I'm sure I saw Bournemouth
+behind Jack.
+
+402
+00:24:20,600 --> 00:24:22,000
+- Really?
+- I did too.
+
+403
+00:24:22,040 --> 00:24:23,156
+Eddie.
+
+404
+00:24:24,800 --> 00:24:27,872
+Well, we're just
+opening the cage again.
+
+405
+00:24:28,960 --> 00:24:30,360
+Thank you.
+
+406
+00:24:31,160 --> 00:24:35,074
+Ah! Very clever.
+
+407
+00:24:35,840 --> 00:24:38,992
+Ah! Well, it seems
+that I owe you an apology
+
+408
+00:24:39,040 --> 00:24:42,192
+because Bournemouth has escaped
+
+409
+00:24:42,240 --> 00:24:46,553
+and he's made this papier-mache
+replica of himself as a decoy.
+
+410
+00:24:46,600 --> 00:24:48,398
+- It's uncanny.
+- Wow!
+
+411
+00:24:48,440 --> 00:24:51,512
+Well, it seems that Bournemouth
+has outwitted us all
+
+412
+00:24:51,560 --> 00:24:54,632
+and successfully completed
+tonight's challenge.
+
+413
+00:24:54,680 --> 00:24:57,115
+So, well done, Bournemouth.
+
+414
+00:24:57,160 --> 00:24:58,674
+Well done indeed!
+
+415
+00:24:59,760 --> 00:25:00,796
+Goodness me!
+
+416
+00:25:00,840 --> 00:25:04,038
+The big question is, where is he?
+
+417
+00:25:04,920 --> 00:25:06,991
+Well, on that rather mysterious note
+
+418
+00:25:07,040 --> 00:25:10,477
+I'm afraid that really is
+all the time we've got for tonight.
+
+419
+00:25:10,520 --> 00:25:12,512
+So many thanks to all our guests,
+
+420
+00:25:12,560 --> 00:25:15,519
+to Patricia,
+designer of the Petticoat 5,
+
+421
+00:25:15,560 --> 00:25:17,358
+and of course to Computer Jones.
+
+422
+00:25:17,400 --> 00:25:20,950
+And a special thanks, of course,
+to our very patient
+
+423
+00:25:21,000 --> 00:25:24,118
+and now beardless chief technician,
+Eddie Yorque.
+
+424
+00:25:24,720 --> 00:25:26,393
+Thanks, Eddie.
+
+425
+00:25:26,440 --> 00:25:27,920
+Theddie.
+
+426
+00:25:29,240 --> 00:25:31,960
+(Whispering)
+
+427
+00:25:39,760 --> 00:25:41,114
+Erm...
+
+428
+00:25:41,160 --> 00:25:45,393
+Well, I've just been told that
+we have received a telephone call
+
+429
+00:25:45,440 --> 00:25:48,717
+from Bournemouth...from Bournemouth.
+
+430
+00:25:48,760 --> 00:25:52,436
+And I understand
+he's on the line now.
+
+431
+00:25:53,840 --> 00:25:55,911
+Hello.
+
+432
+00:25:55,960 --> 00:25:57,997
+(Line crackling)
+
+433
+00:25:58,040 --> 00:26:00,111
+Hello?
+
+434
+00:26:00,160 --> 00:26:02,959
+(Electronic chime)'Hello there.'
+
+435
+00:26:03,000 --> 00:26:05,469
+Ah. Bournemouth, where are you?
+
+436
+00:26:05,520 --> 00:26:09,036
+-'I'm in Bournemouth.'
+- Yes, we know. What are you doing?
+
+437
+00:26:09,080 --> 00:26:11,197
+'Well, none of your business,
+actually,
+
+438
+00:26:11,240 --> 00:26:14,039
+'but I'm having a bit of a break
+from everything.'
+
+439
+00:26:14,080 --> 00:26:15,275
+- Are you?
+-'Yes.
+
+440
+00:26:15,320 --> 00:26:19,473
+'I didn't want to be lonely so I've
+taken the Petticoat 5 with me.'
+
+441
+00:26:19,520 --> 00:26:22,035
+Oh, God. I hope she's OK.
+
+442
+00:26:22,080 --> 00:26:26,472
+'Yes, she's fine. You can talk to
+her if you like. Hang on.
+
+443
+00:26:26,520 --> 00:26:29,194
+'Petticoat, it's for you.'
+
+444
+00:26:29,720 --> 00:26:32,394
+(Patricia) Hello?
+(Petticoat 5)'Hello.'
+
+445
+00:26:32,440 --> 00:26:34,432
+- Hello?
+-'Hello.'
+
+446
+00:26:34,480 --> 00:26:36,676
+- Is that the Petticoat 5?
+-'Yes.'
+
+447
+00:26:36,720 --> 00:26:39,952
+- I didn't know you could talk.
+-'Bournemouth taught me.
+
+448
+00:26:40,000 --> 00:26:42,196
+'He taught me lots of things.'
+
+449
+00:26:42,240 --> 00:26:44,038
+- Did he?
+-'Yes.'
+
+450
+00:26:44,080 --> 00:26:46,151
+Bournemouth,
+when are you coming back?
+
+451
+00:26:46,200 --> 00:26:49,955
+'When you stop interfering
+with Goldie. Goodbye.'
+
+452
+00:26:50,000 --> 00:26:51,878
+- (Dialling tone)
+- Ah.
+
+453
+00:26:51,920 --> 00:26:53,877
+Well...oh, he's gone.
+
+454
+00:26:53,920 --> 00:26:56,560
+He's gone. So, well...er...
+
+455
+00:26:57,640 --> 00:26:59,632
+Best of luck to both of them.
+
+456
+00:27:04,240 --> 00:27:07,677
+So, from all of us at Shepherd's
+Bush, take care of yourself
+
+457
+00:27:07,720 --> 00:27:10,758
+and remember,
+wherever you are, whatever you do...
+
+458
+00:27:10,800 --> 00:27:13,031
+(All) Look Around You!
+
+459
+00:27:14,000 --> 00:27:15,992
+(Indistinct dialogue)
+
+460
+00:27:23,120 --> 00:27:25,112
+If you live in the Bournemouth area
+
+461
+00:27:25,160 --> 00:27:27,152
+and think you may have seen
+Bournemouth,
+
+462
+00:27:27,200 --> 00:27:29,510
+please do not approach him
+
+463
+00:27:29,560 --> 00:27:32,394
+as he is fitted
+with a powerful computer program
+
+464
+00:27:32,440 --> 00:27:34,591
+that can make you piss yourself.
+
+465
+00:27:41,880 --> 00:27:43,997
+♪ Look Around You ♪
+

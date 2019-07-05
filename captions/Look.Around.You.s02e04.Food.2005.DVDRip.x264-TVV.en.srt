@@ -14,7 +14,7 @@ with the Look Around You team.
 
 4
 00:00:13,000 --> 00:00:15,310
-But first let 's take a look
+But first let's take a look
 at the line-up
 
 5
@@ -48,7 +48,7 @@ goes on a date with a rectangle.
 
 11
 00:00:39,160 --> 00:00:43,837
-At 5.10 it 's Television's
+At 5.10 it's Television's
 Funniest Scientific Mishaps.
 
 12
@@ -66,7 +66,7 @@ Followed at 5.40 by The Colour Bars.
 15
 00:00:50,360 --> 00:00:53,956
 At six o'clock
-it 's The Backwards News.
+it's The Backwards News.
 
 16
 00:00:54,000 --> 00:00:56,640
@@ -93,7 +93,7 @@ from Dracula's Cathedral.
 
 21
 00:01:13,240 --> 00:01:18,235
-At 10.10 it 's The Honey Programme,
+At 10.10 it's The Honey Programme,
 hosted by David Bumblebee,
 
 22
@@ -126,12 +126,12 @@ for St Frankenstein's Day on BBC2!
 
 28
 00:01:44,560 --> 00:01:48,520
-(Man) Well, that 's certainly
+(Man) Well, that's certainly
 something to look forward to.
 
 29
 00:01:48,560 --> 00:01:52,315
-But now let 's go to Shepherd's Bush
+But now let's go to Shepherd's Bush
 for Look Around You.
 
 30
@@ -149,7 +149,7 @@ As you've probably guessed,
 
 33
 00:02:12,120 --> 00:02:15,830
-tonight 's programme
+tonight's programme
 is all about the future of food.
 
 34
@@ -184,7 +184,7 @@ will be going to waste.
 40
 00:02:38,160 --> 00:02:41,437
 As you can see
-it 's all being eaten by Tony Parker,
+it's all being eaten by Tony Parker,
 
 41
 00:02:41,480 --> 00:02:44,234
@@ -210,7 +210,7 @@ Whoa! He won't be eating this.
 
 46
 00:02:56,120 --> 00:02:59,796
-It 's the latest birthday cake
+It's the latest birthday cake
 from Japan
 
 47
@@ -228,7 +228,7 @@ and you're all invited.
 
 50
 00:03:42,920 --> 00:03:45,116
-# Look Around You #
+♪ Look Around You ♪
 
 51
 00:03:50,440 --> 00:03:52,636
@@ -240,7 +240,7 @@ Very fat.
 
 53
 00:03:56,600 --> 00:04:00,719
-And it 's hardly surprising
+And it's hardly surprising
 when you consider how many meals
 
 54
@@ -424,7 +424,7 @@ picture that makes it so effective?
 
 92
 00:06:33,240 --> 00:06:35,675
-It 's an exceedingly scary picture.
+It's an exceedingly scary picture.
 
 93
 00:06:35,720 --> 00:06:38,280
@@ -549,7 +549,7 @@ Yes, I know.
 
 119
 00:08:05,240 --> 00:08:08,472
-I think it 's a bit alive.
+I think it's a bit alive.
 
 120
 00:08:08,520 --> 00:08:12,150
@@ -622,7 +622,7 @@ three casseroles every single day.
 
 134
 00:09:21,200 --> 00:09:24,477
-That 's great news
+That's great news
 for the British meat industry,
 
 135
@@ -646,7 +646,7 @@ the way we eat casserole.
 
 139
 00:09:38,080 --> 00:09:40,959
-And it 's all thanks to
+And it's all thanks to
 British technology.
 
 140
@@ -685,11 +685,11 @@ dirty surfaces,
 
 147
 00:10:09,400 --> 00:10:12,393
-toilets that stink, it 's disgusting.
+toilets that stink, it's disgusting.
 
 148
 00:10:12,440 --> 00:10:14,750
-So what 's so different about Big C?
+So what's so different about Big C?
 
 149
 00:10:14,800 --> 00:10:17,872
@@ -726,7 +726,7 @@ before you open?
 
 156
 00:10:34,480 --> 00:10:37,154
-That 's right.
+That's right.
 And I'm sure you'll agree
 
 157
@@ -741,7 +741,7 @@ restaurant of the 21st century.
 
 159
 00:10:43,440 --> 00:10:46,160
-- Clive, it 's ready.
+- Clive, it's ready.
 - OK, Tammy.
 
 160
@@ -782,7 +782,7 @@ later in the programme.
 
 168
 00:11:17,480 --> 00:11:19,472
-(# Upbeat march)
+(♪ Upbeat march)
 
 169
 00:11:23,920 --> 00:11:25,912
@@ -842,7 +842,7 @@ has become a reality.
 
 181
 00:12:08,440 --> 00:12:10,591
-And it 's being used at the moment
+And it's being used at the moment
 
 182
 00:12:10,640 --> 00:12:13,633
@@ -890,12 +890,12 @@ could be for you.
 
 191
 00:12:47,680 --> 00:12:51,310
-It 's suitable for both domestic
+It's suitable for both domestic
 and professional use
 
 192
 00:12:51,360 --> 00:12:54,592
-as it 's accurate to
+as it's accurate to
 one pea in a hundred million.
 
 193
@@ -909,12 +909,12 @@ could be a real life saver
 
 195
 00:13:00,640 --> 00:13:03,553
-because it 's a medicinal pizza.
+because it's a medicinal pizza.
 
 196
 00:13:03,600 --> 00:13:07,196
 Designed by the NHS,
-it 's prepared at the hospital
+it's prepared at the hospital
 
 197
 00:13:07,240 --> 00:13:09,436
@@ -966,7 +966,7 @@ A substance known as SP4053.
 
 208
 00:13:53,160 --> 00:13:57,313
-It 's a modified elephant gene
+It's a modified elephant gene
 that can be added to pigswill
 
 209
@@ -1028,17 +1028,17 @@ You, Teddy Clarke.
 
 221
 00:15:08,440 --> 00:15:12,116
-Now it 's not actually you
+Now it's not actually you
 who's the star, is it?
 
 222
 00:15:12,160 --> 00:15:15,392
-No, it 's these chaps over here,
+No, it's these chaps over here,
 my vegetables.
 
 223
 00:15:15,440 --> 00:15:19,878
-Let 's take a look. Believe me,
+Let's take a look. Believe me,
 these aren't just any old vegetables
 
 224
@@ -1048,7 +1048,7 @@ vegetable orchestra.
 
 225
 00:15:23,760 --> 00:15:25,194
-That 's right.
+That's right.
 
 226
 00:15:25,240 --> 00:15:27,709
@@ -1086,12 +1086,12 @@ system...
 
 233
 00:15:48,200 --> 00:15:52,274
-Let 's have a look at it. Now,
+Let's have a look at it. Now,
 it does look rather complicated.
 
 234
 00:15:52,320 --> 00:15:56,917
-- It 's not too complicated actually.
+- It's not too complicated actually.
 - Is that a Beaumont Grill?
 
 235
@@ -1121,7 +1121,7 @@ of the orchestra. What are these?
 240
 00:16:14,520 --> 00:16:18,958
 The first violins. Those are
-the corn - that 's the violas -
+the corn - that's the violas -
 
 241
 00:16:19,000 --> 00:16:22,914
@@ -1160,7 +1160,7 @@ to learn a piece of music?
 
 248
 00:16:42,560 --> 00:16:46,270
-It 's pretty simple actually.
+It's pretty simple actually.
 We sit the vegetables in a mulch
 
 249
@@ -1184,7 +1184,7 @@ a very special guest there?
 
 253
 00:17:00,600 --> 00:17:02,353
-Mm, that 's right.
+Mm, that's right.
 
 254
 00:17:02,400 --> 00:17:06,110
@@ -1226,7 +1226,7 @@ and the Vegetable Orchestra.
 
 262
 00:17:39,600 --> 00:17:43,594
-(# "Classical" version of
+(♪ "Classical" version of
 BBC Nine O'Clock News theme)
 
 263
@@ -1292,7 +1292,7 @@ first automated casserole cafe.
 
 276
 00:19:08,080 --> 00:19:12,552
-It 's opening night but before then
+It's opening night but before then
 managing director Clive Pounds
 
 277
@@ -1421,7 +1421,7 @@ Mm, delicious.
 
 305
 00:21:27,160 --> 00:21:29,311
-Let 's hope the customers
+Let's hope the customers
 think so too.
 
 306
@@ -1466,7 +1466,7 @@ a one-second silence.
 
 315
 00:22:09,640 --> 00:22:11,677
-Well, it 's Pam's birthday,
+Well, it's Pam's birthday,
 
 316
 00:22:11,720 --> 00:22:15,760
@@ -1561,7 +1561,7 @@ your surprise birthday guest.
 
 336
 00:23:33,520 --> 00:23:36,558
-It 's yourself - Pam Bachelor -
+It's yourself - Pam Bachelor -
 
 337
 00:23:36,600 --> 00:23:38,637
@@ -1605,7 +1605,7 @@ Oh, yes. What happened to your eye?
 
 346
 00:24:20,680 --> 00:24:23,673
-- It 's your eye too, dear.
+- It's your eye too, dear.
 - Sorry.
 
 347
@@ -1619,7 +1619,7 @@ with this nuclear one.
 
 349
 00:24:28,720 --> 00:24:31,110
-It 's rather good, actually - look.
+It's rather good, actually - look.
 
 350
 00:24:33,960 --> 00:24:36,839
@@ -1652,8 +1652,8 @@ the investigation and everything.
 
 356
 00:24:51,200 --> 00:24:55,399
-Anyway, the point is, it 's your
-birthday - it 's our birthday -
+Anyway, the point is, it's your
+birthday - it's our birthday -
 
 357
 00:24:55,440 --> 00:24:58,160
@@ -1675,7 +1675,7 @@ Pam Bachelor from the future.
 
 361
 00:25:09,160 --> 00:25:13,074
-Unfortunately that 's all
+Unfortunately that's all
 we've got time for tonight.
 
 362
@@ -1685,7 +1685,7 @@ a fantastic birthday.
 
 363
 00:25:16,120 --> 00:25:18,760
-It 's been the best birthday ever.
+It's been the best birthday ever.
 
 364
 00:25:18,800 --> 00:25:21,599
@@ -1721,7 +1721,7 @@ Thandy.
 
 371
 00:25:43,720 --> 00:25:46,076
-Next week it 's time
+Next week it's time
 to get plugged in
 
 372
@@ -1745,68 +1745,68 @@ wherever you are, whatever you do...
 
 376
 00:25:59,400 --> 00:26:01,676
-(# Piano introduction)
+(♪ Piano introduction)
 
 377
 00:26:01,720 --> 00:26:05,077
-# Happy birthday to you
+♪ Happy birthday to you
 
 378
 00:26:05,600 --> 00:26:08,991
-# Happy birthday to you
+♪ Happy birthday to you
 
 379
 00:26:09,040 --> 00:26:13,637
-# Happy birthday dear Pam
+♪ Happy birthday dear Pam
 
 380
 00:26:13,680 --> 00:26:16,912
-# Happy birthday to you
+♪ Happy birthday to you
 
 381
 00:26:16,960 --> 00:26:20,954
-# Birthdays are a time
+♪ Birthdays are a time
 for celebration
 
 382
 00:26:21,000 --> 00:26:25,040
-# A time when all around you
+♪ A time when all around you
 is good cheer
 
 383
 00:26:25,080 --> 00:26:29,393
-# So please all raise your glass
+♪ So please all raise your glass
 and hearty may you laugh
 
 384
 00:26:29,440 --> 00:26:33,957
-# And toast this merry fellow
+♪ And toast this merry fellow
 that is here
 
 385
 00:26:34,000 --> 00:26:37,391
-# Happy birthday to you
+♪ Happy birthday to you
 
 386
 00:26:37,960 --> 00:26:41,192
-# Happy birthday to you
+♪ Happy birthday to you
 
 387
 00:26:41,240 --> 00:26:46,713
-# Happy birthday dear Pams
+♪ Happy birthday dear Pams
 
 388
 00:26:46,760 --> 00:26:50,754
-# From Look Around You #
+♪ From Look Around You ♪
 
 389
 00:26:50,800 --> 00:26:53,838
-- (# Theme tune)
+- (♪ Theme tune)
 - (Pealy) Happy birthday.
 
 390
 00:27:16,200 --> 00:27:18,192
-# Look Around You #
+♪ Look Around You ♪
 
 391
 00:27:26,960 --> 00:27:28,952

@@ -41,7 +41,7 @@ healthy edition of Look Around You.
 
 10
 00:01:04,840 --> 00:01:06,832
-# Look Around You #
+♪ Look Around You ♪
 
 11
 00:01:10,480 --> 00:01:13,040
@@ -334,7 +334,7 @@ more commonly known as Cobbles.
 
 72
 00:05:08,320 --> 00:05:10,312
-(# Sad music)
+(♪ Sad music)
 
 73
 00:05:10,360 --> 00:05:14,434
@@ -1023,7 +1023,7 @@ way round. Here we go.
 
 218
 00:14:45,960 --> 00:14:47,917
-(# Chirpy tune)
+(♪ Chirpy tune)
 
 219
 00:14:47,960 --> 00:14:50,475
@@ -1298,7 +1298,7 @@ OK, well let's take a look at it.
 
 277
 00:18:45,960 --> 00:18:47,952
-(# Gentle piano)
+(♪ Gentle piano)
 
 278
 00:18:52,560 --> 00:18:56,998
@@ -1525,7 +1525,7 @@ annual exhibition in Bath.
 
 327
 00:22:03,040 --> 00:22:05,032
-(# Bleeping electronica)
+(♪ Bleeping electronica)
 
 328
 00:22:06,640 --> 00:22:11,078
@@ -1861,7 +1861,7 @@ wherever you are, whatever you do...
 
 399
 00:26:31,960 --> 00:26:34,350
-- (# Theme tune)
+- (♪ Theme tune)
 - Wow, absolutely...
 
 400
@@ -1878,7 +1878,7 @@ Good luck, Pam.
 
 403
 00:27:12,720 --> 00:27:15,110
-# Look Around You #
+♪ Look Around You ♪
 
 404
 00:27:31,160 --> 00:27:35,552
