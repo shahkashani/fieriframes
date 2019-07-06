@@ -39,6 +39,7 @@ const {
   TWITTER_ACCESS_TOKEN_SECRET,
   POST_TEXT_GENERATOR_URL,
   GIF_EFFECT_RATE,
+  CAPTION_EFFECT_RATE,
   FIERIFICTION_VIDEO_RATE,
   GOOGLE_CLOUD_CREDENTIALS_BASE64,
   GIF_LENGTH_SECONDS
@@ -57,6 +58,9 @@ const {
 const GIF_STILL_RATE = 0.5;
 const CAPTION_RATE = caption ? 1 : 0.8;
 const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
+const USE_CAPTION_EFFECT_RATE = CAPTION_EFFECT_RATE
+  ? parseFloat(CAPTION_EFFECT_RATE)
+  : 0;
 const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
   ? parseFloat(FIERIFICTION_VIDEO_RATE)
   : 0.5;
@@ -190,6 +194,11 @@ const filters = compact([
       folder: resolve('./captions'),
       font: resolve('./fonts/arial.ttf'),
       isSequential: true,
+      transformations: randomly(
+        USE_CAPTION_EFFECT_RATE,
+        sampleSize(['uppercase', 'music', 'exclamation'], 1),
+        []
+      ),
       num: {
         srt: random(1, 2),
         txt: 1
