@@ -42,7 +42,8 @@ const {
   CAPTION_EFFECT_RATE,
   FIERIFICTION_VIDEO_RATE,
   GOOGLE_CLOUD_CREDENTIALS_BASE64,
-  GIF_LENGTH_SECONDS
+  GIF_LENGTH_SECONDS,
+  GIF_FPS
 } = process.env;
 
 const {
@@ -67,6 +68,7 @@ const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
 const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
   ? parseFloat(GIF_LENGTH_SECONDS)
   : 2;
+const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
 
 const fiction = new FieriFiction({
   tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
@@ -104,7 +106,8 @@ const isGif = type === 'gif';
 
 const content = isGif
   ? new stills.content.Gif({
-      duration: NUM_GIF_LENGTH_SECONDS
+      duration: NUM_GIF_LENGTH_SECONDS,
+      fps: NUM_GIF_FPS
     })
   : new stills.content.Still();
 
