@@ -1,0 +1,5030 @@
+﻿2
+00:01:40,401 --> 00:01:43,695
+Launch control is having trouble
+verifying mass acceleration.
+
+3
+00:01:43,863 --> 00:01:48,075
+Team Banzai rotational supervisor,
+please confirm.
+
+4
+00:01:49,535 --> 00:01:53,664
+I want an electromagnetic
+fuel reading from the launch.
+
+5
+00:01:55,500 --> 00:02:00,087
+We are T minus seven zero and holding.
+
+6
+00:02:00,213 --> 00:02:04,341
+Antigravity inertia reversal crosscheck.
+
+7
+00:02:06,427 --> 00:02:09,388
+Can we have a photographic
+printout to the bunker?
+
+8
+00:02:09,514 --> 00:02:14,893
+T minus six zero three and holding.
+Phaser positive. Latch compressor.
+
+9
+00:02:15,395 --> 00:02:19,273
+Multistage
+axial compressor... latched.
+
+10
+00:02:19,399 --> 00:02:23,610
+Fuel pressure... 1800 torrs.
+
+11
+00:02:23,736 --> 00:02:29,574
+Commence pullback to
+the launch sequence. Clear the launch.
+
+12
+00:02:32,245 --> 00:02:35,372
+Specific density is 2.5. Over.
+
+13
+00:02:35,540 --> 00:02:38,792
+You're kidding. He's still at the hospital?
+
+14
+00:02:39,961 --> 00:02:42,504
+Banzai hasn't showed yet, Mr. Secretary.
+
+15
+00:02:42,630 --> 00:02:45,465
+Looks like he's got cold feet.
+
+16
+00:02:45,591 --> 00:02:49,177
+Well, better go see what's
+keeping the boss, Reno.
+
+17
+00:02:49,304 --> 00:02:51,763
+Why me?
+
+18
+00:02:51,889 --> 00:02:53,640
+Cos I'm busy.
+
+19
+00:02:55,560 --> 00:02:57,352
+May I have the curved Yasargil, please?
+
+20
+00:02:57,478 --> 00:02:59,855
+It's not here, Dr. Banzai.
+
+21
+00:02:59,981 --> 00:03:02,482
+Ah, let me have the straight one then.
+
+22
+00:03:02,608 --> 00:03:05,018
+See, this is the part where for me
+it started looking like a problem.
+
+23
+00:03:05,028 --> 00:03:09,281
+I mean, I wanted to sacrifice the precentral
+vein in order to get some exposure.
+
+24
+00:03:09,449 --> 00:03:12,859
+But because of this guy's normal variation,
+I got excited and all the sudden I didn't know
+
+25
+00:03:12,869 --> 00:03:16,612
+whether I was looking at the precentral vein or one
+of the internal cerebro veins or the Vein of Galen
+
+26
+00:03:16,622 --> 00:03:20,825
+or the Basilar vein of Rosenthal, so one my own me at
+this point I was ready to say "That's it, let's get out".
+
+27
+00:03:20,835 --> 00:03:23,920
+See, you can check
+your anatomy all you want,
+
+28
+00:03:24,047 --> 00:03:26,831
+and even though there may be normal
+variation, if you get right down to it,
+
+29
+00:03:26,841 --> 00:03:29,676
+this far inside the head,
+it all looks the same.
+
+30
+00:03:29,802 --> 00:03:32,888
+No, no, no. Don't tug on that.
+You never know what it might be attached to.
+
+31
+00:03:36,559 --> 00:03:39,895
+This is control.
+02 vents are closed. Looks good.
+
+32
+00:03:40,396 --> 00:03:43,857
+Dr. Banzai is using the laser
+to vaporize a pineal tumor
+
+33
+00:03:43,983 --> 00:03:46,651
+without damaging
+the quadrigeminal plate.
+
+34
+00:03:46,819 --> 00:03:49,738
+Subcutaneous microphone gonna
+allow the patient to transmit
+
+35
+00:03:49,822 --> 00:03:52,366
+verbal instructions to his own brain.
+
+36
+00:03:52,492 --> 00:03:57,245
+- Like "Raise my left arm"?
+- Or "Throw the harpoon".
+
+37
+00:03:57,372 --> 00:04:00,415
+People are gonna come from all over.
+This boy's an Eskimo.
+
+38
+00:04:01,334 --> 00:04:04,669
+You ever thought about
+joining me full time?
+
+39
+00:04:04,837 --> 00:04:06,957
+What do you mean? You serious?
+Do you have an opening?
+
+40
+00:04:07,006 --> 00:04:10,884
+Uh-huh. Can you sing?
+
+41
+00:04:11,010 --> 00:04:13,762
+A little. Yeah. I can dance.
+
+42
+00:04:13,930 --> 00:04:15,430
+Hey, it's Buckaroo.
+
+43
+00:04:15,556 --> 00:04:18,642
+We have Buckaroo descending.
+We have him on the launch parameter.
+
+44
+00:04:18,768 --> 00:04:24,606
+Inertial control positive.
+T minus five four five. Resume counting.
+
+45
+00:04:24,732 --> 00:04:26,400
+Hey, hey, Rawhide!
+
+46
+00:04:26,526 --> 00:04:30,529
+All systems righteous.
+Professor Hikita says we have a go.
+
+47
+00:04:40,706 --> 00:04:45,460
+I'm teeing off in an hour and a half.
+What's this jalopy supposed to do anyway?
+
+48
+00:04:45,586 --> 00:04:49,297
+- 500 miles an hour, General.
+- Oh, Senator, you're so gullible.
+
+49
+00:04:54,387 --> 00:04:58,849
+Please clear the launch grid.
+Please clear the launch grid.
+
+50
+00:05:02,645 --> 00:05:06,345
+HB 88, this is control.
+Driver's door check secure.
+
+51
+00:05:06,482 --> 00:05:10,282
+<i>- ...B, C, D, E...</i>
+- Clear the area!
+
+52
+00:05:12,780 --> 00:05:16,366
+Control, this is HB 88.
+Commander's voice check. Over.
+
+53
+00:05:16,492 --> 00:05:18,743
+Roger, HB 88. Read you. Out.
+
+54
+00:05:18,911 --> 00:05:22,664
+Control, this is HB 88.
+Event timer started. Over.
+
+55
+00:05:22,748 --> 00:05:26,293
+HB 88, this is control.
+APU start is go.
+
+56
+00:05:26,419 --> 00:05:28,837
+You are on your
+on-board computer. Over.
+
+57
+00:05:28,963 --> 00:05:30,338
+Roger, I copy.
+
+58
+00:05:30,465 --> 00:05:35,469
+- Altimeters? Compasses?
+- Set and crosschecked.
+
+59
+00:05:37,763 --> 00:05:40,640
+- Reserve brake system two?
+- Closed and guarded.
+
+60
+00:05:40,808 --> 00:05:42,559
+- Gear handle?
+- Down and in.
+
+61
+00:05:42,643 --> 00:05:44,895
+- Throttles and start levers?
+- Closed, off.
+
+62
+00:05:45,021 --> 00:05:48,398
+- Number four electric hydraulic pump and press?
+- On and checked.
+
+63
+00:05:48,524 --> 00:05:50,317
+- Parking brake?
+- Set. Press checked.
+
+64
+00:05:50,443 --> 00:05:53,904
+- Radios, radar and transponder?
+- Set and stand by.
+
+65
+00:05:59,744 --> 00:06:03,663
+HB 88, this is control.
+IMU alignment in progress.
+
+66
+00:06:03,789 --> 00:06:06,541
+We show 28 degrees, 36 minutes.
+
+67
+00:06:06,667 --> 00:06:12,172
+30.32 seconds north...
+by 80 degrees, 36 minutes.
+
+68
+00:06:12,298 --> 00:06:16,176
+- 14.8 seconds west.
+- Synchro is aligned.
+
+69
+00:06:16,302 --> 00:06:20,305
+HB 88, this is control.
+Ground crew secure. Over.
+
+70
+00:06:45,915 --> 00:06:50,085
+- INS ram coordinates.
+- Form one, fuel ticket?
+
+71
+00:06:50,211 --> 00:06:53,296
+- On board.
+- Circuit breakers?
+
+72
+00:06:53,422 --> 00:06:57,008
+Point of no return. Five, four, three...
+
+73
+00:06:57,176 --> 00:07:00,303
+We have main engine start.
+...two, one.
+
+74
+00:07:10,940 --> 00:07:13,400
+Electronuclear carburation seems fine.
+
+75
+00:07:15,111 --> 00:07:21,032
+He's fast. I'll give Banzai that. But one
+heat-seeking missile and he's history.
+
+76
+00:07:21,158 --> 00:07:24,786
+This is control. APU start is go.
+
+77
+00:07:24,912 --> 00:07:28,665
+You're on your on-board computer. Over.
+
+78
+00:07:28,833 --> 00:07:33,587
+They are reading you on the localizer
+downrange. Looks good. Over.
+
+79
+00:07:33,713 --> 00:07:35,797
+HB 88, this is control.
+
+80
+00:07:35,923 --> 00:07:40,552
+Speed steady at 317 nautical.
+400 and accelerating!
+
+81
+00:07:42,638 --> 00:07:46,057
+Horizontal velocity is expanding. Over.
+
+82
+00:07:50,062 --> 00:07:52,647
+- Four... three...
+- Here he comes.
+
+83
+00:07:52,773 --> 00:07:55,692
+...two... one.
+
+84
+00:07:55,818 --> 00:07:58,486
+- Where's he going?
+- Yeah!
+
+85
+00:08:00,448 --> 00:08:03,366
+He is off course.
+This is Chase One. Over.
+
+86
+00:08:03,534 --> 00:08:05,327
+He has broken trajectory...
+
+87
+00:08:05,453 --> 00:08:09,539
+50 cylinder. There is an immediate
+fire hazard. Do you read?
+
+88
+00:08:09,707 --> 00:08:11,708
+- Roger.
+- Do you read?
+
+89
+00:08:11,834 --> 00:08:15,754
+Advise you abort. Over.
+Repeat: Advise you cancel phase two!
+
+90
+00:08:15,880 --> 00:08:19,633
+- What the hell's phase two?
+- That's a big no-can-do.
+
+91
+00:08:23,137 --> 00:08:26,598
+Buckaroo, are you decompressing? Over.
+
+92
+00:08:27,433 --> 00:08:30,602
+- He's broken the sound barrier!
+- Mach 1 .3.
+
+93
+00:08:30,728 --> 00:08:35,065
+Buckaroo, do you read?
+Commence braking procedure. Over.
+
+94
+00:08:35,191 --> 00:08:37,609
+Just be cool. She'll hold.
+
+95
+00:08:38,903 --> 00:08:41,821
+Axis negative.
+Pneumatic pressure negative.
+
+96
+00:08:41,989 --> 00:08:44,324
+We are looking at 500 degrees...
+
+97
+00:08:44,450 --> 00:08:48,161
+We are in pursuit.
+He is gaining. Over.
+
+98
+00:08:48,287 --> 00:08:50,705
+He's headed for the mountains!
+
+99
+00:08:50,831 --> 00:08:52,415
+Eject, Buckaroo! Eject!
+
+100
+00:08:54,752 --> 00:09:00,173
+HB 88, do you read? Do you read? Over.
+This is control. Do you read?
+
+101
+00:09:01,676 --> 00:09:04,094
+Unsafe levels of...
+
+102
+00:09:04,887 --> 00:09:08,515
+Standby recirculation has been activated.
+
+103
+00:09:10,476 --> 00:09:13,436
+HB 88, this is control. Do you...
+
+104
+00:09:17,733 --> 00:09:21,361
+Hotel Brava 88 do you read?
+Do you read? Over.
+
+105
+00:09:22,279 --> 00:09:26,700
+- What is going on?
+- It's off my scope.
+
+106
+00:09:35,084 --> 00:09:39,003
+This is Chase One. We got his tracks.
+They go right up to a wall of rock.
+
+107
+00:09:39,171 --> 00:09:40,755
+Holy shit!
+
+108
+00:10:13,414 --> 00:10:18,543
+This is Chase Two. Chase Two.
+We see him. We see him.
+
+109
+00:10:19,086 --> 00:10:22,422
+We have him. Chase Two reports
+a visual 100 miles off course.
+
+110
+00:10:22,548 --> 00:10:23,465
+Banzai!
+
+111
+00:10:25,926 --> 00:10:28,720
+He's gone through it.
+He's gone through the mountain.
+
+112
+00:10:28,846 --> 00:10:31,097
+It has deployed there.
+
+113
+00:10:33,184 --> 00:10:37,020
+There is a minimal disturbance
+in the electromagnetic field.
+
+114
+00:10:37,146 --> 00:10:40,023
+Antigravity inertia is normal.
+
+115
+00:10:40,149 --> 00:10:43,735
+Mass acceleration is diminishing. Over.
+
+116
+00:10:43,903 --> 00:10:45,487
+He is OK.
+
+117
+00:10:45,571 --> 00:10:50,200
+The vehicle is hot, but we are
+showing no radioactivity. Over.
+
+118
+00:10:50,367 --> 00:10:55,288
+HB 88, this is control. We see you.
+Welcome home. Over.
+
+119
+00:10:55,414 --> 00:10:58,833
+We show electrical-field aberrations
+on the windshield.
+
+120
+00:10:58,959 --> 00:11:04,380
+We are getting a localized vibration
+of the drive train and a minor oil leak.
+
+121
+00:11:04,465 --> 00:11:07,383
+Buckaroo, can you verify
+operational capability?
+
+122
+00:11:13,808 --> 00:11:15,183
+HB 88, this is control.
+
+123
+00:11:15,309 --> 00:11:18,603
+We are reading an electrical
+field aberration of 993
+
+124
+00:11:18,729 --> 00:11:22,816
+on your windshield, static and fracture.
+Can you confirm? Over.
+
+125
+00:11:33,452 --> 00:11:36,788
+HB 88, this is control.
+Do you hear me? Over.
+
+126
+00:11:36,914 --> 00:11:42,877
+We are getting localized vibration on
+your drive shaft. Can you verify? Over.
+
+127
+00:11:52,972 --> 00:11:58,518
+HB 88, a retrieval vehicle
+will rendezvous in ten minutes. Over.
+
+128
+00:12:08,988 --> 00:12:13,283
+Well, there it is,
+tire tracks right up to a wall of rock.
+
+129
+00:12:13,450 --> 00:12:17,036
+Perfect Tommy, Rawhide, Reno -
+
+130
+00:12:17,204 --> 00:12:22,166
+cute guys of the Hong Kong Cavaliers,
+Buckaroo's most trusted inner circle.
+
+131
+00:12:23,085 --> 00:12:27,046
+Could you elaborate on that device,
+I believe, dubbed the "oscillator"...
+
+132
+00:12:27,214 --> 00:12:30,717
+- Oscillation overthruster.
+- Hikita!
+
+133
+00:12:30,843 --> 00:12:34,762
+- Thank you, Allison.
+- That dirty little Asian critter!
+
+134
+00:12:38,851 --> 00:12:44,272
+Tranquillizers are being dispensed
+to all patients between 10 and 11 am,
+
+135
+00:12:44,398 --> 00:12:47,901
+Tuesday, Friday and Wednesday.
+
+136
+00:12:55,534 --> 00:12:59,621
+The sound barrier crumbles,
+and then the dimension barrier.
+
+137
+00:12:59,747 --> 00:13:06,210
+It was, Buckaroo Banzai said, exactly like
+Professor Hikita had glimpsed in 1938
+
+138
+00:13:06,378 --> 00:13:12,050
+through the overthruster he and Dr. Emilio
+Lizardo put together from spare parts
+
+139
+00:13:12,176 --> 00:13:14,469
+in a laboratory at Princeton.
+
+140
+00:13:14,595 --> 00:13:19,599
+1938. Can you imagine what it
+must have been like then?
+
+141
+00:13:31,278 --> 00:13:33,696
+Molto grazie, Dr. Lizardo.
+
+142
+00:13:34,365 --> 00:13:38,701
+Almost ready, Dr. Lizardo! Almost.
+
+143
+00:14:00,391 --> 00:14:03,685
+Electromagnets, they are charging.
+
+144
+00:14:03,852 --> 00:14:06,562
+Catapult, she's wired!
+
+145
+00:14:07,356 --> 00:14:11,109
+No. Not yet. No!
+
+146
+00:14:12,319 --> 00:14:13,778
+Whoo!
+
+147
+00:14:14,822 --> 00:14:17,365
+No, not yet! Not yet! I'm not ready!
+
+148
+00:14:38,387 --> 00:14:41,639
+He did not go through the wall.
+
+149
+00:14:48,022 --> 00:14:50,106
+Holy Toledo!
+
+150
+00:14:55,029 --> 00:14:57,864
+Facile. Sotto, dottor.
+
+151
+00:15:08,709 --> 00:15:10,501
+Emilio?
+
+152
+00:15:30,272 --> 00:15:33,024
+...asked what he saw,
+asked where he went,
+
+153
+00:15:33,150 --> 00:15:38,696
+Dr. Banzai replied "Vast chasms
+of hissing swamp, spurts of flame,
+
+154
+00:15:38,822 --> 00:15:42,283
+huge thunderclaps
+and gurgling rock formations."
+
+155
+00:15:43,410 --> 00:15:47,830
+Lithium is no longer
+available on credit.
+
+156
+00:15:51,752 --> 00:15:54,337
+G-sub-E...
+
+157
+00:15:54,505 --> 00:15:59,425
+Gesù Cristo, make the ganglia twitch.
+We're home free.
+
+158
+00:15:59,593 --> 00:16:05,556
+Home... home is where
+you wear your hat.
+
+159
+00:16:05,682 --> 00:16:10,019
+I feel so break up, I want to go home!
+
+160
+00:16:10,145 --> 00:16:14,565
+Hello, Doc. Who are we today?
+Albert Einstein?
+
+161
+00:16:14,691 --> 00:16:17,693
+No. Lord John Whorfin.
+
+162
+00:16:17,820 --> 00:16:21,697
+If there's one thing I hate,
+it's to be mistaken for somebody else.
+
+163
+00:16:21,824 --> 00:16:26,953
+Cheer up, Lizardo. It's Friday. I got
+a care package from your yo-yo friends.
+
+164
+00:16:27,663 --> 00:16:30,706
+Hey, Signore...
+
+165
+00:16:30,833 --> 00:16:33,084
+grazie tanto.
+
+166
+00:16:33,252 --> 00:16:35,211
+Thanks, Doc.
+
+167
+00:16:35,337 --> 00:16:38,506
+I come for your TV.
+You've been using too much juice.
+
+168
+00:16:38,674 --> 00:16:41,676
+Another 10,000 kilowatts
+again this month.
+
+169
+00:16:41,760 --> 00:16:44,929
+It beats me how an old homicidal
+loony can use that much power.
+
+170
+00:16:45,055 --> 00:16:47,932
+Go on, take it! I don't need it!
+
+171
+00:16:48,058 --> 00:16:53,855
+Tomorrow I'm goin' home
+with my overthruster.
+
+172
+00:16:56,525 --> 00:16:58,609
+That's terrific, Doc.
+
+173
+00:16:58,777 --> 00:17:02,113
+I'll make sure you get
+an early wake-up call.
+
+174
+00:17:04,116 --> 00:17:07,368
+Laugh while you can, monkey boy.
+
+175
+00:17:18,046 --> 00:17:21,799
+Buckaroo, I've done
+a spectrographic analysis
+
+176
+00:17:21,925 --> 00:17:26,095
+on the specimen you pulled
+off the jet car drive shaft.
+
+177
+00:17:27,222 --> 00:17:29,015
+Rawhide, what do you think?
+
+178
+00:17:29,141 --> 00:17:31,350
+I don't care if you walked
+through a mountain in Texas.
+
+179
+00:17:31,476 --> 00:17:36,314
+This is New Jersey, and when you
+play my joint, you're just another act.
+
+180
+00:17:36,440 --> 00:17:41,319
+- I want some music out of you.
+- You want it, Artie? You got it.
+
+181
+00:17:45,407 --> 00:17:46,490
+Let's rock and roll!
+
+182
+00:17:51,538 --> 00:17:55,791
+Ladies and gentlemen, Artie's Artery
+is proud to present for a single night only,
+
+183
+00:17:55,876 --> 00:17:59,629
+New Brunswick's own,
+the one, the only, the amazing...
+
+184
+00:17:59,755 --> 00:18:03,674
+Buckaroo Banzai and
+the Hong Kong Cavaliers!
+
+185
+00:19:14,705 --> 00:19:16,622
+Excuse me.
+
+186
+00:19:18,500 --> 00:19:21,794
+Excuse me, is someone out there
+not having a good time?
+
+187
+00:19:26,049 --> 00:19:28,467
+Is somebody...
+
+188
+00:19:28,593 --> 00:19:30,970
+is somebody crying...
+
+189
+00:19:31,096 --> 00:19:33,389
+out there in the darkness?
+
+190
+00:19:34,308 --> 00:19:36,183
+Somebody crying?
+
+191
+00:19:36,310 --> 00:19:39,729
+Over here. I'm sorry.
+
+192
+00:19:40,856 --> 00:19:46,694
+Um, could we get... could we
+get her a mike and a spotlight?
+
+193
+00:19:46,862 --> 00:19:49,780
+Tommy, could we run her a mike?
+
+194
+00:19:50,907 --> 00:19:55,036
+- What, are you serious?
+- Yeah, run her over a mike.
+
+195
+00:19:57,956 --> 00:20:00,291
+What's your name?
+
+196
+00:20:00,417 --> 00:20:02,501
+- Who cares?
+- Right.
+
+197
+00:20:02,669 --> 00:20:05,087
+Well, I care. What's your name?
+
+198
+00:20:09,885 --> 00:20:12,470
+- Penny.
+- Did you say Peggy?
+
+199
+00:20:13,680 --> 00:20:16,557
+No. My name's Penny. Penny Priddy.
+
+200
+00:20:18,685 --> 00:20:21,604
+That doesn't matter.
+It's not important.
+
+201
+00:20:22,272 --> 00:20:28,194
+I just... I just sponged up
+a little too much Vat 69, that's all.
+
+202
+00:20:29,279 --> 00:20:32,615
+I'm down to my last nickel
+in this lousy town,
+
+203
+00:20:32,741 --> 00:20:35,159
+and they wouldn't take
+my luggage in hock.
+
+204
+00:20:35,243 --> 00:20:37,787
+I lost my room at the Y this morning.
+
+205
+00:20:41,875 --> 00:20:43,918
+But it's cool.
+
+206
+00:20:44,044 --> 00:20:47,546
+Hey. Hey, hey, hey, hey. Hey, now.
+
+207
+00:20:47,672 --> 00:20:50,007
+Don't be mean.
+
+208
+00:20:50,133 --> 00:20:54,428
+We don't have to be mean,
+cos, remember...
+
+209
+00:20:55,013 --> 00:20:59,892
+no matter where you go...
+there you are.
+
+210
+00:21:17,536 --> 00:21:22,957
+- I'm gonna sing this song for you, Peggy.
+- No, Penny! Who cares?
+
+211
+00:21:28,547 --> 00:21:36,220
+I don't have plans and schemes...
+
+212
+00:21:36,346 --> 00:21:38,973
+And I...
+
+213
+00:21:39,099 --> 00:21:44,019
+Don't have hopes and dreams...
+
+214
+00:21:44,146 --> 00:21:50,901
+I don't have anything...
+
+215
+00:21:51,027 --> 00:21:52,778
+- This is weird.
+- Sure is.
+
+216
+00:21:52,904 --> 00:21:58,242
+Since I don't have you...
+
+217
+00:21:59,786 --> 00:22:02,538
+- Yeah, I...
+- Who's the girl?
+
+218
+00:22:02,664 --> 00:22:07,668
+Don't have fond desires...
+
+219
+00:22:07,794 --> 00:22:15,301
+I don't have happy hours...
+
+220
+00:22:15,427 --> 00:22:22,600
+I don't have anything...
+
+221
+00:22:29,357 --> 00:22:33,903
+- Get her outta here now! Let's go!
+- Let me go! Let me go, you freaks!
+
+222
+00:22:34,029 --> 00:22:37,948
+- Wait. Wait a minute. Wait.
+- Kill that spot. Kill it!
+
+223
+00:22:42,579 --> 00:22:47,291
+...festive briefing by the
+Banzai Institute. Tomorrow...
+
+224
+00:22:48,168 --> 00:22:50,211
+Where you think you're going, Doc? The moon?
+
+225
+00:22:50,337 --> 00:22:53,714
+- No, no. Planet Ten.
+- Planet Ten. Why, pray tell?
+
+226
+00:22:53,840 --> 00:22:55,841
+- Operator?
+- Doc, put down the phone.
+
+227
+00:22:55,967 --> 00:23:00,721
+Operator? I wanna make a call
+to a Mr. John Bigbooty
+
+228
+00:23:00,889 --> 00:23:06,268
+at Yoyodyne Propulsion Systems
+over in Grover's Mill.
+
+229
+00:23:06,394 --> 00:23:09,980
+And you tell him that
+it's John Whorfin calling.
+
+230
+00:23:10,065 --> 00:23:13,442
+That's W-H-O-R-F-I-N.
+You got that, honey?
+
+231
+00:23:13,568 --> 00:23:17,530
+- John. J-O-H-N.
+- This better be collect, Doc.
+
+232
+00:23:24,204 --> 00:23:30,042
+Bigbooty? Of course it's me, you fool!
+Who do you think?
+
+233
+00:23:30,168 --> 00:23:32,586
+The time has come, Bigbooty.
+
+234
+00:23:32,754 --> 00:23:35,130
+Prepare for my return.
+
+235
+00:23:36,508 --> 00:23:39,260
+Well, haven't you heard?
+Don't you watch TV?
+
+236
+00:23:39,386 --> 00:23:45,140
+Banzai and Hikita have done it.
+They have opened the window!
+
+237
+00:23:46,101 --> 00:23:50,479
+Si. Si. So meet me at the factory.
+
+238
+00:23:50,647 --> 00:23:53,732
+And get their overthruster.
+
+239
+00:23:53,817 --> 00:23:55,776
+And Hikita, too.
+
+240
+00:23:55,944 --> 00:23:58,237
+Sure. Alive.
+
+241
+00:23:58,405 --> 00:24:02,992
+No, no, don't worry about me.
+I'll get my own ride.
+
+242
+00:24:11,001 --> 00:24:16,046
+Evil will not prevail. That was...
+
+243
+00:24:19,259 --> 00:24:22,011
+Arrivederci, Jersey.
+
+244
+00:24:22,178 --> 00:24:25,431
+Goodbye, goodbye to her...
+
+245
+00:24:31,438 --> 00:24:35,274
+- It's the spittin' image.
+- Doesn't look anything like her.
+
+246
+00:24:35,442 --> 00:24:37,234
+Pictures don't lie.
+
+247
+00:24:37,360 --> 00:24:41,530
+Hell they don't. Met my first wife that way.
+
+248
+00:24:42,365 --> 00:24:46,368
+It's Peggy to these eyes. It's the
+same nose. It's the same hair.
+
+249
+00:24:46,536 --> 00:24:49,413
+Plus, Buckaroo has to think so too
+or else he wouldn't be ready
+
+250
+00:24:49,539 --> 00:24:51,790
+to make a fool of himself.
+
+251
+00:24:57,380 --> 00:25:01,050
+Just hot off the World Watch Wire, Buckaroo.
+Thought you'd wanna be notified.
+
+252
+00:25:01,176 --> 00:25:04,053
+Remember that old Italian pal
+of the Professor's?
+
+253
+00:25:04,179 --> 00:25:05,763
+- Emilio Lizardo.
+- Yeah.
+
+254
+00:25:05,889 --> 00:25:09,975
+Last night he kills a guard, breaks out of
+Trenton Home for the Criminally Insane.
+
+255
+00:25:10,060 --> 00:25:13,687
+Ten minutes later, he cops a Maserati
+Bora. Totaled it a block away.
+
+256
+00:25:13,855 --> 00:25:15,064
+Holy Moly.
+
+257
+00:25:15,190 --> 00:25:18,776
+- Maserati Bora.
+- Mm-hm. That ain't all.
+
+258
+00:25:19,402 --> 00:25:21,654
+He's vanished. Thin air.
+
+259
+00:25:21,821 --> 00:25:27,534
+- Dr. Lizardo. Wasn't he on TV once?
+- You're thinking of Mr. Wizard.
+
+260
+00:25:27,661 --> 00:25:30,621
+This guy is a
+top scientist, Dummkopf.
+
+261
+00:25:30,747 --> 00:25:36,043
+- So was Mr. Wizard.
+- Dr. Emilio Lizardo is a raving lunatic, Perfect Tommy.
+
+262
+00:25:36,211 --> 00:25:40,255
+A vicious psychopath.
+Just as soon kill you as go fishin'.
+
+263
+00:25:45,095 --> 00:25:47,262
+Buckaroo, look at this.
+
+264
+00:25:47,430 --> 00:25:51,517
+Grossly-abnormal high-altitude
+electrostatic disturbance
+
+265
+00:25:51,601 --> 00:25:54,978
+- moving down over Connecticut.
+- From the jet car, do you think?
+
+266
+00:25:55,105 --> 00:25:58,065
+No, not from the jet car.
+Check with NORAD Command.
+
+267
+00:25:58,233 --> 00:26:03,278
+It could be above-ground atomic testing
+in China. Maybe sunspot activity.
+
+268
+00:26:03,405 --> 00:26:04,822
+Man, that's strange.
+
+269
+00:26:08,576 --> 00:26:10,994
+Scientists at Strategious Space Command have detected
+
+270
+00:26:11,121 --> 00:26:15,124
+a mysterious radioactive cloud-like
+mass over southern New England.
+
+271
+00:26:15,291 --> 00:26:19,586
+Sources close to the National Security
+Consortium have refused to comment.
+
+272
+00:26:19,671 --> 00:26:25,342
+Let's get on back to three
+great modern country hits in a row.
+
+273
+00:26:28,513 --> 00:26:29,638
+- Sidney!
+- Buckaroo!
+
+274
+00:26:29,806 --> 00:26:32,266
+- How's the patient?
+- Fine, thanks to you.
+
+275
+00:26:32,392 --> 00:26:34,472
+- But more importantly: Congratulations!
+- Thank you.
+
+276
+00:26:34,519 --> 00:26:37,062
+You drove right through
+a mountain the other day.
+
+277
+00:26:37,188 --> 00:26:40,181
+You did it right after you left me at the operation.
+You haven't even said anything about it.
+
+278
+00:26:40,191 --> 00:26:42,359
+- Didn't mention it.
+- Sidney, these are my friends.
+
+279
+00:26:42,527 --> 00:26:46,196
+This is my colleague Dr. Sidney Zwibel, old
+medical friend from Columbia P and S.
+
+280
+00:26:46,322 --> 00:26:48,690
+- Howdy. How you're doing?
+- Listen, Sidney, I'm glad you could make it.
+
+281
+00:26:48,700 --> 00:26:51,192
+Cos it looks like we may need an
+extra hand sooner than I thought.
+
+282
+00:26:51,202 --> 00:26:53,245
+Aha, I see. That's what I was wondering about.
+
+283
+00:26:53,371 --> 00:26:56,915
+I got your message about rendezvousing
+at this address. Barely had time to pack.
+
+284
+00:26:57,041 --> 00:26:59,334
+- Then I came here...
+- I can see that.
+
+285
+00:26:59,502 --> 00:27:01,920
+I'm gonna snoop around.
+Make yourself at home.
+
+286
+00:27:05,341 --> 00:27:08,010
+You know, I thought we were gonna
+rehearse or something.
+
+287
+00:27:08,344 --> 00:27:11,930
+I'm a big fan of all you guys. I love
+the comic books and the records.
+
+288
+00:27:12,056 --> 00:27:13,891
+I know you. You're Pecos.
+
+289
+00:27:14,017 --> 00:27:17,394
+- Perfect Tommy.
+- Perfect Tommy. I'm sorry.
+
+290
+00:27:17,520 --> 00:27:21,023
+- You're Pecos.
+- Pecos is in Tibet. Name's Reno.
+
+291
+00:27:21,191 --> 00:27:23,859
+- Reno! It's an honor.
+- Where do you hail from, Doc?
+
+292
+00:27:23,943 --> 00:27:27,529
+- Uh, New Jersey. Fort Lee.
+- Where are your spurs at?
+
+293
+00:27:27,697 --> 00:27:29,114
+Is he making fun of me?
+
+294
+00:27:32,368 --> 00:27:35,287
+Third cell to the left. Pink dress.
+
+295
+00:27:35,413 --> 00:27:37,039
+Arigato.
+
+296
+00:27:48,551 --> 00:27:53,305
+What do you want? Huh?
+What are you doin' here?
+
+297
+00:27:53,389 --> 00:27:56,642
+What are you doing here?
+
+298
+00:27:56,768 --> 00:27:59,645
+Why don't you just go away
+and let me rot?
+
+299
+00:28:02,232 --> 00:28:05,567
+Who were you really trying
+to annihilate last night?
+
+300
+00:28:06,569 --> 00:28:10,322
+You. Just like the papers all say.
+
+301
+00:28:12,909 --> 00:28:15,035
+Come over here.
+
+302
+00:28:16,621 --> 00:28:19,206
+Come on.
+
+303
+00:28:19,332 --> 00:28:23,627
+Oh, my God! Perfect Tommy!
+
+304
+00:28:29,259 --> 00:28:30,717
+What do you want from me?
+
+305
+00:28:33,012 --> 00:28:37,683
+Oh, you remind me of someone
+I once knew long ago.
+
+306
+00:28:41,855 --> 00:28:44,273
+Was she very beautiful?
+
+307
+00:28:45,775 --> 00:28:49,820
+She was... queen of the Netherlands.
+
+308
+00:28:49,946 --> 00:28:52,364
+That's a long way
+from where I come from.
+
+309
+00:28:52,490 --> 00:28:55,993
+Wyoming? Cody, Wyoming?
+
+310
+00:28:56,953 --> 00:28:59,830
+No, I'm from Laramie.
+
+311
+00:28:59,956 --> 00:29:02,833
+Except that I was born in Cody,
+but nobody...
+
+312
+00:29:03,501 --> 00:29:06,211
+Do you have family?
+Back in Cody, I mean?
+
+313
+00:29:06,337 --> 00:29:08,547
+I don't know.
+
+314
+00:29:08,673 --> 00:29:12,676
+See, I always felt that there was
+another part of me somewhere.
+
+315
+00:29:12,844 --> 00:29:15,095
+Another part of you?
+
+316
+00:29:15,179 --> 00:29:17,598
+Somewhere, yeah.
+
+317
+00:29:18,558 --> 00:29:20,726
+I'm adopted.
+
+318
+00:29:20,852 --> 00:29:22,686
+Of course!
+
+319
+00:29:22,854 --> 00:29:26,023
+If it was a snake, it'd have bit me!
+
+320
+00:29:26,107 --> 00:29:28,483
+- Another you.
+- Anything's possible.
+
+321
+00:29:28,610 --> 00:29:31,236
+- Let her out!
+- Hey, me too.
+
+322
+00:29:31,362 --> 00:29:34,781
+- Let her out?
+- Yeah, let her out. I'll be responsible.
+
+323
+00:29:34,908 --> 00:29:38,035
+- She's a killer!
+- No, she's not. And give her your coat.
+
+324
+00:29:38,703 --> 00:29:40,662
+Why me?
+
+325
+00:29:40,788 --> 00:29:42,998
+Because you're perfect.
+
+326
+00:29:44,959 --> 00:29:46,668
+You have a point there.
+
+327
+00:29:50,798 --> 00:29:54,426
+I'd like to move this thing along.
+
+328
+00:29:54,552 --> 00:29:59,264
+Perhaps some of you noticed we have
+a motorcycle convention rolling in here.
+
+329
+00:29:59,390 --> 00:30:01,808
+We're a little short of time.
+
+330
+00:30:01,976 --> 00:30:05,562
+Besides, I don't imagine you
+came here to listen to me talk.
+
+331
+00:30:05,730 --> 00:30:07,814
+You're right.
+
+332
+00:30:11,736 --> 00:30:15,155
+Without further ado, I'd like
+to introduce a young man
+
+333
+00:30:15,323 --> 00:30:20,535
+who yesterday took our notions
+of reality and turned them inside out.
+
+334
+00:30:20,662 --> 00:30:24,915
+Dr. Buckaroo Banzai,
+perhaps you can explain yourself.
+
+335
+00:30:29,337 --> 00:30:30,629
+Ooh.
+
+336
+00:30:31,089 --> 00:30:35,634
+Secretary, Senator Cunningham...
+members of the world press.
+
+337
+00:30:36,094 --> 00:30:40,597
+30 years ago, almost to this day, my mother and
+father, Doctors Sandra and Masado Banzai
+
+338
+00:30:40,765 --> 00:30:44,518
+gave their lives for what was then
+considered to be a very insane notion...
+
+339
+00:30:44,644 --> 00:30:49,147
+the possibility of contacting alien life.
+
+340
+00:30:49,273 --> 00:30:54,027
+However, not on another planet. But here.
+
+341
+00:30:54,153 --> 00:30:57,447
+Maybe right inside this table...
+
+342
+00:30:57,615 --> 00:31:01,868
+living on a simultaneous plane
+of existence with our own.
+
+343
+00:31:02,328 --> 00:31:04,955
+Perhaps within a mountain.
+
+344
+00:31:06,874 --> 00:31:10,293
+See this rock? It's solid matter, right?
+
+345
+00:31:10,420 --> 00:31:15,340
+But the solid parts of this rock - the
+neutrons, quarks, protons and electrons -
+
+346
+00:31:15,466 --> 00:31:16,967
+comprise only about
+
+347
+00:31:17,093 --> 00:31:19,928
+one quadrillionth of its total volume.
+
+348
+00:31:20,054 --> 00:31:22,264
+- How many zeros is that?
+- Quite a few.
+
+349
+00:31:23,182 --> 00:31:25,767
+The rest of this rock
+is actually empty space.
+
+350
+00:31:25,893 --> 00:31:29,604
+So, back in 1937, Professor Hikita here
+and Dr. Emilio Lizardo
+
+351
+00:31:29,731 --> 00:31:33,275
+figured that if solid matter
+were mostly just empty space,
+
+352
+00:31:33,401 --> 00:31:37,696
+a person should be able to discover
+a way to travel inside things.
+
+353
+00:31:37,822 --> 00:31:42,117
+We at the Banzai Institute
+have at last found that way.
+
+354
+00:31:42,243 --> 00:31:45,078
+We have created a device
+
+355
+00:31:45,204 --> 00:31:48,704
+called an oscillation overthruster,
+
+356
+00:31:48,833 --> 00:31:52,627
+which systematically reorders matter
+
+357
+00:31:52,795 --> 00:31:57,257
+by annihilating electrons, positrons...
+
+358
+00:31:57,383 --> 00:32:01,136
+I get it. What you're saying is that
+oppositely-charged particles collide,
+
+359
+00:32:01,304 --> 00:32:06,183
+and blow each other up in a burst of energy.
+Like a tiny big bang, like a... baby bang.
+
+360
+00:32:08,561 --> 00:32:12,272
+I'm probably just stating the very obvious.
+Shut up, Penny. Shut up.
+
+361
+00:32:12,398 --> 00:32:16,443
+Oh, no. It's not obvious at all. If it was obvious,
+everybody would be doing it every day.
+
+362
+00:32:16,569 --> 00:32:21,031
+See, by all accounts, it appears as though
+I literally went right through a mountain.
+
+363
+00:32:21,199 --> 00:32:25,160
+But you could take that mountain
+and pulverize it...
+
+364
+00:32:25,286 --> 00:32:30,290
+and sift through it like breadcrumbs
+for the rest of your natural life...
+
+365
+00:32:30,416 --> 00:32:35,796
+and you would never ever find... this.
+
+366
+00:32:37,006 --> 00:32:42,010
+And yet this living organism came out
+of that mountain in Texas with me.
+
+367
+00:32:42,136 --> 00:32:46,006
+Even though I was never
+inside that mountain.
+
+368
+00:32:46,724 --> 00:32:48,124
+The president's calling.
+
+369
+00:32:48,267 --> 00:32:51,467
+- The president of what?
+- The president of the United States.
+
+370
+00:32:51,500 --> 00:32:53,800
+Oh. Here.
+
+371
+00:32:53,900 --> 00:32:55,250
+Later.
+
+372
+00:32:55,400 --> 00:32:56,460
+Is he still delirious?
+
+373
+00:32:56,471 --> 00:32:59,671
+I can't tell. It's real fuzzy. I patched
+him through to a payphone down the hall.
+
+374
+00:32:59,779 --> 00:33:03,865
+- Do your thing.
+- Buckaroo, you forgot your thruster.
+
+375
+00:33:04,033 --> 00:33:06,910
+Why don't you hold onto it for a while?
+
+376
+00:33:07,036 --> 00:33:08,870
+Any time.
+
+377
+00:33:08,996 --> 00:33:11,540
+Do we have the first slide, please?
+
+378
+00:33:11,666 --> 00:33:15,085
+What about the Pentagon?
+The possibility of war
+
+379
+00:33:15,211 --> 00:33:17,712
+in the Eighth Dimension, Mr. Secretary?
+
+380
+00:33:17,839 --> 00:33:18,839
+What?
+
+381
+00:33:19,340 --> 00:33:23,677
+It seemed like a strange connection
+even back at the bus.
+
+382
+00:33:26,222 --> 00:33:28,181
+Mr. President?
+
+383
+00:33:30,017 --> 00:33:32,394
+Some kind of interference.
+
+384
+00:33:34,188 --> 00:33:36,231
+Hello, Mr. President?
+
+385
+00:33:36,357 --> 00:33:39,526
+Mr. President? Mr. President, hello?
+
+386
+00:33:40,236 --> 00:33:41,820
+Hello, Mr. President?
+
+387
+00:33:42,363 --> 00:33:45,407
+- What's going on?
+- Maybe it's a prankster, some computer whiz kid.
+
+388
+00:33:45,533 --> 00:33:47,576
+Not with Elephant Bravo.
+
+389
+00:33:47,702 --> 00:33:51,997
+- Not with an alpha clearance.
+- Alpha clearance? Hello? Mr...
+
+390
+00:33:52,123 --> 00:33:56,418
+Ed, go back to the bus and reroute this call to
+the president's suite at Walter Reed Hospital.
+
+391
+00:33:56,544 --> 00:34:01,381
+Yeah, and make sure this is on the level.
+We're busy people here.
+
+392
+00:34:01,507 --> 00:34:03,592
+Does the President call him a lot?
+
+393
+00:34:08,347 --> 00:34:10,265
+Pencil! Pen! Quick! Anything!
+
+394
+00:34:10,433 --> 00:34:12,184
+Don't touch him!
+
+395
+00:34:14,145 --> 00:34:16,813
+What's he writing?
+
+396
+00:34:16,939 --> 00:34:18,356
+Conference room!
+
+397
+00:34:18,482 --> 00:34:20,483
+Conference room! Let's go!
+
+398
+00:34:20,610 --> 00:34:22,986
+Launch thermopod.
+
+399
+00:34:34,916 --> 00:34:37,167
+- There they are.
+- Dr. Banzai.
+
+400
+00:34:37,335 --> 00:34:39,920
+- Don't you see 'em?
+- What do you mean? Who?
+
+401
+00:34:40,046 --> 00:34:44,466
+Evil! Pure and simple from the
+Eighth Dimension! Grab 'em!
+
+402
+00:34:44,926 --> 00:34:48,511
+- Lectroids! Grab 'em!
+- Lectroids? He's got a gun.
+
+403
+00:34:49,138 --> 00:34:52,057
+OK, wise guy!
+
+404
+00:34:54,894 --> 00:34:59,689
+Let those gun belts hit the floor!
+Nobody follows or the Prof is history!
+
+405
+00:35:01,817 --> 00:35:04,861
+- Where's Buckaroo?
+- Get him.
+
+406
+00:35:04,987 --> 00:35:09,115
+- Where's the overthruster?
+- Get an ambulance.
+
+407
+00:35:24,966 --> 00:35:29,427
+- Come on, will you just ignore them?
+- Isn't that...?
+
+408
+00:35:53,202 --> 00:35:55,620
+Hey, wait a minute! You can't ride that!
+
+409
+00:35:57,248 --> 00:35:59,332
+It's Buckaroo Banzai!
+
+410
+00:36:12,096 --> 00:36:13,138
+- Hold it!
+- Freeze!
+
+411
+00:36:35,077 --> 00:36:39,289
+- I had my eyes open all day long, Burt.
+- It may not be a total loss.
+
+412
+00:36:39,415 --> 00:36:43,793
+- I'm about ready to go home.
+- We might see something.
+
+413
+00:36:48,466 --> 00:36:51,551
+I hit it! It is wounded.
+
+414
+00:36:53,429 --> 00:36:55,847
+What'd it look like to you?
+
+415
+00:36:55,973 --> 00:36:59,142
+- Like a big black flying dinosaur.
+- Dinosaur? It was purple.
+
+416
+00:36:59,268 --> 00:37:04,064
+- That's what it looked like. It was black.
+- It was purple. It'll be dark before we even find it.
+
+417
+00:37:05,191 --> 00:37:08,443
+We get Professor Hikita
+to cough up the crucial missing circuit
+
+418
+00:37:08,611 --> 00:37:10,862
+and then we finally get our butts off this rock!
+
+419
+00:37:11,030 --> 00:37:13,907
+Oh, yeah? Listen to this!
+
+420
+00:37:14,825 --> 00:37:18,328
+Well, what is it? What is it?
+
+421
+00:37:18,454 --> 00:37:20,372
+Black thermopod emergency beacon!
+
+422
+00:37:20,539 --> 00:37:23,208
+Here? On Earth?
+
+423
+00:37:23,334 --> 00:37:27,337
+- Why? John Bigbooté, why?
+- Coordinates established.
+
+424
+00:37:27,463 --> 00:37:30,465
+Electromagnetic energy
+back on route three.
+
+425
+00:37:49,068 --> 00:37:52,153
+- The whole top of the tree's squashed!
+- Do you think it up there?
+
+426
+00:37:52,321 --> 00:37:54,239
+Let's wait for the cops, Burt.
+
+427
+00:37:54,365 --> 00:37:57,283
+What for? Are you scared?
+
+428
+00:37:57,410 --> 00:38:00,578
+- There's gotta be something there.
+- Come on, Burt. There's nothing up there.
+
+429
+00:38:00,704 --> 00:38:04,124
+Well, how do you know?
+Here, hold this. Hold this!
+
+430
+00:38:06,502 --> 00:38:09,754
+Where you going? Where you going?!
+
+431
+00:38:09,880 --> 00:38:11,923
+Christmas shopping.
+
+432
+00:38:14,051 --> 00:38:17,595
+- What's that?
+- It's a stick. What's it look like?
+
+433
+00:38:19,098 --> 00:38:21,433
+- Gimme some light, will ya?
+- I got two guns in my hands.
+
+434
+00:38:21,559 --> 00:38:24,477
+- Put one of them down.
+- I ain't putting the guns down!
+
+435
+00:38:24,603 --> 00:38:27,939
+- It's just a tree.
+- Then leave it alone!
+
+436
+00:38:28,107 --> 00:38:31,651
+Aagh! See, I told you!
+I told you! Leave it alone!
+
+437
+00:38:34,738 --> 00:38:37,657
+Run! Run! Run!
+
+438
+00:38:37,783 --> 00:38:42,996
+- Shoot it, Bubba. Shoot it!
+- I can't! It's jammed! It's jammed!
+
+439
+00:38:47,251 --> 00:38:50,837
+There's something.
+There's something coming out!
+
+440
+00:38:50,963 --> 00:38:52,881
+- Where?
+- Out of the top.
+
+441
+00:38:57,553 --> 00:38:59,262
+Oh, my soul!
+
+442
+00:39:01,056 --> 00:39:05,643
+Throw me my gun, Bubba. Throw it.
+
+443
+00:39:08,314 --> 00:39:09,522
+Sorry.
+
+444
+00:39:22,828 --> 00:39:23,870
+Is he dead?
+
+445
+00:39:23,996 --> 00:39:26,998
+Yeah, I think so. But look
+at his face. It's changing.
+
+446
+00:39:27,124 --> 00:39:30,418
+And his hair...
+his hair is all disappeared.
+
+447
+00:39:30,628 --> 00:39:35,673
+- What's that smell? You smell electricity?
+- He's crackling. We're standing in water.
+
+448
+00:39:35,799 --> 00:39:37,166
+What is he, Burt?
+Is he radioactive?
+
+449
+00:39:37,176 --> 00:39:41,095
+How the hell do I know?
+Do I look like a nuclear genius?
+
+450
+00:39:41,180 --> 00:39:43,389
+He's probably from Mars.
+Or Jupiter.
+
+451
+00:39:43,516 --> 00:39:45,892
+Jupiter? I hope he's alone.
+
+452
+00:39:46,018 --> 00:39:48,144
+- There's somethin' over there.
+- Where?
+
+453
+00:39:48,312 --> 00:39:50,355
+Right there.
+
+454
+00:39:57,738 --> 00:39:59,781
+What is it?
+
+455
+00:40:02,701 --> 00:40:06,788
+Buckaroo Banzai. It's the latest issue.
+
+456
+00:40:09,875 --> 00:40:12,961
+Rawhide, come in. Rawhide.
+
+457
+00:40:13,546 --> 00:40:14,796
+Rawhide.
+
+458
+00:40:14,922 --> 00:40:19,175
+Buckaroo, what's up? Where in Hades
+are you? I'm gettin' a lot of static.
+
+459
+00:40:19,343 --> 00:40:22,762
+Yeah. That's me.
+
+460
+00:40:22,888 --> 00:40:27,600
+I've been ionized, but I'm OK now.
+
+461
+00:40:27,726 --> 00:40:31,437
+Listen, I'm switching
+on the homing beacon.
+
+462
+00:40:31,564 --> 00:40:35,233
+Mark two minute intervals... now.
+
+463
+00:40:35,401 --> 00:40:39,988
+Look, we got the overthruster. But someone
+shanghaied the Professor right from the conference.
+
+464
+00:40:40,072 --> 00:40:44,826
+- Oh, the deuce you say.
+- What do you think?
+
+465
+00:40:44,952 --> 00:40:48,329
+- Dr. Lizardo, maybe?
+- Yeah, I'd put money on it.
+
+466
+00:40:48,455 --> 00:40:51,124
+- That crate.
+- What crate?
+
+467
+00:40:51,250 --> 00:40:54,168
+The crate they shoved in that van.
+
+468
+00:40:54,295 --> 00:40:55,837
+You and the guys...
+
+469
+00:40:55,963 --> 00:40:59,716
+go back to the house and dig up
+everything you can on an outfit called
+
+470
+00:40:59,842 --> 00:41:02,260
+Yoyodyne Propulsion Systems.
+
+471
+00:41:02,386 --> 00:41:05,680
+- You got that?
+- Right. Yoyodyne. We're on it.
+
+472
+00:41:08,767 --> 00:41:12,186
+Hand me that tarp, will ya?
+Let's cover this guy up.
+
+473
+00:41:12,313 --> 00:41:15,356
+- Guy? What guy?
+- He's got paws.
+
+474
+00:41:17,818 --> 00:41:19,986
+- Now what?
+- Who are they?
+
+475
+00:41:21,989 --> 00:41:24,032
+Cover it up.
+
+476
+00:41:30,998 --> 00:41:32,832
+John Bigbooté, Officer.
+
+477
+00:41:32,958 --> 00:41:35,668
+Head of Operations,
+Yoyodyne Propulsion Systems.
+
+478
+00:41:35,794 --> 00:41:39,922
+- There's one of our birds.
+- That fella over there one of your birds, too?
+
+479
+00:41:40,049 --> 00:41:42,133
+The droid, you mean?
+
+480
+00:41:43,010 --> 00:41:47,889
+Doesn't look like anything I've seen
+before. I mean, I've seen droids...
+
+481
+00:41:48,807 --> 00:41:50,224
+Nice night, huh?
+
+482
+00:42:04,073 --> 00:42:06,866
+That big thing over there attacked me.
+
+483
+00:42:07,034 --> 00:42:09,952
+Impossible. No, no, no, no, no, no.
+
+484
+00:42:10,037 --> 00:42:13,748
+Yeah! It's some kinda creature.
+There's part of it still stuck in the tree.
+
+485
+00:42:13,874 --> 00:42:18,086
+No, it's a machine with 30-foot
+leather wings. I think it's radioactive.
+
+486
+00:42:18,962 --> 00:42:22,757
+Three minutes since he last moved.
+This is a fix. Something is happening.
+
+487
+00:42:22,883 --> 00:42:24,759
+Let's get somebody over there.
+
+488
+00:42:24,885 --> 00:42:28,137
+AI, you set up the grid
+and get the last known coordinates.
+
+489
+00:42:28,305 --> 00:42:31,265
+Tommy, hop on the Marconi
+and see if we got Blue Blazes
+
+490
+00:42:31,392 --> 00:42:34,477
+in a ten-minute radius.
+But no strike teams, Tommy, understand?
+
+491
+00:42:34,603 --> 00:42:37,313
+I'm headed downstairs.
+Keep everybody calm.
+
+492
+00:42:41,652 --> 00:42:44,779
+- Hikita-san.
+- Buckaroo!
+
+493
+00:42:45,906 --> 00:42:49,701
+Repeating: Intrastate outward band five.
+
+494
+00:42:49,827 --> 00:42:53,246
+Coded. Calling all Blue Blaze
+irregulars in the Garden State.
+
+495
+00:42:54,081 --> 00:42:58,167
+Buckaroo... in trouble.
+Will repeat coordinates.
+
+496
+00:42:58,293 --> 00:43:03,589
+This is Scooter Lindley, Junior Blue Blaze
+irregular 41 and a half. Hang on.
+
+497
+00:43:04,925 --> 00:43:08,428
+- Dad! Dad! Buckaroo's in trouble!
+- Say what?
+
+498
+00:43:08,595 --> 00:43:12,181
+Aliens from the Eighth Dimension.
+I'm seeing them now.
+
+499
+00:43:12,266 --> 00:43:14,100
+You can see them now? Here?
+
+500
+00:43:14,268 --> 00:43:18,020
+Yeah, the three jerks driving this van.
+Look at this. What is this?
+
+501
+00:43:19,773 --> 00:43:21,649
+It's your hand, Buckaroo.
+
+502
+00:43:21,775 --> 00:43:25,319
+No, no, no, no, it's a formula.
+It's an antidote of some kind.
+
+503
+00:43:25,446 --> 00:43:28,846
+Whatever that was in that phoney call
+from the president gave me information,
+
+504
+00:43:28,991 --> 00:43:32,991
+some electrochemical message that
+allows me to see what they really are.
+
+505
+00:43:33,100 --> 00:43:34,450
+What are they?
+
+506
+00:43:34,600 --> 00:43:37,800
+Lectroids from Planet Ten by
+way of the Eighth Dimension.
+
+507
+00:43:38,292 --> 00:43:40,168
+Mr. Gomez?
+
+508
+00:43:40,294 --> 00:43:42,934
+- I got a truck on the way to help mop things up.
+- Identification?
+
+509
+00:43:43,046 --> 00:43:47,800
+Or else this place'll become a zoo,
+not to mention a haven for gawkers.
+
+510
+00:43:47,885 --> 00:43:50,136
+Wait a minute. Now just a second.
+
+511
+00:43:50,304 --> 00:43:53,139
+- Stay put. All of ya.
+- Sure thing.
+
+512
+00:43:54,266 --> 00:43:56,642
+We'll go ahead and start breaking it down.
+
+513
+00:43:56,769 --> 00:43:59,020
+Don't touch it!
+
+514
+00:43:59,146 --> 00:44:02,565
+I got my own help on the way.
+Now, that's an order.
+
+515
+00:44:06,612 --> 00:44:08,738
+Go find something to crack it open.
+
+516
+00:44:08,906 --> 00:44:10,656
+There's a Harley in those bushes.
+
+517
+00:44:10,741 --> 00:44:14,368
+I want you to get out and go to the laboratory,
+start working on this formula.
+
+518
+00:44:14,495 --> 00:44:19,040
+- I want you to synthesize it.
+- Buckaroo! Give me the formula.
+
+519
+00:44:34,473 --> 00:44:35,223
+Oh, wow!
+
+520
+00:44:37,026 --> 00:44:37,726
+Peggy!
+
+521
+00:44:37,768 --> 00:44:41,938
+She's not Peggy, Mrs. Johnson.
+Sois sage, mon amie.
+
+522
+00:44:42,064 --> 00:44:45,650
+No. Of course not. How could she be?
+
+523
+00:44:45,776 --> 00:44:48,736
+- Any word from Buckaroo?
+- No, I thought he was with you guys.
+
+524
+00:44:48,862 --> 00:44:53,115
+No, he's not. Ah, Dr. Zwibel,
+Penny Priddy... Mrs. Johnson.
+
+525
+00:44:53,283 --> 00:44:57,161
+Nice to meet you.
+The fellas call me New Jersey.
+
+526
+00:45:02,668 --> 00:45:06,504
+- Well, where are they all going?
+- Bunk house. Off limits.
+
+527
+00:45:10,217 --> 00:45:12,301
+Again, John Gomez!
+
+528
+00:45:15,973 --> 00:45:18,432
+John O'Connor,
+there's a crowbar in the truck.
+
+529
+00:45:18,559 --> 00:45:20,601
+I'll get it.
+
+530
+00:45:34,783 --> 00:45:37,994
+Destroy yourself, John Gant.
+
+531
+00:45:38,829 --> 00:45:40,872
+Set detonator.
+
+532
+00:45:45,002 --> 00:45:47,503
+Detonator set.
+
+533
+00:45:48,463 --> 00:45:53,259
+My most profuse apologies
+to my homeland and loved ones.
+
+534
+00:45:53,427 --> 00:45:57,263
+John Valuk is dead. He fell on his head.
+
+535
+00:45:58,473 --> 00:46:02,476
+Perhaps John Parker will get through
+with our message to Buckaroo Banzai.
+
+536
+00:46:02,603 --> 00:46:05,187
+I said back off! Now, dammit, I mean it!
+
+537
+00:46:05,355 --> 00:46:08,524
+Hey! Hey, leave him alone! Ugh!
+
+538
+00:46:09,484 --> 00:46:14,071
+Easy, friend. Ha, Buckaroo Banzai!
+
+539
+00:46:17,034 --> 00:46:18,117
+Hey!
+
+540
+00:46:18,744 --> 00:46:21,704
+It's Buckaroo Banzai! Get him!
+
+541
+00:46:33,050 --> 00:46:34,050
+Hustle up!
+
+542
+00:47:01,036 --> 00:47:06,040
+Scooter Lindley, Blue Blaze Irregular.
+
+543
+00:47:18,470 --> 00:47:22,223
+- It is! It is Professor Hikita.
+- We're closing the gate. Please, step back!
+
+544
+00:47:22,349 --> 00:47:25,601
+Where's Buckaroo?
+
+545
+00:47:38,156 --> 00:47:41,909
+We gotta have something for him.
+Try a new cipher.
+
+546
+00:47:46,415 --> 00:47:48,874
+- Try a G-cipher.
+- G-cipher.
+
+547
+00:47:50,794 --> 00:47:52,878
+There...
+
+548
+00:47:53,088 --> 00:47:54,046
+That's more like it.
+
+549
+00:47:54,715 --> 00:47:59,343
+Looks like we've accessed their restricted
+data file. Could be highly revealing.
+
+550
+00:47:59,469 --> 00:48:03,556
+No sign of Buckaroo. The Professor
+just rode up saying something
+
+551
+00:48:03,724 --> 00:48:07,810
+about space monsters and where's the
+overthruster. Went straight to the lab.
+
+552
+00:48:07,936 --> 00:48:09,729
+Space monsters, my ass.
+
+553
+00:48:12,899 --> 00:48:15,609
+Hey, man, nice jacket.
+
+554
+00:48:22,909 --> 00:48:25,786
+What's in the big pink box?
+
+555
+00:48:29,708 --> 00:48:33,294
+Hey, buddy. May I help you?
+
+556
+00:48:33,420 --> 00:48:35,546
+Hello! Buckaroo Banzai!?
+
+557
+00:48:35,672 --> 00:48:38,132
+You a messenger? What you got here?
+
+558
+00:48:38,258 --> 00:48:42,344
+No, no, wait a minute.
+I need see Buckaroo Banzai in person.
+
+559
+00:48:42,763 --> 00:48:46,140
+My name is John Parker.
+
+560
+00:48:46,266 --> 00:48:47,892
+Identify yourself, no?
+
+561
+00:48:48,560 --> 00:48:51,353
+Blue Blaze irregular Pinky Carruthers.
+
+562
+00:48:51,438 --> 00:48:55,900
+Sorry, John, everybody
+needs see Buckaroo. Later.
+
+563
+00:48:56,526 --> 00:48:58,861
+Gino, run this down to the Professor for me.
+
+564
+00:48:58,987 --> 00:49:00,667
+Sounds like he's getting a little nervous.
+
+565
+00:49:02,657 --> 00:49:05,242
+- This is queer. Look.
+- What's up? What you got?
+
+566
+00:49:05,368 --> 00:49:10,414
+All these people applied for social security cards
+in the same town in New Jersey on exact same date.
+
+567
+00:49:10,540 --> 00:49:11,791
+New Jersey?
+
+568
+00:49:12,501 --> 00:49:16,170
+46 Yoyodyne employees,
+Grover's Mill, New Jersey,
+
+569
+00:49:16,338 --> 00:49:18,714
+11 -1 -38.
+
+570
+00:49:18,840 --> 00:49:20,424
+I got some pictures, boys.
+
+571
+00:49:22,344 --> 00:49:26,388
+It looks like a practical joke.
+Check out these names:
+
+572
+00:49:26,515 --> 00:49:31,268
+John Yaya? John Parrot?
+John Bigbooty?
+
+573
+00:49:31,436 --> 00:49:35,064
+Maybe not.
+John Nolan? John O'Connor?
+
+574
+00:49:35,190 --> 00:49:37,316
+No way, José.
+
+575
+00:49:37,484 --> 00:49:43,155
+John Small Berries? It's a joke. Maybe
+that's what Buckaroo was talking about.
+
+576
+00:49:43,281 --> 00:49:46,617
+No, Reno, there are no ages
+and no places of birth.
+
+577
+00:49:46,743 --> 00:49:51,163
+Uh, Grover's Mill. Grover's Mill, 1938.
+Why's that so familiar?
+
+578
+00:49:51,832 --> 00:49:56,252
+They all have the same first name.
+John, John, John, John, John.
+
+579
+00:49:56,378 --> 00:50:00,047
+Somebody's playing games.
+This is statistically impossible.
+
+580
+00:50:00,173 --> 00:50:02,299
+No, no, no. Wait a minute,
+wait a minute, um...
+
+581
+00:50:02,425 --> 00:50:04,385
+November one. October.
+
+582
+00:50:04,719 --> 00:50:07,429
+30 days have September, April,
+June, November. Short February.
+
+583
+00:50:07,556 --> 00:50:11,100
+And all the rest have 31 . October 31st.
+
+584
+00:50:11,226 --> 00:50:13,519
+Halloween.
+
+585
+00:50:13,645 --> 00:50:15,521
+Oh, um...
+
+586
+00:50:15,647 --> 00:50:18,065
+Don't you get it? Orson Welles.
+
+587
+00:50:18,191 --> 00:50:20,901
+You mean the guy from
+the old wine commercials?
+
+588
+00:50:21,027 --> 00:50:25,156
+Halloween, 1938. War of the Worlds,
+that fake radio news broadcast
+
+589
+00:50:25,282 --> 00:50:28,742
+that got everybody scared,
+thinking real, live Martians...
+
+590
+00:50:29,703 --> 00:50:32,580
+were landing in Grover's Mill...
+
+591
+00:50:33,540 --> 00:50:36,000
+New Jersey.
+
+592
+00:50:36,126 --> 00:50:38,544
+Then it all just turned out to be a hoax.
+
+593
+00:50:38,670 --> 00:50:39,670
+So?
+
+594
+00:50:40,505 --> 00:50:46,260
+So... maybe it wasn't a hoax.
+Or, I mean, maybe it isn't a hoax.
+
+595
+00:50:54,811 --> 00:50:58,063
+If we don't find the overthruster,
+Whorfin'll have us for supper.
+
+596
+00:50:58,190 --> 00:51:01,692
+Who says the damn
+thing's even here?
+
+597
+00:51:20,962 --> 00:51:23,005
+Come on! Come on!
+
+598
+00:51:40,982 --> 00:51:43,776
+- Who is he?
+- I don't know.
+
+599
+00:52:09,511 --> 00:52:12,513
+All right, who's the wise guy?
+
+600
+00:52:15,475 --> 00:52:18,060
+I said, who's the wise guy?
+
+601
+00:52:31,199 --> 00:52:33,200
+It's locked.
+
+602
+00:52:39,040 --> 00:52:41,500
+John O'Connor, smash the window.
+
+603
+00:52:41,668 --> 00:52:44,586
+Why me, John Bigbooté?
+
+604
+00:52:48,717 --> 00:52:51,135
+It might be booby-trapped.
+
+605
+00:52:51,261 --> 00:52:53,012
+Oh.
+
+606
+00:52:59,561 --> 00:53:01,845
+- Buckaroo!
+- Mrs. Johnson, this is Casper and Scooter Lindley.
+
+607
+00:53:01,855 --> 00:53:04,097
+Is Hikita-san here yet? Where's
+the overthruster? Where's Penny?
+
+608
+00:53:04,107 --> 00:53:08,527
+Prof is in the lab with the overthruster. Penny's in
+the right wing guest room. Everybody's safe and sound.
+
+609
+00:53:08,611 --> 00:53:10,654
+- They're lectroids, Buckaroo.
+- From Planet Ten.
+
+610
+00:53:10,780 --> 00:53:14,074
+- Planet Ten? How do you guys know?
+- It's all on the yellow record. Come on.
+
+611
+00:53:14,242 --> 00:53:15,659
+- Casper Lindley.
+- Reno.
+
+612
+00:53:15,744 --> 00:53:19,872
+- Yellow record?
+- However, they didn't come here on a nonstop flight.
+
+613
+00:53:20,040 --> 00:53:23,792
+They blasted through the Eighth
+Dimension in 1938 over in Grover's Mill.
+
+614
+00:53:23,918 --> 00:53:27,004
+Where there was a huge
+electrical dimensional accident.
+
+615
+00:53:27,130 --> 00:53:31,091
+Some giant explosion. And they hypnotized
+Orson Welles into covering it up.
+
+616
+00:53:31,259 --> 00:53:34,470
+So, first he says there's
+an invasion from Mars,
+
+617
+00:53:34,596 --> 00:53:37,681
+but then he says, no, no, no,
+it's just a radio-show hoax.
+
+618
+00:53:37,807 --> 00:53:39,057
+- Get it?
+- No.
+
+619
+00:53:39,225 --> 00:53:40,525
+- Let's go.
+- Orson Welles?
+
+620
+00:53:40,526 --> 00:53:42,526
+What about Yoyodyne?
+What about Dr. Lizardo?
+
+621
+00:53:42,604 --> 00:53:46,148
+- That's what we're trying to tell you.
+- There's someone living inside him.
+
+622
+00:53:47,275 --> 00:53:48,609
+- Buckaroo.
+- Pinky.
+
+623
+00:53:48,777 --> 00:53:54,865
+Put this on. Here, y'all put these on.
+There's more in the box and there's one over there.
+
+624
+00:53:54,949 --> 00:53:58,327
+- What's this?
+- It came with the record. It's like a 3-D type thing.
+
+625
+00:53:58,453 --> 00:54:00,871
+How am I supposed to know
+he's from outer space?
+
+626
+00:54:00,997 --> 00:54:04,625
+This Rasta guy pedals up to the front gate
+and delivers it all in a pink cake box.
+
+627
+00:54:04,793 --> 00:54:07,211
+- What? What for?
+- We don't know. It wouldn't tell us.
+
+628
+00:54:07,295 --> 00:54:11,131
+- It wants to talk to the head honcho.
+- Lights.
+
+629
+00:54:23,686 --> 00:54:25,979
+Salutations, great Buckaroo Banzai.
+
+630
+00:54:27,273 --> 00:54:31,527
+I am John Emdall from Planet Ten.
+
+631
+00:54:31,653 --> 00:54:35,739
+A common, grave danger
+confronts both our worlds.
+
+632
+00:54:36,324 --> 00:54:39,243
+- After a bloody reign of terror...
+- Hey, what is that?
+
+633
+00:54:39,369 --> 00:54:42,663
+...the hated leader of a military caste...
+
+634
+00:54:42,831 --> 00:54:46,667
+the self-proclaimed "Lord" John Whorfin,
+
+635
+00:54:46,751 --> 00:54:49,670
+a bloodthirsty butcher
+as evil as your Hitler...
+
+636
+00:54:49,838 --> 00:54:50,838
+Oh, wow!
+
+637
+00:54:50,964 --> 00:54:54,550
+...was overthrown
+by freedom-loving forces...
+
+638
+00:54:54,676 --> 00:54:59,346
+tried and condemned, along with
+several hundred of his followers,
+
+639
+00:54:59,514 --> 00:55:05,060
+to spend eternity in the formless void
+of the Eighth Dimension.
+
+640
+00:55:05,186 --> 00:55:07,980
+Did you tell Penny that
+Buckaroo's looking for her?
+
+641
+00:55:08,064 --> 00:55:09,472
+I looked in her room.
+She wasn't there.
+
+642
+00:55:09,482 --> 00:55:11,108
+- Who's Penny?
+- Where is she?
+
+643
+00:55:11,234 --> 00:55:14,486
+Will everybody shut up
+so I can hear the rest of this thing?
+
+644
+00:55:14,612 --> 00:55:20,325
+And now you, Buckaroo Banzai, have
+unintentionally helped John Whorfin
+
+645
+00:55:20,827 --> 00:55:23,912
+with the success of your
+oscillation overthruster.
+
+646
+00:55:24,080 --> 00:55:30,294
+For our intelligence warns us that
+he intends to steal your overthruster.
+
+647
+00:55:30,420 --> 00:55:35,466
+If he should attempt this,
+we will have no choice
+
+648
+00:55:35,592 --> 00:55:39,344
+but to disrupt worldwide
+electronic communications
+
+649
+00:55:39,471 --> 00:55:44,057
+and fire a particle-beam weapon
+from your airspace
+
+650
+00:55:44,184 --> 00:55:48,770
+to Smolensk in the Union
+of Soviet Socialist Republics.
+
+651
+00:55:48,855 --> 00:55:52,535
+That an action that the Kremlin will most certainly
+misinterpret as an American first strike.
+
+652
+00:55:52,609 --> 00:55:59,698
+- They're already a little trigger-happy.
+- Stop John Whorfin before sunset.
+
+653
+00:55:59,824 --> 00:56:04,828
+If you fail, we will be forced
+to help you destroy yourselves.
+
+654
+00:56:04,954 --> 00:56:07,873
+- If it ain't one thing, it's another.
+- Lighten up.
+
+655
+00:56:07,999 --> 00:56:10,792
+End of discussion.
+
+656
+00:56:12,045 --> 00:56:14,755
+Discussion? What discussion?
+
+657
+00:56:17,634 --> 00:56:21,970
+She gotta be kidding, right?
+Vaporize the whole damn planet?
+
+658
+00:56:22,096 --> 00:56:27,518
+- You wanna roll those dice, Casper?
+- No, no, no, not me, man. No way.
+
+659
+00:56:27,644 --> 00:56:31,146
+Gents... we're going to Yoyodyne.
+
+660
+00:56:31,272 --> 00:56:33,857
+Rawhide, see how Hikita-san is
+with that formula.
+
+661
+00:56:34,025 --> 00:56:36,610
+Billy, tell Sam to prep
+the jet car for city driving.
+
+662
+00:56:36,736 --> 00:56:39,029
+What about a Blue Blaze strike team?
+
+663
+00:56:39,155 --> 00:56:42,908
+We keep it intimate. Call the Kolodny
+Brothers. Call the Rug Suckers.
+
+664
+00:56:43,076 --> 00:56:46,161
+- Where are you going?
+- Get my guns.
+
+665
+00:56:47,747 --> 00:56:49,581
+His guns?
+
+666
+00:56:49,958 --> 00:56:53,377
+Okay, okay, I'm a girl. I don't deny it.
+I sneaked into your bedroom.
+
+667
+00:56:53,503 --> 00:56:56,421
+I invaded your privacy.
+I went through your personal belongings.
+
+668
+00:56:56,548 --> 00:57:00,926
+- Mrs. Johnson! I can never find anything around here...
+- I took a bath!
+
+669
+00:57:01,052 --> 00:57:05,097
+- Penny, what's your problem?
+- Me! You! That picture!
+
+670
+00:57:05,223 --> 00:57:09,810
+I'm going crazy. Who's that girl, Buckaroo?
+What's going on around here?
+
+671
+00:57:09,936 --> 00:57:12,271
+You drag me out of jail.
+You're like Jerry Lewis.
+
+672
+00:57:12,397 --> 00:57:15,232
+You give me hope to carry on, but then
+you leave me in the lurch
+
+673
+00:57:15,358 --> 00:57:19,444
+while you strap on your six-guns.
+What do you want from me?
+
+674
+00:57:19,571 --> 00:57:21,905
+- Who am I?
+- As near as I can figure...
+
+675
+00:57:22,407 --> 00:57:25,993
+you had an identical twin sister and...
+
+676
+00:57:26,119 --> 00:57:28,161
+I married her.
+
+677
+00:57:29,163 --> 00:57:30,956
+But that's over now.
+
+678
+00:57:31,124 --> 00:57:36,253
+And she's gone and that's about all
+there is, really, to say about that.
+
+679
+00:57:47,223 --> 00:57:52,769
+We don't know what to expect here.
+It disagrees with all the standard pictures.
+
+680
+00:57:53,646 --> 00:57:56,982
+It's producing a magnetic force.
+
+681
+00:57:57,108 --> 00:57:59,526
+No, no. I'm wrong!
+
+682
+00:58:10,913 --> 00:58:12,831
+Hey!
+
+683
+00:58:16,419 --> 00:58:18,670
+Oh, tell me I'm dreaming.
+
+684
+00:58:19,631 --> 00:58:21,757
+- Ow!
+- Oh, sorry. I'm sorry. I'm sorry. That's...
+
+685
+00:58:21,924 --> 00:58:25,344
+- Buckaroo! Sorry. Sam's dead.
+- Sam?
+
+686
+00:58:25,511 --> 00:58:27,962
+Someone broke into the jet-car.
+Things are going haywire over at the lab.
+
+687
+00:58:27,972 --> 00:58:30,015
+Wait here. I'll be right back.
+
+688
+00:58:41,402 --> 00:58:42,444
+Oh, boy.
+
+689
+00:58:50,495 --> 00:58:56,166
+He's dead. Spread out.
+They can't be very far off.
+
+690
+00:58:57,919 --> 00:59:01,672
+Okay. Tommy, check the biomedical labs.
+Reno, take physics. Jersey, go with Reno.
+
+691
+00:59:01,798 --> 00:59:04,007
+- Where you going?
+- Engineering.
+
+692
+00:59:05,468 --> 00:59:08,136
+Cowboy! Hold your gun
+in front of you, man.
+
+693
+00:59:08,262 --> 00:59:10,889
+- Oh, I see. I got that. OK.
+- It's cool.
+
+694
+00:59:23,361 --> 00:59:24,945
+Buckaroo, behind you!
+
+695
+00:59:34,622 --> 00:59:38,208
+- You... you OK?
+- Yeah. Just let me catch my breath.
+
+696
+00:59:38,334 --> 00:59:42,170
+Professor went down into the purification
+vent. He's got the overthruster.
+
+697
+00:59:42,296 --> 00:59:44,339
+All right.
+
+698
+00:59:54,475 --> 00:59:57,018
+Why is there a watermelon there?
+
+699
+00:59:58,479 --> 01:00:00,564
+I'll tell you later.
+
+700
+01:00:33,014 --> 01:00:34,848
+Buckaroo?
+
+701
+01:00:38,728 --> 01:00:40,479
+Rawhide?
+
+702
+01:00:41,647 --> 01:00:43,231
+Anybody?
+
+703
+01:01:09,926 --> 01:01:13,762
+Here, young lady. The overthruster.
+
+704
+01:01:18,184 --> 01:01:20,435
+Here, put this in your purse.
+
+705
+01:01:22,271 --> 01:01:24,314
+Get out of here!
+
+706
+01:01:26,943 --> 01:01:29,110
+Where's your overthruster?
+
+707
+01:01:29,278 --> 01:01:31,321
+Hikita-san!
+
+708
+01:01:36,702 --> 01:01:39,162
+Nice morning, huh?
+
+709
+01:01:53,135 --> 01:01:55,762
+It's just making my legs asleep.
+
+710
+01:01:55,888 --> 01:01:59,641
+- What the hell is wrong with him?
+- I don't know. I don't know. Are you cold?
+
+711
+01:02:00,268 --> 01:02:01,685
+It's my spine.
+
+712
+01:02:08,776 --> 01:02:13,029
+- What're you still doing on this floor?
+- I think it's cos I can't move my legs.
+
+713
+01:02:13,614 --> 01:02:15,866
+Ooh, damn!
+
+714
+01:02:17,743 --> 01:02:20,370
+- What is it? Apache?
+- Arachtoid.
+
+715
+01:02:20,496 --> 01:02:23,290
+Oh, spiders. So I was right, huh?
+
+716
+01:02:23,457 --> 01:02:26,877
+We got the guy, Rawhide.
+Sucker only tried...
+
+717
+01:02:27,628 --> 01:02:30,797
+- Any antidote for these things?
+- No. Not at all.
+
+718
+01:02:32,174 --> 01:02:35,844
+- Come over here.
+- Does that mean you're on our side?
+
+719
+01:02:36,012 --> 01:02:37,637
+That's right.
+
+720
+01:02:40,683 --> 01:02:45,604
+Man! Those things
+pack a mean wallop, huh?
+
+721
+01:02:46,188 --> 01:02:48,648
+What are y'all looking at?
+
+722
+01:02:49,692 --> 01:02:53,612
+You're on the clock. Let's saddle up, huh?
+
+723
+01:03:01,495 --> 01:03:04,039
+Hey, man, they're stealing my helicopter!
+
+724
+01:03:07,752 --> 01:03:09,836
+They've got Penny!
+
+725
+01:03:09,962 --> 01:03:12,881
+She has the overthruster.
+
+726
+01:03:12,965 --> 01:03:16,009
+We'll get it back. We'll get it back.
+
+727
+01:03:16,594 --> 01:03:23,099
+It's... it's not Buckaroo Banzai per se,
+Mr. President. It's his men.
+
+728
+01:03:23,225 --> 01:03:26,811
+Foreigners, some of 'em.
+Or their names have been changed.
+
+729
+01:03:26,938 --> 01:03:30,732
+Their true backgrounds
+are shrouded in secrecy!
+
+730
+01:03:30,900 --> 01:03:36,237
+Now, all I'm saying is that this jet car
+belongs in the hands of Defense.
+
+731
+01:03:36,322 --> 01:03:40,742
+I mean, if the Banzai Institute
+doesn't want to sell it to us,
+
+732
+01:03:40,826 --> 01:03:43,119
+then we're gonna have
+to take it from them!
+
+733
+01:03:43,287 --> 01:03:46,373
+In national interest, of course.
+
+734
+01:03:48,250 --> 01:03:49,834
+Come in.
+
+735
+01:03:49,961 --> 01:03:55,131
+Excuse me, Mr. President, World Watch One.
+Direct-incoming transmission.
+
+736
+01:03:55,299 --> 01:03:56,716
+Yeah.
+
+737
+01:04:02,682 --> 01:04:05,141
+Hello, Mr. President, I know your back is killing you,
+
+738
+01:04:05,309 --> 01:04:09,396
+but I have a developing situation here
+and I must speak frankly.
+
+739
+01:04:09,480 --> 01:04:13,066
+Buckaroo...
+Secretary of Defense McKinley
+
+740
+01:04:13,192 --> 01:04:16,820
+and my National Security Advisor
+Smirnoff, are visiting me,
+
+741
+01:04:16,988 --> 01:04:19,406
+but I have no secrets from them.
+
+742
+01:04:19,490 --> 01:04:22,951
+Well, something has reared
+its ugly head in outer space, Mr. President,
+
+743
+01:04:23,119 --> 01:04:25,787
+and it looks like the Earth is caught in a crossfire.
+
+744
+01:04:25,871 --> 01:04:28,790
+We have reason to believe
+that there are vicious red aliens
+
+745
+01:04:28,958 --> 01:04:32,502
+walking freely among us,
+posing as the owners and operators
+
+746
+01:04:32,628 --> 01:04:34,671
+of Yoyodyne Propulsion Systems.
+
+747
+01:04:34,797 --> 01:04:40,552
+Yoyodyne Propulsion... the people
+working on our Truncheon Bomber?
+
+748
+01:04:40,636 --> 01:04:45,223
+- In the hands of foreign nationals?
+- Excuse me, Mr. President. Time is short.
+
+749
+01:04:46,183 --> 01:04:49,102
+In order to prevent
+John Whorfin's escape,
+
+750
+01:04:49,228 --> 01:04:52,981
+my comrades are at this very moment
+taking up a geostationary position
+
+751
+01:04:53,149 --> 01:04:56,401
+over New Jersey.
+This situation is explosive.
+
+752
+01:04:56,485 --> 01:04:58,945
+- Who the hell is that?
+- Explosive, what are you saying man?
+
+753
+01:04:59,071 --> 01:05:00,989
+Some kind of race war in New Jersey?
+
+754
+01:05:01,073 --> 01:05:02,490
+No, Mr. President, no.
+
+755
+01:05:02,575 --> 01:05:06,453
+This man as you call him is not
+a human being at all, but is, in fact,
+
+756
+01:05:06,579 --> 01:05:10,707
+a black lectroid named John Parker
+from the very same Planet Ten.
+
+757
+01:05:10,833 --> 01:05:14,586
+And his spaceship is, at this moment,
+anchored above Yoyodyne.
+
+758
+01:05:14,754 --> 01:05:15,712
+Yoyodyne.
+
+759
+01:05:15,838 --> 01:05:18,757
+- Buckaroo, my good friend...
+- That's it!
+
+760
+01:05:18,924 --> 01:05:22,761
+These red creatures, they must
+somehow give off the bacteria.
+
+761
+01:05:22,887 --> 01:05:27,891
+We breathe it. It swims up our nose
+into our cerebral cortex
+
+762
+01:05:28,017 --> 01:05:31,436
+where it talks to our brain cells.
+
+763
+01:05:31,604 --> 01:05:34,689
+Tells us to see exactly
+what they want us to see.
+
+764
+01:05:34,815 --> 01:05:36,274
+Electric brainwashing.
+
+765
+01:05:36,400 --> 01:05:38,026
+Diabolical. They got us so confused...
+
+766
+01:05:38,152 --> 01:05:41,237
+Buckaroo, I don't know what to say.
+
+767
+01:05:42,573 --> 01:05:45,784
+Lectroids from Planet Ten?
+
+768
+01:05:45,910 --> 01:05:48,828
+Nuclear extortion?
+
+769
+01:05:48,996 --> 01:05:51,289
+A girl named John?
+
+770
+01:05:51,415 --> 01:05:53,166
+Buckaroo, Lectroid Wing Commander.
+
+771
+01:05:53,292 --> 01:05:57,045
+Excuse me, Mr. President,
+I have to go talk to the hornet's nest.
+
+772
+01:05:58,339 --> 01:06:00,298
+Good God.
+
+773
+01:06:00,424 --> 01:06:04,969
+Well, if it wasn't Buckaroo Banzai,
+I'd say commit the man.
+
+774
+01:06:05,096 --> 01:06:06,679
+Get me SAC Headquarters, Omaha,
+
+775
+01:06:06,847 --> 01:06:10,767
+NORAD and the Strategic Space Command.
+I want some hard data on that cloud.
+
+776
+01:06:10,935 --> 01:06:14,187
+John, get out in the field.
+Stick your beak into this one.
+
+777
+01:06:15,606 --> 01:06:19,317
+- What is this thing made of?
+- Cobalt and electricity.
+
+778
+01:06:19,443 --> 01:06:23,988
+They're armed for bear, Buckaroo.
+
+779
+01:06:24,115 --> 01:06:26,241
+World Watch One.
+
+780
+01:06:28,953 --> 01:06:30,912
+Buckaroo.
+
+781
+01:06:31,122 --> 01:06:33,164
+It's Whorfin.
+
+782
+01:06:36,210 --> 01:06:37,710
+Dr. Banzai?
+
+783
+01:06:39,839 --> 01:06:43,007
+Yes, this is Emilio Lizardo.
+
+784
+01:06:43,134 --> 01:06:45,385
+Maybe you don't remember me.
+
+785
+01:06:46,387 --> 01:06:50,223
+Ah. I'm flattered.
+We know the same people.
+
+786
+01:06:51,350 --> 01:06:54,060
+Yeah. In fact, one of them
+is with me right now.
+
+787
+01:06:54,186 --> 01:06:56,229
+Your associate...
+
+788
+01:06:56,355 --> 01:06:58,815
+Dr. Penny Priddy.
+
+789
+01:06:58,941 --> 01:07:00,275
+Doctor?
+
+790
+01:07:00,401 --> 01:07:03,027
+May I pass along my congratulations
+
+791
+01:07:03,154 --> 01:07:06,990
+for your great
+interdimensional breakthrough.
+
+792
+01:07:07,116 --> 01:07:12,203
+I'm sure in the miserable annals of
+the Earth, you will be duly enshrined.
+
+793
+01:07:14,081 --> 01:07:18,042
+However... Miss Priddy claims
+
+794
+01:07:18,169 --> 01:07:21,004
+to be unable to solve my problem
+
+795
+01:07:21,130 --> 01:07:24,340
+and provide me with
+the crucial missing circuit
+
+796
+01:07:24,508 --> 01:07:26,092
+for my overthruster!
+
+797
+01:07:26,719 --> 01:07:28,761
+He hasn't found it. He hasn't found it.
+
+798
+01:07:28,888 --> 01:07:31,431
+Maybe you can convince her to try.
+
+799
+01:07:32,433 --> 01:07:34,475
+John O'Connor!
+
+800
+01:07:35,394 --> 01:07:37,154
+I'm not worth it, Buckaroo! Forget about me!
+
+801
+01:07:37,188 --> 01:07:40,857
+- They'll never break me. Never!
+- Penny, get off the phone.
+
+802
+01:07:41,025 --> 01:07:44,944
+Dr. Lizardo, really what does she know
+about an overthruster? She's not a scientist.
+
+803
+01:07:45,029 --> 01:07:48,740
+Shall we play...
+a Penny for your thoughts?
+
+804
+01:07:51,243 --> 01:07:54,329
+Maybe you can come in her place, huh?
+
+805
+01:07:54,455 --> 01:07:57,540
+Yoyodyne, Banzai. You know the address.
+
+806
+01:07:57,666 --> 01:08:01,336
+Come alone and bring your overthruster!
+
+807
+01:08:03,505 --> 01:08:07,926
+He'll come. I know his type.
+
+808
+01:08:08,052 --> 01:08:10,511
+Take her to the pit!
+
+809
+01:08:10,638 --> 01:08:12,680
+Go, Bigbooty!
+
+810
+01:08:15,226 --> 01:08:19,103
+Use more honey!
+Find out what she knows.
+
+811
+01:08:19,480 --> 01:08:23,024
+These breathing devices Hikita-san has cooked up
+will enable you to see them
+
+812
+01:08:23,150 --> 01:08:28,488
+as they really are, as I've been seeing
+them since yesterday - as Lectroids.
+
+813
+01:08:28,614 --> 01:08:31,491
+In our eyes, they're not very pretty.
+
+814
+01:08:32,326 --> 01:08:34,577
+Nothing personal, John Parker.
+
+815
+01:08:38,207 --> 01:08:42,418
+If we blow this today...
+there ain't no tomorrow.
+
+816
+01:08:42,544 --> 01:08:46,214
+We have only 240 minutes remaining.
+
+817
+01:08:46,340 --> 01:08:49,717
+Right. I'm working under the assumption
+that Penny still has the overthruster,
+
+818
+01:08:49,843 --> 01:08:53,596
+but this psycho Whorfin doesn't
+know that. So that'll be my job.
+
+819
+01:08:53,764 --> 01:08:56,099
+To get her and it back in one piece.
+
+820
+01:08:56,225 --> 01:09:01,521
+Your objective is to 86 Whorfin.
+You know your two strike groups.
+
+821
+01:09:01,647 --> 01:09:03,231
+Apache group, that's you, Reno.
+
+822
+01:09:03,399 --> 01:09:07,986
+Chaparral group, that's you, Perfect
+Tommy. Parker'll ride with Chaparral.
+
+823
+01:09:08,112 --> 01:09:13,199
+It's my guess that no human being
+has ever been inside the place.
+
+824
+01:09:13,784 --> 01:09:18,705
+So who knows what we're gonna find
+there. Top priority is the overthruster.
+
+825
+01:09:18,831 --> 01:09:22,250
+Without it, Whorfin
+can't get off this planet.
+
+826
+01:09:22,418 --> 01:09:26,129
+This homing device will probably
+make it very easy to find.
+
+827
+01:09:26,255 --> 01:09:28,756
+And maybe a lot harder to get back.
+
+828
+01:09:29,633 --> 01:09:31,551
+Strategic Space Command now reports
+
+829
+01:09:31,677 --> 01:09:35,513
+all the surveillance satellite
+communication jammed.
+
+830
+01:09:35,681 --> 01:09:38,099
+Jammed? By who? Who by?
+
+831
+01:09:38,267 --> 01:09:41,019
+Possible atmospheric conditions, sir.
+
+832
+01:09:41,145 --> 01:09:43,229
+- Solar.
+- Solar?
+
+833
+01:09:43,355 --> 01:09:47,775
+Intelligence confirms that Soviets
+are having the same problem.
+
+834
+01:09:47,901 --> 01:09:50,611
+Should we be on Code Red?
+
+835
+01:09:50,738 --> 01:09:53,448
+We go to Code Red,
+the Russians go to Code Red.
+
+836
+01:09:53,574 --> 01:09:55,992
+No sense going off half-cocked, Mr. President.
+
+837
+01:09:56,118 --> 01:09:58,558
+I don't know, but Buckaroo Banzai
+has never been wrong before.
+
+838
+01:09:58,662 --> 01:10:01,914
+The man's been through solid matter,
+for crying out loud.
+
+839
+01:10:02,082 --> 01:10:03,875
+Who knows what happened to his brain.
+
+840
+01:10:04,043 --> 01:10:06,127
+Maybe it scrambled his molecules.
+
+841
+01:10:06,295 --> 01:10:09,672
+All I'm saying is,
+Mr. President, let's not panic.
+
+842
+01:10:11,300 --> 01:10:13,134
+What's happening?
+
+843
+01:10:15,304 --> 01:10:18,514
+Electromagnetic pulsar.
+
+844
+01:10:21,810 --> 01:10:25,355
+Russians just gone to
+Defense Condition Two, sir.
+
+845
+01:10:25,481 --> 01:10:26,939
+We've no choice, then.
+
+846
+01:10:27,524 --> 01:10:30,777
+Mr. President, I am a soldier,
+and I'm a damn good one.
+
+847
+01:10:30,903 --> 01:10:33,821
+I've got enough decorations
+to snap a Christmas tree.
+
+848
+01:10:33,989 --> 01:10:39,035
+All I'm trying to say is - and I hope
+I speak for everyone in this room -
+
+849
+01:10:39,161 --> 01:10:42,330
+is that I am scared.
+
+850
+01:10:42,456 --> 01:10:45,041
+I'm barely holding my fudge right now.
+
+851
+01:10:45,209 --> 01:10:49,837
+Stop acting like a goddamn schoolgirl,
+General, and pull yourself together.
+
+852
+01:10:49,963 --> 01:10:54,050
+I'm glad someone has
+the balls to face facts.
+
+853
+01:11:00,682 --> 01:11:03,142
+- Don't embarrass us.
+- Have I ever?
+
+854
+01:11:03,310 --> 01:11:06,562
+Give me 30 minutes,
+then come in and mop up.
+
+855
+01:11:20,744 --> 01:11:22,787
+Shut up!
+
+856
+01:11:33,924 --> 01:11:36,717
+I've had enough of you, Penny Priddy!
+
+857
+01:11:42,307 --> 01:11:47,061
+Well... Mrs. Johnson, thank you.
+
+858
+01:11:47,146 --> 01:11:51,566
+It's certainly food for thought.
+
+859
+01:11:51,733 --> 01:11:56,028
+No answer at the Kremlin, sir.
+Just dead silence.
+
+860
+01:11:56,655 --> 01:11:59,365
+Then I guess the moment is upon us.
+
+861
+01:11:59,491 --> 01:12:01,451
+Here you go, Mr. President.
+
+862
+01:12:01,535 --> 01:12:04,454
+The Presidential Emergency Action Document.
+
+863
+01:12:04,538 --> 01:12:06,456
+For your eyes only.
+
+864
+01:12:06,582 --> 01:12:08,624
+John Hancock these, and Hail Mary.
+
+865
+01:12:08,750 --> 01:12:11,794
+You know, on second thought, maybe
+we should think this through a bit more
+
+866
+01:12:11,920 --> 01:12:15,506
+so that future generations
+of Americans will...
+
+867
+01:12:16,425 --> 01:12:17,633
+Oh, wow.
+
+868
+01:12:19,636 --> 01:12:23,556
+"Declaration of War: The Short Form."
+
+869
+01:12:38,197 --> 01:12:42,033
+Bring that thing right through the gate.
+Straight ahead, straight ahead, come on.
+
+870
+01:12:45,662 --> 01:12:49,248
+Blacks... are on this planet!
+
+871
+01:12:50,125 --> 01:12:53,169
+Here, in New Jersey!
+
+872
+01:12:53,295 --> 01:12:56,714
+Coming to destroy us!
+
+873
+01:12:56,882 --> 01:12:58,508
+We must act!
+
+874
+01:12:58,634 --> 01:13:01,677
+Escape or die!
+
+875
+01:13:02,638 --> 01:13:04,889
+We must work faster
+
+876
+01:13:05,015 --> 01:13:08,768
+to finish the great vehicle itself,
+
+877
+01:13:08,894 --> 01:13:13,481
+so we can enter the Eighth Dimension
+
+878
+01:13:13,649 --> 01:13:17,735
+and free our trapped comrades!
+
+879
+01:13:17,861 --> 01:13:20,821
+So we can return home
+
+880
+01:13:20,989 --> 01:13:24,700
+and seize power once again!
+
+881
+01:13:26,870 --> 01:13:31,332
+- What is the greatest joy?
+- The joy of duty!
+
+882
+01:13:31,458 --> 01:13:36,212
+- Louder!
+- The joy of duty!
+
+883
+01:13:36,380 --> 01:13:39,799
+History is made at night.
+
+884
+01:13:39,925 --> 01:13:45,012
+Character is what you are in the dark!
+
+885
+01:13:45,138 --> 01:13:48,432
+We must work while the clock,
+she's ticking.
+
+886
+01:13:50,143 --> 01:13:54,730
+- We hide, they seek!
+- Death to the Black Lectroids!
+
+887
+01:13:54,898 --> 01:13:57,942
+- Where are we going?
+- Planet Ten!
+
+888
+01:13:58,068 --> 01:14:00,319
+- When?
+- Real soon!
+
+889
+01:14:07,661 --> 01:14:11,205
+Come on over here. Bring it this way!
+
+890
+01:14:14,167 --> 01:14:16,752
+This way!
+
+891
+01:14:16,920 --> 01:14:18,713
+Now park it.
+
+892
+01:14:20,257 --> 01:14:22,508
+There's no overthruster!
+
+893
+01:14:25,804 --> 01:14:29,223
+Get him here! Get him outta there!
+I wanna see his face!
+
+894
+01:14:31,018 --> 01:14:33,227
+It's not here!
+
+895
+01:14:33,353 --> 01:14:36,439
+Take him to the shock tower.
+
+896
+01:14:52,331 --> 01:14:55,916
+The equations. Solve them.
+
+897
+01:14:56,001 --> 01:15:01,005
+Enter your data on this keypad.
+And you better be right.
+
+898
+01:15:01,173 --> 01:15:05,176
+The shock tower is a lie detector.
+
+899
+01:15:05,302 --> 01:15:08,721
+Any falsehood triggers a brutal charge
+
+900
+01:15:08,847 --> 01:15:12,099
+to your auditory meatus.
+
+901
+01:15:14,353 --> 01:15:16,896
+- Open circuit.
+- So?
+
+902
+01:15:17,022 --> 01:15:21,233
+You're not getting jack from me until
+you let Penny out of this junkyard.
+
+903
+01:15:21,360 --> 01:15:25,071
+Curse you, Banzai!
+Don't you realize what are you saying?
+
+904
+01:15:25,197 --> 01:15:28,741
+Your whole planet is gonna be destroyed
+and you sit here wasting time?
+
+905
+01:15:28,867 --> 01:15:31,410
+Time? I got nothing but time.
+
+906
+01:15:35,082 --> 01:15:39,543
+Sealed with a curse as sharp as a knife.
+
+907
+01:15:39,711 --> 01:15:43,589
+Doomed is your soul
+and damned is your life.
+
+908
+01:15:44,758 --> 01:15:46,467
+Buzz off.
+
+909
+01:15:49,262 --> 01:15:51,305
+Bigbooty...
+
+910
+01:15:51,431 --> 01:15:53,891
+more power to him.
+
+911
+01:15:54,059 --> 01:15:56,602
+Bigbooté.
+
+912
+01:15:56,728 --> 01:15:59,689
+I want my missing circuit, now!
+
+913
+01:16:33,348 --> 01:16:37,351
+- Is there something I can help you with?
+- Is Buckaroo upstairs?
+
+914
+01:16:37,477 --> 01:16:40,229
+Hello, Mr. Secretary.
+
+915
+01:16:40,355 --> 01:16:41,439
+Where is he?
+
+916
+01:16:43,483 --> 01:16:46,944
+- That won't work either.
+- Porco Giuda!
+
+917
+01:16:48,989 --> 01:16:50,781
+Hey, Banzai.
+
+918
+01:16:53,535 --> 01:16:56,162
+Take a look at your girlfriend.
+
+919
+01:17:00,167 --> 01:17:03,252
+Devo lavorare con persone idiota!
+
+920
+01:17:07,466 --> 01:17:12,428
+She'll live... but only for a while.
+
+921
+01:17:12,596 --> 01:17:15,890
+And she won't enjoy it.
+
+922
+01:17:16,016 --> 01:17:18,768
+Only you can save her from a fate
+
+923
+01:17:18,894 --> 01:17:22,146
+even worse than that of
+your friend, Mr. Rawhide.
+
+924
+01:17:22,272 --> 01:17:25,983
+Missing circuit's in your head, Whorfin.
+
+925
+01:17:26,109 --> 01:17:28,360
+Bigbooty...
+
+926
+01:17:28,487 --> 01:17:30,887
+activate your probes.
+
+927
+01:17:49,049 --> 01:17:52,849
+Slow this sucker down.
+I'll handle these birds.
+
+928
+01:17:58,141 --> 01:18:00,141
+You young gentlemen
+have a telephone in here?
+
+929
+01:18:00,170 --> 01:18:03,270
+You wanna jump on the horn and get me
+Mr. John Bigboot.
+
+930
+01:18:03,271 --> 01:18:04,605
+It's Bigbooté.
+
+931
+01:18:04,731 --> 01:18:08,984
+Oh, hell, if you wanna do anything
+nowadays, you gotta do it yourself.
+
+932
+01:18:09,110 --> 01:18:12,196
+- What is your name?
+- John Yaya.
+
+933
+01:18:12,322 --> 01:18:15,699
+John Yaya, huh? And you are?
+
+934
+01:18:15,826 --> 01:18:18,026
+"John Small Berries."
+
+935
+01:18:38,890 --> 01:18:41,892
+- He's down there. I feel it.
+- We're not...
+
+936
+01:18:51,236 --> 01:18:56,907
+- It's a nest.
+- Birds nest. People don't nest.
+
+937
+01:18:57,033 --> 01:18:58,534
+Red Lectroid.
+
+938
+01:19:22,267 --> 01:19:24,602
+Don't touch it. It might be a bomb.
+
+939
+01:19:24,728 --> 01:19:25,978
+Nah, it's a toy.
+
+940
+01:19:30,942 --> 01:19:34,612
+- Sit down!
+- Sir? Hey, that area's restricted.
+
+941
+01:19:34,738 --> 01:19:38,157
+Yeah? Not to me!
+
+942
+01:19:42,871 --> 01:19:48,083
+This I know. This I know.
+And I love Whorfin too.
+
+943
+01:19:52,505 --> 01:19:55,382
+- What is this place?
+- It's a bivouac. They sleep here.
+
+944
+01:19:55,508 --> 01:19:59,178
+- Can they all shoot stingers?
+- You better believe it.
+
+945
+01:19:59,304 --> 01:20:01,472
+- Lizardo. Which way?
+- Over there.
+
+946
+01:20:01,598 --> 01:20:04,141
+- You sure?
+- Believe it.
+
+947
+01:20:04,267 --> 01:20:06,310
+Just once.
+
+948
+01:20:41,012 --> 01:20:43,055
+- Where...?
+- Shh.
+
+949
+01:20:45,475 --> 01:20:47,851
+What's going on? Where are we?
+
+950
+01:20:47,978 --> 01:20:50,729
+It's a bivouac, man. They sleep here.
+
+951
+01:21:07,288 --> 01:21:09,373
+What's happening?
+
+952
+01:21:09,541 --> 01:21:12,167
+John Isaac, get the boy! Andiamo!
+
+953
+01:21:12,335 --> 01:21:15,963
+Bigbooty! Go down to the pit. Kill the girl!
+
+954
+01:21:19,259 --> 01:21:21,093
+Scooter! Where are you?
+
+955
+01:21:31,563 --> 01:21:34,440
+Hey, somebody turn off
+that gosh dang klaxon!
+
+956
+01:21:34,566 --> 01:21:39,611
+Work. Work. Work.
+
+957
+01:21:42,615 --> 01:21:44,825
+There are monkey boys in the facility.
+
+958
+01:21:45,785 --> 01:21:46,994
+You are secure.
+
+959
+01:21:48,079 --> 01:21:49,121
+Do not panic.
+
+960
+01:21:52,542 --> 01:21:54,793
+John Emdall must die.
+
+961
+01:21:55,920 --> 01:21:58,422
+Lord Whorfin must live.
+
+962
+01:22:00,300 --> 01:22:01,216
+Work.
+
+963
+01:22:01,468 --> 01:22:02,843
+Work.
+
+964
+01:22:03,094 --> 01:22:04,595
+Work.
+
+965
+01:22:33,625 --> 01:22:35,042
+Sorry. I'm sorry.
+
+966
+01:22:35,168 --> 01:22:36,668
+- Sidney.
+- Buckaroo!
+
+967
+01:22:36,795 --> 01:22:39,880
+It's good to see you, pal. You got a pistol?
+
+968
+01:22:40,006 --> 01:22:41,924
+Yeah.
+
+969
+01:22:44,427 --> 01:22:46,678
+What are you gonna use?
+
+970
+01:22:47,764 --> 01:22:50,307
+- Where are we?
+- I hate to tell you.
+
+971
+01:22:51,351 --> 01:22:53,727
+Where are we going?
+
+972
+01:22:55,688 --> 01:22:57,731
+This way.
+
+973
+01:23:06,533 --> 01:23:08,117
+Get over here.
+
+974
+01:23:08,201 --> 01:23:12,204
+Keep your noses to the grindstone.
+
+975
+01:23:12,372 --> 01:23:14,957
+The greatest joy is the joy of duty.
+
+976
+01:23:16,167 --> 01:23:19,253
+Work. Work. Work.
+
+977
+01:23:19,963 --> 01:23:23,382
+Monkey boys are feeble.
+Lord Whorfin is supreme!
+
+978
+01:23:23,550 --> 01:23:29,304
+Bigboot! Bigboot! Hold on a minute,
+I wanna talk to you.
+
+979
+01:23:30,181 --> 01:23:34,810
+What the hell's the matter with you?
+You deaf? I said I wanna talk to you!
+
+980
+01:23:57,333 --> 01:23:59,459
+Jesus!
+
+981
+01:23:59,836 --> 01:24:03,839
+What the hell is going on here,
+Bigboot? Where's my bomber?
+
+982
+01:24:03,965 --> 01:24:09,094
+Bigbooté. John O'Connor,
+put the slug on the track.
+
+983
+01:24:09,262 --> 01:24:12,181
+I don't give a flying handshake
+what your name is!
+
+984
+01:24:12,307 --> 01:24:15,642
+I'm here to see a bomber!
+This sure ain't it.
+
+985
+01:24:15,810 --> 01:24:19,354
+Let's just go back upstairs to my office.
+
+986
+01:24:19,480 --> 01:24:21,857
+Talk about this like
+two reasonable beings.
+
+987
+01:24:21,983 --> 01:24:25,402
+You listen to me. Your private life,
+that's your own concern.
+
+988
+01:24:25,486 --> 01:24:29,865
+But I'm here to see a bomber
+and I'm damn sure gonna see it now!
+
+989
+01:24:29,991 --> 01:24:34,119
+Look at this place. Don't you have
+any pride? It looks like a damn pigsty!
+
+990
+01:24:35,663 --> 01:24:40,542
+It's not my goddamn planet.
+Understand, monkey boy?
+
+991
+01:24:41,502 --> 01:24:45,802
+- Let's get outta here, John O'Connor.
+- But John, Whorfin said we could kill her.
+
+992
+01:25:15,536 --> 01:25:17,537
+You owe me one, Buck.
+
+993
+01:25:25,213 --> 01:25:28,048
+It's not over yet.
+
+994
+01:25:29,008 --> 01:25:32,094
+I may be down but I'm not out.
+
+995
+01:25:38,226 --> 01:25:41,186
+What is that? Don't pick it up. No.
+
+996
+01:25:44,691 --> 01:25:46,316
+Penny.
+
+997
+01:25:47,527 --> 01:25:49,444
+How's she doing?
+
+998
+01:25:49,529 --> 01:25:52,531
+- I don't know.
+- There's no overthruster.
+
+999
+01:25:52,699 --> 01:25:54,324
+- Buckaroo Banzai!
+- What?
+
+1000
+01:25:54,450 --> 01:25:56,910
+There is little time!
+
+1001
+01:25:57,036 --> 01:26:00,956
+You better come quickly
+if your planet is still important to you.
+
+1002
+01:26:01,124 --> 01:26:04,584
+Leave her to me.
+You take care of business.
+
+1003
+01:26:05,461 --> 01:26:07,129
+Thanks.
+
+1004
+01:26:07,255 --> 01:26:09,339
+- Go. Go.
+- Right.
+
+1005
+01:26:12,302 --> 01:26:15,804
+- Where's Buckaroo Banzai?
+- He's flown the coop.
+
+1006
+01:26:15,930 --> 01:26:17,681
+- Is the girl dead?
+- Yes!
+
+1007
+01:26:17,807 --> 01:26:20,684
+Then sound the call to board the ship.
+
+1008
+01:26:20,810 --> 01:26:23,478
+Without the crucial missing circuit,
+we'll never make it!
+
+1009
+01:26:23,604 --> 01:26:27,899
+They're only monkey boys! We can still
+crush them here on Earth, Lord Whorfin!
+
+1010
+01:26:28,026 --> 01:26:30,986
+No. It's time to go home.
+
+1011
+01:26:31,112 --> 01:26:34,865
+Bigbooty, you carry my overthruster.
+
+1012
+01:26:34,991 --> 01:26:37,951
+John O'Connor...
+
+1013
+01:26:38,119 --> 01:26:40,537
+you stick by my side.
+
+1014
+01:26:48,296 --> 01:26:53,383
+The great vehicle itself
+is now in final boarding state.
+
+1015
+01:26:53,509 --> 01:26:56,011
+What is that?
+
+1016
+01:26:56,888 --> 01:27:00,974
+It's a troop ship. Lord Whorfin.
+
+1017
+01:27:06,147 --> 01:27:09,483
+Massacre them without quarter!
+
+1018
+01:27:25,708 --> 01:27:31,129
+Tell the flight attendants to close
+the doors and prepare for a crosscheck.
+
+1019
+01:27:40,807 --> 01:27:46,478
+If you are not inside the great vehicle
+itself, you have missed the boat.
+
+1020
+01:27:49,065 --> 01:27:54,027
+We are go for launch.
+Do not obstruct the great vehicle.
+
+1021
+01:27:55,905 --> 01:27:57,781
+Do not take to the floor.
+
+1022
+01:27:57,907 --> 01:28:01,743
+Lord Whorfin will return
+for all those left behind.
+
+1023
+01:28:01,869 --> 01:28:07,290
+Clear the great vehicle. Voltage is rising.
+Electromagnetic field is rising.
+
+1024
+01:28:13,005 --> 01:28:16,091
+John O'Connor! Install my overthruster!
+
+1025
+01:28:16,217 --> 01:28:19,636
+...all carry-on baggage
+overhead and secure.
+
+1026
+01:28:19,762 --> 01:28:21,888
+Electromagnetic field...
+
+1027
+01:28:22,014 --> 01:28:27,018
+- What is this?
+- It looks like one of our thermopods.
+
+1028
+01:28:27,145 --> 01:28:29,187
+But it's a very bad design.
+
+1029
+01:28:31,315 --> 01:28:37,195
+Your tray tables are secure, and your
+seat backs in the full upright position.
+
+1030
+01:28:37,321 --> 01:28:40,532
+Your overthruster
+is in place, Lord Whorfin.
+
+1031
+01:28:40,658 --> 01:28:42,909
+It won't work! It won't work!
+
+1032
+01:28:43,035 --> 01:28:46,121
+Shut up, John Bigbooty, you coward!
+
+1033
+01:28:46,247 --> 01:28:49,875
+You're the weakest individual
+I ever know!
+
+1034
+01:28:50,960 --> 01:28:53,003
+We are cooking. Over.
+
+1035
+01:28:54,630 --> 01:28:58,842
+Get away from that, boy,
+or I'll drink your blood!
+
+1036
+01:29:01,429 --> 01:29:05,098
+What you got there, son?
+That's not real, is it?
+
+1037
+01:29:08,102 --> 01:29:08,977
+Get 'em up.
+
+1038
+01:29:09,103 --> 01:29:14,024
+H2 tank pressurization, OK.
+We're go for launch.
+
+1039
+01:29:14,108 --> 01:29:20,071
+John Many Jars, establish overthruster
+beam red. Over. Activate oscillator.
+
+1040
+01:29:21,199 --> 01:29:24,784
+Pace accelerator's shorting out!
+
+1041
+01:29:24,911 --> 01:29:27,746
+John O'Connor! My overthruster!
+
+1042
+01:29:36,547 --> 01:29:40,258
+Wait! Don't leave! Don't leave!
+
+1043
+01:29:40,384 --> 01:29:43,261
+This is vacuum cylinder three.
+
+1044
+01:29:49,602 --> 01:29:53,230
+If he can't connect the dots,
+they never gonna penetrate.
+
+1045
+01:29:56,234 --> 01:30:00,820
+Cabin fluid valves were closed.
+Problem is corrected. Over.
+
+1046
+01:30:00,988 --> 01:30:01,988
+What is that?
+
+1047
+01:30:02,114 --> 01:30:05,492
+Is OK. No worry.
+Is an insulating liquid.
+
+1048
+01:30:05,618 --> 01:30:08,203
+Full speed ahead!
+
+1049
+01:30:08,329 --> 01:30:12,082
+May I remind you to fasten your seat belts
+
+1050
+01:30:12,208 --> 01:30:15,126
+and extinguish all smoking material.
+
+1051
+01:30:15,294 --> 01:30:18,922
+We haven't a chance!
+Your overthruster's for shit!
+
+1052
+01:30:19,048 --> 01:30:21,628
+One more word out of you, Bigbooty...
+
+1053
+01:30:21,759 --> 01:30:25,009
+Bigbooté! Té! Té!
+
+1054
+01:30:27,348 --> 01:30:31,434
+Welcome aboard, Banzai. You're next.
+
+1055
+01:30:33,604 --> 01:30:35,814
+Let's go home.
+
+1056
+01:30:43,823 --> 01:30:46,408
+The wall is softening.
+
+1057
+01:30:48,035 --> 01:30:51,663
+- Inertial overtones obtaining command.
+- Oh, no.
+
+1058
+01:31:04,010 --> 01:31:09,347
+Danger! Danger! We do not have
+crossover. Negative mass is spreading.
+
+1059
+01:31:16,272 --> 01:31:20,525
+We're not in the Eighth Dimension.
+We are over New Jersey.
+
+1060
+01:31:20,693 --> 01:31:22,444
+All is not lost...
+
+1061
+01:31:22,570 --> 01:31:25,238
+Stand by to incinerate Smolensk.
+
+1062
+01:31:26,532 --> 01:31:27,907
+Jettison!
+
+1063
+01:31:28,034 --> 01:31:31,870
+So sorry, gentlemen,
+but I must dump the excess baggage.
+
+1064
+01:31:36,834 --> 01:31:39,753
+Arrivederci, Banzai!
+
+1065
+01:31:41,464 --> 01:31:46,009
+- Where's the power?
+- I'm a diplomat! I failed flight school.
+
+1066
+01:31:46,469 --> 01:31:48,595
+What do we do, jump-start it?
+
+1067
+01:32:14,914 --> 01:32:17,999
+Rocket stabilizer.
+
+1068
+01:32:18,167 --> 01:32:20,210
+What this?
+
+1069
+01:32:22,129 --> 01:32:24,172
+Looks like a gun.
+
+1070
+01:32:29,178 --> 01:32:31,513
+John Parker, take this wheel.
+
+1071
+01:32:34,809 --> 01:32:38,687
+Right, just... just hold onto that.
+It flies like a truck.
+
+1072
+01:32:38,813 --> 01:32:40,772
+Good. What is a truck?
+
+1073
+01:32:40,856 --> 01:32:44,943
+Electric beam is fine, Lord Whorfin.
+
+1074
+01:33:06,006 --> 01:33:08,174
+Thermopod on our tail. Over.
+
+1075
+01:33:08,300 --> 01:33:11,845
+Banzai! Oh, so you wanna play games?
+
+1076
+01:33:11,971 --> 01:33:17,058
+- Let's just stabilize her?
+- Wanna play hide-and-seek? Huh?
+
+1077
+01:33:17,184 --> 01:33:22,897
+OK. OK. Start left. Go left. More, more,
+more, more. Left, left. Left! I said left!
+
+1078
+01:33:23,023 --> 01:33:25,775
+- This is left!
+- I mean my left. Go your right.
+
+1079
+01:33:25,901 --> 01:33:27,152
+Go.
+
+1080
+01:33:27,236 --> 01:33:29,612
+Faster! He's gaining.
+
+1081
+01:33:29,739 --> 01:33:31,698
+Feet, do your stuff!
+
+1082
+01:33:31,866 --> 01:33:37,454
+More, more, more. Lock in, lock in,
+lock in. Now dive, dive, dive, dive, dive.
+
+1083
+01:33:37,580 --> 01:33:40,457
+Whorfin... sayonara.
+
+1084
+01:33:42,710 --> 01:33:48,465
+Banzai! I'll see you in hell!
+
+1085
+01:33:49,842 --> 01:33:52,051
+We've got him!
+
+1086
+01:33:52,928 --> 01:33:55,388
+- Pull up!
+- It's stuck!
+
+1087
+01:34:02,062 --> 01:34:04,439
+John Whorfin... destroyed.
+
+1088
+01:34:05,900 --> 01:34:08,109
+Deactivate particle beam.
+
+1089
+01:34:08,235 --> 01:34:12,572
+Tracking 0-0-0.
+
+1090
+01:34:59,328 --> 01:35:01,246
+I thought you bought it.
+
+1091
+01:35:01,372 --> 01:35:03,790
+- Yeah, me too. Where's Penny?
+- At the bus.
+
+1092
+01:35:03,958 --> 01:35:06,042
+New Jersey helped me bring her back.
+
+1093
+01:35:06,168 --> 01:35:08,753
+- How is she?
+- He said he'd pull her through.
+
+1094
+01:35:08,879 --> 01:35:11,673
+Quite a guy, if you want my opinion.
+
+1095
+01:35:12,633 --> 01:35:14,259
+You give me that gizmo
+
+1096
+01:35:14,385 --> 01:35:19,889
+and I'll give you a brand new
+crisp $20 bill. Huh?
+
+1097
+01:35:21,350 --> 01:35:25,603
+- All right, I'll tell you what...
+- Hey, Scooter! Fall in.
+
+1098
+01:35:30,901 --> 01:35:33,778
+This what you're looking for, Buckaroo?
+
+1099
+01:35:35,114 --> 01:35:39,742
+- Scooter... you got his job.
+- All right!
+
+1100
+01:35:39,869 --> 01:35:42,996
+- Wanna ride with me in the jet car?
+- Wow! You know.
+
+1101
+01:35:43,205 --> 01:35:45,456
+But I have to ask my dad first.
+
+1102
+01:35:46,125 --> 01:35:49,002
+OK, you ask your dad, I'll wash up.
+
+1103
+01:35:53,465 --> 01:35:55,091
+Aw.
+
+1104
+01:36:00,848 --> 01:36:02,891
+I did all I could.
+
+1105
+01:36:06,228 --> 01:36:10,315
+Buckaroo, President's on line one. Calling about is
+everything OK with the alien space cloud,
+
+1106
+01:36:10,441 --> 01:36:12,775
+or should he go ahead
+and destroy Russia?
+
+1107
+01:36:12,902 --> 01:36:15,820
+Tell him yes on one and no on two.
+
+1108
+01:36:17,114 --> 01:36:20,575
+Which was "yes"?
+To destroy Russia or number two?
+
+1109
+01:37:24,264 --> 01:37:25,890
+Penny.
+
+1110
+01:37:40,114 --> 01:37:42,156
+Careful.
+
+1111
+01:37:44,785 --> 01:37:46,828
+You're all right.
+
+1112
+01:37:50,207 --> 01:37:52,375
+You look awful.
+
+1113
+01:37:52,501 --> 01:37:57,630
+You don't exactly light up
+a party yourself... Penny Priddy.
+
+1114
+01:38:09,143 --> 01:38:11,811
+So what? Big deal!
+
