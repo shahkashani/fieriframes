@@ -21,10 +21,10 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^6.2.0",
-    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v3.8.1",
+    "dotenv": "^8.0.0",
+    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v4.0.0",
     "lodash": "^4.17.14",
     "stills": "^6.21.0",
-    "yargs": "^13.2.1"
+    "yargs": "^13.2.4"
   }
 }
