@@ -160,7 +160,11 @@ const gifEffects = [
   new stills.filters.FaceGlow({
     avoidDescriptors,
     blur: 0.1
-  })
+  }),
+  new stills.filters.Tempo({
+    detectSceneChange: true
+  }),
+  new stills.filters.FewFrames()
 ];
 
 const stillEffects = [
@@ -237,7 +241,8 @@ const taggers = [
   new stills.taggers.Filters({
     shuffle: 'tw:flashing',
     stutter: 'tw:flashing',
-    jitter: 'tw:flashing'
+    jitter: 'tw:flashing',
+    fewframes: 'tw:flashing'
   })
 ];
 
