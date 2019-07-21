@@ -19,7 +19,14 @@ const argv = require('yargs')
 
 const stills = require('stills');
 const { resolve } = require('path');
-const { compact, random, sampleSize, get } = require('lodash');
+const {
+  compact,
+  random,
+  sampleSize,
+  get,
+  intersection,
+  map
+} = require('lodash');
 const FieriFiction = require('fierifiction');
 const { copyFileSync } = require('fs');
 
@@ -185,6 +192,8 @@ const stillEffects = [
   })
 ];
 
+const singleCaptionEffects = ['fewframes', 'tempo'];
+
 let allEffects = isGif ? gifEffects : stillEffects;
 
 let useEffects = effects
@@ -207,7 +216,10 @@ const filters = compact([
         []
       ),
       num: {
-        srt: random(1, 2),
+        srt:
+          intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0
+            ? 1
+            : random(1, 2),
         txt: 1
       }
     })

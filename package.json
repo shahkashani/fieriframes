@@ -24,7 +24,7 @@
     "dotenv": "^8.0.0",
     "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v4.0.0",
     "lodash": "^4.17.14",
-    "stills": "^6.23.0",
+    "stills": "^6.23.1",
     "yargs": "^13.2.4"
   }
 }
