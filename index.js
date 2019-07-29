@@ -120,6 +120,19 @@ const content = isGif
 
 const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
+const orbs = [
+  {
+    radius: 0.4,
+    blur: 0.4,
+    color: '#e60000'
+  },
+  {
+    radius: 0.1,
+    blur: 0.3,
+    color: 'white'
+  }
+];
+
 const gifEffects = [
   new stills.filters.FaceZoom({
     lastFrameDelayMs: 500,
@@ -151,7 +164,7 @@ const gifEffects = [
   new stills.filters.Flip(),
   new stills.filters.Flop(),
   new stills.filters.Jitter(),
-  new stills.filters.FaceOrb(),
+  new stills.filters.FaceOrb({ orbs }),
   new stills.filters.FaceStretch({
     useProgress: randomly(0.5)
   }),
@@ -175,7 +188,7 @@ const gifEffects = [
 ];
 
 const stillEffects = [
-  new stills.filters.FaceOrb(),
+  new stills.filters.FaceOrb({ orbs }),
   new stills.filters.FaceStretch(),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
