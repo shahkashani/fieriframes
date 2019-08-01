@@ -184,7 +184,8 @@ const gifEffects = [
   new stills.filters.Tempo({
     detectSceneChange: true
   }),
-  new stills.filters.FewFrames()
+  new stills.filters.FewFrames(),
+  new stills.filters.Liquify()
 ];
 
 const stillEffects = [
@@ -202,7 +203,8 @@ const stillEffects = [
   }),
   new stills.filters.FaceDemonize({
     avoidDescriptors
-  })
+  }),
+  new stills.filters.Liquify()
 ];
 
 const singleCaptionEffects = ['fewframes', 'tempo'];
