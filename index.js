@@ -255,7 +255,8 @@ const destinations = argv.post
         consumerKey: TWITTER_CONSUMER_KEY,
         consumerSecret: TWITTER_CONSUMER_SECRET,
         accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
-        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
+        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
+        skipText: true
       })
     ]
   : [];
