@@ -50,7 +50,8 @@ const {
   FIERIFICTION_VIDEO_RATE,
   GOOGLE_CLOUD_CREDENTIALS_BASE64,
   GIF_LENGTH_SECONDS,
-  GIF_FPS
+  GIF_FPS,
+  MICROSOFT_AZURE_TOKEN
 } = process.env;
 
 const {
@@ -273,6 +274,12 @@ const taggers = [
   })
 ];
 
+const description = MICROSOFT_AZURE_TOKEN
+  ? new stills.descriptions.Azure({
+      token: MICROSOFT_AZURE_TOKEN
+    })
+  : null;
+
 const validators = face ? [new stills.validators.FaceDetection()] : [];
 
 (async function() {
@@ -284,7 +291,8 @@ const validators = face ? [new stills.validators.FaceDetection()] : [];
     filters,
     destinations,
     taggers,
-    validators
+    validators,
+    description
   });
 
   const output = result.content;
