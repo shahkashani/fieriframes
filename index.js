@@ -153,9 +153,7 @@ const gifEffects = [
   }),
   new stills.filters.Invert(),
   new stills.filters.Gray(),
-  new stills.filters.Reverse({
-    detectSceneChange: false
-  }),
+  new stills.filters.Reverse(),
   new stills.filters.Implode(),
   new stills.filters.Swirl(),
   new stills.filters.Rotate({
@@ -182,9 +180,7 @@ const gifEffects = [
     avoidDescriptors,
     blur: 0.1
   }),
-  new stills.filters.Tempo({
-    detectSceneChange: true
-  }),
+  new stills.filters.Tempo(),
   new stills.filters.FewFrames(),
   new stills.filters.Liquify()
 ];
@@ -208,8 +204,6 @@ const stillEffects = [
   new stills.filters.Liquify()
 ];
 
-const singleCaptionEffects = ['fewframes', 'tempo'];
-
 let allEffects = isGif ? gifEffects : stillEffects;
 
 let useEffects = effects
@@ -218,28 +212,11 @@ let useEffects = effects
 
 const filters = compact([
   ...useEffects,
-  randomly(
-    CAPTION_RATE,
-    new stills.filters.Captions({
-      background,
-      captionFileGlob: caption ? `*${caption}*` : undefined,
-      folder: resolve('./captions'),
-      font: resolve('./fonts/arial.ttf'),
-      isSequential: true,
-      transformations: randomly(
-        USE_CAPTION_EFFECT_RATE,
-        sampleSize(['uppercase', 'music', 'exclamation'], 1),
-        []
-      ),
-      num: {
-        srt:
-          intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0
-            ? 1
-            : random(1, 2),
-        txt: 1
-      }
-    })
-  )
+  new stills.filters.Captions({
+    background,
+    folder: resolve('./captions'),
+    font: resolve('./fonts/arial.ttf')
+  })
 ]);
 
 const destinations = argv.post
@@ -272,16 +249,48 @@ const taggers = [
     stutter: 'tw:flashing',
     jitter: 'tw:flashing',
     fewframes: 'tw:flashing'
-  })
+  }),
+  new stills.taggers.Azure()
 ];
 
-const description = MICROSOFT_AZURE_TOKEN
-  ? new stills.descriptions.Azure({
+const description = new stills.descriptions.Azure();
+
+const validators = face ? [new stills.validators.FaceDetection()] : [];
+
+const singleCaptionEffects = ['fewframes', 'tempo'];
+
+const useSingleCaption =
+  intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
+
+const globalsCaption = randomly(
+  CAPTION_RATE,
+  new stills.globals.Captions({
+    captionFileGlob: caption ? `*${caption}*` : undefined,
+    folder: resolve('./captions'),
+    isSequential: true,
+    transformations: randomly(
+      USE_CAPTION_EFFECT_RATE,
+      sampleSize(['uppercase', 'music', 'exclamation'], 1),
+      []
+    ),
+    num: {
+      srt: useSingleCaption ? 1 : random(1, 2),
+      txt: 1
+    }
+  })
+);
+
+const globalsAzure = MICROSOFT_AZURE_TOKEN
+  ? new stills.globals.Azure({
       token: MICROSOFT_AZURE_TOKEN
     })
   : null;
 
-const validators = face ? [new stills.validators.FaceDetection()] : [];
+const globals = compact([
+  new stills.globals.Scenes(),
+  globalsCaption,
+  globalsAzure
+]);
 
 (async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
@@ -293,13 +302,15 @@ const validators = face ? [new stills.validators.FaceDetection()] : [];
     destinations,
     taggers,
     validators,
-    description
+    description,
+    globals
   });
 
   const output = result.content;
-  const captions = get(result, 'filters.captions', []);
+
+  const captions = get(result, 'globals.captions', []);
+  const tags = get(result, 'tags', []);
   const tumblr = get(result, 'destinations.tumblr');
-  const tags = get(tumblr, 'tags', []);
 
   if (destinations.length) {
     if (captions.length) {
