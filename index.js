@@ -286,11 +286,7 @@ const globalsAzure = MICROSOFT_AZURE_TOKEN
     })
   : null;
 
-const globals = compact([
-  new stills.globals.Scenes(),
-  globalsCaption,
-  globalsAzure
-]);
+const globals = compact([globalsCaption, globalsAzure]);
 
 (async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
