@@ -65,7 +65,7 @@ const {
 } = argv;
 
 const GIF_STILL_RATE = 0.5;
-const CAPTION_RATE = caption ? 1 : 0.8;
+const CAPTION_RATE = caption ? 1 : 0.9;
 const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE ? parseFloat(GIF_EFFECT_RATE) : 0.2;
 const USE_CAPTION_EFFECT_RATE = CAPTION_EFFECT_RATE
   ? parseFloat(CAPTION_EFFECT_RATE)
