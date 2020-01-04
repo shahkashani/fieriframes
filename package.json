@@ -11,20 +11,20 @@
   },
   "scripts": {
     "start": "node logo.js",
-    "post": "node index.js --post",
-    "generate": "node index.js --local=videos/",
+    "post": "node --max-old-space-size=8192 index.js --post",
+    "generate": "node --max-old-space-size=8192 index.js --local=videos/",
     "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'",
     "docker:build": "docker build . -t fieriframes",
-    "docker:generate": "docker run -v $(pwd)/videos:/app/videos -t fieriframes npm run generate",
-    "docker:post": "docker run -t fieriframes npm run post"
+    "docker:generate": "docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output",
+    "docker:post": "docker run -it fieriframes npm run post"
   },
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v4.2.0",
+    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v5.0.0",
     "lodash": "^4.17.14",
-    "stills": "^8.1.1",
+    "stills": "^8.2.1",
     "yargs": "^13.2.4"
   }
 }
