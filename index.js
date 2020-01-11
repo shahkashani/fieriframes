@@ -171,7 +171,8 @@ const gifEffects = [
   new stills.filters.Jitter(),
   new stills.filters.FaceOrb({ orbs }),
   new stills.filters.FaceStretch({
-    useProgress: randomly(0.5)
+    useProgress: randomly(0.5),
+    randomOffset: randomly(0.5, 0, 5),
   }),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
