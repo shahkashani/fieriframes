@@ -193,6 +193,8 @@ const gifEffects = [
   new stills.filters.Pip(),
   new stills.filters.Flash(),
   new stills.filters.Station(),
+  new stills.filters.Polar(),
+  new stills.filters.Tile(),
 ];
 
 const stillEffects = [
@@ -261,6 +263,7 @@ const taggers = [
     stutter: 'tw:flashing',
     jitter: 'tw:flashing',
     flash: 'tw:flashing',
+    tile: 'tw:flashing',
     fewframes: 'tw:flashing'
   }),
   new stills.taggers.Azure()
