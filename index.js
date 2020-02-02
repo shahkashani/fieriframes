@@ -194,7 +194,9 @@ const gifEffects = [
   new stills.filters.Flash(),
   new stills.filters.Station(),
   new stills.filters.Polar(),
-  new stills.filters.Tile(),
+  new stills.filters.Tile({
+    numTiles: 4
+  }),
 ];
 
 const stillEffects = [
