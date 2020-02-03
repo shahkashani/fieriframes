@@ -200,12 +200,14 @@ const gifEffects = [
   }),
   new stills.filters.BlendSelf(),
   new stills.filters.Blend({
+    opacity: 0.5,
     overlayFile: sample([
       resolve('./blend/twinpeaks1.mp4'),
       resolve('./blend/twinpeaks2.mp4'),
       resolve('./blend/twinpeaks3.mp4'),
       resolve('./blend/alf.mp4'),
-      resolve('./blend/fwwm.mp4')
+      resolve('./blend/fwwm.mp4'),
+      resolve('./blend/eraserhead.mp4')
     ])
   })
 ];
