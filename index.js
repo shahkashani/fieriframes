@@ -27,6 +27,7 @@ const {
   sampleSize,
   get,
   intersection,
+  sample,
   map
 } = require('lodash');
 const FieriFiction = require('fierifiction');
@@ -64,7 +65,7 @@ const {
   background,
   face,
   outputFolder,
-  prompt: isPrompt,
+  prompt: isPrompt
 } = argv;
 
 const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
@@ -100,17 +101,17 @@ const randomly = (rate, hit = true, miss = false) =>
 
 const source = local
   ? new stills.sources.Local({
-    folder: local,
-    filter: sourceFilter,
-    outputFolder,
-  })
+      folder: local,
+      filter: sourceFilter,
+      outputFolder
+    })
   : new stills.sources.S3({
-    accessKeyId: S3_ACCESS_KEY_ID,
-    secretAccessKey: S3_SECRET_ACCESS_KEY,
-    bucket: S3_BUCKET,
-    filter: file =>
-      !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1
-  });
+      accessKeyId: S3_ACCESS_KEY_ID,
+      secretAccessKey: S3_SECRET_ACCESS_KEY,
+      bucket: S3_BUCKET,
+      filter: file =>
+        !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1
+    });
 
 const type =
   argv.type === 'random' ? randomly(GIF_STILL_RATE, 'gif', 'still') : argv.type;
@@ -119,9 +120,9 @@ const isGif = type === 'gif';
 
 const content = isGif
   ? new stills.content.Gif({
-    duration: NUM_GIF_LENGTH_SECONDS,
-    fps: NUM_GIF_FPS
-  })
+      duration: NUM_GIF_LENGTH_SECONDS,
+      fps: NUM_GIF_FPS
+    })
   : new stills.content.Still();
 
 const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
@@ -172,7 +173,7 @@ const gifEffects = [
   new stills.filters.FaceOrb({ orbs }),
   new stills.filters.FaceStretch({
     useProgress: randomly(0.5),
-    randomOffset: randomly(0.5, 0, 5),
+    randomOffset: randomly(0.5, 0, 5)
   }),
   new stills.filters.FaceDemonEyes({
     avoidDescriptors
@@ -197,6 +198,13 @@ const gifEffects = [
   new stills.filters.Tile({
     numTiles: 4
   }),
+  new stills.filters.BlendSelf(),
+  new stills.filters.Blend({
+    overlayFile: sample([
+      resolve('./blend/twinpeaks1.mp4'),
+      resolve('./blend/twinpeaks2.mp4')
+    ])
+  })
 ];
 
 const stillEffects = [
@@ -215,7 +223,7 @@ const stillEffects = [
   new stills.filters.FaceDemonize({
     avoidDescriptors
   }),
-  new stills.filters.Liquify(),
+  new stills.filters.Liquify()
 ];
 
 let allEffects = isGif ? gifEffects : stillEffects;
@@ -223,8 +231,18 @@ let allEffects = isGif ? gifEffects : stillEffects;
 const allEffectsNames = map(allEffects, 'name');
 
 let useEffects = effects
-  ? effects.reduce((memo, name) => allEffectsNames.indexOf(name) !== -1 ? [...memo, allEffects[allEffectsNames.indexOf(name)]] : memo, [])
-  : randomly(USE_GIF_EFFECT_RATE, sampleSize(allEffects, random(1, maxNumEffects)), []);
+  ? effects.reduce(
+      (memo, name) =>
+        allEffectsNames.indexOf(name) !== -1
+          ? [...memo, allEffects[allEffectsNames.indexOf(name)]]
+          : memo,
+      []
+    )
+  : randomly(
+      USE_GIF_EFFECT_RATE,
+      sampleSize(allEffects, random(1, maxNumEffects)),
+      []
+    );
 
 const filters = compact([
   ...useEffects,
@@ -232,26 +250,26 @@ const filters = compact([
     background,
     folder: resolve('./captions'),
     font: resolve('./fonts/arial.ttf'),
-    glyphs: false,
+    glyphs: false
   })
 ]);
 
 const destinations = argv.post
   ? [
-    new stills.destinations.Tumblr({
-      consumerKey: TUMBLR_CONSUMER_KEY,
-      consumerSecret: TUMBLR_CONSUMER_SECRET,
-      token: TUMBLR_ACCESS_TOKEN_KEY,
-      tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-      blogName: TUMBLR_BLOG_NAME
-    }),
-    new stills.destinations.Twitter({
-      consumerKey: TWITTER_CONSUMER_KEY,
-      consumerSecret: TWITTER_CONSUMER_SECRET,
-      accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
-      accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
-    })
-  ]
+      new stills.destinations.Tumblr({
+        consumerKey: TUMBLR_CONSUMER_KEY,
+        consumerSecret: TUMBLR_CONSUMER_SECRET,
+        token: TUMBLR_ACCESS_TOKEN_KEY,
+        tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+        blogName: TUMBLR_BLOG_NAME
+      }),
+      new stills.destinations.Twitter({
+        consumerKey: TWITTER_CONSUMER_KEY,
+        consumerSecret: TWITTER_CONSUMER_SECRET,
+        accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
+        accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET
+      })
+    ]
   : [];
 
 const taggers = [
@@ -300,13 +318,13 @@ const globalsCaption = randomly(
 
 const globalsAzure = MICROSOFT_AZURE_TOKEN
   ? new stills.globals.Azure({
-    token: MICROSOFT_AZURE_TOKEN
-  })
+      token: MICROSOFT_AZURE_TOKEN
+    })
   : null;
 
 const globals = compact([globalsAzure, globalsCaption]);
 
-(async function () {
+(async function() {
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
   const result = await stills.generate({
@@ -318,7 +336,7 @@ const globals = compact([globalsAzure, globalsCaption]);
     validators,
     description,
     globals,
-    isPrompt,
+    isPrompt
   });
 
   const output = result.content;
