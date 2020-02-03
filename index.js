@@ -202,7 +202,8 @@ const gifEffects = [
   new stills.filters.Blend({
     overlayFile: sample([
       resolve('./blend/twinpeaks1.mp4'),
-      resolve('./blend/twinpeaks2.mp4')
+      resolve('./blend/twinpeaks2.mp4'),
+      resolve('./blend/twinpeaks3.mp4')
     ])
   })
 ];
