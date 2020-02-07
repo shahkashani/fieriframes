@@ -21,10 +21,13 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
+    "compromise": "^13.0.0",
+    "compromise-sentences": "0.0.5",
     "dotenv": "^8.0.0",
     "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v5.1.0",
     "lodash": "^4.17.14",
-    "stills": "^8.6.1",
+    "stills": "^8.7.0",
+    "tumblr.js": "^2.0.2",
     "yargs": "^13.2.4"
   }
 }
