@@ -8,7 +8,7 @@ class TumblrUtil {
     tokenKey = null,
     tokenSecret = null,
     blogName = null,
-    numPosts = 10,
+    numPosts = 20,
   } = {}) {
     this.blogName = blogName;
     this.numPosts = numPosts;
