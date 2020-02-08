@@ -32,8 +32,6 @@ const {
 } = require('lodash');
 
 const FieriFiction = require('fierifiction');
-const TumblrUtil = require('./utils/tumblr');
-const replaceName = require('./utils/replace-name');
 
 const {
   S3_ACCESS_KEY_ID,
@@ -318,17 +316,6 @@ const {
   const useSingleCaption =
     intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
 
-  const tumblrUsernameReplacerFn = async captions => {
-    const tumblrUtil = new TumblrUtil(tumblrCreds);
-    const userName = await tumblrUtil.getRandomUser();
-    return [replaceName(captions[0], userName)];
-  };
-
-  const captionNameReplace = randomly(
-    USE_CAPTION_NAME_REPLACER_RATE,
-    [tumblrUsernameReplacerFn], []
-  );
-
   const captionTransforms = randomly(
     USE_CAPTION_EFFECT_RATE,
     sampleSize(['uppercase', 'music', 'exclamation'], 1),
@@ -341,7 +328,7 @@ const {
       captionFileGlob: caption ? `*${caption}*` : undefined,
       folder: resolve('./captions'),
       isSequential: true,
-      transformations: [...captionNameReplace, ...captionTransforms],
+      transformations: captionTransforms,
       num: {
         srt: useSingleCaption ? 1 : random(1, 2),
         txt: 1,
@@ -355,7 +342,12 @@ const {
       })
     : null;
 
-  const globals = compact([globalsAzure, globalsCaption]);
+  const globalsRandomUser = randomly(
+    USE_CAPTION_NAME_REPLACER_RATE,
+    new stills.globals.User(tumblrCreds)
+  );
+
+  const globals = compact([globalsRandomUser, globalsAzure, globalsCaption]);
 
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
