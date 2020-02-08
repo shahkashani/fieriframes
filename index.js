@@ -216,7 +216,7 @@ const {
         resolve('./blend/twinpeaks2.mp4'),
         resolve('./blend/twinpeaks3.mp4'),
         resolve('./blend/alf.mp4'),
-        resolve('./blend/fwwm.mp4'),
+        resolve('./blend/vertigo.mp4'),
       ]),
     }),
   ];
