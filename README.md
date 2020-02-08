@@ -26,9 +26,9 @@ You can also do things like `npm run generate -- --type=gif`.
 
 ### Using Docker
 
-1. `docker build . -t fieriframes`
+1. `docker build . -t fftag`
 1. Put some videos in `./videos`
-1. `docker run -v $(pwd)/videos:/app/videos -t fieriframes npm run generate`
+1. `docker run -v $(pwd)/videos:/app/videos -t fftag npm run generate`
 
 You don't need to install any of the aforementioned dependencies if you decide to use Docker.
 
