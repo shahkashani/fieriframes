@@ -67,6 +67,7 @@ const {
   background,
   face,
   outputFolder,
+  userName,
   prompt: isPrompt,
 } = argv;
 
@@ -217,6 +218,8 @@ const {
         resolve('./blend/twinpeaks3.mp4'),
         resolve('./blend/alf.mp4'),
         resolve('./blend/vertigo.mp4'),
+        resolve('./blend/stalker.mp4'),
+        resolve('./blend/stalker2.mp4'),
       ]),
     }),
   ];
@@ -344,7 +347,7 @@ const {
 
   const globalsRandomUser = randomly(
     USE_CAPTION_NAME_REPLACER_RATE,
-    new stills.globals.User(tumblrCreds)
+    new stills.globals.User({ ...tumblrCreds, userName })
   );
 
   const globals = compact([globalsRandomUser, globalsAzure, globalsCaption]);
