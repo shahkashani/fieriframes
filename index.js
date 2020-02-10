@@ -218,8 +218,11 @@ const {
         resolve('./blend/twinpeaks3.mp4'),
         resolve('./blend/alf.mp4'),
         resolve('./blend/vertigo.mp4'),
-        resolve('./blend/stalker.mp4'),
+        resolve('./blend/himmel.mp4'),
+        resolve('./blend/stalker1.mp4'),
         resolve('./blend/stalker2.mp4'),
+        resolve('./blend/mulholland1.mp4'),
+        resolve('./blend/mulholland2.mp4'),
       ]),
     }),
   ];
