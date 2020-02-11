@@ -350,10 +350,10 @@ const {
 
   const globalsRandomUser = randomly(
     USE_CAPTION_NAME_REPLACER_RATE,
-    new stills.globals.User({ 
-      ...tumblrCreds, 
-      userName, 
-      mentionsSymbol = '@' 
+    new stills.globals.User({
+      ...tumblrCreds,
+      userName,
+      mentionsSymbol: '@',
     })
   );
 
