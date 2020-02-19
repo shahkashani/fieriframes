@@ -69,6 +69,7 @@ const {
   outputFolder,
   userName,
   prompt: isPrompt,
+  blend,
 } = argv;
 
 (async function() {
@@ -212,7 +213,7 @@ const {
     new stills.filters.BlendSelf(),
     new stills.filters.Blend({
       opacity: 0.5,
-      overlayFile: sample([
+      overlayFile: blend ? blend : sample([
         resolve('./blend/twinpeaks1.mp4'),
         resolve('./blend/twinpeaks2.mp4'),
         resolve('./blend/twinpeaks3.mp4'),
@@ -223,6 +224,7 @@ const {
         resolve('./blend/stalker2.mp4'),
         resolve('./blend/mulholland1.mp4'),
         resolve('./blend/mulholland2.mp4'),
+        resolve('./blend/startrek1.mp4'),
       ]),
     }),
   ];
