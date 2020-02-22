@@ -9,18 +9,39 @@ const argv = require('yargs')
   .boolean('post')
   .boolean('face')
   .boolean('prompt')
+  .number('ftopk')
+  .number('ftemp')
+  .number('flength')
+  .number('captionStart')
+  .number('captionEnd')
   .describe('post', 'Upload image to the destinations')
   .describe('prompt', 'Prompt before posting')
   .describe('effects', 'Apply a specific GIF effect (by name)')
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
+  .describe(
+    'captionStart',
+    'Use a particular starting point in % of caption file'
+  )
+  .describe('captionEnd', 'Use a particular end point in % of caption file')
   .describe('background', 'Background color for captions')
   .describe('outputFolder', 'Output folder')
   .describe('sourceFilter', 'A pattern to match source videos against')
+  .describe('blend', 'What blend file to use')
+  .describe('fmusic', 'Fierifiction music glob')
+  .describe('ftopk', 'Fierifiction topK')
+  .describe('ftemp', 'Fierifiction temperature')
+  .describe('flength', 'Fierifiction text length')
+  .default('fmusic', '*.mp3')
+  .default('ftopk', 40)
+  .default('ftemp', 1)
+  .default('flength', 100)
+  .default('blend', '*.mp4')
   .describe('type', 'The type of image generated').argv;
 
 const stills = require('stills');
 const { resolve } = require('path');
+const { sync } = require('glob');
 const {
   compact,
   random,
@@ -70,6 +91,12 @@ const {
   userName,
   prompt: isPrompt,
   blend,
+  fmusic,
+  ftopk,
+  flength,
+  ftemp,
+  captionStart,
+  captionEnd,
 } = argv;
 
 (async function() {
@@ -104,6 +131,10 @@ const {
       'base64'
     ).toString(),
     textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+    topK: ftopk,
+    temperature: ftemp,
+    music: fmusic,
+    textLength: flength,
   });
 
   const randomly = (rate, hit = true, miss = false) =>
@@ -151,6 +182,8 @@ const {
       color: 'white',
     },
   ];
+
+  const blendFiles = sync(`./blend/${blend}`);
 
   const gifEffects = [
     new stills.filters.FaceZoom({
@@ -213,19 +246,7 @@ const {
     new stills.filters.BlendSelf(),
     new stills.filters.Blend({
       opacity: 0.5,
-      overlayFile: blend ? blend : sample([
-        resolve('./blend/twinpeaks1.mp4'),
-        resolve('./blend/twinpeaks2.mp4'),
-        resolve('./blend/twinpeaks3.mp4'),
-        resolve('./blend/alf.mp4'),
-        resolve('./blend/vertigo.mp4'),
-        resolve('./blend/himmel.mp4'),
-        resolve('./blend/stalker1.mp4'),
-        resolve('./blend/stalker2.mp4'),
-        resolve('./blend/mulholland1.mp4'),
-        resolve('./blend/mulholland2.mp4'),
-        resolve('./blend/startrek1.mp4'),
-      ]),
+      overlayFile: sample(blendFiles),
     }),
   ];
 
@@ -336,6 +357,8 @@ const {
       captionFileGlob: caption ? `*${caption}*` : undefined,
       folder: resolve('./captions'),
       isSequential: true,
+      captionStart,
+      captionEnd,
       transformations: captionTransforms,
       num: {
         srt: useSingleCaption ? 1 : random(1, 2),
