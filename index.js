@@ -6,6 +6,7 @@ const argv = require('yargs')
   .default('type', 'random')
   .array('effects')
   .array('baseEffects')
+  .array('addTag')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
   .boolean('face')
@@ -37,6 +38,7 @@ const argv = require('yargs')
   .describe('ftopk', 'Fierifiction topK')
   .describe('ftemp', 'Fierifiction temperature')
   .describe('flength', 'Fierifiction text length')
+  .describe('addTag', 'Extra tags to add')
   .default('fmusic', '*.mp3')
   .default('ftopk', 40)
   .default('ftemp', 1)
@@ -100,6 +102,7 @@ const {
   ftopk,
   flength,
   ftemp,
+  addTag,
   captionStart,
   captionEnd,
   baseEffects,
@@ -339,7 +342,7 @@ const {
   const taggers = [
     new stills.taggers.Episode(),
     new stills.taggers.Static({
-      tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives'],
+      tags: compact(['guy fieri', 'guyfieri', 'diners drive-ins and dives', ...addTag]),
     }),
     new stills.taggers.Captions(),
     new stills.taggers.Filters({
