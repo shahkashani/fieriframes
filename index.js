@@ -6,11 +6,14 @@ const argv = require('yargs')
   .default('type', 'random')
   .array('effects')
   .array('baseEffects')
-  .array('addTag')
+  .array('tags')
+  .array('captionText')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
   .boolean('face')
   .boolean('prompt')
+  .number('sourceSeconds')
+  .number('sourceLength')
   .number('ftopk')
   .number('ftemp')
   .number('flength')
@@ -33,12 +36,15 @@ const argv = require('yargs')
   .describe('background', 'Background color for captions')
   .describe('outputFolder', 'Output folder')
   .describe('sourceFilter', 'A pattern to match source videos against')
+  .describe('sourceLength', 'Clip length')
+  .describe('sourceSeconds', 'Where in the source to pull the GIF/still from')
   .describe('blend', 'What blend file to use')
   .describe('fmusic', 'Fierifiction music glob')
   .describe('ftopk', 'Fierifiction topK')
   .describe('ftemp', 'Fierifiction temperature')
   .describe('flength', 'Fierifiction text length')
-  .describe('addTag', 'Extra tags to add')
+  .describe('tags', 'Extra tags to add')
+  .describe('captionText', 'Exact caption text')
   .default('fmusic', '*.mp3')
   .default('ftopk', 40)
   .default('ftemp', 1)
@@ -102,16 +108,20 @@ const {
   ftopk,
   flength,
   ftemp,
-  addTag,
+  tags: addTag,
   captionStart,
   captionEnd,
+  sourceSeconds,
+  sourceLength,
+  captionText,
   baseEffects,
 } = argv;
 
 (async function() {
   const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
   const GIF_STILL_RATE = 0.5;
-  const CAPTION_RATE = caption ? 1 : 0.9;
+  const CAPTION_RATE =
+    caption || (captionText && captionText.length > 0) ? 1 : 0.9;
   const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
     ? parseFloat(GIF_EFFECT_RATE)
     : 0.2;
@@ -184,10 +194,13 @@ const {
 
   const content = isGif
     ? new stills.content.Gif({
-        duration: NUM_GIF_LENGTH_SECONDS,
+        duration: Number.isFinite(sourceLength)
+          ? sourceLength
+          : NUM_GIF_LENGTH_SECONDS,
+        seconds: sourceSeconds,
         fps: NUM_GIF_FPS,
       })
-    : new stills.content.Still();
+    : new stills.content.Still({ seconds: sourceSeconds });
 
   const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
@@ -342,7 +355,12 @@ const {
   const taggers = [
     new stills.taggers.Episode(),
     new stills.taggers.Static({
-      tags: compact(['guy fieri', 'guyfieri', 'diners drive-ins and dives', ...addTag]),
+      tags: compact([
+        'guy fieri',
+        'guyfieri',
+        'diners drive-ins and dives',
+        ...(addTag || []),
+      ]),
     }),
     new stills.taggers.Captions(),
     new stills.taggers.Filters({
@@ -379,6 +397,7 @@ const {
       isSequential: true,
       captionStart,
       captionEnd,
+      captionText,
       transformations: captionTransforms,
       num: {
         srt: useSingleCaption ? 1 : random(1, 2),
