@@ -5,6 +5,7 @@ const argv = require('yargs')
   .usage('Usage: $0 <command> [options]')
   .default('type', 'random')
   .array('effects')
+  .array('baseEffects')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
   .boolean('face')
@@ -16,7 +17,11 @@ const argv = require('yargs')
   .number('captionEnd')
   .describe('post', 'Upload image to the destinations')
   .describe('prompt', 'Prompt before posting')
-  .describe('effects', 'Apply a specific GIF effect (by name)')
+  .describe('effects', 'Apply a specific effect (by name)')
+  .describe(
+    'baseEffects',
+    'Apply a specific effect (by name) and pick more at random'
+  )
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
   .describe(
@@ -97,6 +102,7 @@ const {
   ftemp,
   captionStart,
   captionEnd,
+  baseEffects,
 } = argv;
 
 (async function() {
@@ -139,6 +145,18 @@ const {
 
   const randomly = (rate, hit = true, miss = false) =>
     Math.random() < rate ? hit : miss;
+
+  const getEffectsByName = (allEffects, effects) => {
+    const allEffectsNames = map(allEffects, 'name');
+
+    return effects.reduce(
+      (memo, name) =>
+        allEffectsNames.indexOf(name) !== -1
+          ? [...memo, allEffects[allEffectsNames.indexOf(name)]]
+          : memo,
+      []
+    );
+  };
 
   const source = local
     ? new stills.sources.Local({
@@ -248,6 +266,7 @@ const {
       opacity: 0.5,
       overlayFile: sample(blendFiles),
     }),
+    new stills.filters.Colorize(),
   ];
 
   const stillEffects = [
@@ -267,28 +286,26 @@ const {
       avoidDescriptors,
     }),
     new stills.filters.Liquify(),
+    new stills.filters.Colorize(),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
 
-  const allEffectsNames = map(allEffects, 'name');
-
   let useEffects = effects
-    ? effects.reduce(
-        (memo, name) =>
-          allEffectsNames.indexOf(name) !== -1
-            ? [...memo, allEffects[allEffectsNames.indexOf(name)]]
-            : memo,
-        []
-      )
+    ? getEffectsByName(allEffects, effects)
     : randomly(
         USE_GIF_EFFECT_RATE,
         sampleSize(allEffects, random(1, maxNumEffects)),
         []
       );
 
+  let useBaseEffects = baseEffects
+    ? getEffectsByName(allEffects, baseEffects)
+    : [];
+
   const filters = compact([
     ...useEffects,
+    ...useBaseEffects,
     new stills.filters.Captions({
       background,
       folder: resolve('./captions'),
