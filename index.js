@@ -220,10 +220,6 @@ const {
   const blendFiles = sync(`./blend/${blend}`);
 
   const gifEffects = [
-    new stills.filters.FaceZoom({
-      lastFrameDelayMs: 500,
-      startPosition: 0.9,
-    }),
     new stills.filters.Distortion({
       heightFactor: random(0.4, 0.6),
     }),
@@ -280,11 +276,6 @@ const {
     new stills.filters.Blend({
       opacity: 0.5,
       overlayFile: sample(blendFiles),
-    }),
-    new stills.filters.Colorize({
-      color: 'goldenrod',
-      percentage: 5,
-      matrix: '1.1 0 0 0 0.8 0 0 0 0.8',
     }),
   ];
 
