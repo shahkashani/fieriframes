@@ -281,7 +281,11 @@ const {
       opacity: 0.5,
       overlayFile: sample(blendFiles),
     }),
-    new stills.filters.Colorize(),
+    new stills.filters.Colorize({
+      color: 'goldenrod',
+      percentage: 5,
+      matrix: '1.1 0 0 0 0.8 0 0 0 0.8',
+    }),
   ];
 
   const stillEffects = [
