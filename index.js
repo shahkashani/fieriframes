@@ -396,6 +396,7 @@ const {
       num: {
         srt: useSingleCaption ? 1 : random(1, 2),
         txt: 1,
+        pdf: useSingleCaption ? 1 : random(1, 2),
       },
     })
   );
