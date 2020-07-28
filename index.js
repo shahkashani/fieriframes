@@ -392,6 +392,7 @@ const {
       captionStart,
       captionEnd,
       captionText,
+      pdfSentenceMaxLength: 50,
       transformations: captionTransforms,
       num: {
         srt: useSingleCaption ? 1 : random(1, 2),
