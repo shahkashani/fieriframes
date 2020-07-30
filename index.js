@@ -117,7 +117,7 @@ const {
   baseEffects,
 } = argv;
 
-(async function() {
+(async function () {
   const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
   const GIF_STILL_RATE = 0.5;
   const CAPTION_RATE =
@@ -181,7 +181,7 @@ const {
         accessKeyId: S3_ACCESS_KEY_ID,
         secretAccessKey: S3_SECRET_ACCESS_KEY,
         bucket: S3_BUCKET,
-        filter: file =>
+        filter: (file) =>
           !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1,
       });
 
@@ -408,14 +408,15 @@ const {
       })
     : null;
 
-  const globalsRandomUser = randomly(
-    USE_CAPTION_NAME_REPLACER_RATE,
-    new stills.globals.User({
-      ...tumblrCreds,
-      userName,
-      mentionsSymbol: '@',
-    })
-  );
+  const userPlugin = new stills.globals.User({
+    ...tumblrCreds,
+    userName,
+    mentionsSymbol: '@',
+  });
+
+  const globalsRandomUser = userName
+    ? userPlugin
+    : randomly(USE_CAPTION_NAME_REPLACER_RATE, userPlugin);
 
   const globals = compact([globalsRandomUser, globalsAzure, globalsCaption]);
 
