@@ -277,6 +277,7 @@ const {
       opacity: 0.5,
       overlayFile: sample(blendFiles),
     }),
+    new stills.filters.Mirror(),
   ];
 
   const stillEffects = [
@@ -297,6 +298,7 @@ const {
     }),
     new stills.filters.Liquify(),
     new stills.filters.Colorize(),
+    new stills.filters.Mirror(),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
