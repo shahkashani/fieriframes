@@ -14,11 +14,15 @@ const argv = require('yargs')
   .boolean('prompt')
   .number('sourceSeconds')
   .number('sourceLength')
+  .number('num')
+  .number('secondsApart')
   .number('ftopk')
   .number('ftemp')
   .number('flength')
   .number('captionStart')
   .number('captionEnd')
+  .describe('num', 'The number of images to create')
+  .describe('secondsApart', 'The number of seconds apart each image (see num)')
   .describe('post', 'Upload image to the destinations')
   .describe('prompt', 'Prompt before posting')
   .describe('effects', 'Apply a specific effect (by name)')
@@ -50,6 +54,7 @@ const argv = require('yargs')
   .default('ftemp', 1)
   .default('flength', 100)
   .default('blend', '*.mp4')
+  .default('secondsApart', 3)
   .describe('type', 'The type of image generated').argv;
 
 const stills = require('stills');
@@ -115,6 +120,8 @@ const {
   sourceLength,
   captionText,
   baseEffects,
+  num,
+  secondsApart,
 } = argv;
 
 (async function () {
@@ -194,13 +201,19 @@ const {
 
   const content = isGif
     ? new stills.content.Gif({
+        secondsApart,
         duration: Number.isFinite(sourceLength)
           ? sourceLength
           : NUM_GIF_LENGTH_SECONDS,
         seconds: sourceSeconds,
         fps: NUM_GIF_FPS,
+        num: Number.isFinite(num) ? num : 1,
       })
-    : new stills.content.Still({ seconds: sourceSeconds });
+    : new stills.content.Still({
+        num: Number.isFinite(num) ? num : randomly(0.5, 3, 1),
+        secondsApart,
+        seconds: sourceSeconds,
+      });
 
   const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
