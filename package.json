@@ -25,7 +25,7 @@
     "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v5.3.1",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
-    "stills": "^10.0.1",
+    "stills": "^10.0.2",
     "yargs": "^13.2.4"
   }
 }
