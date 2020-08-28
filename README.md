@@ -19,7 +19,7 @@ If you wanna change the way the stills generator works, you're really going to h
 1. Install the dependencies in the [stills README](https://github.com/shahkashani/stills)
 1. Install nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 1. Put some videos in `./videos`
-1. Run `nvm install`
+1. Run `npm install`
 1. Run `npm run generate`.
 
 You can also do things like `npm run generate -- --type=gif`.
