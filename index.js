@@ -390,6 +390,7 @@ const {
   const singleCaptionEffects = ['fewframes', 'tempo', 'jitter'];
 
   const useSingleCaption =
+    (Number.isFinite(num) && num > 1) ||
     intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
 
   const captionTransforms = randomly(
