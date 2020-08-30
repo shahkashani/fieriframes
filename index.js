@@ -404,7 +404,6 @@ const {
     new stills.globals.Captions({
       captionFileGlob: caption ? `*${caption}*` : undefined,
       folder: resolve('./captions'),
-      isSequential: true,
       captionStart,
       captionEnd,
       captionText,
