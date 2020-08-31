@@ -456,6 +456,7 @@ const {
   const tumblr = get(result, 'destinations.tumblr');
 
   if (destinations.length) {
+    /*
     if (captions.length) {
       const generator = randomly(
         NUM_FIERIFICTION_VIDEO_RATE,
@@ -476,6 +477,7 @@ const {
       );
       await generator();
     }
+    */
     stills.deleteStills(result);
   }
 })();
