@@ -433,7 +433,7 @@ const {
     ? userPlugin
     : randomly(USE_CAPTION_NAME_REPLACER_RATE, userPlugin);
 
-  const globals = compact([globalsRandomUser, globalsAzure, globalsCaption]);
+  const globals = compact([globalsRandomUser, globalsCaption, globalsAzure]);
 
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
