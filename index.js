@@ -291,6 +291,8 @@ const {
       overlayFile: sample(blendFiles),
     }),
     new stills.filters.Mirror(),
+    new stills.filters.SkipFrames(),
+    new stills.filters.Boomerang(),
   ];
 
   const stillEffects = [
