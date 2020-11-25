@@ -207,10 +207,10 @@ const {
           : NUM_GIF_LENGTH_SECONDS,
         seconds: sourceSeconds,
         fps: NUM_GIF_FPS,
-        num: Number.isFinite(num) ? num : 1,
+        num: Number.isFinite(num) ? num : randomly(0.8, 1, 3),
       })
     : new stills.content.Still({
-        num: Number.isFinite(num) ? num : randomly(0.5, 3, 1),
+        num: Number.isFinite(num) ? num : randomly(0.5, randomly(0.5, 3, 5), 1),
         secondsApart,
         seconds: sourceSeconds,
       });
