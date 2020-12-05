@@ -232,6 +232,27 @@ const {
 
   const blendFiles = sync(`./blend/${blend}`);
 
+  const stillEffects = [
+    new stills.filters.FaceOrb({ orbs }),
+    new stills.filters.FaceStretch(),
+    new stills.filters.FaceDemonEyes({
+      avoidDescriptors,
+    }),
+    new stills.filters.FacePinch({
+      avoidDescriptors,
+    }),
+    new stills.filters.FaceGlow({
+      avoidDescriptors,
+      blur: 0.1,
+    }),
+    new stills.filters.FaceDemonize({
+      avoidDescriptors,
+    }),
+    new stills.filters.Liquify(),
+    new stills.filters.Colorize(),
+    new stills.filters.Mirror(),
+  ];
+
   const gifEffects = [
     new stills.filters.Distortion({
       heightFactor: random(0.4, 0.6),
@@ -293,27 +314,9 @@ const {
     new stills.filters.Mirror(),
     new stills.filters.SkipFrames(),
     new stills.filters.Boomerang(),
-  ];
-
-  const stillEffects = [
-    new stills.filters.FaceOrb({ orbs }),
-    new stills.filters.FaceStretch(),
-    new stills.filters.FaceDemonEyes({
-      avoidDescriptors,
+    new stills.filters.Delay({
+      delay: random(3000, 6000),
     }),
-    new stills.filters.FacePinch({
-      avoidDescriptors,
-    }),
-    new stills.filters.FaceGlow({
-      avoidDescriptors,
-      blur: 0.1,
-    }),
-    new stills.filters.FaceDemonize({
-      avoidDescriptors,
-    }),
-    new stills.filters.Liquify(),
-    new stills.filters.Colorize(),
-    new stills.filters.Mirror(),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
