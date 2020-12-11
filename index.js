@@ -317,6 +317,9 @@ const {
     new stills.filters.Delay({
       delay: random(3000, 6000),
     }),
+    new stills.filters.RepeatFrame({
+      delay: 0,
+    }),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
