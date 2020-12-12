@@ -387,6 +387,7 @@ const {
       flash: 'tw:flashing',
       tile: 'tw:flashing',
       fewframes: 'tw:flashing',
+      repeatframe: 'tw:flashing',
     }),
     new stills.taggers.Azure(),
   ];
