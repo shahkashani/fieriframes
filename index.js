@@ -252,6 +252,11 @@ const {
       sizePercentWidth: 0.5,
     },
     {
+      overlayFile: './overlays/santa2.png',
+      gravity: 'southeast',
+      sizePercentWidth: 0.5,
+    },
+    {
       overlayFile: './overlays/paul.png',
       gravity: 'southeast',
       sizePercentHeight: 0.8,
