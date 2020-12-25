@@ -259,6 +259,7 @@ const {
     new stills.filters.Liquify(),
     new stills.filters.Colorize(),
     new stills.filters.Mirror(),
+    new stills.filters.Overlay(sample(overlays)),
   ];
 
   const gifEffects = [
