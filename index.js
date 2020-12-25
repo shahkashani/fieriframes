@@ -250,11 +250,13 @@ const {
       gravity: 'southeast',
       sizePercentHeight: 0.8,
     },
+    /*
     {
       overlayFile: './overlays/paul2.png',
       gravity: 'southeast',
       sizePercentHeight: 0.3,
     },
+    */
     {
       overlayFile: './overlays/paul3.png',
       gravity: 'southeast',
@@ -265,11 +267,13 @@ const {
       gravity: 'southeast',
       sizePercentHeight: 0.3,
     },
+    /*
     {
       overlayFile: './overlays/paul5.png',
       gravity: 'southeast',
       sizePercentHeight: 0.3,
     },
+    */
     {
       overlayFile: './overlays/paul6.png',
       gravity: 'southwest',
