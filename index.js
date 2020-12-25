@@ -28,7 +28,7 @@ const argv = require('yargs')
   .describe('effects', 'Apply a specific effect (by name)')
   .describe(
     'baseEffects',
-    'Apply a specific effect (by name) and pick more at random'
+    'Apply a specific effect first (by name) and pick more at random'
   )
   .describe('local', 'Local folder to read videos from instead of S3')
   .describe('caption', 'Use a particular caption glob')
@@ -232,6 +232,14 @@ const {
 
   const blendFiles = sync(`./blend/${blend}`);
 
+  const overlays = [
+    {
+      overlayFile: './overlays/christmas.png',
+      gravity: 'northwest',
+      maintainAspectRatio: true,
+    },
+  ];
+
   const stillEffects = [
     new stills.filters.FaceOrb({ orbs }),
     new stills.filters.FaceStretch(),
@@ -320,6 +328,7 @@ const {
     new stills.filters.RepeatFrame({
       delay: 0,
     }),
+    new stills.filters.Overlay(sample(overlays)),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
