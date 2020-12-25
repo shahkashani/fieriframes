@@ -302,7 +302,7 @@ const {
     },
     {
       overlayFile: './overlays/paul10.png',
-      gravity: 'southwest',
+      gravity: 'south',
       sizePercentHeight: 0.6,
     },
     {
