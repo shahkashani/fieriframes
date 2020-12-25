@@ -43,6 +43,7 @@ const argv = require('yargs')
   .describe('sourceLength', 'Clip length')
   .describe('sourceSeconds', 'Where in the source to pull the GIF/still from')
   .describe('blend', 'What blend file to use')
+  .describe('overlay', 'What overlay file to use')
   .describe('fmusic', 'Fierifiction music glob')
   .describe('ftopk', 'Fierifiction topK')
   .describe('ftemp', 'Fierifiction temperature')
@@ -121,6 +122,7 @@ const {
   captionText,
   baseEffects,
   num,
+  overlay,
   secondsApart,
 } = argv;
 
@@ -241,14 +243,29 @@ const {
     {
       overlayFile: './overlays/easter.png',
       gravity: 'south',
-      sizePercent: 0.5,
+      sizePercentWidth: 0.5,
     },
     {
       overlayFile: './overlays/santa.png',
       gravity: 'southeast',
-      sizePercent: 0.5,
+      sizePercentWidth: 0.5,
     },
-  ];
+    {
+      overlayFile: './overlays/paul.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.8,
+    },
+    {
+      overlayFile: './overlays/paul2.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.3,
+    },
+    {
+      overlayFile: './overlays/paul3.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.3,
+    },
+  ].filter((o) => (overlay ? `./overlays/${overlay}` === o.overlayFile : true));
 
   const stillEffects = [
     new stills.filters.FaceOrb({ orbs }),
