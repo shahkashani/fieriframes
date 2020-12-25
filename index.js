@@ -243,6 +243,11 @@ const {
       gravity: 'south',
       sizePercent: 0.5,
     },
+    {
+      overlayFile: './overlays/santa.png',
+      gravity: 'southeast',
+      sizePercent: 0.5,
+    },
   ];
 
   const stillEffects = [
