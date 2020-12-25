@@ -294,6 +294,11 @@ const {
       gravity: 'southeast',
       sizePercentHeight: 0.7,
     },
+    {
+      overlayFile: './overlays/paul10.png',
+      gravity: 'southwest',
+      sizePercentHeight: 0.6,
+    },
   ].filter((o) => (overlay ? `./overlays/${overlay}` === o.overlayFile : true));
 
   const stillEffects = [
