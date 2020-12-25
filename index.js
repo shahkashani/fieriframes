@@ -180,6 +180,12 @@ const {
     );
   };
 
+  const inOrder = (array) => {
+    const hour = new Date().getHours();
+    const index = hour % array.length;
+    return array[index];
+  };
+
   const source = local
     ? new stills.sources.Local({
         folder: local,
@@ -306,6 +312,8 @@ const {
     },
   ].filter((o) => (overlay ? `./overlays/${overlay}` === o.overlayFile : true));
 
+  const overlayOptions = inOrder(overlays);
+
   const stillEffects = [
     new stills.filters.FaceOrb({ orbs }),
     new stills.filters.FaceStretch(),
@@ -325,7 +333,7 @@ const {
     new stills.filters.Liquify(),
     new stills.filters.Colorize(),
     new stills.filters.Mirror(),
-    new stills.filters.Overlay(sample(overlays)),
+    new stills.filters.Overlay(overlayOptions),
   ];
 
   const gifEffects = [
@@ -395,7 +403,7 @@ const {
     new stills.filters.RepeatFrame({
       delay: 0,
     }),
-    new stills.filters.Overlay(sample(overlays)),
+    new stills.filters.Overlay(overlayOptions),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
