@@ -241,11 +241,6 @@ const {
       maintainAspectRatio: true,
     },
     {
-      overlayFile: './overlays/easter.png',
-      gravity: 'south',
-      sizePercentWidth: 0.5,
-    },
-    {
       overlayFile: './overlays/santa.png',
       gravity: 'southeast',
       sizePercentWidth: 0.5,
