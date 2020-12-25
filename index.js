@@ -238,6 +238,11 @@ const {
       gravity: 'northwest',
       maintainAspectRatio: true,
     },
+    {
+      overlayFile: './overlays/easter.png',
+      gravity: 'south',
+      sizePercent: 0.5,
+    },
   ];
 
   const stillEffects = [
