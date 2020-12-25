@@ -310,7 +310,14 @@ const {
       gravity: 'southwest',
       sizePercentHeight: 0.8,
     },
-  ].filter((o) => (overlay ? `./overlays/${overlay}` === o.overlayFile : true));
+    {
+      overlayFile: './overlays/paul12.png',
+      gravity: 'southeast',
+      sizePercentWidth: 0.4,
+    },
+  ].filter((o) =>
+    overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
+  );
 
   const overlayOptions = inOrder(overlays);
 
