@@ -66,6 +66,7 @@ const {
   random,
   sampleSize,
   get,
+  shuffle,
   intersection,
   sample,
   map,
@@ -122,6 +123,7 @@ const {
   captionText,
   baseEffects,
   num,
+  faceOverlay,
   overlay,
   secondsApart,
 } = argv;
@@ -257,6 +259,11 @@ const {
       sizePercentWidth: 0.5,
     },
     {
+      overlayFile: './overlays/seasons.png',
+      gravity: 'southwest',
+      sizePercentHeight: 0.6,
+    },
+    {
       overlayFile: './overlays/paul.png',
       gravity: 'southeast',
       sizePercentHeight: 0.8,
@@ -320,8 +327,19 @@ const {
       gravity: 'southeast',
       sizePercentWidth: 0.4,
     },
+    {
+      overlayFile: './overlays/butcher.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.3,
+    },
+
   ].filter((o) =>
     overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
+  );
+
+  const faceOverlayFiles = sync(`./faceoverlays/*.png`);
+  const faceOverlayFile = shuffle(faceOverlayFiles).filter((file) =>
+    faceOverlay ? file.startsWith(`./faceoverlays/${faceOverlay}`) : true
   );
 
   const overlayOptions = inOrder(overlays);
@@ -346,6 +364,10 @@ const {
     new stills.filters.Colorize(),
     new stills.filters.Mirror(),
     new stills.filters.Overlay(overlayOptions),
+    new stills.filters.FaceOverlay({
+      overlayFile: faceOverlayFile,
+      avoidDescriptors,
+    }),
   ];
 
   const gifEffects = [
@@ -416,6 +438,10 @@ const {
       delay: 0,
     }),
     new stills.filters.Overlay(overlayOptions),
+    new stills.filters.FaceOverlay({
+      overlayFile: faceOverlayFile,
+      avoidDescriptors,
+    }),
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
