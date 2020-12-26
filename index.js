@@ -123,7 +123,7 @@ const {
   captionText,
   baseEffects,
   num,
-  faceOverlay,
+  faceoverlay,
   overlay,
   secondsApart,
 } = argv;
@@ -260,13 +260,13 @@ const {
     },
     {
       overlayFile: './overlays/seasons.png',
-      gravity: 'southwest',
+      gravity: 'southeast',
       sizePercentHeight: 0.6,
     },
     {
       overlayFile: './overlays/paul.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.8,
+      sizePercentHeight: 0.7,
     },
     /*
     {
@@ -332,14 +332,13 @@ const {
       gravity: 'southeast',
       sizePercentHeight: 0.3,
     },
-
   ].filter((o) =>
     overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
   );
 
   const faceOverlayFiles = sync(`./faceoverlays/*.png`);
   const faceOverlayFile = shuffle(faceOverlayFiles).filter((file) =>
-    faceOverlay ? file.startsWith(`./faceoverlays/${faceOverlay}`) : true
+    faceoverlay ? file.startsWith(`./faceoverlays/${faceoverlay}`) : true
   );
 
   const overlayOptions = inOrder(overlays);
