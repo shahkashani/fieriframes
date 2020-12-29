@@ -126,13 +126,14 @@ const {
   faceoverlay,
   overlay,
   secondsApart,
+  word,
 } = argv;
 
 (async function () {
   const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
   const GIF_STILL_RATE = 0.5;
   const CAPTION_RATE =
-    caption || (captionText && captionText.length > 0) ? 1 : 0.9;
+    caption || (captionText && captionText.length > 0) || (word && word.length > 0) ? 1 : 0.9;
   const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
     ? parseFloat(GIF_EFFECT_RATE)
     : 0.2;
@@ -332,6 +333,21 @@ const {
       gravity: 'southeast',
       sizePercentHeight: 0.3,
     },
+    {
+      overlayFile: './overlays/doll1.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.3,
+    },
+    {
+      overlayFile: './overlays/doll2.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.35,
+    },
+    {
+      overlayFile: './overlays/doll3.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.3,
+    },
   ].filter((o) =>
     overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
   );
@@ -511,6 +527,7 @@ const {
       repeatframe: 'tw:flashing',
     }),
     new stills.taggers.Azure(),
+    new stills.taggers.Word(),
   ];
 
   const description = new stills.descriptions.Azure();
@@ -553,6 +570,8 @@ const {
       })
     : null;
 
+  const globalsWord = word ? new stills.globals.Word({ word }) : null;
+
   const userPlugin = new stills.globals.User({
     ...tumblrCreds,
     userName,
@@ -563,7 +582,12 @@ const {
     ? userPlugin
     : randomly(USE_CAPTION_NAME_REPLACER_RATE, userPlugin);
 
-  const globals = compact([globalsRandomUser, globalsCaption, globalsAzure]);
+  const globals = compact([
+    globalsWord,
+    globalsRandomUser,
+    globalsCaption,
+    globalsAzure,
+  ]);
 
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
 
