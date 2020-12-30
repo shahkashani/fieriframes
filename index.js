@@ -133,7 +133,11 @@ const {
   const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
   const GIF_STILL_RATE = 0.5;
   const CAPTION_RATE =
-    caption || (captionText && captionText.length > 0) || (word && word.length > 0) ? 1 : 0.9;
+    caption ||
+    (captionText && captionText.length > 0) ||
+    (word && word.length > 0)
+      ? 1
+      : 0.9;
   const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
     ? parseFloat(GIF_EFFECT_RATE)
     : 0.2;
@@ -527,7 +531,9 @@ const {
       repeatframe: 'tw:flashing',
     }),
     new stills.taggers.Azure(),
-    new stills.taggers.Word(),
+    new stills.taggers.Word({
+      tags: ['et in arcadia ego'],
+    }),
   ];
 
   const description = new stills.descriptions.Azure();
