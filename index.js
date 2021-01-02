@@ -236,7 +236,7 @@ const {
     {
       radius: 0.4,
       blur: 0.4,
-      color: '#e60000',
+      color: '#ffa500',
     },
     {
       radius: 0.1,
