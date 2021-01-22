@@ -7,6 +7,7 @@ const argv = require('yargs')
   .array('effects')
   .array('baseEffects')
   .array('tags')
+  .array('word')
   .array('captionText')
   .choices('type', ['still', 'gif', 'random'])
   .boolean('post')
@@ -56,6 +57,7 @@ const argv = require('yargs')
   .default('flength', 100)
   .default('blend', '*.mp4')
   .default('secondsApart', 3)
+  .default('fill', 'red')
   .describe('type', 'The type of image generated').argv;
 
 const stills = require('stills');
@@ -127,6 +129,7 @@ const {
   overlay,
   secondsApart,
   word,
+  fill,
 } = argv;
 
 (async function () {
@@ -249,108 +252,54 @@ const {
 
   const overlays = [
     {
-      overlayFile: './overlays/christmas.png',
-      gravity: 'northwest',
-      maintainAspectRatio: true,
-    },
-    {
-      overlayFile: './overlays/santa.png',
-      gravity: 'southeast',
-      sizePercentWidth: 0.5,
-    },
-    {
-      overlayFile: './overlays/santa2.png',
-      gravity: 'southeast',
-      sizePercentWidth: 0.5,
-    },
-    {
-      overlayFile: './overlays/seasons.png',
+      overlayFile: './overlays/birthday-0.png',
       gravity: 'southeast',
       sizePercentHeight: 0.6,
     },
     {
-      overlayFile: './overlays/paul.png',
+      overlayFile: './overlays/birthday-7.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.7,
-    },
-    /*
-    {
-      overlayFile: './overlays/paul2.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
-    },
-    */
-    {
-      overlayFile: './overlays/paul3.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
-    },
-    {
-      overlayFile: './overlays/paul4.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
-    },
-    /*
-    {
-      overlayFile: './overlays/paul5.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
-    },
-    */
-    {
-      overlayFile: './overlays/paul6.png',
-      gravity: 'southwest',
       sizePercentHeight: 0.8,
     },
     {
-      overlayFile: './overlays/paul7.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.6,
-    },
-    {
-      overlayFile: './overlays/paul8.png',
+      overlayFile: './overlays/birthday-1.png',
       gravity: 'southwest',
-      sizePercentHeight: 0.8,
+      sizePercentHeight: 0.9,
     },
     {
-      overlayFile: './overlays/paul9.png',
+      overlayFile: './overlays/birthday-2.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.7,
+      sizePercentHeight: 0.5,
     },
     {
-      overlayFile: './overlays/paul10.png',
+      overlayFile: './overlays/birthday-8.png',
       gravity: 'south',
-      sizePercentHeight: 0.6,
+      sizePercentHeight: 0.8,
     },
     {
-      overlayFile: './overlays/paul11.png',
+      overlayFile: './overlays/birthday-4.png',
       gravity: 'southwest',
       sizePercentHeight: 0.8,
     },
     {
-      overlayFile: './overlays/paul12.png',
-      gravity: 'southeast',
-      sizePercentWidth: 0.4,
+      overlayFile: './overlays/birthday-5.png',
+      gravity: 'southwest',
+      sizePercentHeight: 0.7,
     },
     {
-      overlayFile: './overlays/butcher.png',
+      overlayFile: './overlays/birthday-3.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.3,
+      sizePercentHeight: 1,
     },
     {
-      overlayFile: './overlays/doll1.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
+      overlayFile: './overlays/birthday-6.png',
+      gravity: 'south',
+      sizePercentHeight: 0.8,
     },
     {
-      overlayFile: './overlays/doll2.png',
+      overlayFile: './overlays/birthday-9.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.35,
-    },
-    {
-      overlayFile: './overlays/doll3.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
+      sizePercentHeight: 0.6,
     },
   ].filter((o) =>
     overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
@@ -461,6 +410,13 @@ const {
       overlayFile: faceOverlayFile,
       avoidDescriptors,
     }),
+    new stills.filters.FaceSwirl(),
+    /*
+    new stills.filters.Arcadia(),
+    new stills.filters.Boonme({
+      fill,
+    }),
+    */
   ];
 
   let allEffects = isGif ? gifEffects : stillEffects;
@@ -512,6 +468,9 @@ const {
 
   const taggers = [
     new stills.taggers.Episode(),
+    new stills.taggers.Word({
+      tags: ['et in arcadia ego'],
+    }),
     new stills.taggers.Static({
       tags: compact([
         'guy fieri',
@@ -531,9 +490,6 @@ const {
       repeatframe: 'tw:flashing',
     }),
     new stills.taggers.Azure(),
-    new stills.taggers.Word({
-      tags: ['et in arcadia ego'],
-    }),
   ];
 
   const description = new stills.descriptions.Azure();
@@ -570,11 +526,12 @@ const {
     })
   );
 
-  const globalsAzure = MICROSOFT_AZURE_TOKEN
-    ? new stills.globals.Azure({
-        token: MICROSOFT_AZURE_TOKEN,
-      })
-    : null;
+  const globalsAzure =
+    destinations.length > 0 && MICROSOFT_AZURE_TOKEN
+      ? new stills.globals.Azure({
+          token: MICROSOFT_AZURE_TOKEN,
+        })
+      : null;
 
   const globalsWord = word ? new stills.globals.Word({ word }) : null;
 
