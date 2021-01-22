@@ -269,7 +269,7 @@ const {
     {
       overlayFile: './overlays/birthday-2.png',
       gravity: 'southeast',
-      sizePercentHeight: 0.5,
+      sizePercentHeight: 0.9,
     },
     {
       overlayFile: './overlays/birthday-8.png',
