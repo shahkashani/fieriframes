@@ -405,13 +405,13 @@ const {
     new stills.filters.RepeatFrame({
       delay: 0,
     }),
-    new stills.filters.Overlay(overlayOptions),
     new stills.filters.FaceOverlay({
       overlayFile: faceOverlayFile,
       avoidDescriptors,
     }),
     new stills.filters.FaceSwirl(),
     /*
+    new stills.filters.Overlay(overlayOptions),
     new stills.filters.Arcadia(),
     new stills.filters.Boonme({
       fill,
