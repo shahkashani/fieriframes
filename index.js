@@ -292,8 +292,8 @@ const {
       sizePercentHeight: 1,
     },
     {
-      overlayFile: './overlays/birthday-6.png',
-      gravity: 'south',
+      overlayFile: './overlays/birthday-10.png',
+      gravity: 'southwest',
       sizePercentHeight: 0.8,
     },
     {
