@@ -353,7 +353,6 @@ const {
       factor: 1.7,
     }),
     new stills.filters.Invert(),
-    new stills.filters.Gray(),
     new stills.filters.Reverse(),
     new stills.filters.Implode(),
     new stills.filters.Swirl(),
