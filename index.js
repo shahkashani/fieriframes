@@ -1,200 +1,140 @@
 require('dotenv').config();
 require('./logo');
 
-const argv = require('yargs')
-  .usage('Usage: $0 <command> [options]')
-  .default('type', 'random')
-  .array('effects')
-  .array('baseEffects')
-  .array('tags')
-  .array('word')
-  .array('captionText')
-  .choices('type', ['still', 'gif', 'random'])
-  .boolean('post')
-  .boolean('face')
-  .boolean('prompt')
-  .number('sourceSeconds')
-  .number('sourceLength')
-  .number('num')
-  .number('secondsApart')
-  .number('ftopk')
-  .number('ftemp')
-  .number('flength')
-  .number('captionStart')
-  .number('captionEnd')
-  .describe('num', 'The number of images to create')
-  .describe('secondsApart', 'The number of seconds apart each image (see num)')
-  .describe('post', 'Upload image to the destinations')
-  .describe('prompt', 'Prompt before posting')
-  .describe('effects', 'Apply a specific effect (by name)')
-  .describe(
-    'baseEffects',
-    'Apply a specific effect first (by name) and pick more at random'
-  )
-  .describe('local', 'Local folder to read videos from instead of S3')
-  .describe('caption', 'Use a particular caption glob')
-  .describe(
-    'captionStart',
-    'Use a particular starting point in % of caption file'
-  )
-  .describe('captionEnd', 'Use a particular end point in % of caption file')
-  .describe('background', 'Background color for captions')
-  .describe('outputFolder', 'Output folder')
-  .describe('sourceFilter', 'A pattern to match source videos against')
-  .describe('sourceLength', 'Clip length')
-  .describe('sourceSeconds', 'Where in the source to pull the GIF/still from')
-  .describe('blend', 'What blend file to use')
-  .describe('overlay', 'What overlay file to use')
-  .describe('fmusic', 'Fierifiction music glob')
-  .describe('ftopk', 'Fierifiction topK')
-  .describe('ftemp', 'Fierifiction temperature')
-  .describe('flength', 'Fierifiction text length')
-  .describe('tags', 'Extra tags to add')
-  .describe('captionText', 'Exact caption text')
-  .default('fmusic', '*.mp3')
-  .default('ftopk', 40)
-  .default('ftemp', 1)
-  .default('flength', 100)
-  .default('blend', '*.mp4')
-  .default('secondsApart', 3)
-  .default('fill', 'red')
-  .describe('type', 'The type of image generated').argv;
-
+const yargs = require('yargs');
 const stills = require('stills');
-const { resolve } = require('path');
-const { sync } = require('glob');
-const {
-  compact,
-  random,
-  sampleSize,
-  get,
-  shuffle,
-  intersection,
-  sample,
-  map,
-} = require('lodash');
+const { compact } = require('lodash');
+const { copyFileSync } = require('fs');
 
-const FieriFiction = require('fierifiction');
+const configs = {
+  default: require('./configs/default'),
+  arcadia: require('./configs/arcadia'),
+  dreamers: require('./configs/dreamers'),
+};
 
-const {
-  S3_ACCESS_KEY_ID,
-  S3_SECRET_ACCESS_KEY,
-  S3_BUCKET,
-  TUMBLR_CONSUMER_KEY,
-  TUMBLR_CONSUMER_SECRET,
-  TUMBLR_ACCESS_TOKEN_KEY,
-  TUMBLR_ACCESS_TOKEN_SECRET,
-  TUMBLR_BLOG_NAME,
-  TUMBLR_REBLOG_BLOG_NAME,
-  TWITTER_CONSUMER_KEY,
-  TWITTER_CONSUMER_SECRET,
-  TWITTER_ACCESS_TOKEN_KEY,
-  TWITTER_ACCESS_TOKEN_SECRET,
-  POST_TEXT_GENERATOR_URL,
-  GIF_EFFECT_RATE,
-  CAPTION_EFFECT_RATE,
-  CAPTION_NAME_REPLACER_RATE,
-  FIERIFICTION_VIDEO_RATE,
-  GOOGLE_CLOUD_CREDENTIALS_BASE64,
-  GIF_LENGTH_SECONDS,
-  GIF_FPS,
-  MICROSOFT_AZURE_TOKEN,
-  MAX_NUM_EFFECTS,
-} = process.env;
+const DEFAULT_OPTIONS = {
+  sourceSeconds: {
+    describe: 'Where in the video to start creating the images from',
+  },
+  post: {
+    describe: 'Post the generates images to the destination',
+    boolean: true,
+  },
+  draft: {
+    describe: 'Create as draft',
+    boolean: true,
+  },
+  prompt: {
+    describe: 'Prompt before posting',
+    boolean: true,
+    default: false,
+  },
+  local: {
+    describe: 'Local folder to read videos from',
+  },
+  sourceFilter: {
+    describe: 'A glob for what video file to pick stills from',
+  },
+  sourceLength: {
+    describe: 'How long GIFs should be',
+    number: true,
+  },
+  secondsApart: {
+    describe: 'How far multiple images should be separated apart',
+    number: true,
+  },
+  outputFolder: {
+    describe: 'Where to put the generated images',
+  },
+  gifWidth: {
+    describe: 'Width of GIFs',
+    default: 540,
+  },
+  config: {
+    describe: 'What config template to use',
+    choices: Object.keys(configs),
+    default: 'default',
+  },
+  images: {
+    describe: 'Existing files to use',
+    array: true,
+    alias: 'i',
+  },
+};
 
-const {
-  local,
-  effects,
-  caption,
-  sourceFilter,
-  background,
-  face,
-  outputFolder,
-  userName,
-  prompt: isPrompt,
-  blend,
-  fmusic,
-  ftopk,
-  flength,
-  ftemp,
-  tags: addTag,
-  captionStart,
-  captionEnd,
-  sourceSeconds,
-  sourceLength,
-  captionText,
-  baseEffects,
-  num,
-  faceoverlay,
-  overlay,
-  secondsApart,
-  word,
-  fill,
-} = argv;
+(async () => {
+  const { config } = yargs.options(DEFAULT_OPTIONS).help(false).argv;
+  const useConfig = new configs[config]();
+  const configOptions = useConfig.getOptions ? useConfig.getOptions() : {};
 
-(async function () {
-  const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
-  const GIF_STILL_RATE = 0.5;
-  const CAPTION_RATE =
-    caption ||
-    (captionText && captionText.length > 0) ||
-    (word && word.length > 0)
-      ? 1
-      : 0.9;
-  const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
-    ? parseFloat(GIF_EFFECT_RATE)
-    : 0.2;
-  const USE_CAPTION_EFFECT_RATE = CAPTION_EFFECT_RATE
-    ? parseFloat(CAPTION_EFFECT_RATE)
-    : 0;
-  const USE_CAPTION_NAME_REPLACER_RATE = CAPTION_NAME_REPLACER_RATE
-    ? parseFloat(CAPTION_NAME_REPLACER_RATE)
-    : 0;
-  const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
-    ? parseFloat(FIERIFICTION_VIDEO_RATE)
-    : 0.5;
+  const args = yargs
+    .options({
+      ...DEFAULT_OPTIONS,
+      ...configOptions,
+    })
+    .help(true).argv;
+
+  const options = { ...args, ...process.env };
+
+  const baseConfig = await useConfig.generateConfig(options);
+  const { type, num, tags, highlightColor } = baseConfig;
+
+  const {
+    post,
+    prompt,
+    local,
+    images,
+    sourceFilter,
+    outputFolder,
+    secondsApart,
+    sourceLength,
+    gifWidth,
+    draft,
+    TUMBLR_CONSUMER_KEY,
+    TUMBLR_CONSUMER_SECRET,
+    TUMBLR_ACCESS_TOKEN_KEY,
+    TUMBLR_ACCESS_TOKEN_SECRET,
+    TUMBLR_BLOG_NAME,
+    S3_ACCESS_KEY_ID,
+    S3_SECRET_ACCESS_KEY,
+    S3_BUCKET,
+    GIF_FPS,
+    GIF_LENGTH_SECONDS,
+    MICROSOFT_AZURE_TOKEN,
+    sourceSeconds,
+  } = options;
+
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
     ? parseFloat(GIF_LENGTH_SECONDS)
     : 2;
   const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
 
-  const fiction = new FieriFiction({
-    tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
-    tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
-    tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
-    tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-    tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
-    googleCloudCredentials: Buffer.from(
-      GOOGLE_CLOUD_CREDENTIALS_BASE64,
-      'base64'
-    ).toString(),
-    textGeneratorUrl: POST_TEXT_GENERATOR_URL,
-    topK: ftopk,
-    temperature: ftemp,
-    music: fmusic,
-    textLength: flength,
-  });
-
-  const randomly = (rate, hit = true, miss = false) =>
-    Math.random() < rate ? hit : miss;
-
-  const getEffectsByName = (allEffects, effects) => {
-    const allEffectsNames = map(allEffects, 'name');
-
-    return effects.reduce(
-      (memo, name) =>
-        allEffectsNames.indexOf(name) !== -1
-          ? [...memo, allEffects[allEffectsNames.indexOf(name)]]
-          : memo,
-      []
-    );
+  const getSourceSeconds = (string) => {
+    if (!string) {
+      return undefined;
+    }
+    if (string.toString().indexOf(':') !== -1) {
+      const [m, s] = string.split(':');
+      return parseFloat(m) * 60 + parseFloat(s);
+    }
+    return parseFloat(string);
   };
 
-  const inOrder = (array) => {
-    const hour = new Date().getHours();
-    const index = hour % array.length;
-    return array[index];
+  const useSourceSeconds = getSourceSeconds(sourceSeconds);
+
+  const TUMBLR_CONFIG = {
+    highlightColor,
+    consumerKey: TUMBLR_CONSUMER_KEY,
+    consumerSecret: TUMBLR_CONSUMER_SECRET,
+    token: TUMBLR_ACCESS_TOKEN_KEY,
+    tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+    blogName: TUMBLR_BLOG_NAME,
+    publishState: draft ? 'draft' : undefined,
   };
+
+  const destinations = post
+    ? [new stills.destinations.Tumblr(TUMBLR_CONFIG)]
+    : [];
 
   const source = local
     ? new stills.sources.Local({
@@ -210,227 +150,6 @@ const {
           !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1,
       });
 
-  const type =
-    argv.type === 'random'
-      ? randomly(GIF_STILL_RATE, 'gif', 'still')
-      : argv.type;
-
-  const isGif = type === 'gif';
-
-  const content = isGif
-    ? new stills.content.Gif({
-        secondsApart,
-        duration: Number.isFinite(sourceLength)
-          ? sourceLength
-          : NUM_GIF_LENGTH_SECONDS,
-        seconds: sourceSeconds,
-        fps: NUM_GIF_FPS,
-        num: Number.isFinite(num) ? num : randomly(0.8, 1, 3),
-      })
-    : new stills.content.Still({
-        num: Number.isFinite(num) ? num : randomly(0.5, randomly(0.5, 3, 5), 1),
-        secondsApart,
-        seconds: sourceSeconds,
-      });
-
-  const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
-
-  const orbs = [
-    {
-      radius: 0.4,
-      blur: 0.4,
-      color: '#ffa500',
-    },
-    {
-      radius: 0.1,
-      blur: 0.3,
-      color: 'white',
-    },
-  ];
-
-  const blendFiles = sync(`./blend/${blend}`);
-
-  const overlays = [
-    {
-      overlayFile: './overlays/arm.gif',
-      gravity: 'southeast',
-      sizePercentHeight: 0.3,
-      geometry: '+10+10',
-    },
-  ].filter((o) =>
-    overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
-  );
-
-  const faceOverlayFiles = sync(`./faceoverlays/*.png`);
-  const faceOverlayFile = shuffle(faceOverlayFiles).filter((file) =>
-    faceoverlay ? file.startsWith(`./faceoverlays/${faceoverlay}`) : true
-  );
-
-  const overlayOptions = inOrder(overlays);
-
-  const stillEffects = [
-    new stills.filters.FaceOrb({ orbs }),
-    new stills.filters.FaceStretch(),
-    new stills.filters.FaceDemonEyes({
-      avoidDescriptors,
-    }),
-    new stills.filters.FacePinch({
-      avoidDescriptors,
-    }),
-    new stills.filters.FaceGlow({
-      avoidDescriptors,
-      blur: 0.1,
-    }),
-    new stills.filters.FaceDemonize({
-      avoidDescriptors,
-    }),
-    new stills.filters.Liquify(),
-    new stills.filters.Colorize(),
-    new stills.filters.Mirror(),
-    new stills.filters.Overlay(overlayOptions),
-    new stills.filters.FaceOverlay({
-      overlayFile: faceOverlayFile,
-      avoidDescriptors,
-    }),
-    new stills.filters.ColorTone({
-      color: 'maroon',
-      opacity: 0.3,
-      isNegate: true,
-    }),
-  ];
-
-  const gifEffects = [
-    new stills.filters.Distortion({
-      heightFactor: random(0.4, 0.6),
-    }),
-    new stills.filters.Shuffle({
-      delay: '2x30',
-    }),
-    new stills.filters.Stutter({
-      numFrames: random(6, 16),
-      stutterDelay: 0,
-    }),
-    new stills.filters.Tint({
-      factor: 1.7,
-    }),
-    new stills.filters.Invert(),
-    new stills.filters.Reverse(),
-    new stills.filters.Implode(),
-    new stills.filters.Swirl(),
-    new stills.filters.Rotate({
-      useProgress: false,
-      degrees: 15,
-    }),
-    new stills.filters.Flip(),
-    new stills.filters.Flop(),
-    new stills.filters.Jitter(),
-    new stills.filters.FaceOrb({ orbs }),
-    new stills.filters.FaceStretch({
-      useProgress: true,
-      randomOffset: 0,
-    }),
-    new stills.filters.FaceDemonEyes({
-      avoidDescriptors,
-    }),
-    new stills.filters.FaceDemonize({
-      avoidDescriptors,
-    }),
-    new stills.filters.FacePinch({
-      avoidDescriptors,
-    }),
-    new stills.filters.FaceGlow({
-      avoidDescriptors,
-      blur: 0.1,
-    }),
-    new stills.filters.Tempo(),
-    new stills.filters.FewFrames(),
-    new stills.filters.Liquify(),
-    new stills.filters.Pip(),
-    new stills.filters.Flash(),
-    new stills.filters.Station(),
-    new stills.filters.Tile({
-      numTiles: 4,
-    }),
-    new stills.filters.BlendSelf(),
-    new stills.filters.Blend({
-      opacity: 0.5,
-      overlayFile: sample(blendFiles),
-    }),
-    new stills.filters.Mirror(),
-    new stills.filters.SkipFrames(),
-    new stills.filters.Boomerang(),
-    new stills.filters.Delay({
-      delay: random(3000, 6000),
-    }),
-    new stills.filters.RepeatFrame({
-      delay: 0,
-    }),
-    new stills.filters.FaceOverlay({
-      overlayFile: faceOverlayFile,
-      avoidDescriptors,
-    }),
-    new stills.filters.FaceSwirl(),
-    new stills.filters.ColorTone({
-      color: 'maroon',
-      opacity: 0.3,
-      isNegate: true,
-    }),
-    new stills.filters.Overlay(overlayOptions),
-    /*
-    new stills.filters.Arcadia(),
-    new stills.filters.Boonme({
-      fill,
-    }),
-    */
-  ];
-
-  let allEffects = isGif ? gifEffects : stillEffects;
-
-  let useEffects = effects
-    ? getEffectsByName(allEffects, effects)
-    : randomly(
-        USE_GIF_EFFECT_RATE,
-        sampleSize(allEffects, random(1, maxNumEffects)),
-        []
-      );
-
-  let useBaseEffects = baseEffects
-    ? getEffectsByName(allEffects, baseEffects)
-    : [];
-
-  const filters = compact([
-    ...useEffects,
-    ...useBaseEffects,
-    new stills.filters.Captions({
-      background,
-      folder: resolve('./captions'),
-      font: resolve('./fonts/arial.ttf'),
-      glyphs: false,
-    }),
-  ]);
-
-  const tumblrCreds = {
-    consumerKey: TUMBLR_CONSUMER_KEY,
-    consumerSecret: TUMBLR_CONSUMER_SECRET,
-    token: TUMBLR_ACCESS_TOKEN_KEY,
-    tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-    blogName: TUMBLR_BLOG_NAME,
-  };
-
-  const twitterCreds = {
-    consumerKey: TWITTER_CONSUMER_KEY,
-    consumerSecret: TWITTER_CONSUMER_SECRET,
-    accessTokenKey: TWITTER_ACCESS_TOKEN_KEY,
-    accessTokenSecret: TWITTER_ACCESS_TOKEN_SECRET,
-  };
-
-  const destinations = argv.post
-    ? [
-        new stills.destinations.Tumblr(tumblrCreds),
-        new stills.destinations.Twitter(twitterCreds),
-      ]
-    : [];
-
   const taggers = [
     new stills.taggers.Episode(),
     new stills.taggers.Static({
@@ -438,7 +157,7 @@ const {
         'guy fieri',
         'guyfieri',
         'diners drive-ins and dives',
-        ...(addTag || []),
+        ...(tags || []),
       ]),
     }),
     new stills.taggers.Captions(),
@@ -456,39 +175,6 @@ const {
   ];
 
   const description = new stills.descriptions.Azure();
-
-  const validators = face ? [new stills.validators.FaceDetection()] : [];
-
-  const singleCaptionEffects = ['fewframes', 'tempo', 'jitter'];
-
-  const useSingleCaption =
-    (Number.isFinite(num) && num > 1) ||
-    intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
-
-  const captionTransforms = randomly(
-    USE_CAPTION_EFFECT_RATE,
-    sampleSize(['uppercase', 'music', 'exclamation'], 1),
-    []
-  );
-
-  const globalsCaption = randomly(
-    CAPTION_RATE,
-    new stills.globals.Captions({
-      captionFileGlob: caption ? `*${caption}*` : undefined,
-      folder: resolve('./captions'),
-      captionStart,
-      captionEnd,
-      captionText,
-      pdfSentenceMaxLength: 50,
-      transformations: captionTransforms,
-      num: {
-        srt: useSingleCaption ? 1 : random(1, 2),
-        txt: 1,
-        pdf: useSingleCaption ? 1 : random(1, 2),
-      },
-    })
-  );
-
   const globalsAzure =
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.globals.Azure({
@@ -496,68 +182,97 @@ const {
         })
       : null;
 
-  const globalsWord = word ? new stills.globals.Word({ word }) : null;
+  const contents = {
+    gif: new stills.content.Gif({
+      secondsApart,
+      num,
+      width: gifWidth,
+      seconds: useSourceSeconds,
+      duration: Number.isFinite(sourceLength)
+        ? sourceLength
+        : NUM_GIF_LENGTH_SECONDS,
+      fps: NUM_GIF_FPS,
+    }),
+    still: new stills.content.Still({
+      num,
+      secondsApart,
+      seconds: useSourceSeconds,
+    }),
+  };
 
-  const userPlugin = new stills.globals.User({
-    ...tumblrCreds,
-    userName,
-    mentionsSymbol: '@',
-  });
+  const content = contents[type];
+  const baseConfigGlobals = baseConfig.globals || [];
+  const baseConfigData = baseConfig.data || {};
+  const globals = compact([...baseConfigGlobals, globalsAzure]);
+  let useImages;
 
-  const globalsRandomUser = userName
-    ? userPlugin
-    : randomly(USE_CAPTION_NAME_REPLACER_RATE, userPlugin);
+  if (images) {
+    useImages = [];
+    images.forEach((image) => {
+      const output =
+        image.indexOf('s.') !== -1
+          ? image.replace(/s\./, 's-edited.')
+          : `edited-${image}`;
+      copyFileSync(image, output);
+      useImages.push(output);
+    });
+  }
 
-  const globals = compact([
-    globalsWord,
-    globalsRandomUser,
-    globalsCaption,
-    globalsAzure,
-  ]);
-
-  console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
-
-  const result = await stills.generate({
+  const finalConfig = {
+    ...baseConfig,
+    globals,
+    destinations,
+    description,
+    taggers,
     source,
     content,
-    filters,
-    destinations,
-    taggers,
-    validators,
-    description,
-    globals,
-    isPrompt,
-  });
+    images: useImages,
+    isPrompt: prompt,
+  };
 
+  console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
+  const result = await stills.generate(finalConfig);
+
+  if (useConfig.onComplete) {
+    await useConfig.onComplete(result, baseConfigData);
+  }
+
+  /*
   const output = result.content;
-
-  const captions = get(result, 'globals.captions', []);
+  const captions = flatten(get(result, 'globals.captions', []));
   const tags = get(result, 'tags', []);
-  const tumblr = get(result, 'destinations.tumblr');
+  const tumblr = get(result, 'destinations.tumblr', {});
+  const useStory = true;
+
+  if (additionalText) {
+    captions.push(additionalText);
+  }
 
   if (destinations.length) {
-    /*
     if (captions.length) {
       const generator = randomly(
         NUM_FIERIFICTION_VIDEO_RATE,
         async () => {
-          await fiction.postVideo(output, captions, tags, tumblr.url, {
-            postId: tumblr.postId,
-            blogName: tumblr.blogName,
-          });
+          await fiction.postVideo(
+            output,
+            captions,
+            tags,
+            tumblr.url,
+            {
+              postId: tumblr.postId,
+              blogName: tumblr.blogName,
+            },
+            useStory,
+            isPrompt
+          );
         },
         async () => {
-          await fiction.postText(
-            captions,
-            tumblr.postId,
-            tumblr.blogName,
-            tags
-          );
+          console.log('Skipping text');
         }
       );
       await generator();
     }
-    */
     stills.deleteStills(result);
   }
+  */
 })();

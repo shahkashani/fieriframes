@@ -22,7 +22,8 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v5.3.1",
+    "dreamers": "git+https://b03fa210e2d2eb2f9f225c1aa2e20fad25f03de2@github.com/shahkashani/dreamers.git#v2.1.0",
+    "fierifiction": "git+https://github.com/shahkashani/fierifiction.git#v5.4.0",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
     "stills": "^10.15.0",
