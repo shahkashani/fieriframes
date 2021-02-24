@@ -252,54 +252,10 @@ const {
 
   const overlays = [
     {
-      overlayFile: './overlays/birthday-0.png',
+      overlayFile: './overlays/arm.gif',
       gravity: 'southeast',
-      sizePercentHeight: 0.6,
-    },
-    {
-      overlayFile: './overlays/birthday-7.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.8,
-    },
-    {
-      overlayFile: './overlays/birthday-1.png',
-      gravity: 'southwest',
-      sizePercentHeight: 0.9,
-    },
-    {
-      overlayFile: './overlays/birthday-2.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.9,
-    },
-    {
-      overlayFile: './overlays/birthday-8.png',
-      gravity: 'south',
-      sizePercentHeight: 0.8,
-    },
-    {
-      overlayFile: './overlays/birthday-4.png',
-      gravity: 'southwest',
-      sizePercentHeight: 0.8,
-    },
-    {
-      overlayFile: './overlays/birthday-5.png',
-      gravity: 'southwest',
-      sizePercentHeight: 0.7,
-    },
-    {
-      overlayFile: './overlays/birthday-3.png',
-      gravity: 'southeast',
-      sizePercentHeight: 1,
-    },
-    {
-      overlayFile: './overlays/birthday-10.png',
-      gravity: 'southwest',
-      sizePercentHeight: 0.8,
-    },
-    {
-      overlayFile: './overlays/birthday-9.png',
-      gravity: 'southeast',
-      sizePercentHeight: 0.6,
+      sizePercentHeight: 0.3,
+      geometry: '+10+10',
     },
   ].filter((o) =>
     overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
@@ -419,8 +375,8 @@ const {
       opacity: 0.3,
       isNegate: true,
     }),
-    /*
     new stills.filters.Overlay(overlayOptions),
+    /*
     new stills.filters.Arcadia(),
     new stills.filters.Boonme({
       fill,
