@@ -336,6 +336,11 @@ const {
       overlayFile: faceOverlayFile,
       avoidDescriptors,
     }),
+    new stills.filters.ColorTone({
+      color: 'maroon',
+      opacity: 0.3,
+      isNegate: true,
+    }),
   ];
 
   const gifEffects = [
@@ -409,6 +414,11 @@ const {
       avoidDescriptors,
     }),
     new stills.filters.FaceSwirl(),
+    new stills.filters.ColorTone({
+      color: 'maroon',
+      opacity: 0.3,
+      isNegate: true,
+    }),
     /*
     new stills.filters.Overlay(overlayOptions),
     new stills.filters.Arcadia(),
@@ -467,9 +477,6 @@ const {
 
   const taggers = [
     new stills.taggers.Episode(),
-    new stills.taggers.Word({
-      tags: ['et in arcadia ego'],
-    }),
     new stills.taggers.Static({
       tags: compact([
         'guy fieri',
@@ -487,6 +494,7 @@ const {
       tile: 'tw:flashing',
       fewframes: 'tw:flashing',
       repeatframe: 'tw:flashing',
+      arcadia: 'et in arcadia ego',
     }),
     new stills.taggers.Azure(),
   ];
