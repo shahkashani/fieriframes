@@ -1,7 +1,7 @@
 const stills = require('stills');
 const Dreamers = require('dreamers');
 
-const HIGHLIGHT_COLOR = '#FF492F';
+const HIGHLIGHT_COLOR = '#00b8ff';
 
 class DreamerConfig {
   constructor() {
