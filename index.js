@@ -48,7 +48,7 @@ const DEFAULT_OPTIONS = {
   },
   gifWidth: {
     describe: 'Width of GIFs',
-    default: 540,
+    default: 720,
   },
   config: {
     describe: 'What config template to use',
