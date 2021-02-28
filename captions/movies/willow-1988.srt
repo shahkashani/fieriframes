@@ -4,13 +4,13 @@
 
 2
 00:00:45,212 --> 00:00:49,081
-<i>- [Thunder Rumbling]
-- [Baby Crying]</i>
+<i>[Thunder Rumbling]
+[Baby Crying]</i>
 
 3
 00:01:00,352 --> 00:01:02,810
-<i>- [Woman #1] Is it a girl?
-- [Woman #2] Yes.</i>
+<i>[Woman #1] Is it a girl?
+[Woman #2] Yes.</i>
 
 4
 00:01:02,896 --> 00:01:04,603
@@ -19,13 +19,13 @@ Show me its arm.</i>
 
 5
 00:01:04,690 --> 00:01:07,433
-<i>- [Woman #2] She bears the mark.
-- [Woman #3] No!</i>
+<i>[Woman #2] She bears the mark.
+[Woman #3] No!</i>
 
 6
 00:01:07,526 --> 00:01:10,143
-<i>- [Sobbing]
-- [Baby Crying]</i>
+<i>[Sobbing]
+[Baby Crying]</i>
 
 7
 00:01:10,237 --> 00:01:13,776
@@ -34,13 +34,13 @@ I must tell my mother.
 
 8
 00:01:16,159 --> 00:01:18,276
-- [Sobbing] Help me!
-- [Woman] I can't.
+[Sobbing] Help me!
+[Woman] I can't.
 
 9
 00:01:18,370 --> 00:01:21,158
-- They're going to kill her.
-<i>- [Baby's Cries Continue]</i>
+They're going to kill her.
+<i>[Baby's Cries Continue]</i>
 
 10
 00:01:25,043 --> 00:01:29,003
@@ -71,13 +71,13 @@ Start the ritual.
 
 16
 00:02:14,635 --> 00:02:19,426
-- No. No!
-- Where's the baby?
+No. No!
+Where's the baby?
 
 17
 00:02:19,556 --> 00:02:21,969
-- The midwife.
-- Find that baby, Sorsha.
+The midwife.
+Find that baby, Sorsha.
 
 18
 00:02:22,059 --> 00:02:25,427
@@ -94,8 +94,8 @@ and she will finish you!
 
 21
 00:02:29,800 --> 00:02:31,954
-<i>- [Guard] Silence, wench.
-- My baby will finish you!</i>
+<i>[Guard] Silence, wench.
+My baby will finish you!</i>
 
 22
 00:02:31,979 --> 00:02:33,263
@@ -143,8 +143,8 @@ Dada! Dada!
 
 33
 00:06:06,157 --> 00:06:09,446
-<i>- Dada! Dada!</i>
-- Whoa! Whoa!
+<i>Dada! Dada!</i>
+Whoa! Whoa!
 
 34
 00:06:10,579 --> 00:06:13,947
@@ -158,8 +158,8 @@ with you now, Ranon.
 
 36
 00:06:16,042 --> 00:06:18,284
-- I've got work to do.
-- You gotta come. Hurry!
+I've got work to do.
+You gotta come. Hurry!
 
 37
 00:06:19,838 --> 00:06:21,795
@@ -180,13 +180,13 @@ But, Dada, it's a baby.
 
 41
 00:06:34,311 --> 00:06:39,102
-- It's not like us.
-- No. It's not a Nelwyn.
+It's not like us.
+No. It's not a Nelwyn.
 
 42
 00:06:39,190 --> 00:06:42,729
-<i>- It looks like a Daikini baby.</i>
-- What's a Daikini?
+<i>It looks like a Daikini baby.</i>
+What's a Daikini?
 
 43
 00:06:42,819 --> 00:06:45,152
@@ -194,8 +194,8 @@ Daikinis are big.
 
 44
 00:06:45,238 --> 00:06:48,356
-- Giants who live far away.
-- [Laughing]
+Giants who live far away.
+[Laughing]
 
 45
 00:06:48,450 --> 00:06:50,658
@@ -203,8 +203,8 @@ Oh, she's so cute.
 
 46
 00:06:50,785 --> 00:06:53,823
-- Can't we keep it, Dada?
-- No!
+Can't we keep it, Dada?
+No!
 
 47
 00:06:55,206 --> 00:07:00,122
@@ -263,8 +263,8 @@ in the forest since last fall.
 
 59
 00:07:40,460 --> 00:07:43,453
-- There's no law against that.
-<i>- [Children Laughing]</i>
+There's no law against that.
+<i>[Children Laughing]</i>
 
 60
 00:07:43,546 --> 00:07:47,005
@@ -291,18 +291,18 @@ working in the mines.
 
 65
 00:08:03,358 --> 00:08:07,022
-- [Burglekutt] Baaa─
-- [Hog Snorting]
+[Burglekutt] Baaa─
+[Hog Snorting]
 
 66
 00:08:10,198 --> 00:08:13,191
-- [Giggling]
-- Oh, you're lovely.
+[Giggling]
+Oh, you're lovely.
 
 67
 00:08:13,284 --> 00:08:15,276
-- Yes, you are.
-- [Coos]
+Yes, you are.
+[Coos]
 
 68
 00:08:15,370 --> 00:08:16,906
@@ -314,8 +314,8 @@ Oh, Willow!
 
 70
 00:08:19,874 --> 00:08:24,835
-- Good girl. Good girl.
-- Under no condition whatsoever...
+Good girl. Good girl.
+Under no condition whatsoever...
 
 71
 00:08:24,921 --> 00:08:27,584
@@ -341,8 +341,8 @@ Mims? Ranon?
 
 76
 00:08:51,990 --> 00:08:54,107
-- [Fussing]
-<i>- [Mims] You're gonna be all clean.</i>
+[Fussing]
+<i>[Mims] You're gonna be all clean.</i>
 
 77
 00:08:57,787 --> 00:09:00,700
@@ -374,8 +374,8 @@ lousy farmer too. Let's get him!"</i>
 
 83
 00:09:15,805 --> 00:09:19,890
-- Willow, calm down.
-- Calm down?
+Willow, calm down.
+Calm down?
 
 84
 00:09:19,976 --> 00:09:22,013
@@ -393,23 +393,23 @@ I just know he's gonna pick me.
 
 87
 00:09:31,946 --> 00:09:35,530
-- Here. Hold her.
-- Hey, no. I don't want her, Kiaya.
+Here. Hold her.
+Hey, no. I don't want her, Kiaya.
 
 88
 00:09:35,658 --> 00:09:38,446
-- Hold her while I get some milk.
-- Oh, no, no. Oh.
+Hold her while I get some milk.
+Oh, no, no. Oh.
 
 89
 00:09:38,536 --> 00:09:43,201
-- [Giggling]
-- [Squeals]
+[Giggling]
+[Squeals]
 
 90
 00:09:46,086 --> 00:09:49,500
-- Dada, she likes you.
-- [Giggles]
+Dada, she likes you.
+[Giggles]
 
 91
 00:09:51,341 --> 00:09:54,925
@@ -417,13 +417,13 @@ I just know he's gonna pick me.
 
 92
 00:09:57,972 --> 00:09:59,463
-<i>- [Rooster Crowing]</i>
-- Bye.
+<i>[Rooster Crowing]</i>
+Bye.
 
 93
 00:10:01,017 --> 00:10:04,852
-- Come on, kids. Let's go.
-- [Mims Giggling]
+Come on, kids. Let's go.
+[Mims Giggling]
 
 94
 00:10:08,525 --> 00:10:10,767
@@ -440,8 +440,8 @@ I will now magically join the rings!</i>
 
 97
 00:10:36,427 --> 00:10:39,044
-- Whoa-ah!
-- [Laughing]
+Whoa-ah!
+[Laughing]
 
 98
 00:10:43,893 --> 00:10:46,226
@@ -454,8 +454,8 @@ please turn away.
 
 100
 00:10:51,401 --> 00:10:53,393
-- [Gasps]
-- [Oohing And Aahing]
+[Gasps]
+[Oohing And Aahing]
 
 101
 00:10:55,280 --> 00:10:58,068
@@ -471,13 +471,13 @@ Give me a ripe one. Good.
 
 104
 00:11:15,008 --> 00:11:19,469
-- [Squeals]
-- And now, for my final amazing feat,
+[Squeals]
+And now, for my final amazing feat,
 
 105
 00:11:19,596 --> 00:11:24,432
-- I will make this entire pig disappear!
-- [Skeptical Groans]
+I will make this entire pig disappear!
+[Skeptical Groans]
 
 106
 00:11:29,230 --> 00:11:32,394
@@ -485,23 +485,23 @@ Give me a ripe one. Good.
 
 107
 00:11:32,483 --> 00:11:37,569
-- Mims, see?
-- Please, watch very closely.
+Mims, see?
+Please, watch very closely.
 
 108
 00:11:37,697 --> 00:11:43,284
-<i>- Wuppity bairn, deru, deru!</i>
-- [Surprised Laughter]
+<i>Wuppity bairn, deru, deru!</i>
+[Surprised Laughter]
 
 109
 00:11:45,580 --> 00:11:47,947
-- Well─
-- What happened to your pig?
+Well─
+What happened to your pig?
 
 110
 00:11:48,041 --> 00:11:50,579
-<i>- [Pig Squealing]</i>
-- [Gasps]
+<i>[Pig Squealing]</i>
+[Gasps]
 
 111
 00:11:50,668 --> 00:11:53,661
@@ -518,8 +518,8 @@ I seen enough.
 
 114
 00:12:11,189 --> 00:12:14,182
-<i>- [Low, Deep Horn Blows]
-- [Villagers Chattering]</i>
+<i>[Low, Deep Horn Blows]
+[Villagers Chattering]</i>
 
 115
 00:12:16,694 --> 00:12:18,821
@@ -532,8 +532,8 @@ now make his choice...</i>
 
 117
 00:12:21,331 --> 00:12:23,244
-<i>- for his new apprentice!</i>
-- You'll be all right.
+<i>for his new apprentice!</i>
+You'll be all right.
 
 118
 00:12:23,334 --> 00:12:26,493
@@ -541,8 +541,8 @@ Bring forth the hopefuls.
 
 119
 00:12:26,579 --> 00:12:28,946
-- Good luck.
-- Good luck, Dada.
+Good luck.
+Good luck, Dada.
 
 120
 00:12:29,040 --> 00:12:32,784
@@ -556,8 +556,8 @@ Is this a joke?
 
 122
 00:12:35,463 --> 00:12:39,924
-<i>- [Burglekutt's Laughing Continues]
-- Willow?</i>
+<i>[Burglekutt's Laughing Continues]
+Willow?</i>
 
 123
 00:12:42,262 --> 00:12:47,803
@@ -581,8 +581,8 @@ is in which finger?
 
 128
 00:13:47,285 --> 00:13:51,825
-- No apprentice this year!
-- [Onlookers Groan]
+No apprentice this year!
+[Onlookers Groan]
 
 129
 00:13:51,914 --> 00:13:54,702
@@ -594,13 +594,13 @@ is in which finger?
 
 131
 00:14:08,473 --> 00:14:12,137
-- [Panicked Screams]
-- [Growling]
+[Panicked Screams]
+[Growling]
 
 132
 00:14:12,226 --> 00:14:15,594
-- Where's Mims?
-<i>- I don't know. She was right here!</i>
+Where's Mims?
+<i>I don't know. She was right here!</i>
 
 133
 00:14:15,688 --> 00:14:18,556
@@ -616,33 +616,33 @@ Take Ranon in there, quick!
 
 136
 00:14:26,491 --> 00:14:29,450
-- Mims!
-- [Snarling]
+Mims!
+[Snarling]
 
 137
 00:14:30,787 --> 00:14:32,949
-- Mims!
-- [Screaming]
+Mims!
+[Screaming]
 
 138
 00:14:33,039 --> 00:14:37,454
-- [Crying]
-- [Snarling]
+[Crying]
+[Snarling]
 
 139
 00:14:38,795 --> 00:14:41,128
-- [Gasps]
-- [Crying]
+[Gasps]
+[Crying]
 
 140
 00:14:41,214 --> 00:14:45,959
-- Mims!
-- Dada─
+Mims!
+Dada─
 
 141
 00:14:47,303 --> 00:14:50,296
-- I'm scared, Dada!
-- [Baby Crying]
+I'm scared, Dada!
+[Baby Crying]
 
 142
 00:14:57,105 --> 00:15:00,564
@@ -654,23 +654,23 @@ Come on!
 
 144
 00:15:03,319 --> 00:15:05,606
-- [Dog Snarling]
-- [Yelling]
+[Dog Snarling]
+[Yelling]
 
 145
 00:15:20,920 --> 00:15:23,879
-- Vohnkar!
-- [Growls]
+Vohnkar!
+[Growls]
 
 146
 00:15:23,965 --> 00:15:27,504
-- [Dog Whimpers]
-- [Men Grunting]
+[Dog Whimpers]
+[Men Grunting]
 
 147
 00:15:33,391 --> 00:15:36,304
-- Check to make sure it's not still alive.
-- It's dead!
+Check to make sure it's not still alive.
+It's dead!
 
 148
 00:15:38,646 --> 00:15:40,353
@@ -686,8 +686,8 @@ It was looking for somebody's baby!
 
 151
 00:15:49,073 --> 00:15:52,817
-- Mommy.
-- Kiaya!
+Mommy.
+Kiaya!
 
 152
 00:16:00,251 --> 00:16:03,585
@@ -695,8 +695,8 @@ Kiaya! Kiaya!
 
 153
 00:16:03,671 --> 00:16:06,664
-- [Baby Coos]
-- I'm here.
+[Baby Coos]
+I'm here.
 
 154
 00:16:06,757 --> 00:16:08,669
@@ -704,8 +704,8 @@ Kiaya! Kiaya!
 
 155
 00:16:10,761 --> 00:16:14,380
-- Oh, Kiaya.
-- [Baby Fussing]
+Oh, Kiaya.
+[Baby Fussing]
 
 156
 00:16:14,474 --> 00:16:16,636
@@ -736,8 +736,8 @@ that they won't give up...</i>
 
 162
 00:16:42,585 --> 00:16:45,828
-<i>- [Man #1] It's a sign!
-- [Man #2] Who's to blame for this?</i>
+<i>[Man #1] It's a sign!
+[Man #2] Who's to blame for this?</i>
 
 163
 00:16:45,922 --> 00:16:48,380
@@ -746,8 +746,8 @@ and throw him in the pit!</i>
 
 164
 00:16:48,466 --> 00:16:53,586
-- [Shouting In Agreement]
-<i>- [Villagers] In the pit! In the pit!</i>
+[Shouting In Agreement]
+<i>[Villagers] In the pit! In the pit!</i>
 
 165
 00:16:53,679 --> 00:16:55,796
@@ -755,13 +755,13 @@ and throw him in the pit!</i>
 
 166
 00:16:55,890 --> 00:16:59,179
-<i>- In the pit! In the pit!</i>
-- Willow.
+<i>In the pit! In the pit!</i>
+Willow.
 
 167
 00:16:59,268 --> 00:17:03,603
-<i>- [Chanting Stops]
-- Willow Ufgood.</i>
+<i>[Chanting Stops]
+Willow Ufgood.</i>
 
 168
 00:17:03,689 --> 00:17:06,147
@@ -782,8 +782,8 @@ alone by the river, High Aldwin.
 
 172
 00:17:22,792 --> 00:17:24,909
-- A Daikini child.
-- [Villagers Gasping]
+A Daikini child.
+[Villagers Gasping]
 
 173
 00:17:25,002 --> 00:17:28,211
@@ -797,8 +797,8 @@ Yeah!
 
 175
 00:17:29,465 --> 00:17:32,708
-- They'll kill her! You can't!
-- It isn't one of us.
+They'll kill her! You can't!
+It isn't one of us.
 
 176
 00:17:32,802 --> 00:17:35,465
@@ -819,8 +819,8 @@ to the Daikini crossroads.
 
 180
 00:17:45,231 --> 00:17:49,942
-- Well, who'll do that?
-<i>- It seems only fair...</i>
+Well, who'll do that?
+<i>It seems only fair...</i>
 
 181
 00:17:50,027 --> 00:17:53,395
@@ -834,8 +834,8 @@ plucked it out of the river.
 
 183
 00:17:57,994 --> 00:18:00,577
-- I nominate Willow Ufgood.
-- [Villagers Shout Agreement]
+I nominate Willow Ufgood.
+[Villagers Shout Agreement]
 
 184
 00:18:00,663 --> 00:18:03,246
@@ -847,8 +847,8 @@ I will consult the bones!
 
 186
 00:18:14,719 --> 00:18:19,714
-- The bones tell me... nothing.
-- [Baby Coos]
+The bones tell me... nothing.
+[Baby Coos]
 
 187
 00:18:21,350 --> 00:18:25,219
@@ -860,8 +860,8 @@ Yes. Yes, I do.
 
 189
 00:18:38,284 --> 00:18:42,654
-- The bones have spoken!
-- [Villagers Murmuring]
+The bones have spoken!
+[Villagers Murmuring]
 
 190
 00:18:42,747 --> 00:18:46,707
@@ -870,8 +870,8 @@ of this village depends upon you.
 
 191
 00:18:46,792 --> 00:18:50,877
-- Praise the bones!
-- [Repeating] Praise the bones!
+Praise the bones!
+[Repeating] Praise the bones!
 
 192
 00:18:50,963 --> 00:18:53,455
@@ -885,13 +885,13 @@ our brave fellow on his journey?</i>
 
 194
 00:19:00,931 --> 00:19:05,016
-- I'll go with him.
-<i>- Ah, Meegosh.</i>
+I'll go with him.
+<i>Ah, Meegosh.</i>
 
 195
 00:19:05,102 --> 00:19:08,391
-- Excellent choice.
-- I'll go!
+Excellent choice.
+I'll go!
 
 196
 00:19:08,481 --> 00:19:10,939
@@ -929,8 +929,8 @@ Vohnkar!
 
 204
 00:19:40,680 --> 00:19:44,765
-- What's your problem, son?
-- How do you mean?
+What's your problem, son?
+How do you mean?
 
 205
 00:19:45,476 --> 00:19:50,141
@@ -939,13 +939,13 @@ what was your first impulse?
 
 206
 00:19:50,272 --> 00:19:54,061
-- Well, it was stupid.
-- Just tell me.
+Well, it was stupid.
+Just tell me.
 
 207
 00:19:54,193 --> 00:19:58,654
-- To pick my own finger.
-- Aha! That was the correct answer.
+To pick my own finger.
+Aha! That was the correct answer.
 
 208
 00:19:58,739 --> 00:20:03,450
@@ -968,8 +968,8 @@ These will protect you.
 
 212
 00:20:15,506 --> 00:20:18,044
-- Acorns?
-- They're magic!
+Acorns?
+They're magic!
 
 213
 00:20:18,134 --> 00:20:22,094
@@ -982,8 +982,8 @@ You have much to learn, young Ufgood.
 
 215
 00:20:41,365 --> 00:20:45,826
-- Are you scared, Dada?
-- No!
+Are you scared, Dada?
+No!
 
 216
 00:20:45,911 --> 00:20:47,994
@@ -996,13 +996,13 @@ for a hundred years?
 
 218
 00:20:51,667 --> 00:20:54,250
-- Doesn't bother me.
-- Brownies?
+Doesn't bother me.
+Brownies?
 
 219
 00:20:54,336 --> 00:20:57,249
-- Dragons?
-- Trolls?
+Dragons?
+Trolls?
 
 220
 00:20:57,339 --> 00:21:00,798
@@ -1106,18 +1106,18 @@ Move out!
 
 244
 00:23:13,893 --> 00:23:17,386
-- Hold on, Meegosh.
-- What's wrong?
+Hold on, Meegosh.
+What's wrong?
 
 245
 00:23:17,479 --> 00:23:21,439
-- We have to stop.
-- Stop? Why?
+We have to stop.
+Stop? Why?
 
 246
 00:23:21,525 --> 00:23:23,938
-- The baby's sick.
-- [Bawling]
+The baby's sick.
+[Bawling]
 
 247
 00:23:27,990 --> 00:23:31,108
@@ -1129,8 +1129,8 @@ Uhaghh! Take her! Take her!
 
 249
 00:23:35,915 --> 00:23:38,373
-<i>- [Burglekutt's Groans Continue]</i>
-- [Laughing]
+<i>[Burglekutt's Groans Continue]</i>
+[Laughing]
 
 250
 00:23:38,459 --> 00:23:41,497
@@ -1152,8 +1152,8 @@ to bring me a dead nursemaid.
 
 254
 00:23:52,514 --> 00:23:56,428
-- Sorsha, you're useless!
-- I'm backtracking the nursemaid's trail.
+Sorsha, you're useless!
+I'm backtracking the nursemaid's trail.
 
 255
 00:23:56,518 --> 00:23:58,680
@@ -1188,8 +1188,8 @@ The baby of the prophecy?
 
 262
 00:24:23,045 --> 00:24:26,459
-- The one that would destroy you?
-- I need that baby alive.
+The one that would destroy you?
+I need that baby alive.
 
 263
 00:24:26,548 --> 00:24:32,465
@@ -1198,8 +1198,8 @@ the child's spirit into oblivion.</i>
 
 264
 00:24:32,554 --> 00:24:35,217
-- Find her!
-- I don't need his help, Mother.
+Find her!
+I don't need his help, Mother.
 
 265
 00:24:35,307 --> 00:24:37,344
@@ -1225,8 +1225,8 @@ more than I trust yours.
 
 270
 00:25:04,294 --> 00:25:06,826
-- [Squealing]
-<i>- [Dogs Barking, Men Shouting]</i>
+[Squealing]
+<i>[Dogs Barking, Men Shouting]</i>
 
 271
 00:25:09,216 --> 00:25:11,754
@@ -1238,8 +1238,8 @@ Into the bush. Come on. Move!
 
 273
 00:25:18,100 --> 00:25:21,810
-- Come on!
-- [Dogs Snarling]
+Come on!
+[Dogs Snarling]
 
 274
 00:25:31,447 --> 00:25:34,360
@@ -1261,8 +1261,8 @@ Widen the search and report to Sorsha!
 
 278
 00:25:43,375 --> 00:25:47,244
-<i>- [Barking Fades]</i>
-- [Sputtering Sigh]
+<i>[Barking Fades]</i>
+[Sputtering Sigh]
 
 279
 00:25:49,131 --> 00:25:51,418
@@ -1287,8 +1287,8 @@ We don't know what's out there.
 
 284
 00:27:00,369 --> 00:27:02,702
-<i>- [Creature Screeching]</i>
-- What was that?
+<i>[Creature Screeching]</i>
+What was that?
 
 285
 00:27:04,123 --> 00:27:06,866
@@ -1304,8 +1304,8 @@ Get the spears!
 
 288
 00:27:23,392 --> 00:27:25,304
-- [Growling]
-- Uhh. Uhh.
+[Growling]
+Uhh. Uhh.
 
 289
 00:27:25,394 --> 00:27:29,229
@@ -1317,8 +1317,8 @@ Do you understand?
 
 291
 00:27:31,817 --> 00:27:33,683
-- Water.
-- Yeah.
+Water.
+Yeah.
 
 292
 00:27:33,777 --> 00:27:35,814
@@ -1343,13 +1343,13 @@ We can't give her to him!
 
 297
 00:27:50,919 --> 00:27:54,833
-- Somebody put him there for a reason.
-- We've got to get rid of her.
+Somebody put him there for a reason.
+We've got to get rid of her.
 
 298
 00:27:54,923 --> 00:27:57,506
-- Those soldiers are after us.
-- Shhh.
+Those soldiers are after us.
+Shhh.
 
 299
 00:27:57,593 --> 00:28:00,427
@@ -1370,18 +1370,18 @@ of the baby. [Smooching Sounds]
 
 303
 00:28:15,569 --> 00:28:20,155
-- I trust him completely.
-- But he tried to strangle me.
+I trust him completely.
+But he tried to strangle me.
 
 304
 00:28:20,240 --> 00:28:24,200
-- I want to go home!
-<i>- No, Burglekutt!</i>
+I want to go home!
+<i>No, Burglekutt!</i>
 
 305
 00:28:24,286 --> 00:28:27,575
-<i>- We should wait!</i>
-- Are you challenging my authority?
+<i>We should wait!</i>
+Are you challenging my authority?
 
 306
 00:28:27,664 --> 00:28:30,998
@@ -1402,13 +1402,13 @@ but we're going.
 
 310
 00:28:41,678 --> 00:28:45,046
-- Dangerous out there.
-<i>- [Vohnkar] Get the gear, men.</i>
+Dangerous out there.
+<i>[Vohnkar] Get the gear, men.</i>
 
 311
 00:28:45,182 --> 00:28:48,721
-- Vohnkar─
-- It's not his decision!
+Vohnkar─
+It's not his decision!
 
 312
 00:28:48,810 --> 00:28:52,724
@@ -1429,8 +1429,8 @@ your fields aren't getting planted.
 
 316
 00:29:00,822 --> 00:29:05,066
-- Think about it!
-- Burglekutt, I'm gonna─
+Think about it!
+Burglekutt, I'm gonna─
 
 317
 00:29:05,160 --> 00:29:08,528
@@ -1454,8 +1454,8 @@ Meegosh, are you coming?
 
 322
 00:29:25,764 --> 00:29:29,348
-- I'm staying.
-- [Laughs] Come on, men.
+I'm staying.
+[Laughs] Come on, men.
 
 323
 00:29:29,434 --> 00:29:33,599
@@ -1482,8 +1482,8 @@ with these two! [Frustrated Grunt]
 
 328
 00:29:47,369 --> 00:29:52,114
-- [Baby Crying]
-- What'll we do now, Willow?
+[Baby Crying]
+What'll we do now, Willow?
 
 329
 00:29:52,207 --> 00:29:54,824
@@ -1491,13 +1491,13 @@ Well, that was really stupid, peck.
 
 330
 00:29:54,918 --> 00:29:59,709
-- Don't call me a peck.
-- Oh, I'm sorry... peck.
+Don't call me a peck.
+Oh, I'm sorry... peck.
 
 331
 00:29:59,798 --> 00:30:03,542
-- Peck, peck, peck, peck.
-- You be careful!
+Peck, peck, peck, peck.
+You be careful!
 
 332
 00:30:03,635 --> 00:30:07,345
@@ -1505,8 +1505,8 @@ I'm a powerful sorcerer. See this acorn?
 
 333
 00:30:08,807 --> 00:30:13,302
-- I'll throw it and turn you to stone.
-- Whoo─
+I'll throw it and turn you to stone.
+Whoo─
 
 334
 00:30:13,395 --> 00:30:15,352
@@ -1543,8 +1543,8 @@ peck, peck, peck, peck, <i>peck!</i>
 
 342
 00:30:58,482 --> 00:31:01,316
-- [Both Gasping]
-<i>- [Meegosh] What was that?</i>
+[Both Gasping]
+<i>[Meegosh] What was that?</i>
 
 343
 00:31:04,780 --> 00:31:08,444
@@ -1570,13 +1570,13 @@ No, Meegosh. Don't go near him.
 
 348
 00:31:22,798 --> 00:31:26,132
-- He's dangerous.
-- I am not.
+He's dangerous.
+I am not.
 
 349
 00:31:26,259 --> 00:31:28,342
-<i>- [Horse Whinnies]</i>
-- Good.
+<i>[Horse Whinnies]</i>
+Good.
 
 350
 00:31:33,141 --> 00:31:35,428
@@ -1584,13 +1584,13 @@ Stop! Wait!
 
 351
 00:31:37,187 --> 00:31:39,975
-<i>- [Horse Whinnies]</i>
-- Whoa!
+<i>[Horse Whinnies]</i>
+Whoa!
 
 352
 00:31:45,404 --> 00:31:48,943
-- What's going on?
-- Smells like a battle.
+What's going on?
+Smells like a battle.
 
 353
 00:31:49,991 --> 00:31:52,529
@@ -1630,13 +1630,13 @@ Who cares?
 
 361
 00:32:24,443 --> 00:32:26,309
-- Here.
-- Thanks, friend. Oh!
+Here.
+Thanks, friend. Oh!
 
 362
 00:32:26,445 --> 00:32:28,812
-<i>- [Distant Rumbling]</i>
-- What's that?
+<i>[Distant Rumbling]</i>
+What's that?
 
 363
 00:32:28,905 --> 00:32:32,865
@@ -1654,8 +1654,8 @@ and about a thousand fools.
 
 366
 00:32:39,666 --> 00:32:43,410
-- Thank you. Ohh─
-- Come on, Meegosh.
+Thank you. Ohh─
+Come on, Meegosh.
 
 367
 00:32:43,503 --> 00:32:46,166
@@ -1672,8 +1672,8 @@ It's gonna be all right, little bobbin.
 
 370
 00:32:57,434 --> 00:33:01,348
-- [Fussing]
-- Everything's gonna be all right.
+[Fussing]
+Everything's gonna be all right.
 
 371
 00:33:01,438 --> 00:33:04,647
@@ -1681,8 +1681,8 @@ It's gonna be all right, little bobbin.
 
 372
 00:33:04,733 --> 00:33:07,726
-- Excuse me, sir.
-- Out of the way, peck!
+Excuse me, sir.
+Out of the way, peck!
 
 373
 00:33:09,779 --> 00:33:12,112
@@ -1799,8 +1799,8 @@ and stick it on a pig pole!
 
 399
 00:34:41,705 --> 00:34:46,450
-- [Fussing]
-- I miss Kiaya and the bobbins.
+[Fussing]
+I miss Kiaya and the bobbins.
 
 400
 00:34:50,839 --> 00:34:52,876
@@ -1871,28 +1871,28 @@ I feel better!
 
 416
 00:36:03,244 --> 00:36:06,908
-- You've done the right thing! Whoo!
-- Okay. All right. All right.
+You've done the right thing! Whoo!
+Okay. All right. All right.
 
 417
 00:36:06,998 --> 00:36:11,493
-- You gotta promise to feed her.
-- Come to Daddy, little darlin'.
+You gotta promise to feed her.
+Come to Daddy, little darlin'.
 
 418
 00:36:11,586 --> 00:36:14,750
-- And keep her clean.
-- Absolutely.
+And keep her clean.
+Absolutely.
 
 419
 00:36:16,633 --> 00:36:19,070
-- [Madmartigan] Hee, hee, hee!
-<i>- [Baby Giggling]</i>
+[Madmartigan] Hee, hee, hee!
+<i>[Baby Giggling]</i>
 
 420
 00:36:19,160 --> 00:36:23,630
-- Wheee!
-- [Baby Squeals]
+Wheee!
+[Baby Squeals]
 
 421
 00:36:24,808 --> 00:36:26,970
@@ -1908,13 +1908,13 @@ Here are her changing rags.
 
 424
 00:36:31,523 --> 00:36:33,731
-- And her milk bladder.
-- Any milk in there?
+And her milk bladder.
+Any milk in there?
 
 425
 00:36:33,817 --> 00:36:37,982
-- It's for her!
-- I wouldn't steal from a baby.
+It's for her!
+I wouldn't steal from a baby.
 
 426
 00:36:40,949 --> 00:36:43,362
@@ -1922,8 +1922,8 @@ You worry too much, peck.
 
 427
 00:36:43,451 --> 00:36:46,569
-- It's Willow.
-- I mean Willow.
+It's Willow.
+I mean Willow.
 
 428
 00:36:47,956 --> 00:36:53,202
@@ -1949,8 +1949,8 @@ I give you my word of honor!
 
 433
 00:37:30,248 --> 00:37:33,582
-- Meegosh, slow down!
-- Oh, come on!
+Meegosh, slow down!
+Oh, come on!
 
 434
 00:37:33,668 --> 00:37:37,878
@@ -1959,8 +1959,8 @@ tomorrow morning. We'll be heroes.
 
 435
 00:37:37,964 --> 00:37:41,457
-- Do you really think so?
-- Sure.
+Do you really think so?
+Sure.
 
 436
 00:37:41,551 --> 00:37:43,793
@@ -1977,8 +1977,8 @@ You deserve medals!"
 
 439
 00:37:49,350 --> 00:37:53,594
-- Yeah. Medals.
-- [Both Laughing]
+Yeah. Medals.
+[Both Laughing]
 
 440
 00:37:53,688 --> 00:37:56,931
@@ -1986,13 +1986,13 @@ Meegosh─
 
 441
 00:37:59,277 --> 00:38:03,442
-- Did we do the right thing?
-- Absolutely.
+Did we do the right thing?
+Absolutely.
 
 442
 00:38:03,531 --> 00:38:07,696
-- There's nothing to worry about.
-<i>- [Baby Crying]</i>
+There's nothing to worry about.
+<i>[Baby Crying]</i>
 
 443
 00:38:10,789 --> 00:38:13,076
@@ -2005,13 +2005,13 @@ Hyah! Ha ha!
 
 445
 00:38:18,463 --> 00:38:22,173
-- Hyah!
-- That's my baby!
+Hyah!
+That's my baby!
 
 446
 00:38:22,300 --> 00:38:24,257
-- Stop! Wait! Come back!
-<i>- [Baby Crying]</i>
+Stop! Wait! Come back!
+<i>[Baby Crying]</i>
 
 447
 00:38:24,344 --> 00:38:27,428
@@ -2027,8 +2027,8 @@ Brownies! Let's get out of here!
 
 450
 00:38:37,440 --> 00:38:40,683
-- Come on, Meegosh!
-- Ow!
+Come on, Meegosh!
+Ow!
 
 451
 00:38:46,783 --> 00:38:48,775
@@ -2036,8 +2036,8 @@ We'll outrun 'em!
 
 452
 00:38:48,910 --> 00:38:51,778
-- [Both Yelling]
-<i>- [Laughing]</i>
+[Both Yelling]
+<i>[Laughing]</i>
 
 453
 00:38:53,581 --> 00:38:56,915
@@ -2050,8 +2050,8 @@ We'll outrun 'em!
 
 455
 00:39:00,296 --> 00:39:05,337
-- [Grunts, Groans]
-- Stand your ground. He's our prisoner.
+[Grunts, Groans]
+Stand your ground. He's our prisoner.
 
 456
 00:39:05,426 --> 00:39:08,169
@@ -2068,8 +2068,8 @@ All right, you heard her!
 
 459
 00:39:11,766 --> 00:39:15,510
-- What's going on?
-- Shut up, or I'll break your nose.
+What's going on?
+Shut up, or I'll break your nose.
 
 460
 00:39:15,603 --> 00:39:18,016
@@ -2081,8 +2081,8 @@ Forward!
 
 462
 00:39:21,651 --> 00:39:25,440
-- Gimme the rope.
-- [All Grunting]
+Gimme the rope.
+[All Grunting]
 
 463
 00:39:25,530 --> 00:39:29,524
@@ -2104,8 +2104,8 @@ Franjean, release the Nelwyns.</i>
 
 467
 00:39:40,128 --> 00:39:44,372
-<i>- And stop pestering them.</i>
-- Uh-oh.
+<i>And stop pestering them.</i>
+Uh-oh.
 
 468
 00:39:46,634 --> 00:39:48,717
@@ -2113,8 +2113,8 @@ Franjean, release the Nelwyns.</i>
 
 469
 00:39:48,803 --> 00:39:50,795
-- [Rope Pops]
-- Yaah!
+[Rope Pops]
+Yaah!
 
 470
 00:39:55,310 --> 00:39:58,303
@@ -2126,8 +2126,8 @@ Franjean, release the Nelwyns.</i>
 
 472
 00:40:09,574 --> 00:40:14,069
-- I'm happy to meet you, Willow Ufgood.
-- How do you know my name?
+I'm happy to meet you, Willow Ufgood.
+How do you know my name?
 
 473
 00:40:14,162 --> 00:40:17,405
@@ -2139,8 +2139,8 @@ Elora? Elora, Willow is here.
 
 475
 00:40:23,588 --> 00:40:29,129
-- But she's just a baby.
-- She's very special.
+But she's just a baby.
+She's very special.
 
 476
 00:40:29,218 --> 00:40:34,555
@@ -2154,8 +2154,8 @@ to be her guardian.
 
 478
 00:40:39,646 --> 00:40:44,687
-- Me?
-- Yes. She likes you.
+Me?
+Yes. She likes you.
 
 479
 00:40:45,860 --> 00:40:50,776
@@ -2232,13 +2232,13 @@ The choice is yours.
 
 495
 00:42:22,874 --> 00:42:26,538
-- Hey, Meegosh. Wake up.
-- Huh?
+Hey, Meegosh. Wake up.
+Huh?
 
 496
 00:42:26,627 --> 00:42:30,837
-- It's time to go home.
-- Home?
+It's time to go home.
+Home?
 
 497
 00:42:33,426 --> 00:42:38,137
@@ -2246,8 +2246,8 @@ Listen, Meegosh. Tell Kiaya I love her.
 
 498
 00:42:38,222 --> 00:42:41,590
-- And I think of her every day.
-- Willow─
+And I think of her every day.
+Willow─
 
 499
 00:42:41,684 --> 00:42:45,143
@@ -2269,8 +2269,8 @@ Listen, be careful.
 
 503
 00:43:00,661 --> 00:43:04,896
-- I know the way, Franjean.
-- You always think you know the way.
+I know the way, Franjean.
+You always think you know the way.
 
 504
 00:43:04,983 --> 00:43:06,615
@@ -2292,8 +2292,8 @@ just over those hills.
 
 508
 00:43:13,341 --> 00:43:16,425
-- She's what?
-- Exiled...
+She's what?
+Exiled...
 
 509
 00:43:16,511 --> 00:43:20,346
@@ -2307,13 +2307,13 @@ to know everything.
 
 511
 00:43:23,184 --> 00:43:25,676
-- I didn't tell him everything.
-- You told him enough.
+I didn't tell him everything.
+You told him enough.
 
 512
 00:43:25,812 --> 00:43:28,099
-<i>- You mentioned the island, the queen.</i>
-- Wait a minute.
+<i>You mentioned the island, the queen.</i>
+Wait a minute.
 
 513
 00:43:28,189 --> 00:43:30,806
@@ -2339,33 +2339,33 @@ Cherlindrea told you it holds vast powers.
 
 518
 00:43:41,702 --> 00:43:44,410
-<i>- not a stupid peck like you.
-- [Laughing]</i>
+<i>not a stupid peck like you.
+[Laughing]</i>
 
 519
 00:43:44,497 --> 00:43:47,615
-- This way.
-- No. No. No. I don't think so.
+This way.
+No. No. No. I don't think so.
 
 520
 00:43:47,708 --> 00:43:49,995
-- All right, then this way.
-- Eh, nope.
+All right, then this way.
+Eh, nope.
 
 521
 00:43:50,086 --> 00:43:52,624
-- This way.
-- This way?
+This way.
+This way?
 
 522
 00:43:52,713 --> 00:43:56,423
-- That's what I said.
-- This way.
+That's what I said.
+This way.
 
 523
 00:43:56,509 --> 00:43:59,968
-- You sure you know where you're going?
-- Of course.
+You sure you know where you're going?
+Of course.
 
 524
 00:44:00,054 --> 00:44:02,717
@@ -2378,18 +2378,18 @@ no harm will befall you.
 
 526
 00:44:13,151 --> 00:44:17,270
-- [Baby Fussing]
-- Take it up!
+[Baby Fussing]
+Take it up!
 
 527
 00:44:18,823 --> 00:44:23,067
-- We are not going in there!
-- But Elora needs fresh milk.
+We are not going in there!
+But Elora needs fresh milk.
 
 528
 00:44:23,161 --> 00:44:27,997
-- And we are drenched.
-- You are not in command, shorty. I am!
+And we are drenched.
+You are not in command, shorty. I am!
 
 529
 00:44:28,082 --> 00:44:31,701
@@ -2401,8 +2401,8 @@ You hear me? Whoa!
 
 531
 00:45:09,457 --> 00:45:11,915
-- Excuse me? Excuse me.
-- [Laughing]
+Excuse me? Excuse me.
+[Laughing]
 
 532
 00:45:12,001 --> 00:45:14,960
@@ -2411,8 +2411,8 @@ for this poor hungry baby?
 
 533
 00:45:15,046 --> 00:45:19,336
-- Get out of here, peck!
-- Get outta here or we'll cook ya!
+Get out of here, peck!
+Get outta here or we'll cook ya!
 
 534
 00:45:34,190 --> 00:45:36,603
@@ -2443,8 +2443,8 @@ It belongs to the fairies!
 
 540
 00:45:50,289 --> 00:45:52,155
-- [Yells]
-- [Thumps]
+[Yells]
+[Thumps]
 
 541
 00:45:52,250 --> 00:45:54,333
@@ -2452,8 +2452,8 @@ Hey, quiet! You want to get us killed?
 
 542
 00:45:57,338 --> 00:46:01,173
-- [Sneezes]
-- [Grunts]
+[Sneezes]
+[Grunts]
 
 543
 00:46:01,259 --> 00:46:04,969
@@ -2471,13 +2471,13 @@ You are so beautiful!
 
 546
 00:46:12,520 --> 00:46:16,104
-<i>- [Meows]</i>
-- Your eyes! Your whiskers!
+<i>[Meows]</i>
+Your eyes! Your whiskers!
 
 547
 00:46:16,232 --> 00:46:18,849
-- I have to kiss you!
-<i>- Rool!</i>
+I have to kiss you!
+<i>Rool!</i>
 
 548
 00:46:18,943 --> 00:46:20,684
@@ -2485,8 +2485,8 @@ That dust of broken heart!
 
 549
 00:46:20,778 --> 00:46:22,690
-- [Meows]
-- [Rool Screams]
+[Meows]
+[Rool Screams]
 
 550
 00:46:25,491 --> 00:46:28,359
@@ -2518,8 +2518,8 @@ he'll kill us both!
 
 556
 00:46:53,728 --> 00:46:56,391
-- How do I look?
-- Not <i>you!</i>
+How do I look?
+Not <i>you!</i>
 
 557
 00:46:57,565 --> 00:46:59,477
@@ -2536,13 +2536,13 @@ I stole the baby from you, Daikini,
 
 560
 00:47:05,740 --> 00:47:07,948
-<i>- while you were taking a pee-pee!</i>
-- Cover your face!
+<i>while you were taking a pee-pee!</i>
+Cover your face!
 
 561
 00:47:08,075 --> 00:47:11,694
-- You are crawling with Brownies.
-- [Shrieks] I hate Brownies!
+You are crawling with Brownies.
+[Shrieks] I hate Brownies!
 
 562
 00:47:11,787 --> 00:47:14,530
@@ -2551,8 +2551,8 @@ Whoa!
 
 563
 00:47:14,623 --> 00:47:17,206
-- Where is he? Where?
-- [Woman] Hello, dear.
+Where is he? Where?
+[Woman] Hello, dear.
 
 564
 00:47:17,293 --> 00:47:19,660
@@ -2561,28 +2561,28 @@ but me and, uh, my, uh─
 
 565
 00:47:19,754 --> 00:47:22,167
-- I'll kill him!
-- ...my cousin, Hilda.
+I'll kill him!
+...my cousin, Hilda.
 
 566
 00:47:22,256 --> 00:47:24,464
-- Hilda?
-<i>- [Woman] Hilda.</i>
+Hilda?
+<i>[Woman] Hilda.</i>
 
 567
 00:47:24,592 --> 00:47:26,675
-- Oh, Hilda!
-- This is my husband, Llug.
+Oh, Hilda!
+This is my husband, Llug.
 
 568
 00:47:26,761 --> 00:47:29,504
-- Mm<i>. Big</i> husband.
-<i>- [Woman] Yes.</i>
+Mm<i>. Big</i> husband.
+<i>[Woman] Yes.</i>
 
 569
 00:47:29,638 --> 00:47:31,470
-- How do you do?
-- [Laughing]
+How do you do?
+[Laughing]
 
 570
 00:47:31,557 --> 00:47:33,844
@@ -2599,13 +2599,13 @@ Hey! Give her back!
 
 573
 00:47:38,898 --> 00:47:41,265
-- Pecks make terrible nursemaids.
-- Nursemaid?
+Pecks make terrible nursemaids.
+Nursemaid?
 
 574
 00:47:41,359 --> 00:47:44,227
-- They get too excited.
-- [Grunts]
+They get too excited.
+[Grunts]
 
 575
 00:47:44,320 --> 00:47:46,937
@@ -2613,13 +2613,13 @@ Excuse me! Are we having a party?
 
 576
 00:47:47,031 --> 00:47:49,068
-- Huh?
-- Hey, hey, hey, hey!
+Huh?
+Hey, hey, hey, hey!
 
 577
 00:47:49,158 --> 00:47:53,778
-- [Laughing Lewdly]
-- Stop, please. Ooh.
+[Laughing Lewdly]
+Stop, please. Ooh.
 
 578
 00:47:53,871 --> 00:47:55,703
@@ -2627,8 +2627,8 @@ Come on. Fight like a man!
 
 579
 00:47:55,790 --> 00:47:58,828
-- [Grunts]
-- Want to breed?
+[Grunts]
+Want to breed?
 
 580
 00:47:58,918 --> 00:48:01,911
@@ -2644,18 +2644,18 @@ Thank you. Time to leave.
 
 583
 00:48:06,842 --> 00:48:08,754
-- Bye, Hilda!
-- [Soldier] Take them out.
+Bye, Hilda!
+[Soldier] Take them out.
 
 584
 00:48:08,844 --> 00:48:11,928
-<i>- [All, Gasping]</i>
-- Hey! Come along!
+<i>[All, Gasping]</i>
+Hey! Come along!
 
 585
 00:48:12,056 --> 00:48:14,673
-- [Madmartigan] Careful, you lout!
-- Move along!
+[Madmartigan] Careful, you lout!
+Move along!
 
 586
 00:48:14,767 --> 00:48:17,475
@@ -2677,8 +2677,8 @@ You! Are you the mother of that child?
 
 590
 00:48:32,243 --> 00:48:34,826
-- [In Woman's Voice] Yes. Yes, I am.
-- Let me see it.
+[In Woman's Voice] Yes. Yes, I am.
+Let me see it.
 
 591
 00:48:34,912 --> 00:48:36,494
@@ -2702,8 +2702,8 @@ You─ You're... beautiful.
 
 596
 00:48:53,889 --> 00:48:57,223
-- And you're very strong.
-- Thank you.
+And you're very strong.
+Thank you.
 
 597
 00:48:59,770 --> 00:49:02,262
@@ -2715,8 +2715,8 @@ You're no woman!
 
 599
 00:49:04,233 --> 00:49:07,146
-- Gentlemen.
-- Not a woman?
+Gentlemen.
+Not a woman?
 
 600
 00:49:07,236 --> 00:49:10,024
@@ -2724,8 +2724,8 @@ Meet Llug.
 
 601
 00:49:11,323 --> 00:49:13,360
-- After them!
-- Out of the way!
+After them!
+Out of the way!
 
 602
 00:49:19,665 --> 00:49:20,872
@@ -2733,8 +2733,8 @@ To the horses!
 
 603
 00:49:31,427 --> 00:49:33,339
-- Hyah!
-- [Whinnies]
+Hyah!
+[Whinnies]
 
 604
 00:49:33,429 --> 00:49:37,343
@@ -2758,8 +2758,8 @@ Madmartigan, stop!
 
 609
 00:49:56,452 --> 00:50:01,823
-- [Whimpering]
-- [Grunting, Groaning]
+[Whimpering]
+[Grunting, Groaning]
 
 610
 00:50:12,218 --> 00:50:14,756
@@ -2767,8 +2767,8 @@ Madmartigan, I'm warning you─
 
 611
 00:50:16,764 --> 00:50:20,428
-- Ow!
-- Prepare to die!
+Ow!
+Prepare to die!
 
 612
 00:50:43,832 --> 00:50:46,165
@@ -2784,8 +2784,8 @@ Franjean, help me!
 
 615
 00:51:22,913 --> 00:51:24,779
-- Rool!
-- <i>Help!</i>
+Rool!
+<i>Help!</i>
 
 616
 00:51:24,873 --> 00:51:27,991
@@ -2793,13 +2793,13 @@ Rool! Rool.
 
 617
 00:51:29,169 --> 00:51:32,958
-- Rool! What are you doing?
-- Help me!
+Rool! What are you doing?
+Help me!
 
 618
 00:51:38,304 --> 00:51:40,546
-- Come on. I am.
-- Pull me in.
+Come on. I am.
+Pull me in.
 
 619
 00:51:40,639 --> 00:51:43,131
@@ -2852,13 +2852,13 @@ with Elora like this.</i>
 
 630
 00:53:13,707 --> 00:53:16,020
-- We're getting off!
-- Hyah!
+We're getting off!
+Hyah!
 
 631
 00:53:16,110 --> 00:53:18,727
-- [Yelling]
-- Hyah!
+[Yelling]
+Hyah!
 
 632
 00:53:41,510 --> 00:53:43,968
@@ -2870,8 +2870,8 @@ Whoa! Whoa!
 
 634
 00:53:47,224 --> 00:53:49,557
-- Oh, Rool.
-- [Grunts]
+Oh, Rool.
+[Grunts]
 
 635
 00:53:49,643 --> 00:53:52,306
@@ -2902,13 +2902,13 @@ Gather your wits. Come on.
 
 641
 00:54:12,833 --> 00:54:15,871
-- [Rool] Don't worry about me.
-<i>- Come on!</i>
+[Rool] Don't worry about me.
+<i>Come on!</i>
 
 642
 00:54:16,920 --> 00:54:19,128
-<i>- [Hoofbeats]</i>
-- Get down!
+<i>[Hoofbeats]</i>
+Get down!
 
 643
 00:54:19,214 --> 00:54:21,627
@@ -2924,8 +2924,8 @@ Rool, you fool, get out of the road!
 
 646
 00:54:42,070 --> 00:54:44,653
-<i>- [Rool] Ah, Franjean!</i>
-- You better clear out, Willow.
+<i>[Rool] Ah, Franjean!</i>
+You better clear out, Willow.
 
 647
 00:54:44,740 --> 00:54:46,197
@@ -2933,8 +2933,8 @@ Before those troops come back.
 
 648
 00:54:46,283 --> 00:54:49,742
-- [Rool] Ah, my head!
-- We don't need him, Elora.
+[Rool] Ah, my head!
+We don't need him, Elora.
 
 649
 00:54:58,128 --> 00:55:00,211
@@ -2976,13 +2976,13 @@ more difficult than it already is?
 
 657
 00:55:20,901 --> 00:55:24,019
-<i>- [Dogs Barking]</i>
-- [Gasps]
+<i>[Dogs Barking]</i>
+[Gasps]
 
 658
 00:55:24,112 --> 00:55:28,982
-<i>- [Barking Continues]</i>
-- Hurry! Big dogs!
+<i>[Barking Continues]</i>
+Hurry! Big dogs!
 
 659
 00:55:29,076 --> 00:55:33,320
@@ -3016,8 +3016,8 @@ you are drunk, you forget that...
 
 666
 00:56:05,445 --> 00:56:07,357
-- I am in charge!
-- You are in charge.
+I am in charge!
+You are in charge.
 
 667
 00:56:07,447 --> 00:56:09,655
@@ -3047,8 +3047,8 @@ But that's it!
 
 673
 00:56:24,715 --> 00:56:28,504
-- You're not going south, are you?
-- No, just as far as the lake.
+You're not going south, are you?
+No, just as far as the lake.
 
 674
 00:56:28,594 --> 00:56:33,714
@@ -3057,8 +3057,8 @@ Go get me some eggs or something.
 
 675
 00:56:33,807 --> 00:56:36,424
-- We are not afraid of you!
-- Now!
+We are not afraid of you!
+Now!
 
 676
 00:56:36,518 --> 00:56:38,430
@@ -3098,8 +3098,8 @@ Time is running out.
 
 685
 00:57:15,557 --> 00:57:18,391
-- Good night.
-- She is kinda cute.
+Good night.
+She is kinda cute.
 
 686
 00:57:20,103 --> 00:57:21,844
@@ -3213,8 +3213,8 @@ It puts hair on your chest.
 
 711
 00:59:01,955 --> 00:59:04,618
-- Doesn't it, Sticks?
-- Her name is not Sticks.
+Doesn't it, Sticks?
+Her name is not Sticks.
 
 712
 00:59:04,708 --> 00:59:07,621
@@ -3241,8 +3241,8 @@ I'll get some more. Don't worry about it.
 
 717
 00:59:24,478 --> 00:59:27,812
-- There it is! The island!
-- [Laughing]
+There it is! The island!
+[Laughing]
 
 718
 00:59:29,983 --> 00:59:31,940
@@ -3255,8 +3255,8 @@ island of the sorceress Fin Raziel.</i>
 
 720
 00:59:36,656 --> 00:59:40,946
-- We'll get a boat in that village.
-- A big boat. [Chuckles]
+We'll get a boat in that village.
+A big boat. [Chuckles]
 
 721
 00:59:58,929 --> 01:00:00,966
@@ -3282,8 +3282,8 @@ out and drown them.
 
 726
 01:00:12,734 --> 01:00:15,977
-- <i>Lizards! Who are you calling lizards?</i>
-- Heh? Heh?
+<i>Lizards! Who are you calling lizards?</i>
+Heh? Heh?
 
 727
 01:00:16,071 --> 01:00:18,063
@@ -3296,8 +3296,8 @@ Your mother was a lizard!</i>
 
 729
 01:00:23,829 --> 01:00:26,367
-- Good-bye, Sticks.
-- [Fussing]
+Good-bye, Sticks.
+[Fussing]
 
 730
 01:00:28,959 --> 01:00:33,294
@@ -3306,8 +3306,8 @@ take care of him.
 
 731
 01:00:41,304 --> 01:00:44,593
-- Madmartigan!
-- What?
+Madmartigan!
+What?
 
 732
 01:00:44,683 --> 01:00:46,549
@@ -3320,18 +3320,18 @@ Hey! Aah!
 
 734
 01:00:58,697 --> 01:01:01,986
-<i>- [Rool] Keep walkin', hero!
-- Don't even turn around!</i>
+<i>[Rool] Keep walkin', hero!
+Don't even turn around!</i>
 
 735
 01:01:03,243 --> 01:01:06,202
-- [Cries]
-- It's all right, Elora.
+[Cries]
+It's all right, Elora.
 
 736
 01:01:06,288 --> 01:01:08,701
-- Go to sleep.
-<i>- [Thunder Rumbling]</i>
+Go to sleep.
+<i>[Thunder Rumbling]</i>
 
 737
 01:01:08,790 --> 01:01:12,784
@@ -3364,8 +3364,8 @@ She's not here.
 
 744
 01:02:09,184 --> 01:02:11,141
-<i>- [Screeching]</i>
-- Aah!
+<i>[Screeching]</i>
+Aah!
 
 745
 01:02:11,228 --> 01:02:14,767
@@ -3378,8 +3378,8 @@ Who are you?
 
 747
 01:02:21,196 --> 01:02:24,280
-- I'm Willow Ufgood.
-- What are you doing here?
+I'm Willow Ufgood.
+What are you doing here?
 
 748
 01:02:24,366 --> 01:02:28,030
@@ -3432,8 +3432,8 @@ Isn't she <i>beautiful</i>?
 
 759
 01:03:07,075 --> 01:03:10,534
-- That's Raziel?
-- I don't know. I─
+That's Raziel?
+I don't know. I─
 
 760
 01:03:10,620 --> 01:03:12,862
@@ -3442,8 +3442,8 @@ Less, uh─
 
 761
 01:03:12,956 --> 01:03:14,913
-- Fuzzy.
-- Fuzzy!
+Fuzzy.
+Fuzzy!
 
 762
 01:03:15,000 --> 01:03:18,789
@@ -3452,8 +3452,8 @@ Turn me back into my human form.
 
 763
 01:03:18,878 --> 01:03:22,212
-- What do I do?
-- You mean you're not a sorcerer?
+What do I do?
+You mean you're not a sorcerer?
 
 764
 01:03:23,466 --> 01:03:25,924
@@ -3461,8 +3461,8 @@ Yes. Sorta.
 
 765
 01:03:26,052 --> 01:03:28,590
-<i>- I'm a farmer.</i>
-- [Sighing In Disgust]
+<i>I'm a farmer.</i>
+[Sighing In Disgust]
 
 766
 01:03:28,680 --> 01:03:30,546
@@ -3479,8 +3479,8 @@ You must learn real magic.
 
 769
 01:03:37,911 --> 01:03:40,168
-- Horses!
-- Horses!
+Horses!
+Horses!
 
 770
 01:03:40,233 --> 01:03:42,725
@@ -3498,8 +3498,8 @@ I knew he was a traitor!
 
 773
 01:03:57,125 --> 01:03:59,742
-- Sorry about this, peck.
-- Keep your mouth shut!
+Sorry about this, peck.
+Keep your mouth shut!
 
 774
 01:04:00,920 --> 01:04:03,663
@@ -3507,8 +3507,8 @@ Told you we'd find him without your help.
 
 775
 01:04:03,757 --> 01:04:05,714
-- Give me that baby.
-- No!
+Give me that baby.
+No!
 
 776
 01:04:05,800 --> 01:04:09,089
@@ -3516,8 +3516,8 @@ Told you we'd find him without your help.
 
 777
 01:04:09,179 --> 01:04:13,139
-- Give her back!
-- Leave me alone! Don't touch me!
+Give her back!
+Leave me alone! Don't touch me!
 
 778
 01:04:19,064 --> 01:04:20,930
@@ -3525,8 +3525,8 @@ This is the one we're looking for.
 
 779
 01:04:21,024 --> 01:04:24,438
-<i>- We must take it back to Nockmaar.</i>
-- [Chittering]
+<i>We must take it back to Nockmaar.</i>
+[Chittering]
 
 780
 01:04:27,197 --> 01:04:29,109
@@ -3542,8 +3542,8 @@ Not for long.
 
 783
 01:04:46,966 --> 01:04:50,505
-- Bring him.
-- Over here!
+Bring him.
+Over here!
 
 784
 01:04:50,595 --> 01:04:52,507
@@ -3559,8 +3559,8 @@ We'll never keep up with those horses.
 
 787
 01:05:10,990 --> 01:05:14,404
-- Then we will have to track them.
-- That would take forever.
+Then we will have to track them.
+That would take forever.
 
 788
 01:05:14,494 --> 01:05:17,237
@@ -3578,8 +3578,8 @@ Are you suggesting we go home?
 
 791
 01:05:22,627 --> 01:05:25,495
-- Nah. This is more fun!
-- All right.
+Nah. This is more fun!
+All right.
 
 792
 01:05:25,588 --> 01:05:27,545
@@ -3633,13 +3633,13 @@ I don't need help from a peck.
 
 804
 01:06:11,843 --> 01:06:15,427
-<i>- [Crying Continues]
-- [Thunder Rumbling]</i>
+<i>[Crying Continues]
+[Thunder Rumbling]</i>
 
 805
 01:06:15,513 --> 01:06:19,507
-- What are you staring at?
-- Your leg.
+What are you staring at?
+Your leg.
 
 806
 01:06:19,601 --> 01:06:21,968
@@ -3663,8 +3663,8 @@ Hyah!
 
 811
 01:07:10,818 --> 01:07:13,606
-- I found it, Kael.
-- [Elora Crying]
+I found it, Kael.
+[Elora Crying]
 
 812
 01:07:14,739 --> 01:07:17,777
@@ -3692,8 +3692,8 @@ What are they gonna do to her?
 
 818
 01:07:39,806 --> 01:07:41,718
-<i>- bellanockt.</i>
-- [Sniffing]
+<i>bellanockt.</i>
+[Sniffing]
 
 819
 01:07:41,808 --> 01:07:44,596
@@ -3702,23 +3702,23 @@ Smells terrible.
 
 820
 01:07:44,727 --> 01:07:47,936
-- It's the life spark. It forms after─
-- Well, it stinks!
+It's the life spark. It forms after─
+Well, it stinks!
 
 821
 01:07:48,022 --> 01:07:51,231
-- This whole thing stinks!
-- Ignore him, Willow.
+This whole thing stinks!
+Ignore him, Willow.
 
 822
 01:07:51,317 --> 01:07:54,230
-- He's a fool!
-- If only I had a sword!
+He's a fool!
+If only I had a sword!
 
 823
 01:07:54,362 --> 01:07:57,480
-- [Grunting]
-- If only you'd quit talking about it.
+[Grunting]
+If only you'd quit talking about it.
 
 824
 01:07:57,574 --> 01:08:00,908
@@ -3735,8 +3735,8 @@ You'd better be. Get me down.
 
 827
 01:08:07,208 --> 01:08:10,667
-- [Grunts]
-- [Squeals]
+[Grunts]
+[Squeals]
 
 828
 01:08:10,753 --> 01:08:13,166
@@ -3767,8 +3767,8 @@ and take Elora Danan to Tir Asleen...
 
 834
 01:08:31,149 --> 01:08:33,436
-- [Chomping]
-- Ow!
+[Chomping]
+Ow!
 
 835
 01:08:33,526 --> 01:08:35,483
@@ -3781,8 +3781,8 @@ of your blood to put in the potion.
 
 837
 01:08:38,948 --> 01:08:42,237
-- Well, you could've warned me.
-- [Scoffs]
+Well, you could've warned me.
+[Scoffs]
 
 838
 01:08:42,327 --> 01:08:44,740
@@ -3799,13 +3799,13 @@ break your concentration.</i>
 
 841
 01:08:58,009 --> 01:09:01,753
-- Hello, everybody! We have arrived!
-- You are saved.
+Hello, everybody! We have arrived!
+You are saved.
 
 842
 01:09:01,846 --> 01:09:04,680
-- Shh!
-<i>- [Raziel] Don't interrupt.</i>
+Shh!
+<i>[Raziel] Don't interrupt.</i>
 
 843
 01:09:06,100 --> 01:09:09,264
@@ -3818,8 +3818,8 @@ if this works?
 
 845
 01:09:12,273 --> 01:09:14,731
-- Don't interrupt.
-- Sorry.
+Don't interrupt.
+Sorry.
 
 846
 01:09:14,817 --> 01:09:16,774
@@ -3847,8 +3847,8 @@ No! You're losing me!
 
 852
 01:09:29,040 --> 01:09:32,454
-<i>- [Stretching Sound]
-- Hither greenan bairn claideb lunanockt.</i>
+<i>[Stretching Sound]
+Hither greenan bairn claideb lunanockt.</i>
 
 853
 01:09:32,543 --> 01:09:34,034
@@ -3860,8 +3860,8 @@ No! You're losing me!
 
 855
 01:09:37,423 --> 01:09:40,416
-- Aah! Aah!
-- You all right? Nice try, Willow.
+Aah! Aah!
+You all right? Nice try, Willow.
 
 856
 01:09:40,510 --> 01:09:43,969
@@ -3882,8 +3882,8 @@ I'm sorry, Raziel.
 
 860
 01:09:58,152 --> 01:10:02,362
-- You want out?
-- Easy. We can pick a lock. Come on.
+You want out?
+Easy. We can pick a lock. Come on.
 
 861
 01:10:02,448 --> 01:10:04,360
@@ -3939,13 +3939,13 @@ Let's get Elora Danan out of here.
 
 873
 01:10:39,652 --> 01:10:43,817
-- Yeah. It'll be fun.
-- Come on!
+Yeah. It'll be fun.
+Come on!
 
 874
 01:10:55,501 --> 01:10:59,495
-- Are you all right?
-- Yeah.
+Are you all right?
+Yeah.
 
 875
 01:10:59,589 --> 01:11:01,672
@@ -3953,8 +3953,8 @@ I feel... good.
 
 876
 01:11:01,799 --> 01:11:05,338
-- The dust of broken hearts.
-- Ah─
+The dust of broken hearts.
+Ah─
 
 877
 01:11:05,428 --> 01:11:07,966
@@ -3962,8 +3962,8 @@ Hey, come on!
 
 878
 01:11:13,436 --> 01:11:16,520
-- [Franjean] Let me see!
-- Let <i>me</i> see. You always see.
+[Franjean] Let me see!
+Let <i>me</i> see. You always see.
 
 879
 01:11:16,606 --> 01:11:19,064
@@ -3980,8 +3980,8 @@ Hey, wait! Leave this to us.
 
 882
 01:11:23,696 --> 01:11:26,439
-- It's too dangerous for you.
-- Only one of us should go in there.
+It's too dangerous for you.
+Only one of us should go in there.
 
 883
 01:11:26,532 --> 01:11:29,366
@@ -4000,13 +4000,13 @@ Wait. Shh. No! No!
 
 886
 01:12:14,080 --> 01:12:16,868
-- I love you.
-<i>- [Willow] Madmartigan!</i>
+I love you.
+<i>[Willow] Madmartigan!</i>
 
 887
 01:12:16,999 --> 01:12:19,958
-- What are you doing?
-- Take the baby and go! Come on!
+What are you doing?
+Take the baby and go! Come on!
 
 888
 01:12:20,044 --> 01:12:21,956
@@ -4014,8 +4014,8 @@ Wait. Shh. No! No!
 
 889
 01:12:32,014 --> 01:12:34,222
-- Oh, Sorsha.
-- Oh!
+Oh, Sorsha.
+Oh!
 
 890
 01:12:34,308 --> 01:12:35,890
@@ -4031,8 +4031,8 @@ Wake from this hateful sleep.
 
 893
 01:12:41,524 --> 01:12:45,484
-- The beauty of your eyes─
-- One move, jackass,
+The beauty of your eyes─
+One move, jackass,
 
 894
 01:12:45,570 --> 01:12:47,937
@@ -4049,8 +4049,8 @@ Without you, I dwell in darkness.
 
 897
 01:12:57,874 --> 01:13:01,959
-- I love you.
-- What are you doing here?
+I love you.
+What are you doing here?
 
 898
 01:13:02,044 --> 01:13:05,378
@@ -4068,8 +4068,8 @@ in my arms.
 
 901
 01:13:10,011 --> 01:13:12,719
-- Get away from me!
-- I love you!
+Get away from me!
+I love you!
 
 902
 01:13:12,805 --> 01:13:15,263
@@ -4082,8 +4082,8 @@ It pounds like never before.
 
 904
 01:13:19,687 --> 01:13:22,270
-- Out of fear.
-- Out of love!
+Out of fear.
+Out of love!
 
 905
 01:13:22,356 --> 01:13:24,848
@@ -4121,8 +4121,8 @@ Captain, get up!</i>
 
 913
 01:14:12,156 --> 01:14:16,776
-- You <i>are</i> great.
-- [Chuckles, Grunts]
+You <i>are</i> great.
+[Chuckles, Grunts]
 
 914
 01:14:16,869 --> 01:14:19,737
@@ -4146,8 +4146,8 @@ After them!
 
 919
 01:14:45,106 --> 01:14:47,473
-- [Barking, Growling]
-- Whoa! Hey!
+[Barking, Growling]
+Whoa! Hey!
 
 920
 01:14:47,566 --> 01:14:49,774
@@ -4160,13 +4160,13 @@ They're getting away!</i>
 
 922
 01:15:03,082 --> 01:15:05,290
-<i>- Follow me, Rool. I don't know.
-- Where are you?</i>
+<i>Follow me, Rool. I don't know.
+Where are you?</i>
 
 923
 01:15:05,418 --> 01:15:09,583
-- Aah! Ooh.
-- Oh, no, where did everybody go?
+Aah! Ooh.
+Oh, no, where did everybody go?
 
 924
 01:15:09,672 --> 01:15:11,629
@@ -4210,8 +4210,8 @@ Ohh-h-h-h!
 
 934
 01:16:20,242 --> 01:16:23,485
-<i>- [Chickens Clucking]</i>
-- [Elora Giggling]
+<i>[Chickens Clucking]</i>
+[Elora Giggling]
 
 935
 01:16:30,002 --> 01:16:31,994
@@ -4219,8 +4219,8 @@ Madmartigan!
 
 936
 01:16:48,813 --> 01:16:53,023
-- Madmartigan!
-- What the hell happened up there?
+Madmartigan!
+What the hell happened up there?
 
 937
 01:16:53,109 --> 01:16:55,522
@@ -4228,8 +4228,8 @@ You started spouting poetry.
 
 938
 01:16:55,611 --> 01:16:58,194
-- Poetry?
-- Yeah.
+Poetry?
+Yeah.
 
 939
 01:16:58,280 --> 01:17:01,489
@@ -4272,8 +4272,8 @@ Hide! Get the children! Come on!</i>
 
 948
 01:17:27,101 --> 01:17:29,013
-- Get the children!
-- They're after us!
+Get the children!
+They're after us!
 
 949
 01:17:29,103 --> 01:17:32,221
@@ -4295,8 +4295,8 @@ We were slaughtered, and I lost a lot─
 
 953
 01:17:59,425 --> 01:18:01,758
-<i>- Shh! Quiet!
-- [Horse Whinnying]</i>
+<i>Shh! Quiet!
+[Horse Whinnying]</i>
 
 954
 01:18:02,845 --> 01:18:04,802
@@ -4309,8 +4309,8 @@ Tear this village apart!</i>
 
 956
 01:18:18,152 --> 01:18:21,611
-- [Cawing, Imitating Baby]
-- Shh!
+[Cawing, Imitating Baby]
+Shh!
 
 957
 01:18:27,453 --> 01:18:29,365
@@ -4326,13 +4326,13 @@ Tell Sorsha I search the north bank!
 
 960
 01:18:48,182 --> 01:18:50,094
-- Hah! Hah!
-- Yes, General.
+Hah! Hah!
+Yes, General.
 
 961
 01:19:03,239 --> 01:19:05,322
-- Quiet. Shh!
-- [Fretting]
+Quiet. Shh!
+[Fretting]
 
 962
 01:19:21,966 --> 01:19:24,583
@@ -4340,8 +4340,8 @@ Tell Sorsha I search the north bank!
 
 963
 01:19:24,677 --> 01:19:27,670
-- Sorsha!
-- Back.
+Sorsha!
+Back.
 
 964
 01:19:27,763 --> 01:19:29,470
@@ -4353,18 +4353,18 @@ Back!
 
 966
 01:19:38,774 --> 01:19:43,018
-- Keep the baby quiet.
-- She needs to be changed.
+Keep the baby quiet.
+She needs to be changed.
 
 967
 01:19:43,112 --> 01:19:44,853
-- Nockmaar scum!
-- You'll never defeat us.
+Nockmaar scum!
+You'll never defeat us.
 
 968
 01:19:44,947 --> 01:19:46,734
-- Give up the baby!
-- Shut up!
+Give up the baby!
+Shut up!
 
 969
 01:19:48,784 --> 01:19:50,646
@@ -4377,8 +4377,8 @@ She's a princess.
 
 971
 01:19:52,371 --> 01:19:54,903
-- We're taking her to Tir Asleen.
-<i>- Tir Asleen?</i>
+We're taking her to Tir Asleen.
+<i>Tir Asleen?</i>
 
 972
 01:19:54,990 --> 01:19:57,158
@@ -4396,8 +4396,8 @@ at Tir Asleen.
 
 975
 01:20:02,256 --> 01:20:04,748
-- If we can just get there─
-<i>- [Woman Screaming]</i>
+If we can just get there─
+<i>[Woman Screaming]</i>
 
 976
 01:20:08,178 --> 01:20:10,921
@@ -4444,8 +4444,8 @@ I serve the Nelwyn, Airk.
 
 986
 01:20:58,812 --> 01:21:01,429
-- Want to come with us?
-- You'll never make it, Madmartigan.
+Want to come with us?
+You'll never make it, Madmartigan.
 
 987
 01:21:03,400 --> 01:21:05,312
@@ -4453,8 +4453,8 @@ Then once again we say good-bye.
 
 988
 01:21:19,124 --> 01:21:22,538
-- Over here!
-- Sorsha!
+Over here!
+Sorsha!
 
 989
 01:21:22,628 --> 01:21:25,996
@@ -4466,8 +4466,8 @@ Hyah! Hyah!
 
 991
 01:21:38,560 --> 01:21:41,473
-- Hyah!
-- Get to your horses! After 'em!
+Hyah!
+Get to your horses! After 'em!
 
 992
 01:21:43,690 --> 01:21:45,647
@@ -4483,8 +4483,8 @@ As the crow flies, you fools!
 
 995
 01:22:39,872 --> 01:22:42,660
-- You're holding me too tight!
-- I don't want you to get away.
+You're holding me too tight!
+I don't want you to get away.
 
 996
 01:22:42,749 --> 01:22:47,585
@@ -4503,13 +4503,13 @@ say those things last night?
 
 999
 01:22:59,266 --> 01:23:02,384
-- In your tent?
-- You said you loved me.
+In your tent?
+You said you loved me.
 
 1000
 01:23:02,478 --> 01:23:04,970
-- I don't remember that.
-- You lied to me!
+I don't remember that.
+You lied to me!
 
 1001
 01:23:05,063 --> 01:23:07,476
@@ -4526,8 +4526,8 @@ and you were helpless against it.
 
 1004
 01:23:14,448 --> 01:23:17,407
-- Um, sort of.
-- Then what?
+Um, sort of.
+Then what?
 
 1005
 01:23:17,493 --> 01:23:19,610
@@ -4540,8 +4540,8 @@ It went away?
 
 1007
 01:23:23,415 --> 01:23:25,498
-- and it went away?
-- Yeah.
+and it went away?
+Yeah.
 
 1008
 01:23:25,584 --> 01:23:27,541
@@ -4553,13 +4553,13 @@ It went away?
 
 1010
 01:23:31,673 --> 01:23:33,835
-- [Shouts]
-- [Grunts]
+[Shouts]
+[Grunts]
 
 1011
 01:23:36,637 --> 01:23:40,756
-- Whoa.
-- [Sorsha Panting]
+Whoa.
+[Sorsha Panting]
 
 1012
 01:23:47,564 --> 01:23:49,977
@@ -4616,8 +4616,8 @@ Hello?
 
 1025
 01:24:58,260 --> 01:25:00,798
-<i>- [Wind Whistling]</i>
-- Hello?
+<i>[Wind Whistling]</i>
+Hello?
 
 1026
 01:25:04,933 --> 01:25:08,472
@@ -4657,8 +4657,8 @@ It's falling apart. Open your eyes!
 
 1034
 01:25:31,585 --> 01:25:35,204
-- And it─
-<i>- [Elora Coos]</i>
+And it─
+<i>[Elora Coos]</i>
 
 1035
 01:25:35,297 --> 01:25:37,380
@@ -4682,8 +4682,8 @@ This is the work of Bavmorda.
 
 1040
 01:25:57,444 --> 01:26:00,858
-<i>- Turn me back into my human form.</i>
-- Are you sure?
+<i>Turn me back into my human form.</i>
+Are you sure?
 
 1041
 01:26:13,251 --> 01:26:15,288
@@ -4723,8 +4723,8 @@ luatha, tye─
 
 1050
 01:26:45,617 --> 01:26:49,577
-- Oh, Willow, you're losing me.
-<i>- [Horses Whinny]</i>
+Oh, Willow, you're losing me.
+<i>[Horses Whinny]</i>
 
 1051
 01:26:49,788 --> 01:26:51,700
@@ -4740,8 +4740,8 @@ Madmartigan, Kael's coming!
 
 1054
 01:26:58,130 --> 01:27:00,167
-- Raziel?
-<i>- [Madmartigan] Willow,</i>
+Raziel?
+<i>[Madmartigan] Willow,</i>
 
 1055
 01:27:00,257 --> 01:27:02,795
@@ -4757,13 +4757,13 @@ arm that catapult up there.
 
 1058
 01:27:21,987 --> 01:27:24,320
-- [Laughing]
-- [All] Whoa! Whoa!
+[Laughing]
+[All] Whoa! Whoa!
 
 1059
 01:27:24,406 --> 01:27:29,947
-<i>- Good work, Madmartigan.</i>
-- What the hell happened to you?
+<i>Good work, Madmartigan.</i>
+What the hell happened to you?
 
 1060
 01:27:30,036 --> 01:27:32,653
@@ -4805,13 +4805,13 @@ Willow, use the wand on that troll.
 
 1069
 01:28:42,692 --> 01:28:46,060
-<i>- Bellalockt!</i>
-- [Screaming]
+<i>Bellalockt!</i>
+[Screaming]
 
 1070
 01:28:55,789 --> 01:28:59,703
-- [Growling]
-- Ewww!
+[Growling]
+Ewww!
 
 1071
 01:29:07,259 --> 01:29:10,752
@@ -4820,8 +4820,8 @@ Break it down! Forward!</i>
 
 1072
 01:29:12,013 --> 01:29:14,756
-- [Shouting]
-- [Yells]
+[Shouting]
+[Yells]
 
 1073
 01:29:22,274 --> 01:29:26,518
@@ -4829,8 +4829,8 @@ Break it down! Forward!</i>
 
 1074
 01:29:26,611 --> 01:29:30,150
-- [All] Whoa! Whoa!
-<i>- [Horse Whinnies]</i>
+[All] Whoa! Whoa!
+<i>[Horse Whinnies]</i>
 
 1075
 01:29:38,123 --> 01:29:40,740
@@ -4870,13 +4870,13 @@ Baaa! Take tha-a-a-at!
 
 1084
 01:30:46,149 --> 01:30:48,516
-- [Growling]
-- [Crying]
+[Growling]
+[Crying]
 
 1085
 01:30:49,903 --> 01:30:53,487
-- [Growling]
-- [Screaming]
+[Growling]
+[Screaming]
 
 1086
 01:31:12,133 --> 01:31:14,125
@@ -4904,13 +4904,13 @@ Willow!
 
 1092
 01:32:33,715 --> 01:32:37,550
-- Get him, Madmartigan!
-- [Growling]
+Get him, Madmartigan!
+[Growling]
 
 1093
 01:32:37,635 --> 01:32:41,345
-- [Growling]
-- [Yelling]
+[Growling]
+[Yelling]
 
 1094
 01:32:45,769 --> 01:32:47,305
@@ -4922,13 +4922,13 @@ The baby!
 
 1096
 01:33:05,246 --> 01:33:09,331
-- [Yelling]
-- [Yelling]
+[Yelling]
+[Yelling]
 
 1097
 01:33:16,091 --> 01:33:18,674
-<i>- [Laughing]</i>
-- [Gasps]
+<i>[Laughing]</i>
+[Gasps]
 
 1098
 01:34:04,472 --> 01:34:06,839
@@ -4945,13 +4945,13 @@ Airk's army!</i>
 
 1101
 01:34:15,108 --> 01:34:17,316
-- We are here!
-- You are rescued!
+We are here!
+You are rescued!
 
 1102
 01:34:17,402 --> 01:34:20,361
-- Charge!
-- Charge!
+Charge!
+Charge!
 
 1103
 01:34:28,037 --> 01:34:31,621
@@ -4972,8 +4972,8 @@ Willow!
 
 1107
 01:35:03,281 --> 01:35:06,865
-- Elora's gone.
-- Willow.
+Elora's gone.
+Willow.
 
 1108
 01:35:06,951 --> 01:35:10,194
@@ -4982,8 +4982,8 @@ There were too many of them.
 
 1109
 01:35:10,330 --> 01:35:12,697
-- [Sobbing]
-- Willow.
+[Sobbing]
+Willow.
 
 1110
 01:35:15,126 --> 01:35:17,413
@@ -5045,8 +5045,8 @@ Prepare for the ritual!
 
 1124
 01:36:47,593 --> 01:36:50,882
-<i>- [Horse Whinnies]</i>
-- [Chattering]
+<i>[Horse Whinnies]</i>
+[Chattering]
 
 1125
 01:36:56,394 --> 01:36:59,978
@@ -5075,13 +5075,13 @@ Use the shelter chant. Protect yourself.
 
 1131
 01:37:22,503 --> 01:37:24,540
-- Why?
-- Just do it.
+Why?
+Just do it.
 
 1132
 01:37:30,094 --> 01:37:34,589
-- We've come for Elora Danan.
-- You dare to challenge me?
+We've come for Elora Danan.
+You dare to challenge me?
 
 1133
 01:37:34,682 --> 01:37:36,969
@@ -5093,8 +5093,8 @@ You're pigs!
 
 1135
 01:37:40,063 --> 01:37:44,307
-- [Groans]
-<i>- [Bavmorda] Toa thonna mondarr!</i>
+[Groans]
+<i>[Bavmorda] Toa thonna mondarr!</i>
 
 1136
 01:37:44,400 --> 01:37:48,189
@@ -5110,18 +5110,18 @@ Nocklith! Vohkbar!
 
 1139
 01:37:55,828 --> 01:37:59,538
-- You're all pigs!
-- [Groaning]
+You're all pigs!
+[Groaning]
 
 1140
 01:37:59,624 --> 01:38:03,208
-- Pigs!
-- [Groaning]
+Pigs!
+[Groaning]
 
 1141
 01:38:03,294 --> 01:38:05,126
-- [Whinnies]
-- [Yelling]
+[Whinnies]
+[Yelling]
 
 1142
 01:38:05,213 --> 01:38:07,250
@@ -5234,28 +5234,28 @@ Balance of essence, fire beget snow.
 
 1169
 01:40:17,929 --> 01:40:21,047
-<i>- Locktwaar danalora luatha danu...
-- [Raziel] Willow,</i>
+<i>Locktwaar danalora luatha danu...
+[Raziel] Willow,</i>
 
 1170
 01:40:21,182 --> 01:40:24,721
-<i>- believe in the words.
-- tuatha, tuatha, chnox danu.</i>
+<i>believe in the words.
+tuatha, tuatha, chnox danu.</i>
 
 1171
 01:40:24,852 --> 01:40:27,219
-- Concentrate. [Groans]
-<i>- Locktwaar danalora...</i>
+Concentrate. [Groans]
+<i>Locktwaar danalora...</i>
 
 1172
 01:40:27,355 --> 01:40:31,269
-<i>- luatha danu tuatha, tuatha.</i>
-- Oh, no!
+<i>luatha danu tuatha, tuatha.</i>
+Oh, no!
 
 1173
 01:40:31,359 --> 01:40:34,193
-<i>- Locktwaar danalora.
-- [Groans]</i>
+<i>Locktwaar danalora.
+[Groans]</i>
 
 1174
 01:40:34,278 --> 01:40:37,362
@@ -5263,8 +5263,8 @@ Balance of essence, fire beget snow.
 
 1175
 01:40:37,490 --> 01:40:40,904
-<i>- tuatha, tuatha, chnox danu.</i>
-- Don't give up,
+<i>tuatha, tuatha, chnox danu.</i>
+Don't give up,
 
 1176
 01:40:40,993 --> 01:40:43,656
@@ -5272,13 +5272,13 @@ Willow!
 
 1177
 01:40:43,788 --> 01:40:48,249
-<i>- Locktwaar danalora luatha danu...
-- Oh, Willow!</i>
+<i>Locktwaar danalora luatha danu...
+Oh, Willow!</i>
 
 1178
 01:40:48,376 --> 01:40:52,541
-<i>- tuatha, tuatha, chnox danu.</i>
-- [Growls]
+<i>tuatha, tuatha, chnox danu.</i>
+[Growls]
 
 1179
 01:40:52,630 --> 01:40:56,749
@@ -5294,8 +5294,8 @@ Raziel.
 
 1182
 01:41:24,537 --> 01:41:28,827
-- Has it been so long?
-- I'm sorry.
+Has it been so long?
+I'm sorry.
 
 1183
 01:41:30,710 --> 01:41:35,080
@@ -5331,8 +5331,8 @@ Black fires forever kindled within,
 
 1191
 01:42:11,792 --> 01:42:16,787
-- let the second rite begin.
-<i>- [Thunder Rumbles]</i>
+let the second rite begin.
+<i>[Thunder Rumbles]</i>
 
 1192
 01:42:31,562 --> 01:42:33,474
@@ -5345,13 +5345,13 @@ We can't get inside.
 
 1194
 01:42:37,026 --> 01:42:39,939
-<i>- [Sorsha] Elora Danan will die.
-- [Raziel] Unless we save her.</i>
+<i>[Sorsha] Elora Danan will die.
+[Raziel] Unless we save her.</i>
 
 1195
 01:42:40,071 --> 01:42:42,484
-- Bavmorda's too powerful.
-<i>- [Raziel] No!</i>
+Bavmorda's too powerful.
+<i>[Raziel] No!</i>
 
 1196
 01:42:42,573 --> 01:42:47,944
@@ -5374,8 +5374,8 @@ we have a lot of gophers.
 
 1200
 01:42:59,131 --> 01:43:01,498
-- Willow, this is war, not agriculture.
-<i>- I know, I know.</i>
+Willow, this is war, not agriculture.
+<i>I know, I know.</i>
 
 1201
 01:43:01,592 --> 01:43:04,756
@@ -5384,8 +5384,8 @@ how to get inside the castle.
 
 1202
 01:43:09,350 --> 01:43:12,388
-<i>- [Thunder Rumbles]</i>
-- Ocht veth bordak stira.
+<i>[Thunder Rumbles]</i>
+Ocht veth bordak stira.
 
 1203
 01:43:12,478 --> 01:43:16,939
@@ -5394,8 +5394,8 @@ Ocht veth bordak stira.</i>
 
 1204
 01:43:17,066 --> 01:43:20,434
-<i>- Ocht veth bordak stira.
-- [Thunder Rumbles]</i>
+<i>Ocht veth bordak stira.
+[Thunder Rumbles]</i>
 
 1205
 01:43:20,528 --> 01:43:23,362
@@ -5498,18 +5498,18 @@ Courage, Willow.
 
 1228
 01:46:05,818 --> 01:46:09,778
-- [Shouting]
-- [Yelling]
+[Shouting]
+[Yelling]
 
 1229
 01:46:16,370 --> 01:46:20,159
-- [Yells]
-- Whoa!
+[Yells]
+Whoa!
 
 1230
 01:46:21,792 --> 01:46:24,876
-- Back to the castle!
-- [Yelling]
+Back to the castle!
+[Yelling]
 
 1231
 01:46:24,962 --> 01:46:28,126
@@ -5521,8 +5521,8 @@ Ocht veth nockthirth bordak!
 
 1233
 01:46:52,823 --> 01:46:57,784
-- Exile the child to the 13th night.
-<i>- [Elora Crying]</i>
+Exile the child to the 13th night.
+<i>[Elora Crying]</i>
 
 1234
 01:47:04,418 --> 01:47:05,875
@@ -5547,8 +5547,8 @@ firth foreth forewar.</i>
 
 1239
 01:47:51,632 --> 01:47:53,874
-- Ocht veth nock!
-<i>- [Crying Continues]</i>
+Ocht veth nock!
+<i>[Crying Continues]</i>
 
 1240
 01:47:53,968 --> 01:47:56,301
@@ -5581,8 +5581,8 @@ Traitor child. I must despise you now.
 
 1247
 01:48:58,323 --> 01:49:01,737
-- I won't let you kill that child.
-<i>- Away!</i>
+I won't let you kill that child.
+<i>Away!</i>
 
 1248
 01:49:01,827 --> 01:49:04,069
@@ -5611,13 +5611,13 @@ Elora Danan will be queen.
 
 1254
 01:49:47,081 --> 01:49:51,200
-- [Screaming]
-- [Laughing]
+[Screaming]
+[Laughing]
 
 1255
 01:49:51,293 --> 01:49:55,628
-- Now you die!
-- [Yelling]
+Now you die!
+[Yelling]
 
 1256
 01:49:55,714 --> 01:50:00,004
@@ -5645,8 +5645,8 @@ Elora Danan will be queen.
 
 1262
 01:50:47,141 --> 01:50:49,599
-<i>- Wanu!</i>
-- [Groans]
+<i>Wanu!</i>
+[Groans]
 
 1263
 01:50:49,685 --> 01:50:53,099
@@ -5662,18 +5662,18 @@ Elora Danan will be queen.
 
 1266
 01:51:51,496 --> 01:51:54,489
-- Yikes! Ohh!
-- [Growling]
+Yikes! Ohh!
+[Growling]
 
 1267
 01:52:27,199 --> 01:52:30,818
-- Airk!
-- [Yells]
+Airk!
+[Yells]
 
 1268
 01:52:33,372 --> 01:52:35,284
-- [Groans]
-- Airk.
+[Groans]
+Airk.
 
 1269
 01:52:38,335 --> 01:52:40,497
@@ -5721,8 +5721,8 @@ Huh?
 
 1280
 01:55:19,246 --> 01:55:23,581
-- [Elora Whimpers]
-- Bring back that child, peck.
+[Elora Whimpers]
+Bring back that child, peck.
 
 1281
 01:55:23,667 --> 01:55:25,659
@@ -5730,8 +5730,8 @@ Huh?
 
 1282
 01:55:27,754 --> 01:55:30,713
-- Who are you?
-<i>- [Thunder Rumbles]</i>
+Who are you?
+<i>[Thunder Rumbles]</i>
 
 1283
 01:55:32,551 --> 01:55:34,668
@@ -5743,13 +5743,13 @@ I'm a great sorcerer.
 
 1285
 01:55:42,185 --> 01:55:45,098
-- [Chuckling]
-- Greater than Raziel.
+[Chuckling]
+Greater than Raziel.
 
 1286
 01:55:45,188 --> 01:55:48,397
-<i>- [Chuckling Louder]</i>
-- Greater than you even.
+<i>[Chuckling Louder]</i>
+Greater than you even.
 
 1287
 01:55:49,401 --> 01:55:51,393
@@ -5812,13 +5812,13 @@ You're no sorcerer.
 
 1301
 01:56:54,049 --> 01:56:58,339
-- Into a realm where evil cannot touch her.
-<i>- Impossible!</i>
+Into a realm where evil cannot touch her.
+<i>Impossible!</i>
 
 1302
 01:56:58,428 --> 01:57:02,638
-- There's no such place!
-<i>- Helgafel swath ben helgafel.</i>
+There's no such place!
+<i>Helgafel swath ben helgafel.</i>
 
 1303
 01:57:02,724 --> 01:57:08,140
@@ -5827,8 +5827,8 @@ and the child with you.
 
 1304
 01:57:08,271 --> 01:57:11,105
-<i>- You're a fool! Nockmaar─
-- Bairn off danu famoww.</i>
+<i>You're a fool! Nockmaar─
+Bairn off danu famoww.</i>
 
 1305
 01:57:11,191 --> 01:57:13,148
@@ -5840,8 +5840,8 @@ Good-bye, Elora.
 
 1307
 01:57:16,404 --> 01:57:20,364
-<i>- Helgafel!</i>
-- [Gasps]
+<i>Helgafel!</i>
+[Gasps]
 
 1308
 01:57:20,450 --> 01:57:23,318
@@ -5895,8 +5895,8 @@ to becoming a great sorcerer.
 
 1320
 01:58:44,576 --> 01:58:47,410
-<i>- Willow the Sorcerer!</i>
-- You make us proud!
+<i>Willow the Sorcerer!</i>
+You make us proud!
 
 1321
 01:58:47,495 --> 01:58:49,236
@@ -5904,8 +5904,8 @@ to becoming a great sorcerer.
 
 1322
 01:58:52,959 --> 01:58:55,747
-- [Chuckles]
-- Good-bye, Elora Danan.
+[Chuckles]
+Good-bye, Elora Danan.
 
 1323
 01:59:02,719 --> 01:59:04,585
@@ -5918,18 +5918,18 @@ Good-bye, Willow!</i>
 
 1325
 01:59:16,691 --> 01:59:20,059
-- Farewell!
-- Eh?
+Farewell!
+Eh?
 
 1326
 01:59:20,153 --> 01:59:23,521
-- [Squeals]
-- [Cheering]
+[Squeals]
+[Cheering]
 
 1327
 01:59:33,917 --> 01:59:36,409
-- Willow! Willow!
-- Hello, Regan. Hello.
+Willow! Willow!
+Hello, Regan. Hello.
 
 1328
 01:59:36,503 --> 01:59:39,211
@@ -5946,8 +5946,8 @@ Willow! Willow Ufgood!
 
 1331
 01:59:47,180 --> 01:59:50,764
-- Willow!
-- Hey, Meegosh!
+Willow!
+Hey, Meegosh!
 
 1332
 02:00:05,031 --> 02:00:07,694
@@ -5964,8 +5964,8 @@ Kiaya!
 
 1335
 02:00:22,173 --> 02:00:25,632
-- Willow?
-- Kiaya.
+Willow?
+Kiaya.
 
 1336
 02:00:25,719 --> 02:00:28,507
@@ -5977,8 +5977,8 @@ Kiaya!
 
 1338
 02:00:31,891 --> 02:00:34,304
-- Dada! Dada!
-- Dada, I missed you!
+Dada! Dada!
+Dada, I missed you!
 
 1339
 02:00:34,394 --> 02:00:37,683
