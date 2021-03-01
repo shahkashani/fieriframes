@@ -211,7 +211,6 @@ class DefaultConfig {
         avoidDescriptors,
         blur: 0.1,
       }),
-      new stills.filters.FaceDemonize(),
       new stills.filters.Liquify(),
       new stills.filters.Mirror(),
       new stills.filters.Overlay(overlayOptions),
@@ -254,9 +253,6 @@ class DefaultConfig {
         randomOffset: 0,
       }),
       new stills.filters.FaceDemonEyes({
-        avoidDescriptors,
-      }),
-      new stills.filters.FaceDemonize({
         avoidDescriptors,
       }),
       new stills.filters.FacePinch({
