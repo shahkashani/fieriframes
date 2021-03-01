@@ -179,13 +179,7 @@ class DefaultConfig {
         overlayFile: './overlays/birthday-9.png',
         gravity: 'southeast',
         sizePercentHeight: 0.6,
-      },
-      {
-        overlayFile: './overlays/arm.gif',
-        gravity: 'southeast',
-        sizePercentWidth: 0.2,
-        geometry: '+10+10',
-      },
+      }
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
