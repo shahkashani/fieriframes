@@ -3,8 +3,9 @@ require('./logo');
 
 const yargs = require('yargs');
 const stills = require('stills');
-const { compact } = require('lodash');
+const { compact, flatten, get } = require('lodash');
 const { copyFileSync } = require('fs');
+const FieriFiction = require('fierifiction');
 
 const configs = {
   default: require('./configs/default'),
@@ -90,24 +91,31 @@ const DEFAULT_OPTIONS = {
     sourceLength,
     gifWidth,
     draft,
+    sourceSeconds,
     TUMBLR_CONSUMER_KEY,
     TUMBLR_CONSUMER_SECRET,
     TUMBLR_ACCESS_TOKEN_KEY,
     TUMBLR_ACCESS_TOKEN_SECRET,
     TUMBLR_BLOG_NAME,
+    TUMBLR_REBLOG_BLOG_NAME,
+    FIERIFICTION_VIDEO_RATE,
     S3_ACCESS_KEY_ID,
     S3_SECRET_ACCESS_KEY,
     S3_BUCKET,
     GIF_FPS,
     GIF_LENGTH_SECONDS,
     MICROSOFT_AZURE_TOKEN,
-    sourceSeconds,
+    GOOGLE_CLOUD_CREDENTIALS_BASE64,
+    POST_TEXT_GENERATOR_URL,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
     ? parseFloat(GIF_LENGTH_SECONDS)
     : 2;
   const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
+  const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
+    ? parseFloat(FIERIFICTION_VIDEO_RATE)
+    : 0;
 
   const getSourceSeconds = (string) => {
     if (!string) {
@@ -237,42 +245,38 @@ const DEFAULT_OPTIONS = {
     await useConfig.onComplete(result, baseConfigData);
   }
 
-  /*
-  const output = result.content;
   const captions = flatten(get(result, 'globals.captions', []));
-  const tags = get(result, 'tags', []);
-  const tumblr = get(result, 'destinations.tumblr', {});
-  const useStory = true;
 
-  if (additionalText) {
-    captions.push(additionalText);
+  if (
+    Math.random() < NUM_FIERIFICTION_VIDEO_RATE &&
+    captions.length > 0 &&
+    result.destinations &&
+    result.destinations.tumblr
+  ) {
+    const googleCloudCredentials = Buffer.from(
+      GOOGLE_CLOUD_CREDENTIALS_BASE64,
+      'base64'
+    ).toString();
+
+    const fierifiction = new FieriFiction({
+      googleCloudCredentials,
+      tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
+      tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
+      tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
+      tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+      tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
+      textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+    });
+
+    await fierifiction.postVideo(
+      result.content,
+      captions,
+      result.tags,
+      result.destinations.tumblr.url
+    );
   }
 
-  if (destinations.length) {
-    if (captions.length) {
-      const generator = randomly(
-        NUM_FIERIFICTION_VIDEO_RATE,
-        async () => {
-          await fiction.postVideo(
-            output,
-            captions,
-            tags,
-            tumblr.url,
-            {
-              postId: tumblr.postId,
-              blogName: tumblr.blogName,
-            },
-            useStory,
-            isPrompt
-          );
-        },
-        async () => {
-          console.log('Skipping text');
-        }
-      );
-      await generator();
-    }
+  if (destinations.length > 0) {
     stills.deleteStills(result);
   }
-  */
 })();
