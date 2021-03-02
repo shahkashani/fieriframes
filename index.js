@@ -201,6 +201,8 @@ const DEFAULT_OPTIONS = {
         ? sourceLength
         : NUM_GIF_LENGTH_SECONDS,
       fps: NUM_GIF_FPS,
+      genOptions:
+        'split [a][b];[a] palettegen=reserve_transparent=off:stats_mode=full [p];[b][p] paletteuse=1',
     }),
     still: new stills.content.Still({
       num,
