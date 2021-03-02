@@ -45,6 +45,7 @@ Oh boy. Well, let's see how far this will get you:
 1. Install the trillion dependencies in the [stills README](https://github.com/shahkashani/stills)
 1. Install nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 1. Put some videos in `./videos`
+1. Run `nvm install`
 1. Run `npm install`
 1. Run `npm run generate`.
 
