@@ -9,6 +9,7 @@ const FieriFiction = require('fierifiction');
 
 const configs = {
   default: require('./configs/default'),
+  clean: require('./configs/clean'),
   arcadia: require('./configs/arcadia'),
   dreamers: require('./configs/dreamers'),
 };
