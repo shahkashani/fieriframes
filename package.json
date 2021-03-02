@@ -11,6 +11,7 @@
   },
   "scripts": {
     "start": "node logo.js",
+    "help": "node index --help",
     "post": "node --max-old-space-size=8192 index.js --post",
     "generate": "node --max-old-space-size=8192 index.js --local=videos/",
     "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'",

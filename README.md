@@ -10,49 +10,45 @@ If you just wanna generate stills, all you need is this repo and some videos. So
 
 If you wanna change the way the stills generator works, you're really going to have to change the `stills` engine. The instructions in [CONTRIBUTING](./CONTRIBUTING.md) will show you how to set all of that up.
 
-# How do I generate a still?
+# Setup
 
-## Setup
+If you don't want to install a million dependencies and also run into a trillion faults in these instructions (as they're written for a Mac), I would highly recommend the Docker setup.
 
-### Not using Docker
+## Docker
 
-1. Install the dependencies in the [stills README](https://github.com/shahkashani/stills)
+Straight-forward-ish:
+
+1. Download and install [Docker Desktop](https://www.docker.com/get-started) (it's free)
+1. Build the Docker image: `docker build . -t fieriframes` (you can also run `npm run docker:build` if you have node installed)
+1. Put some videos in the `videos` folder (where the GIFs or PNGs will be generated from)
+1. Make an empty `output` folder (where the stills will go)
+1. Generate a still: `docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output` (you can also run `npm run docker:generate` if you have node intalled).
+
+That's a mouthful, but ultimately it is a) mounting the `videos` and `output` folders and b) running `npm run generate` inside the Docker container.
+
+And that's ultimately it. 
+
+## Still generation options
+
+For all options, run: `docker run -it fieriframes npm run help`. 
+
+Options are applied like so:
+
+`docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output --type=gif --num=1 --captionText="Aaaaaaaaaaa" --effects=faceswirl`
+
+That mouthful can be replaced with `npm run docker:generate -- --type=gif --effects=faceswirl --num=1 --captionText="Aaaaaaaaaaa"` if you have node installed locally.
+
+## Not using Docker
+
+Oh boy. Well, let's see how far this will get you:
+
+1. Install the trillion dependencies in the [stills README](https://github.com/shahkashani/stills)
 1. Install nvm: `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash`
 1. Put some videos in `./videos`
 1. Run `npm install`
 1. Run `npm run generate`.
 
 You can also do things like `npm run generate -- --type=gif`.
-
-### Using Docker
-
-1. `docker build . -t fftag`
-1. Put some videos in `./videos`
-1. `docker run -v $(pwd)/videos:/app/videos -t fftag npm run generate`
-
-You don't need to install any of the aforementioned dependencies if you decide to use Docker.
-
-The trade-off is that it's hell of a lot slower, especially if you use it for development (it'll occasionally reinstall imagemagick and other dependencies).
-
-## Can I specify what effects to use, etc.?
-
-Absolutely. `node index.js --help` will output some helpful instructions.
-
-```
-Usage: index.js <command> [options]
-
-Options:
-  --help     Show help                                                 [boolean]
-  --version  Show version number                                       [boolean]
-  --post     Upload image to the destinations                          [boolean]
-  --effects  Apply a specific GIF effect (by name)                       [array]
-  --local    Local folder to read videos from instead of S3
-  --caption  Use a particular caption glob
-  --type     The type of image generated
-                         [choices: "still", "gif", "random"] [default: "random"]
-```
-
-Example: `node index.js --local=videos --type=gif --effects=stutter --caption=Mothman`
 
 ## S3
 
