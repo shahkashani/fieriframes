@@ -1,6 +1,6 @@
 FROM node:10
 
-ENV IMAGEMAGICK_VERSION 7.0.9-1
+ENV IMAGEMAGICK_VERSION 7.0.11-2
 
 RUN mkdir -p /app/vendor/ffmpeg
 WORKDIR /app/vendor/ffmpeg

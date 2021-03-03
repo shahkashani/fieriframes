@@ -179,7 +179,7 @@ class DefaultConfig {
         overlayFile: './overlays/birthday-9.png',
         gravity: 'southeast',
         sizePercentHeight: 0.6,
-      }
+      },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
@@ -286,9 +286,6 @@ class DefaultConfig {
       new stills.filters.FaceSwirl(),
       new stills.filters.Overlay(overlayOptions),
       new stills.filters.Arcadia(),
-      new stills.filters.Boonme({
-        fill,
-      }),
       new stills.filters.ColorTone(),
       new stills.filters.Morph({
         morphFile,
