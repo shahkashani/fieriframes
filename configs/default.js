@@ -75,7 +75,6 @@ class DefaultConfig {
       blend,
       overlay,
       faceoverlay,
-      fill,
       effects,
       baseEffects,
       captionStart,
@@ -213,6 +212,7 @@ class DefaultConfig {
         avoidDescriptors,
       }),
       new stills.filters.ColorTone(),
+      new stills.filters.Halo(),
     ];
 
     const gifEffects = [
@@ -290,6 +290,7 @@ class DefaultConfig {
       new stills.filters.Morph({
         morphFile,
       }),
+      new stills.filters.Halo(),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
