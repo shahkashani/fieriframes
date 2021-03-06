@@ -286,7 +286,6 @@ class DefaultConfig {
       }),
       new stills.filters.FaceSwirl(),
       new stills.filters.Overlay(overlayOptions),
-      new stills.filters.Arcadia(),
       new stills.filters.ColorTone(),
       new stills.filters.Morph({
         morphFile,
