@@ -213,6 +213,7 @@ class DefaultConfig {
       }),
       new stills.filters.ColorTone(),
       new stills.filters.Halo(),
+      new stills.filters.Celestial(),
     ];
 
     const gifEffects = [
@@ -291,6 +292,7 @@ class DefaultConfig {
         morphFile,
       }),
       new stills.filters.Halo(),
+      new stills.filters.Celestial(),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
