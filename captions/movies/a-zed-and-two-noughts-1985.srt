@@ -142,8 +142,8 @@ bacteria set to work in the intestine.
 
 35
 00:06:06,083 --> 00:06:09,207
-- What sort of bacteria?
-- Bisocosis populi.
+What sort of bacteria?
+Bisocosis populi.
 
 36
 00:06:10,500 --> 00:06:13,457
@@ -165,8 +165,8 @@ of creation when Adam kissed Eve.
 
 40
 00:06:22,750 --> 00:06:25,874
-- Suppose Eve kissed Adam?
-- Unlikely!
+Suppose Eve kissed Adam?
+Unlikely!
 
 41
 00:06:25,916 --> 00:06:28,624
@@ -426,8 +426,8 @@ your legs borrowed by a dead woman.
 
 97
 00:10:21,250 --> 00:10:25,124
-- How is your daughter?
-- Beta is fine.
+How is your daughter?
+Beta is fine.
 
 98
 00:10:25,208 --> 00:10:28,290
@@ -440,8 +440,8 @@ with a Dutchman.
 
 100
 00:11:28,458 --> 00:11:32,499
-- Morning, Venus! How are the zebras?
-- Black and white.
+Morning, Venus! How are the zebras?
+Black and white.
 
 101
 00:11:37,750 --> 00:11:40,499
@@ -458,8 +458,8 @@ You can come and take care of me.
 
 104
 00:11:46,125 --> 00:11:49,249
-- Where could I do that?
-- Back of the panda cages.
+Where could I do that?
+Back of the panda cages.
 
 105
 00:11:49,291 --> 00:11:50,749
@@ -472,8 +472,8 @@ There's no bed there.
 
 107
 00:11:52,583 --> 00:11:57,457
-- Since when have you needed a bed, Milo?
-- Since my back ached, just now!
+Since when have you needed a bed, Milo?
+Since my back ached, just now!
 
 108
 00:11:59,041 --> 00:12:01,624
@@ -534,8 +534,8 @@ Now you have less to bargain with.
 
 121
 00:12:45,833 --> 00:12:49,082
-- Now I have experience.
-- With animals?
+Now I have experience.
+With animals?
 
 122
 00:12:52,750 --> 00:12:54,374
@@ -579,8 +579,8 @@ of an American bald eagle.
 
 131
 00:13:21,583 --> 00:13:24,249
-- You're making a hat?
-- No.
+You're making a hat?
+No.
 
 132
 00:13:24,958 --> 00:13:26,749
@@ -662,13 +662,13 @@ Can the zoo help?
 
 149
 00:15:13,291 --> 00:15:17,082
-- What are you watching?
-- The beginnings of life.
+What are you watching?
+The beginnings of life.
 
 150
 00:15:17,583 --> 00:15:20,207
-- It's cathartic.
-- FALLAST: What is?
+It's cathartic.
+FALLAST: What is?
 
 151
 00:15:20,250 --> 00:15:22,540
@@ -791,8 +791,8 @@ ALBA: Oliver, entrez!
 
 177
 00:16:53,041 --> 00:16:57,749
-- Where is Oswald?
-- OLIVER: Uh, he's just working.
+Where is Oswald?
+OLIVER: Uh, he's just working.
 
 178
 00:16:59,083 --> 00:17:02,332
@@ -850,8 +850,8 @@ alphabet, there's only 23.
 
 190
 00:17:49,625 --> 00:17:53,790
-- What's Oswald Deuce doing here?
-- Watching an apple fade away.
+What's Oswald Deuce doing here?
+Watching an apple fade away.
 
 191
 00:17:54,458 --> 00:17:56,249
@@ -859,13 +859,13 @@ How original!
 
 192
 00:17:56,958 --> 00:17:59,124
-- "A" is for...
-- Angelfish.
+"A" is for...
+Angelfish.
 
 193
 00:17:59,208 --> 00:18:01,207
-- "B" is for...
-- Butterfly.
+"B" is for...
+Butterfly.
 
 194
 00:18:08,250 --> 00:18:10,582
@@ -934,13 +934,13 @@ were shopping for china...
 
 209
 00:19:16,083 --> 00:19:20,915
-- What was Griselda wearing?
-- A green hat, black shoes.
+What was Griselda wearing?
+A green hat, black shoes.
 
 210
 00:19:20,958 --> 00:19:23,915
-- We left there about 3:00...
-- Was she wearing a scarf?
+We left there about 3:00...
+Was she wearing a scarf?
 
 211
 00:19:23,958 --> 00:19:27,249
@@ -976,8 +976,8 @@ I imagine, Oswald, to time eggs.
 
 218
 00:19:47,666 --> 00:19:52,165
-- Well, why would she want to time eggs?
-- Oswald, think what you're saying.
+Well, why would she want to time eggs?
+Oswald, think what you're saying.
 
 219
 00:19:53,083 --> 00:19:54,957
@@ -989,13 +989,13 @@ Paula wanted to go to the fishmonger.
 
 221
 00:19:59,083 --> 00:20:01,457
-- I bought a lobster.
-- Why did you buy a lobster for?
+I bought a lobster.
+Why did you buy a lobster for?
 
 222
 00:20:01,541 --> 00:20:05,999
-- Oswald, this is getting silly.
-- Did my wife buy anything?
+Oswald, this is getting silly.
+Did my wife buy anything?
 
 223
 00:20:06,750 --> 00:20:09,165
@@ -1003,8 +1003,8 @@ Oh, yes, prawns.
 
 224
 00:20:09,250 --> 00:20:10,915
-- Prawns?
-- Yes!
+Prawns?
+Yes!
 
 225
 00:20:12,250 --> 00:20:15,415
@@ -1068,8 +1068,8 @@ Anything in the papers, then?
 
 238
 00:20:59,208 --> 00:21:02,124
-- Why don't you sit down, Plate?
-- Thanks very much, Oliver.
+Why don't you sit down, Plate?
+Thanks very much, Oliver.
 
 239
 00:21:02,208 --> 00:21:03,790
@@ -1077,8 +1077,8 @@ I heard you was in here.
 
 240
 00:21:03,875 --> 00:21:07,749
-- There's a funny smell in here.
-- It's me, I've stopped washing.
+There's a funny smell in here.
+It's me, I've stopped washing.
 
 241
 00:21:08,916 --> 00:21:10,207
@@ -1143,8 +1143,8 @@ I haven't started professionally, yet.
 
 255
 00:23:03,166 --> 00:23:07,832
-- Or a credit note to a large bookshop...
-- That's all right! All right, go on!
+Or a credit note to a large bookshop...
+That's all right! All right, go on!
 
 256
 00:23:09,750 --> 00:23:12,874
@@ -1197,8 +1197,8 @@ like a bedtime story.
 
 267
 00:23:44,125 --> 00:23:46,915
-- Isn't that just what you wanted?
-- And there are no bees in Alaska.
+Isn't that just what you wanted?
+And there are no bees in Alaska.
 
 268
 00:23:47,000 --> 00:23:49,832
@@ -1244,8 +1244,8 @@ whingeing story about money.
 
 277
 00:24:11,625 --> 00:24:14,915
-- And I disapprove of circuses.
-- MILO: I disapprove of zoos.
+And I disapprove of circuses.
+MILO: I disapprove of zoos.
 
 278
 00:24:15,000 --> 00:24:16,790
@@ -1472,8 +1472,8 @@ It was all your bloody fault!
 
 329
 00:28:15,708 --> 00:28:18,082
-- What was?
-- The death of my wife!
+What was?
+The death of my wife!
 
 330
 00:28:18,166 --> 00:28:19,457
@@ -1491,8 +1491,8 @@ and you were driving a Ford Mercury.
 
 333
 00:28:29,708 --> 00:28:32,915
-- So?
-- You were asking for trouble.
+So?
+You were asking for trouble.
 
 334
 00:28:33,000 --> 00:28:34,082
@@ -1553,8 +1553,8 @@ got for The Story of O.
 
 347
 00:29:20,250 --> 00:29:22,249
-- Did I tell it well?
-- Yes!
+Did I tell it well?
+Yes!
 
 348
 00:29:23,416 --> 00:29:26,290
@@ -1655,8 +1655,8 @@ Stop it, you bloody idiot!
 
 371
 00:31:26,125 --> 00:31:29,124
-- You pathetic idiot!
-- It's only ice.
+You pathetic idiot!
+It's only ice.
 
 372
 00:31:29,208 --> 00:31:31,124
@@ -1679,8 +1679,8 @@ Thank you.
 
 376
 00:31:39,750 --> 00:31:41,915
-- Shall I call for Oswald?
-- No!
+Shall I call for Oswald?
+No!
 
 377
 00:31:42,958 --> 00:31:44,957
@@ -1823,8 +1823,8 @@ So who found you?
 
 408
 00:33:46,125 --> 00:33:48,249
-- De Milo.
-- ALBA: Who is she?
+De Milo.
+ALBA: Who is she?
 
 409
 00:33:48,333 --> 00:33:51,290
@@ -1866,23 +1866,23 @@ Bamboo.
 
 418
 00:34:17,416 --> 00:34:20,249
-- "J" is for...
-- Jaguar.
+"J" is for...
+Jaguar.
 
 419
 00:34:20,333 --> 00:34:23,749
-- "K" is for...
-- Kangaroo.
+"K" is for...
+Kangaroo.
 
 420
 00:34:23,791 --> 00:34:25,915
-- "L" is for...
-- Lion.
+"L" is for...
+Lion.
 
 421
 00:34:26,000 --> 00:34:28,332
-- "M" is for...
-- Monkey.
+"M" is for...
+Monkey.
 
 422
 00:34:36,458 --> 00:34:38,415
@@ -1894,8 +1894,8 @@ Prawns on their way back.
 
 424
 00:34:40,708 --> 00:34:43,957
-- Way back?
-- To where they came from.
+Way back?
+To where they came from.
 
 425
 00:34:44,041 --> 00:34:47,124
@@ -1956,13 +1956,13 @@ Van Meegeren tried to paint some more.
 
 438
 00:35:20,958 --> 00:35:23,082
-- That's his name!
-- Who's name?
+That's his name!
+Who's name?
 
 439
 00:35:23,125 --> 00:35:25,040
-- The surgeon's.
-- Pardon?
+The surgeon's.
+Pardon?
 
 440
 00:35:25,083 --> 00:35:26,832
@@ -2019,13 +2019,13 @@ He's made a beautiful job on me.
 
 452
 00:36:05,583 --> 00:36:07,499
-- Look.
-- No, I can't.
+Look.
+No, I can't.
 
 453
 00:36:07,583 --> 00:36:09,332
-- Why not?
-- Because...
+Why not?
+Because...
 
 454
 00:36:11,916 --> 00:36:13,707
@@ -2145,8 +2145,8 @@ Sorry.
 
 481
 00:37:45,458 --> 00:37:47,874
-- Where's Beta?
-- She's with Oswald.
+Where's Beta?
+She's with Oswald.
 
 482
 00:37:48,875 --> 00:37:52,249
@@ -2158,13 +2158,13 @@ Look, it was an accident.
 
 484
 00:37:54,916 --> 00:37:57,540
-- This one's...
-- Bizarre, tragic, farcical!
+This one's...
+Bizarre, tragic, farcical!
 
 485
 00:37:57,583 --> 00:38:00,249
-- This one is different...
-- They're acts of God!
+This one is different...
+They're acts of God!
 
 486
 00:38:00,333 --> 00:38:04,415
@@ -2257,8 +2257,8 @@ when it's afraid.
 
 506
 00:39:30,958 --> 00:39:35,082
-- And the elephant lives to be 100.
-- And never forgets a face.
+And the elephant lives to be 100.
+And never forgets a face.
 
 507
 00:39:35,583 --> 00:39:39,124
@@ -2287,13 +2287,13 @@ What color knickers is she wearing?
 
 513
 00:39:51,750 --> 00:39:53,999
-- Red ones, to match her hat.
-- No, she isn't.
+Red ones, to match her hat.
+No, she isn't.
 
 514
 00:39:54,083 --> 00:39:56,082
-- How do you know?
-- I know.
+How do you know?
+I know.
 
 515
 00:39:58,375 --> 00:40:00,165
@@ -2328,8 +2328,8 @@ May I ask you a few questions?
 
 522
 00:40:27,916 --> 00:40:30,582
-- Like?
-- Like? Uh...
+Like?
+Like? Uh...
 
 523
 00:40:31,583 --> 00:40:33,665
@@ -2337,8 +2337,8 @@ Are these ostrich feathers?
 
 524
 00:40:34,166 --> 00:40:38,749
-- Who are you exactly? Do I know you?
-- I'm an animal behaviourist, madam.
+Who are you exactly? Do I know you?
+I'm an animal behaviourist, madam.
 
 525
 00:40:39,666 --> 00:40:42,957
@@ -2347,8 +2347,8 @@ very well informed.
 
 526
 00:40:43,541 --> 00:40:47,082
-- What animals are you a behaviourist of?
-- All animals. Madam...
+What animals are you a behaviourist of?
+All animals. Madam...
 
 527
 00:40:47,166 --> 00:40:49,582
@@ -2361,8 +2361,8 @@ What color are your knickers?
 
 529
 00:40:54,625 --> 00:40:56,540
-- Black and white striped.
-- Thank you!
+Black and white striped.
+Thank you!
 
 530
 00:40:56,583 --> 00:40:58,207
@@ -2370,13 +2370,13 @@ It's a pleasure.
 
 531
 00:41:05,125 --> 00:41:10,624
-- You see, black and white stripes.
-- You didn't know. I knew all the time.
+You see, black and white stripes.
+You didn't know. I knew all the time.
 
 532
 00:41:10,708 --> 00:41:13,249
-- You did?
-- Yes, I saw them yesterday.
+You did?
+Yes, I saw them yesterday.
 
 533
 00:41:13,875 --> 00:41:17,165
@@ -2399,8 +2399,8 @@ We believe you.
 
 537
 00:41:27,541 --> 00:41:31,457
-- I insist!
-- It's really quite all right. Thank you!
+I insist!
+It's really quite all right. Thank you!
 
 538
 00:41:34,416 --> 00:41:37,457
@@ -2514,8 +2514,8 @@ Don't press too hard, my back aches.
 
 563
 00:43:22,500 --> 00:43:26,540
-- Where does it ache?
-- Across the hips and along the spine.
+Where does it ache?
+Across the hips and along the spine.
 
 564
 00:43:26,583 --> 00:43:31,207
@@ -2524,23 +2524,23 @@ Let's have you in a sitting position.
 
 565
 00:43:33,416 --> 00:43:36,832
-- Tell me, what happened to my leg?
-- What do you mean?
+Tell me, what happened to my leg?
+What do you mean?
 
 566
 00:43:36,916 --> 00:43:40,415
-- Where is it now? Have you sold it?
-- It was incinerated.
+Where is it now? Have you sold it?
+It was incinerated.
 
 567
 00:43:40,458 --> 00:43:42,582
-- Where?
-- Don't concern yourself with it.
+Where?
+Don't concern yourself with it.
 
 568
 00:43:42,666 --> 00:43:45,749
-- Where?
-- In the hospital incinerator.
+Where?
+In the hospital incinerator.
 
 569
 00:43:45,833 --> 00:43:48,707
@@ -2553,8 +2553,8 @@ Why do you ask?
 
 571
 00:43:50,750 --> 00:43:54,999
-- Do you perform amputations on animals?
-- If they are necessary.
+Do you perform amputations on animals?
+If they are necessary.
 
 572
 00:43:56,041 --> 00:43:58,915
@@ -2580,8 +2580,8 @@ There are many similarities.
 
 577
 00:44:21,041 --> 00:44:23,582
-- What's this for?
-- It's for a surprise.
+What's this for?
+It's for a surprise.
 
 578
 00:44:23,625 --> 00:44:25,249
@@ -2599,13 +2599,13 @@ will it be if we tell you?
 
 581
 00:44:31,041 --> 00:44:37,040
-- You take too many liberties.
-- I do. They're all in your interest.
+You take too many liberties.
+I do. They're all in your interest.
 
 582
 00:44:42,833 --> 00:44:45,915
-- Is that a real angelfish?
-- Yes.
+Is that a real angelfish?
+Yes.
 
 583
 00:44:45,958 --> 00:44:47,415
@@ -2622,8 +2622,8 @@ It's a caged fish.
 
 586
 00:44:51,041 --> 00:44:53,915
-- BETA: Can it swim away?
-- Where would it swim to?
+BETA: Can it swim away?
+Where would it swim to?
 
 587
 00:44:54,000 --> 00:44:56,624
@@ -2660,8 +2660,8 @@ lots of black and white fish?
 
 594
 00:45:14,333 --> 00:45:16,665
-- OLIVER: Yes.
-- BETA: Zebra-fish?
+OLIVER: Yes.
+BETA: Zebra-fish?
 
 595
 00:45:16,750 --> 00:45:18,624
@@ -2768,8 +2768,8 @@ got in common?
 
 618
 00:46:49,791 --> 00:46:51,749
-- ALBA: Me!
-- You?
+ALBA: Me!
+You?
 
 619
 00:46:51,833 --> 00:46:55,040
@@ -2900,8 +2900,8 @@ God!
 
 648
 00:48:26,708 --> 00:48:32,540
-- Good Lord, Alba! Which one?
-- Oh! I don't know, I've forgotten.
+Good Lord, Alba! Which one?
+Oh! I don't know, I've forgotten.
 
 649
 00:48:33,416 --> 00:48:35,374
@@ -2936,8 +2936,8 @@ the gharials, alligators and caimans...
 
 656
 00:49:06,875 --> 00:49:09,624
-- Your leg.
-- What leg?
+Your leg.
+What leg?
 
 657
 00:49:11,333 --> 00:49:13,207
@@ -2962,8 +2962,8 @@ You might like it. Your brother did.
 
 662
 00:50:18,166 --> 00:50:21,082
-- What's the charge?
-- Charge?
+What's the charge?
+Charge?
 
 663
 00:50:21,875 --> 00:50:24,540
@@ -3028,8 +3028,8 @@ They'd only put it in a zoo.
 
 677
 00:51:12,041 --> 00:51:15,915
-- Next to the unicorn.
-- And the mermaid.
+Next to the unicorn.
+And the mermaid.
 
 678
 00:51:17,333 --> 00:51:19,832
@@ -3130,8 +3130,8 @@ so they don't count.
 
 700
 00:52:43,750 --> 00:52:47,415
-- OSWALD: And Victor Hugo's father.
-- He wrote fiction, so he doesn't count.
+OSWALD: And Victor Hugo's father.
+He wrote fiction, so he doesn't count.
 
 701
 00:52:47,500 --> 00:52:49,540
@@ -3148,8 +3148,8 @@ trouble having it fitting as I am?
 
 704
 00:52:56,250 --> 00:52:58,999
-- Next time you two must come with me.
-- Why?
+Next time you two must come with me.
+Why?
 
 705
 00:52:59,083 --> 00:53:01,082
@@ -3158,8 +3158,8 @@ from unnecessary attentions.
 
 706
 00:53:01,125 --> 00:53:04,082
-- Oh, you're imagining it.
-- Pinocchio's legs were wooden.
+Oh, you're imagining it.
+Pinocchio's legs were wooden.
 
 707
 00:53:04,166 --> 00:53:05,415
@@ -3213,13 +3213,13 @@ It's just sour.
 
 718
 00:53:41,458 --> 00:53:44,582
-- Excuse me, can I have a word with you?
-- Go ahead.
+Excuse me, can I have a word with you?
+Go ahead.
 
 719
 00:53:44,625 --> 00:53:47,415
-- Wouldn't you like to speak to me alone?
-- No.
+Wouldn't you like to speak to me alone?
+No.
 
 720
 00:53:47,500 --> 00:53:50,249
@@ -3236,13 +3236,13 @@ I may be.
 
 723
 00:53:53,583 --> 00:53:55,249
-- Well, what exactly are you looking for?
-- Reptiles.
+Well, what exactly are you looking for?
+Reptiles.
 
 724
 00:53:55,291 --> 00:53:57,290
-- Would something a bit bigger do?
-- Not yet.
+Would something a bit bigger do?
+Not yet.
 
 725
 00:53:57,375 --> 00:53:58,499
@@ -3255,8 +3255,8 @@ but I'm unlikely to find one.
 
 727
 00:54:00,583 --> 00:54:02,832
-- How much would you pay?
-- Pay? I haven't thought.
+How much would you pay?
+Pay? I haven't thought.
 
 728
 00:54:02,916 --> 00:54:05,249
@@ -3269,13 +3269,13 @@ That's none of your business.
 
 730
 00:54:06,583 --> 00:54:08,165
-- �40.
-- That seems a lot.
+�40.
+That seems a lot.
 
 731
 00:54:08,250 --> 00:54:12,082
-- All right, �35.
-- Where did you get that?
+All right, �35.
+Where did you get that?
 
 732
 00:54:12,166 --> 00:54:15,957
@@ -3351,8 +3351,8 @@ in Beardsley's Under the Hill.
 
 747
 00:55:10,875 --> 00:55:14,207
-- Milo...
-- He got paid 60 guineas.
+Milo...
+He got paid 60 guineas.
 
 748
 00:55:14,250 --> 00:55:16,749
@@ -3476,8 +3476,8 @@ I'm sure of it.
 
 775
 00:57:43,500 --> 00:57:47,790
-- Does she really know what she's doing?
-- She's trying to start all over again.
+Does she really know what she's doing?
+She's trying to start all over again.
 
 776
 00:57:47,875 --> 00:57:49,957
@@ -3505,8 +3505,8 @@ mutual exploitation?
 
 781
 00:58:02,083 --> 00:58:04,624
-- At the moment, I am.
-- Why you?
+At the moment, I am.
+Why you?
 
 782
 00:58:04,708 --> 00:58:06,749
@@ -3584,8 +3584,8 @@ But the music is still the same.
 
 799
 00:59:20,541 --> 00:59:23,790
-- So, I am to be a kept woman?
-- Not so you'd notice.
+So, I am to be a kept woman?
+Not so you'd notice.
 
 800
 00:59:24,750 --> 00:59:27,165
@@ -3598,8 +3598,8 @@ You know, I don't believe in cages.
 
 802
 00:59:29,750 --> 00:59:34,624
-- Suppose, I don't want to escape.
-- Good grief, Alba!
+Suppose, I don't want to escape.
+Good grief, Alba!
 
 803
 00:59:34,708 --> 00:59:36,707
@@ -3630,8 +3630,8 @@ Sorry.
 
 809
 00:59:51,500 --> 00:59:54,832
-- Who has the keys?
-- You can have the keys.
+Who has the keys?
+You can have the keys.
 
 810
 00:59:54,916 --> 00:59:58,290
@@ -3677,33 +3677,33 @@ and you are about to become a father.
 
 819
 01:00:30,916 --> 01:00:32,249
-- Or fathers.
-- You what?
+Or fathers.
+You what?
 
 820
 01:00:32,333 --> 01:00:33,457
-- You are?
-- I am.
+You are?
+I am.
 
 821
 01:00:33,541 --> 01:00:34,582
-- Good Lord.
-- Why not?
+Good Lord.
+Why not?
 
 822
 01:00:34,625 --> 01:00:36,249
-- You can?
-- Of course.
+You can?
+Of course.
 
 823
 01:00:36,333 --> 01:00:39,624
-- Is leglessness a form of contraception?
-- I'm not sure.
+Is leglessness a form of contraception?
+I'm not sure.
 
 824
 01:00:39,708 --> 01:00:41,249
-- You're not sure?
-- I'm delighted.
+You're not sure?
+I'm delighted.
 
 825
 01:00:41,291 --> 01:00:45,707
@@ -3717,8 +3717,8 @@ to my sense of balance.
 
 827
 01:00:47,791 --> 01:00:51,415
-- It might help give you more stability.
-- Then you recommend it.
+It might help give you more stability.
+Then you recommend it.
 
 828
 01:00:51,458 --> 01:00:55,415
@@ -3753,8 +3753,8 @@ As far as I'm concerned you both are.
 
 835
 01:01:12,875 --> 01:01:14,749
-- But you're...
-- No buts!
+But you're...
+No buts!
 
 836
 01:01:16,750 --> 01:01:19,540
@@ -3790,13 +3790,13 @@ Could they fly like that, do you think?
 
 843
 01:02:22,416 --> 01:02:25,332
-- Joined together like that?
-- OSWALD: They could learn.
+Joined together like that?
+OSWALD: They could learn.
 
 844
 01:02:26,583 --> 01:02:29,415
-- Could my fish learn?
-- I'm sure.
+Could my fish learn?
+I'm sure.
 
 845
 01:02:30,000 --> 01:02:31,415
@@ -3946,8 +3946,8 @@ I've got to go back to the hospital.
 
 877
 01:05:23,125 --> 01:05:25,999
-- Why?
-- I'm going to lose the other one.
+Why?
+I'm going to lose the other one.
 
 878
 01:05:26,083 --> 01:05:27,124
@@ -3963,13 +3963,13 @@ What's the matter with you?
 
 881
 01:05:42,166 --> 01:05:45,374
-- It looks all right, doesn't it?
-- Of course, it does.
+It looks all right, doesn't it?
+Of course, it does.
 
 882
 01:05:45,416 --> 01:05:47,915
-- What's wrong with it?
-- It's got to go.
+What's wrong with it?
+It's got to go.
 
 883
 01:05:47,958 --> 01:05:49,665
@@ -4089,8 +4089,8 @@ at the back of the knee?
 
 910
 01:07:23,875 --> 01:07:26,832
-- Hasn't got a name.
-- Oh, then I won't miss it.
+Hasn't got a name.
+Oh, then I won't miss it.
 
 911
 01:07:26,916 --> 01:07:28,999
@@ -4117,8 +4117,8 @@ two of everything?
 
 916
 01:07:39,166 --> 01:07:41,415
-- Symmetry is all.
-- We're twins.
+Symmetry is all.
+We're twins.
 
 917
 01:07:45,083 --> 01:07:46,957
@@ -4135,8 +4135,8 @@ doesn't mean I have to be surprised.
 
 920
 01:07:55,250 --> 01:07:58,165
-- Who told you?
-- No one.
+Who told you?
+No one.
 
 921
 01:07:58,250 --> 01:07:59,582
@@ -4144,8 +4144,8 @@ I guessed.
 
 922
 01:08:00,250 --> 01:08:02,582
-- Not even your wives told me.
-- They didn't know.
+Not even your wives told me.
+They didn't know.
 
 923
 01:08:02,625 --> 01:08:03,957
@@ -4153,8 +4153,8 @@ They didn't know? Come on.
 
 924
 01:08:04,041 --> 01:08:05,707
-- They didn't know.
-- They knew we were brothers,
+They didn't know.
+They knew we were brothers,
 
 925
 01:08:05,750 --> 01:08:07,915
@@ -4194,8 +4194,8 @@ or athlete's foot.
 
 933
 01:08:31,791 --> 01:08:34,957
-- Or verruca.
-- You can get verrucas on your hands.
+Or verruca.
+You can get verrucas on your hands.
 
 934
 01:08:36,833 --> 01:08:38,707
@@ -4259,8 +4259,8 @@ Turn out the light.
 
 949
 01:11:40,041 --> 01:11:43,874
-- What are you watching?
-- It's a convalescence present,
+What are you watching?
+It's a convalescence present,
 
 950
 01:11:43,916 --> 01:11:46,499
@@ -4277,8 +4277,8 @@ I turned out the rhino.
 
 953
 01:11:50,875 --> 01:11:52,790
-- It followed me to the corner.
-- OSWALD: And you abandoned it.
+It followed me to the corner.
+OSWALD: And you abandoned it.
 
 954
 01:11:52,875 --> 01:11:54,915
@@ -4335,13 +4335,13 @@ that I am prepared to acknowledge it.
 
 966
 01:13:25,500 --> 01:13:30,290
-- Know your place?
-- Since before I was three.
+Know your place?
+Since before I was three.
 
 967
 01:13:30,375 --> 01:13:34,457
-- You have a long memory.
-- And a few scars to prove it.
+You have a long memory.
+And a few scars to prove it.
 
 968
 01:13:34,541 --> 01:13:35,790
@@ -4377,8 +4377,8 @@ Why haven't you acknowledged it before?
 
 976
 01:14:04,791 --> 01:14:08,249
-- Paternal advice.
-- Say nothing and nobody will ever know.
+Paternal advice.
+Say nothing and nobody will ever know.
 
 977
 01:14:08,333 --> 01:14:10,832
@@ -4433,8 +4433,8 @@ your special animosity for them?
 
 988
 01:15:12,125 --> 01:15:14,624
-- Nothing!
-- OLIVER: What did you say?
+Nothing!
+OLIVER: What did you say?
 
 989
 01:15:14,958 --> 01:15:18,249
@@ -4592,8 +4592,8 @@ to find him for you?
 
 1023
 01:18:43,250 --> 01:18:47,082
-- You intend to make him push us out?
-- Push you out?
+You intend to make him push us out?
+Push you out?
 
 1024
 01:18:47,166 --> 01:18:52,624
@@ -4611,23 +4611,23 @@ Keep looking.
 
 1027
 01:19:13,833 --> 01:19:16,249
-- "P" is for...
-- Penguin.
+"P" is for...
+Penguin.
 
 1028
 01:19:16,333 --> 01:19:18,790
-- "Q" is for...
-- Quagga.
+"Q" is for...
+Quagga.
 
 1029
 01:19:18,875 --> 01:19:21,332
-- "R" is for...
-- Rhinoceros.
+"R" is for...
+Rhinoceros.
 
 1030
 01:19:21,416 --> 01:19:22,999
-- "S" is for...
-- Swan.
+"S" is for...
+Swan.
 
 1031
 01:19:44,916 --> 01:19:48,040
@@ -4763,8 +4763,8 @@ It's yours for �25.
 
 1060
 01:21:20,875 --> 01:21:24,832
-- We want you to make us a suit.
-- I know. Plenty of measuring inside leg?
+We want you to make us a suit.
+I know. Plenty of measuring inside leg?
 
 1061
 01:21:24,916 --> 01:21:27,040
@@ -4785,8 +4785,8 @@ There are plenty of respectable tailors.
 
 1065
 01:21:36,958 --> 01:21:41,624
-- A three-piece suit.
-- Oh! Who's the third part for?
+A three-piece suit.
+Oh! Who's the third part for?
 
 1066
 01:21:41,708 --> 01:21:44,124
@@ -4847,13 +4847,13 @@ animal left in the zoo.
 
 1079
 01:22:39,916 --> 01:22:41,874
-- What about the panda?
-- It's stuffed.
+What about the panda?
+It's stuffed.
 
 1080
 01:22:41,916 --> 01:22:44,915
-- It isn't.
-- It is, ask Plate.
+It isn't.
+It is, ask Plate.
 
 1081
 01:22:45,666 --> 01:22:48,124
@@ -4862,8 +4862,8 @@ on the bamboo shoots.
 
 1082
 01:22:48,208 --> 01:22:51,082
-- How often did you see it move?
-- It was always asleep.
+How often did you see it move?
+It was always asleep.
 
 1083
 01:22:51,166 --> 01:22:52,290
@@ -4881,8 +4881,8 @@ each afternoon.
 
 1086
 01:22:57,458 --> 01:23:00,082
-- He doesn't.
-- He does.
+He doesn't.
+He does.
 
 1087
 01:23:00,125 --> 01:23:02,415
@@ -4900,8 +4900,8 @@ The kids know exactly what is going on.
 
 1090
 01:23:07,458 --> 01:23:11,040
-- I bet if you ask Beta she'd tell you.
-- What a fake!
+I bet if you ask Beta she'd tell you.
+What a fake!
 
 1091
 01:23:11,750 --> 01:23:13,082
@@ -5108,8 +5108,8 @@ for what you've got.
 
 1137
 01:25:32,625 --> 01:25:37,665
-- Look, I think I'd better join you.
-- Oswald, one fool in there is enough!
+Look, I think I'd better join you.
+Oswald, one fool in there is enough!
 
 1138
 01:25:37,750 --> 01:25:41,415
@@ -5193,13 +5193,13 @@ is to spoil that symmetry,
 
 1155
 01:26:38,250 --> 01:26:40,790
-- wouldn't you say?
-- You leave that animal alone, Meegeren!
+wouldn't you say?
+You leave that animal alone, Meegeren!
 
 1156
 01:26:40,875 --> 01:26:43,915
-- Dear me, what do you think I am?
-- You're certainly not Vermeer.
+Dear me, what do you think I am?
+You're certainly not Vermeer.
 
 1157
 01:26:44,000 --> 01:26:47,374
@@ -5251,8 +5251,8 @@ let me be the father of her child.
 
 1168
 01:27:14,750 --> 01:27:15,999
-- No!
-- No!
+No!
+No!
 
 1169
 01:27:17,041 --> 01:27:19,665
@@ -5334,8 +5334,8 @@ ends with man.
 
 1186
 01:28:30,541 --> 01:28:32,957
-- Some say a woman.
-- PLATE: And an apple.
+Some say a woman.
+PLATE: And an apple.
 
 1187
 01:28:33,041 --> 01:28:35,499
@@ -5375,8 +5375,8 @@ That Venus de Milo is unusually fertile.
 
 1195
 01:28:58,791 --> 01:29:01,749
-- Or rather careless.
-- For someone without arms.
+Or rather careless.
+For someone without arms.
 
 1196
 01:29:02,125 --> 01:29:06,457
@@ -5399,8 +5399,8 @@ and the sharp hooves,
 
 1200
 01:29:17,458 --> 01:29:20,249
-- and the vicious kick.
-- And the big prick!
+and the vicious kick.
+And the big prick!
 
 1201
 01:29:20,291 --> 01:29:22,374
@@ -5536,8 +5536,8 @@ Unauthorised freeing of animals.
 
 1231
 01:32:09,541 --> 01:32:11,957
-- We haven't finished.
-- Finished what?
+We haven't finished.
+Finished what?
 
 1232
 01:32:12,041 --> 01:32:15,915
@@ -5555,8 +5555,8 @@ Nothing!
 
 1235
 01:32:20,041 --> 01:32:23,915
-- How can you measure decay?
-- By degrees of grief, perhaps.
+How can you measure decay?
+By degrees of grief, perhaps.
 
 1236
 01:32:24,000 --> 01:32:26,790
@@ -5627,23 +5627,23 @@ Careful!
 
 1251
 01:33:02,916 --> 01:33:05,249
-- So where've you been?
-- We were busy.
+So where've you been?
+We were busy.
 
 1252
 01:33:05,333 --> 01:33:09,082
-- How did you do it?
-- I just sat on the eggs.
+How did you do it?
+I just sat on the eggs.
 
 1253
 01:33:09,916 --> 01:33:12,665
-- What did you mean you were busy?
-- What are you going to call them?
+What did you mean you were busy?
+What are you going to call them?
 
 1254
 01:33:12,750 --> 01:33:15,165
-- Castor and Polydeuces?
-- From the rape of the swan.
+Castor and Polydeuces?
+From the rape of the swan.
 
 1255
 01:33:15,250 --> 01:33:16,457
@@ -5651,8 +5651,8 @@ Too obvious.
 
 1256
 01:33:16,541 --> 01:33:18,832
-- Gamma and Delta.
-- Wrong sex.
+Gamma and Delta.
+Wrong sex.
 
 1257
 01:33:18,916 --> 01:33:21,040
@@ -5668,8 +5668,8 @@ It's not important.
 
 1260
 01:33:27,250 --> 01:33:29,415
-- Did you know?
-- You must've known.
+Did you know?
+You must've known.
 
 1261
 01:33:29,500 --> 01:33:32,415
@@ -5704,8 +5704,8 @@ with a broken back?
 
 1268
 01:33:48,250 --> 01:33:50,832
-- How are you?
-- Tired.
+How are you?
+Tired.
 
 1269
 01:33:50,916 --> 01:33:53,665
@@ -5713,13 +5713,13 @@ And my feet ache, so does my back.
 
 1270
 01:33:54,750 --> 01:33:57,249
-- Sorry, we weren't here.
-- So am I.
+Sorry, we weren't here.
+So am I.
 
 1271
 01:33:57,291 --> 01:34:00,207
-- Are you pleased?
-- Of course.
+Are you pleased?
+Of course.
 
 1272
 01:34:01,041 --> 01:34:02,749
@@ -5744,13 +5744,13 @@ us working at L'Escargot.
 
 1277
 01:34:18,958 --> 01:34:21,415
-- What are you doing?
-- Making a zoo.
+What are you doing?
+Making a zoo.
 
 1278
 01:34:22,000 --> 01:34:24,540
-- Can I look?
-- Only if you pay.
+Can I look?
+Only if you pay.
 
 1279
 01:34:24,583 --> 01:34:26,249
@@ -5786,8 +5786,8 @@ And you mustn't cheat.
 
 1286
 01:34:42,250 --> 01:34:43,749
-- Cheat?
-- Cheat?
+Cheat?
+Cheat?
 
 1287
 01:34:43,791 --> 01:34:47,957
@@ -5817,18 +5817,18 @@ I'm well enough, but I'm not coming.
 
 1293
 01:35:26,875 --> 01:35:29,749
-- Why ever not?
-- I'm ill.
+Why ever not?
+I'm ill.
 
 1294
 01:35:30,250 --> 01:35:34,249
-- Van Meegeren says my spine is damaged.
-- God, why listen to him?
+Van Meegeren says my spine is damaged.
+God, why listen to him?
 
 1295
 01:35:34,291 --> 01:35:37,415
-- Haven't you had enough of him?
-- I'm not coming.
+Haven't you had enough of him?
+I'm not coming.
 
 1296
 01:35:38,583 --> 01:35:41,415
@@ -5913,8 +5913,8 @@ On your own admission, you are jobless.
 
 1314
 01:36:35,000 --> 01:36:37,999
-- I cannot risk your extreme behaviour.
-- You risked it before.
+I cannot risk your extreme behaviour.
+You risked it before.
 
 1315
 01:36:38,083 --> 01:36:40,290
@@ -5927,8 +5927,8 @@ from being together.
 
 1317
 01:36:42,750 --> 01:36:45,915
-- Nonsense!
-- Felipe will make a better father.
+Nonsense!
+Felipe will make a better father.
 
 1318
 01:36:46,000 --> 01:36:47,457
@@ -5936,13 +5936,13 @@ He's legless!
 
 1319
 01:36:47,916 --> 01:36:51,915
-- Did that stop me being a mother?
-- Motherhood is involuntary!
+Did that stop me being a mother?
+Motherhood is involuntary!
 
 1320
 01:36:53,291 --> 01:36:58,290
-- We'll take legal action.
-- Oswald, stop being petulant.
+We'll take legal action.
+Oswald, stop being petulant.
 
 1321
 01:36:59,000 --> 01:37:00,749
@@ -6013,8 +6013,8 @@ Go? Where are you going?
 
 1336
 01:39:08,625 --> 01:39:11,082
-- I've had enough.
-- What do you mean?
+I've had enough.
+What do you mean?
 
 1337
 01:39:11,125 --> 01:39:14,040
@@ -6045,8 +6045,8 @@ that's so important?
 
 1343
 01:39:28,583 --> 01:39:30,207
-- I'm grieving.
-- Still?
+I'm grieving.
+Still?
 
 1344
 01:39:30,250 --> 01:39:31,665
@@ -6054,8 +6054,8 @@ Always.
 
 1345
 01:39:31,750 --> 01:39:35,499
-- I'm now childless, as well as wifeless.
-- You've forgotten jobless and homeless.
+I'm now childless, as well as wifeless.
+You've forgotten jobless and homeless.
 
 1346
 01:39:35,583 --> 01:39:37,457
@@ -6067,8 +6067,8 @@ Thanks for 30 seconds of your sympathy.
 
 1348
 01:39:41,083 --> 01:39:42,749
-- No bargains!
-- No record!
+No bargains!
+No record!
 
 1349
 01:39:42,833 --> 01:39:44,165
@@ -6081,8 +6081,8 @@ over a gramophone record.
 
 1351
 01:39:48,125 --> 01:39:51,290
-- You can stay away.
-- We'll come on one condition.
+You can stay away.
+We'll come on one condition.
 
 1352
 01:39:52,375 --> 01:39:54,415
@@ -6112,8 +6112,8 @@ Haven't you had enough of my body?
 
 1358
 01:40:11,083 --> 01:40:13,582
-- You're our last chance!
-- And you were my first choice.
+You're our last chance!
+And you were my first choice.
 
 1359
 01:40:13,666 --> 01:40:15,374
@@ -6126,8 +6126,8 @@ of L'Escargot for nine months.
 
 1361
 01:40:20,166 --> 01:40:22,249
-- A significant period.
-- Or longer.
+A significant period.
+Or longer.
 
 1362
 01:40:22,291 --> 01:40:25,332
@@ -6200,8 +6200,8 @@ And you'll lie quietly in the garden.
 
 1377
 01:41:05,625 --> 01:41:09,082
-- With you watching?
-- Only the camera will be watching.
+With you watching?
+Only the camera will be watching.
 
 1378
 01:41:10,458 --> 01:41:12,790
@@ -6262,8 +6262,8 @@ beginning with "X".
 
 1391
 01:41:46,875 --> 01:41:49,332
-- "Y" is for...
-- Yak.
+"Y" is for...
+Yak.
 
 1392
 01:41:49,416 --> 01:41:51,249
@@ -6271,8 +6271,8 @@ It's a sort of ox.
 
 1393
 01:41:51,291 --> 01:41:53,707
-- And "Z" is for...
-- Zebra.
+And "Z" is for...
+Zebra.
 
 1394
 01:42:07,541 --> 01:42:12,040
@@ -6299,18 +6299,18 @@ ever since I've known you, Milo?
 
 1399
 01:42:34,416 --> 01:42:37,332
-- Have you got a flat piece of plastic?
-- Yes.
+Have you got a flat piece of plastic?
+Yes.
 
 1400
 01:42:38,500 --> 01:42:40,499
-- A sharpened pencil?
-- Yes.
+A sharpened pencil?
+Yes.
 
 1401
 01:42:42,333 --> 01:42:45,749
-- You are well equipped.
-- Yes, I am.
+You are well equipped.
+Yes, I am.
 
 1402
 01:42:48,166 --> 01:42:49,540
@@ -6326,8 +6326,8 @@ Well, here we go.
 
 1405
 01:44:15,750 --> 01:44:19,249
-- What's the time?
-- 1:00.
+What's the time?
+1:00.
 
 1406
 01:44:19,333 --> 01:44:20,999
@@ -6478,8 +6478,8 @@ But an elephant never forgets♪
 
 1440
 01:47:40,458 --> 01:47:43,415
-- Now what?
-- We take her to L'Escargot.
+Now what?
+We take her to L'Escargot.
 
 1441
 01:47:44,625 --> 01:47:45,665
