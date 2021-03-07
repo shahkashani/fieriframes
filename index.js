@@ -108,6 +108,8 @@ const DEFAULT_OPTIONS = {
     MICROSOFT_AZURE_TOKEN,
     GOOGLE_CLOUD_CREDENTIALS_BASE64,
     POST_TEXT_GENERATOR_URL,
+    SPOTIFY_CLIENT_ID,
+    SPOTIFY_CLIENT_SECRET,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -267,6 +269,8 @@ const DEFAULT_OPTIONS = {
       tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
       tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
       textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+      spotifyClientId: SPOTIFY_CLIENT_ID,
+      spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
     });
 
     await fierifiction.postVideo(
