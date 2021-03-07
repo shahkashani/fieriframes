@@ -5,3 +5,5 @@ output/
 .env
 /*.png
 /*.gif
+/*.mp3
+/*.mp4
