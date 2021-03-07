@@ -24,7 +24,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "dreamers": "git+https://github.com/shahkashani/dreamers.git#v2.1.0",
-    "fierifiction": "^7.0.0",
+    "fierifiction": "^7.0.4",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
     "stills": "^13.0.0",
