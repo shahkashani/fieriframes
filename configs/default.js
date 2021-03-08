@@ -85,6 +85,7 @@ class DefaultConfig {
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
+      FIERIFICTION_VIDEO_RATE,
     } = args;
     const type = this.getType(args);
     const num = this.getNum(args);
@@ -97,6 +98,9 @@ class DefaultConfig {
       : 0.2;
     const USE_CAPTION_EFFECT_RATE = CAPTION_EFFECT_RATE
       ? parseFloat(CAPTION_EFFECT_RATE)
+      : 0;
+    const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
+      ? parseFloat(FIERIFICTION_VIDEO_RATE)
       : 0;
 
     const getEffectsByName = (allEffects, effects) => {
@@ -213,7 +217,6 @@ class DefaultConfig {
       }),
       new stills.filters.ColorTone(),
       new stills.filters.Halo(),
-      new stills.filters.Celestial(),
     ];
 
     const gifEffects = [
@@ -291,7 +294,6 @@ class DefaultConfig {
         morphFile,
       }),
       new stills.filters.Halo(),
-      new stills.filters.Celestial(),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
@@ -349,6 +351,7 @@ class DefaultConfig {
     );
 
     const globals = compact([globalsCaption]);
+    const isCreateFiction = Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
 
     return {
       type,
@@ -356,6 +359,7 @@ class DefaultConfig {
       num,
       globals,
       filters,
+      isCreateFiction,
     };
   }
 }

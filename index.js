@@ -12,6 +12,7 @@ const configs = {
   clean: require('./configs/clean'),
   arcadia: require('./configs/arcadia'),
   dreamers: require('./configs/dreamers'),
+  celestial: require('./configs/celestial'),
 };
 
 const DEFAULT_OPTIONS = {
@@ -79,7 +80,15 @@ const DEFAULT_OPTIONS = {
   const options = { ...args, ...process.env };
 
   const baseConfig = await useConfig.generateConfig(options);
-  const { type, num, tags, highlightColor } = baseConfig;
+  const {
+    type,
+    num,
+    tags,
+    highlightColor,
+    isCreateFiction,
+    blogName,
+    isDraft,
+  } = baseConfig;
 
   const {
     post,
@@ -99,7 +108,6 @@ const DEFAULT_OPTIONS = {
     TUMBLR_ACCESS_TOKEN_SECRET,
     TUMBLR_BLOG_NAME,
     TUMBLR_REBLOG_BLOG_NAME,
-    FIERIFICTION_VIDEO_RATE,
     S3_ACCESS_KEY_ID,
     S3_SECRET_ACCESS_KEY,
     S3_BUCKET,
@@ -116,9 +124,6 @@ const DEFAULT_OPTIONS = {
     ? parseFloat(GIF_LENGTH_SECONDS)
     : 2;
   const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
-  const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
-    ? parseFloat(FIERIFICTION_VIDEO_RATE)
-    : 0;
 
   const getSourceSeconds = (string) => {
     if (!string) {
@@ -132,6 +137,8 @@ const DEFAULT_OPTIONS = {
   };
 
   const useSourceSeconds = getSourceSeconds(sourceSeconds);
+  const postDraft = draft || isDraft;
+  const postBlogName = blogName || TUMBLR_BLOG_NAME;
 
   const TUMBLR_CONFIG = {
     highlightColor,
@@ -139,8 +146,8 @@ const DEFAULT_OPTIONS = {
     consumerSecret: TUMBLR_CONSUMER_SECRET,
     token: TUMBLR_ACCESS_TOKEN_KEY,
     tokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-    blogName: TUMBLR_BLOG_NAME,
-    publishState: draft ? 'draft' : undefined,
+    blogName: postBlogName,
+    publishState: postDraft ? 'draft' : undefined,
   };
 
   const destinations = post
@@ -242,43 +249,49 @@ const DEFAULT_OPTIONS = {
   };
 
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
+  console.log(`📮 Posting${postDraft ? ' draft' : ''} to ${postBlogName}`);
+
   const result = await stills.generate(finalConfig);
 
   if (useConfig.onComplete) {
     await useConfig.onComplete(result, baseConfigData);
   }
 
-  const captions = flatten(get(result, 'globals.captions', []));
+  if (isCreateFiction && result.destinations && result.destinations.tumblr) {
+    let captions = flatten(get(result, 'globals.captions', []));
+    const { text } = result.destinations.tumblr;
+    // Bad workaround for passthroughs currently not populating globals
+    if (captions.length === 0 && text) {
+      const match = text.match('Captions?: (.*)]');
+      if (match) {
+        captions = [match[1]];
+      }
+    }
+    if (captions.length > 0) {
+      const googleCloudCredentials = Buffer.from(
+        GOOGLE_CLOUD_CREDENTIALS_BASE64,
+        'base64'
+      ).toString();
 
-  if (
-    Math.random() < NUM_FIERIFICTION_VIDEO_RATE &&
-    captions.length > 0 &&
-    result.destinations &&
-    result.destinations.tumblr
-  ) {
-    const googleCloudCredentials = Buffer.from(
-      GOOGLE_CLOUD_CREDENTIALS_BASE64,
-      'base64'
-    ).toString();
+      const fierifiction = new FieriFiction({
+        googleCloudCredentials,
+        tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
+        tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
+        tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
+        tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
+        tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
+        textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+        spotifyClientId: SPOTIFY_CLIENT_ID,
+        spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
+      });
 
-    const fierifiction = new FieriFiction({
-      googleCloudCredentials,
-      tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
-      tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
-      tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
-      tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
-      tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
-      textGeneratorUrl: POST_TEXT_GENERATOR_URL,
-      spotifyClientId: SPOTIFY_CLIENT_ID,
-      spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
-    });
-
-    await fierifiction.postVideo(
-      result.content,
-      captions,
-      result.tags,
-      result.destinations.tumblr.url
-    );
+      await fierifiction.postVideo(
+        result.content,
+        captions,
+        result.tags,
+        result.destinations.tumblr.url
+      );
+    }
   }
 
   if (destinations.length > 0) {

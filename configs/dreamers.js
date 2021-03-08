@@ -32,7 +32,7 @@ class DreamerConfig {
       console.warn(`💀 There is nothing to post.`);
       process.exit(0);
     }
-    const { captions, tags, effects, author, id } = post;
+    const { captions, tags, effects, author, id, deleteIds } = post;
     const filters = effects.reduce((memo, { type, params }) => {
       const fn = this.effects[type];
       if (fn) {
@@ -45,7 +45,7 @@ class DreamerConfig {
 
     return {
       data: {
-        id,
+        deleteIds,
       },
       tags,
       type: 'gif',
@@ -70,11 +70,13 @@ class DreamerConfig {
     };
   }
 
-  async onComplete({ destinations }, { id }) {
+  async onComplete({ destinations }, { deleteIds }) {
     const isPosted = Object.keys(destinations).length > 0;
-    if (isPosted) {
-      console.log(`💀 Deleting post ${id}...`);
-      await this.dreamers.deletePost(id);
+    if (isPosted && deleteIds) {
+      for (const id of deleteIds) {
+        console.log(`💀 Deleting post ${id}...`);
+        await this.dreamers.deletePost(id);
+      }
     }
   }
 }
