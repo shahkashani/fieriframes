@@ -326,12 +326,6 @@ class DefaultConfig {
       (Number.isFinite(num) && num > 1) ||
       intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
 
-    const captionTransforms = randomly(
-      USE_CAPTION_EFFECT_RATE,
-      sampleSize(['uppercase', 'music', 'exclamation'], 1),
-      []
-    );
-
     const globalsCaption = randomly(
       CAPTION_RATE,
       new stills.globals.Captions({
@@ -341,7 +335,7 @@ class DefaultConfig {
         captionEnd,
         captionText,
         pdfSentenceMaxLength: 50,
-        transformations: captionTransforms,
+        transformationRate: USE_CAPTION_EFFECT_RATE,
         num: {
           srt: useSingleCaption ? 1 : random(1, 2),
           txt: 1,
