@@ -17,7 +17,8 @@
     "faces": "node logo.js && ./node_modules/.bin/train-faces -i faces/fieri -o faces --name 'Guy Fieri'",
     "docker:build": "docker build . -t fieriframes",
     "docker:generate": "docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output",
-    "docker:post": "docker run -it fieriframes npm run post"
+    "docker:post": "docker run -it fieriframes npm run post",
+    "preview": "npm run post -- --config=celestial --preview && npm run post -- --config=dreamers --preview"
   },
   "author": "Shah Kashani",
   "license": "MIT",
