@@ -183,6 +183,11 @@ class DefaultConfig {
         gravity: 'southeast',
         sizePercentHeight: 0.6,
       },
+      {
+        overlayFile: './overlays/pilt.png',
+        gravity: 'southeast',
+        sizePercentHeight: 0.6,
+      },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
