@@ -72,7 +72,6 @@ class DefaultConfig {
   async generateConfig(args) {
     const {
       caption,
-      blend,
       overlay,
       faceoverlay,
       effects,
@@ -130,7 +129,7 @@ class DefaultConfig {
       },
     ];
 
-    const blendFiles = sync(`./blend/${blend}`);
+    const blendFiles = sync(`./blend/**/*.mp4`);
 
     const overlays = [
       {
