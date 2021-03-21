@@ -198,10 +198,9 @@ class DefaultConfig {
 
     const overlayOptions = inOrder(overlays);
 
-    const stillEffects = [
+    const sharedEffects = [
       new stills.filters.FaceOrb({ orbs }),
       new stills.filters.FaceZoom(),
-      new stills.filters.FaceStretch(),
       new stills.filters.FaceDemonEyes({
         avoidDescriptors,
       }),
@@ -213,17 +212,21 @@ class DefaultConfig {
         blur: 0.1,
       }),
       new stills.filters.Liquify(),
+      new stills.filters.ColorTone(),
+      new stills.filters.Halo(),
       new stills.filters.Mirror(),
       new stills.filters.Overlay(overlayOptions),
       new stills.filters.FaceOverlay({
         overlayFile: faceOverlayFile,
-        avoidDescriptors,
+        scale: 3,
       }),
-      new stills.filters.ColorTone(),
-      new stills.filters.Halo(),
+      new stills.filters.Backdrop(),
     ];
 
+    const stillEffects = [...sharedEffects, new stills.filters.FaceStretch()];
+
     const gifEffects = [
+      ...sharedEffects,
       new stills.filters.Distortion({
         heightFactor: random(0.4, 0.6),
       }),
@@ -248,25 +251,12 @@ class DefaultConfig {
       new stills.filters.Flip(),
       new stills.filters.Flop(),
       new stills.filters.Jitter(),
-      new stills.filters.FaceOrb({ orbs }),
-      new stills.filters.FaceZoom(),
       new stills.filters.FaceStretch({
         useProgress: true,
         randomOffset: 0,
       }),
-      new stills.filters.FaceDemonEyes({
-        avoidDescriptors,
-      }),
-      new stills.filters.FacePinch({
-        avoidDescriptors,
-      }),
-      new stills.filters.FaceGlow({
-        avoidDescriptors,
-        blur: 0.1,
-      }),
       new stills.filters.Tempo(),
       new stills.filters.FewFrames(),
-      new stills.filters.Liquify(),
       new stills.filters.Pip(),
       new stills.filters.Flash(),
       new stills.filters.Station(),
@@ -278,7 +268,6 @@ class DefaultConfig {
         opacity: 0.5,
         overlayFile: sample(blendFiles),
       }),
-      new stills.filters.Mirror(),
       new stills.filters.SkipFrames(),
       new stills.filters.Boomerang(),
       new stills.filters.Delay({
@@ -287,17 +276,10 @@ class DefaultConfig {
       new stills.filters.RepeatFrame({
         delay: 0,
       }),
-      new stills.filters.FaceOverlay({
-        overlayFile: faceOverlayFile,
-        scale: 3,
-      }),
       new stills.filters.FaceSwirl(),
-      new stills.filters.Overlay(overlayOptions),
-      new stills.filters.ColorTone(),
       new stills.filters.Morph({
         morphFile,
       }),
-      new stills.filters.Halo(),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
