@@ -271,7 +271,7 @@ class DefaultConfig {
       new stills.filters.SkipFrames(),
       new stills.filters.Boomerang(),
       new stills.filters.Delay({
-        delay: random(3000, 6000),
+        delay: random(500, 1000),
       }),
       new stills.filters.RepeatFrame({
         delay: 0,
