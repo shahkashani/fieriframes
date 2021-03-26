@@ -31,6 +31,10 @@ class DefaultConfig {
       num: {
         describe: 'The number of images to generate',
       },
+      video: {
+        describe: 'Always post a fierifiction video',
+        boolean: false,
+      },
       captionText: {
         describe: 'Custom captions to use',
         array: true,
@@ -80,6 +84,7 @@ class DefaultConfig {
       captionEnd,
       captionText,
       tags,
+      video,
       morphFile,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
@@ -331,7 +336,8 @@ class DefaultConfig {
     );
 
     const globals = compact([globalsCaption]);
-    const isCreateFiction = Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
+    const isCreateFiction =
+      video || Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
 
     return {
       type,

@@ -289,7 +289,8 @@ const DEFAULT_OPTIONS = {
         result.content,
         captions,
         result.tags,
-        result.destinations.tumblr.url
+        result.destinations.tumblr.url,
+        postDraft ? 'draft' : undefined,
       );
     }
   }
