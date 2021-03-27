@@ -212,10 +212,6 @@ class DefaultConfig {
       new stills.filters.FacePinch({
         avoidDescriptors,
       }),
-      new stills.filters.FaceGlow({
-        avoidDescriptors,
-        blur: 0.1,
-      }),
       new stills.filters.Liquify(),
       new stills.filters.ColorTone(),
       new stills.filters.Halo(),
