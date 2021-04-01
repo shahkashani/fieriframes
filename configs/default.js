@@ -42,9 +42,12 @@ class DefaultConfig {
         describe: 'Which effects to apply',
         array: true,
       },
-      baseEffects: {
-        describe:
-          'Which effects to apply as a base, and let others be randomly selected',
+      preEffects: {
+        describe: 'Which effects to always apply before',
+        array: true,
+      },
+      postEffects: {
+        describe: 'Which effects to always apply after',
         array: true,
       },
       tags: {
@@ -78,7 +81,8 @@ class DefaultConfig {
       overlay,
       faceoverlay,
       effects,
-      baseEffects,
+      preEffects,
+      postEffects,
       captionStart,
       captionEnd,
       captionText,
@@ -295,13 +299,18 @@ class DefaultConfig {
           []
         );
 
-    let useBaseEffects = baseEffects
-      ? getEffectsByName(allEffects, baseEffects)
+    let usePreEffects = preEffects
+      ? getEffectsByName(allEffects, preEffects)
+      : [];
+
+    let usePostEffects = postEffects
+      ? getEffectsByName(allEffects, postEffects)
       : [];
 
     const filters = compact([
+      ...usePreEffects,
       ...useEffects,
-      ...useBaseEffects,
+      ...usePostEffects,
       new stills.filters.Captions({
         folder: resolve('./captions'),
         font: resolve('./fonts/arial.ttf'),
