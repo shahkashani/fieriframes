@@ -196,10 +196,10 @@ class DefaultConfig {
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
 
-    const faceOverlayFiles = sync(`./faceoverlays/*.png`);
-    const faceOverlayFile = shuffle(faceOverlayFiles).filter((file) =>
+    const faceOverlayFiles = sync(`./faceoverlays/t*.png`);
+    const faceOverlayFile = faceoverlay ? shuffle(faceOverlayFiles).filter((file) =>
       faceoverlay ? file.startsWith(`./faceoverlays/${faceoverlay}`) : true
-    );
+    ) : sample(faceOverlayFiles);
 
     const overlayOptions = inOrder(overlays);
 
@@ -219,7 +219,7 @@ class DefaultConfig {
       new stills.filters.Overlay(overlayOptions),
       new stills.filters.FaceOverlay({
         overlayFile: faceOverlayFile,
-        scale: 3,
+        scale: 2,
       }),
       new stills.filters.Backdrop(),
     ];
@@ -261,9 +261,6 @@ class DefaultConfig {
       new stills.filters.Pip(),
       new stills.filters.Flash(),
       new stills.filters.Station(),
-      new stills.filters.Tile({
-        numTiles: 4,
-      }),
       new stills.filters.BlendSelf(),
       new stills.filters.Blend({
         opacity: 0.5,
