@@ -5,7 +5,6 @@ const {
   compact,
   random,
   sampleSize,
-  shuffle,
   intersection,
   sample,
   map,
@@ -90,6 +89,7 @@ class DefaultConfig {
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
+      MAX_FACE_OVERLAYS,
     } = args;
     const type = this.getType(args);
     const num = this.getNum(args);
@@ -106,6 +106,9 @@ class DefaultConfig {
     const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
       ? parseFloat(FIERIFICTION_VIDEO_RATE)
       : 0;
+    const NUM_MAX_FACE_OVERLAYS = MAX_FACE_OVERLAYS
+      ? parseInt(MAX_FACE_OVERLAYS, 10)
+      : 1;
 
     const getEffectsByName = (allEffects, effects) => {
       const allEffectsNames = map(allEffects, 'name');
@@ -197,9 +200,11 @@ class DefaultConfig {
     );
 
     const faceOverlayFiles = sync(`./faceoverlays/t*.png`);
-    const faceOverlayFile = faceoverlay ? shuffle(faceOverlayFiles).filter((file) =>
-      faceoverlay ? file.startsWith(`./faceoverlays/${faceoverlay}`) : true
-    ) : sample(faceOverlayFiles);
+    const faceOverlayFile = faceoverlay
+      ? faceOverlayFiles.filter((file) =>
+          file.startsWith(`./faceoverlays/${faceoverlay}`)
+        )
+      : sampleSize(faceOverlayFiles, NUM_MAX_FACE_OVERLAYS);
 
     const overlayOptions = inOrder(overlays);
 
