@@ -203,7 +203,7 @@ class DefaultConfig {
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
 
-    const faceOverlayFiles = sync(`./faceoverlays/t*.png`);
+    const faceOverlayFiles = sync(`./faceoverlays/*.png`);
     const faceOverlayFile = faceoverlay
       ? faceOverlayFiles.filter((file) =>
           file.startsWith(`./faceoverlays/${faceoverlay}`)
