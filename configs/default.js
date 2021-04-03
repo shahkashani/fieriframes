@@ -222,7 +222,6 @@ class DefaultConfig {
         avoidDescriptors,
       }),
       new stills.filters.Liquify(),
-      new stills.filters.ColorTone(),
       new stills.filters.Halo(),
       new stills.filters.Mirror(),
       new stills.filters.Overlay(overlayOptions),
@@ -247,25 +246,16 @@ class DefaultConfig {
         numFrames: random(6, 16),
         stutterDelay: 0,
       }),
-      new stills.filters.Tint({
-        factor: 1.7,
-      }),
       new stills.filters.Invert(),
       new stills.filters.Reverse(),
       new stills.filters.Implode(),
       new stills.filters.Swirl(),
-      new stills.filters.Rotate({
-        useProgress: false,
-        degrees: 15,
-      }),
-      new stills.filters.Flip(),
       new stills.filters.Flop(),
       new stills.filters.Jitter(),
       new stills.filters.FaceStretch({
         useProgress: true,
         randomOffset: 0,
       }),
-      new stills.filters.Tempo(),
       new stills.filters.FewFrames(),
       new stills.filters.Pip(),
       new stills.filters.Flash(),
@@ -275,18 +265,11 @@ class DefaultConfig {
         opacity: 0.5,
         overlayFile: sample(blendFiles),
       }),
-      new stills.filters.SkipFrames(),
       new stills.filters.Boomerang(),
-      new stills.filters.Delay({
-        delay: random(500, 1000),
-      }),
       new stills.filters.RepeatFrame({
         delay: 0,
       }),
       new stills.filters.FaceSwirl(),
-      new stills.filters.Morph({
-        morphFile,
-      }),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
