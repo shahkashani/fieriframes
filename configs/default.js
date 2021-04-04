@@ -58,6 +58,10 @@ class DefaultConfig {
       morphFile: {
         describe: 'For the morph filter',
       },
+      offset: {
+        describe: 'For the faceoverlay filter',
+        string: true,
+      },
     };
   }
 
@@ -80,6 +84,8 @@ class DefaultConfig {
       caption,
       overlay,
       faceoverlay,
+      scale,
+      offset,
       effects,
       preEffects,
       postEffects,
@@ -88,7 +94,6 @@ class DefaultConfig {
       captionText,
       tags,
       video,
-      morphFile,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
@@ -226,10 +231,13 @@ class DefaultConfig {
       new stills.filters.Mirror(),
       new stills.filters.Overlay(overlayOptions),
       new stills.filters.FaceOverlay({
+        offset,
         overlayFile: faceOverlayFile,
-        scale: 2,
+        scale: scale ? parseFloat(scale) : 2,
       }),
-      new stills.filters.Backdrop(),
+      new stills.filters.Backdrop({
+        segmentationThreshold: 0.6,
+      }),
     ];
 
     const stillEffects = [...sharedEffects, new stills.filters.FaceStretch()];
