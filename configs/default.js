@@ -278,6 +278,9 @@ class DefaultConfig {
         delay: 0,
       }),
       new stills.filters.FaceSwirl(),
+      new stills.filters.Blink({
+        source: sample(blendFiles),
+      }),
     ];
 
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
