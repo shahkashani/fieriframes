@@ -204,6 +204,12 @@ class DefaultConfig {
         gravity: 'southeast',
         sizePercentHeight: 0.6,
       },
+      {
+        overlayFile: './overlays/guy-and-phil.png',
+        gravity: 'southeast',
+        sizePercentHeight: 0.6,
+        geometry: '+20%',
+      },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
