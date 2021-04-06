@@ -187,6 +187,7 @@ const DEFAULT_OPTIONS = {
       tile: 'tw:flashing',
       fewframes: 'tw:flashing',
       repeatframe: 'tw:flashing',
+      blink: 'tw:flashing',
       arcadia: 'et in arcadia ego',
     }),
     new stills.taggers.Azure(),
