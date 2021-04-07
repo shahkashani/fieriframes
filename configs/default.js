@@ -99,6 +99,7 @@ class DefaultConfig {
       CAPTION_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
       MAX_FACE_OVERLAYS,
+      BANNED_WORDS,
     } = args;
     const type = this.getType(args);
     const num = this.getNum(args);
@@ -334,6 +335,7 @@ class DefaultConfig {
         captionText,
         pdfSentenceMaxLength: 50,
         transformationRate: USE_CAPTION_EFFECT_RATE,
+        banned: (BANNED_WORDS || '').split(','),
         num: {
           srt: useSingleCaption ? 1 : random(1, 2),
           txt: 1,
