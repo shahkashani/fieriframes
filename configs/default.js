@@ -89,8 +89,6 @@ class DefaultConfig {
       effects,
       preEffects,
       postEffects,
-      captionStart,
-      captionEnd,
       captionText,
       tags,
       video,
@@ -330,8 +328,6 @@ class DefaultConfig {
       new stills.globals.Captions({
         captionFileGlob: caption ? `*${caption}*` : undefined,
         folder: resolve('./captions'),
-        captionStart,
-        captionEnd,
         captionText,
         pdfSentenceMaxLength: 50,
         transformationRate: USE_CAPTION_EFFECT_RATE,
