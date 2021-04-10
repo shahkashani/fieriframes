@@ -89,6 +89,7 @@ const DEFAULT_OPTIONS = {
     isCreateFiction,
     blogName,
     isDraft,
+    ask,
   } = baseConfig;
 
   const {
@@ -143,6 +144,7 @@ const DEFAULT_OPTIONS = {
 
   const TUMBLR_CONFIG = {
     highlightColor,
+    ask,
     consumerKey: TUMBLR_CONSUMER_KEY,
     consumerSecret: TUMBLR_CONSUMER_SECRET,
     token: TUMBLR_ACCESS_TOKEN_KEY,
