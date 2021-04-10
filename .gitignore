@@ -3,6 +3,7 @@ videos/
 output/
 .DS_Store
 .env
+.models
 /*.png
 /*.gif
 /*.mp3

@@ -13,6 +13,7 @@ const configs = {
   arcadia: require('./configs/arcadia'),
   dreamers: require('./configs/dreamers'),
   celestial: require('./configs/celestial'),
+  cormorants: require('./configs/cormorants'),
 };
 
 const DEFAULT_OPTIONS = {
@@ -291,7 +292,7 @@ const DEFAULT_OPTIONS = {
         captions,
         result.tags,
         result.destinations.tumblr.url,
-        postDraft ? 'draft' : undefined,
+        postDraft ? 'draft' : undefined
       );
     }
   }
@@ -299,4 +300,6 @@ const DEFAULT_OPTIONS = {
   if (destinations.length > 0) {
     stills.deleteStills(result);
   }
+
+  process.exit(0);
 })();

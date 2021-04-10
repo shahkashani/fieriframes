@@ -7,7 +7,7 @@
     "url": "git+https://github.com/shahkashani/fieriframes.git"
   },
   "engines": {
-    "node": "10.x"
+    "node": "12.x"
   },
   "scripts": {
     "start": "node logo.js",
@@ -23,12 +23,14 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
+    "cormorants": "^2.0.2",
     "dotenv": "^8.0.0",
-    "dreamers": "git+https://github.com/shahkashani/dreamers.git#v3.0.0",
+    "dreamers": "^3.0.0",
     "fierifiction": "^7.1.0",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
-    "stills": "^16.0.1",
+    "pdf-parse": "^1.1.1",
+    "stills": "^16.0.2",
     "yargs": "^13.2.4"
   }
 }
