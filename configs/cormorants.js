@@ -1,7 +1,5 @@
 const stills = require('stills');
 const Cormorants = require('cormorants');
-const pdf = require('pdf-parse');
-const { readFileSync } = require('fs');
 
 class CormorantsConfig {
   async generateConfig({
@@ -11,18 +9,17 @@ class CormorantsConfig {
     TUMBLR_CONSUMER_SECRET,
     TUMBLR_BLOG_NAME,
     CORMORANTS_CORPUS,
+    CORMORANTS_MODEL_NAME,
     BANNED_WORDS,
   }) {
-    const string = readFileSync(CORMORANTS_CORPUS);
-    const { text: corpus } = await pdf(string);
-
     this.cormants = new Cormorants({
-      corpus,
+      corpus: CORMORANTS_CORPUS,
       accessTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
       accessTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
       consumerKey: TUMBLR_CONSUMER_KEY,
       consumerSecret: TUMBLR_CONSUMER_SECRET,
       blogName: TUMBLR_BLOG_NAME,
+      modelName: CORMORANTS_MODEL_NAME,
       bannedWords: (BANNED_WORDS || '').split(','),
     });
     const result = await this.cormants.speak();

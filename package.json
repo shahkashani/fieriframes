@@ -23,13 +23,12 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
-    "cormorants": "^2.0.3",
+    "cormorants": "^4.0.0",
     "dotenv": "^8.0.0",
     "dreamers": "^3.0.0",
     "fierifiction": "^7.1.0",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
-    "pdf-parse": "^1.1.1",
     "stills": "^16.0.2",
     "yargs": "^13.2.4"
   }
