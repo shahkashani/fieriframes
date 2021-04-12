@@ -209,6 +209,24 @@ class DefaultConfig {
         sizePercentHeight: 0.6,
         geometry: '+20%',
       },
+      {
+        overlayFile: './overlays/sadphil.png',
+        gravity: 'southwest',
+        sizePercentHeight: 0.8,
+        geometry: '+20%',
+      },
+      {
+        overlayFile: './overlays/sadphil2.png',
+        gravity: 'southwest',
+        sizePercentWidth: 0.3,
+        geometry: '+20%',
+      },
+      {
+        overlayFile: './overlays/askeep.png',
+        gravity: 'southwest',
+        sizePercentWidth: 0.3,
+        geometry: '+10%',
+      },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
     );
