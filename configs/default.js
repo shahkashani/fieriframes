@@ -98,6 +98,7 @@ class DefaultConfig {
       FIERIFICTION_VIDEO_RATE,
       MAX_FACE_OVERLAYS,
       BANNED_WORDS,
+      AFTER_CAPTION_EFFECT_RATE,
     } = args;
     const type = this.getType(args);
     const num = this.getNum(args);
@@ -117,6 +118,9 @@ class DefaultConfig {
     const NUM_MAX_FACE_OVERLAYS = MAX_FACE_OVERLAYS
       ? parseInt(MAX_FACE_OVERLAYS, 10)
       : 1;
+    const USE_AFTER_CAPTION_EFFECT_RATE = AFTER_CAPTION_EFFECT_RATE
+      ? parseFloat(AFTER_CAPTION_EFFECT_RATE)
+      : 0;
 
     const getEffectsByName = (allEffects, effects) => {
       const allEffectsNames = map(allEffects, 'name');
@@ -305,6 +309,17 @@ class DefaultConfig {
       }),
     ];
 
+    const afterCaptionEffects = [
+      new stills.filters.Embed({
+        background: './embed/shrek.jpg',
+        mask: './embed/shrek_mask.png',
+        x: 470,
+        y: 600,
+        width: 465,
+        height: 300,
+      }),
+    ];
+
     let allEffects = type === 'gif' ? gifEffects : stillEffects;
 
     let useEffects = effects
@@ -323,6 +338,12 @@ class DefaultConfig {
       ? getEffectsByName(allEffects, postEffects)
       : [];
 
+    const useAfterCaptionEffects = randomly(
+      AFTER_CAPTION_EFFECT_RATE,
+      [sample(afterCaptionEffects)],
+      []
+    );
+
     const filters = compact([
       ...usePreEffects,
       ...useEffects,
@@ -332,6 +353,7 @@ class DefaultConfig {
         font: resolve('./fonts/arial.ttf'),
         glyphs: false,
       }),
+      ...useAfterCaptionEffects,
     ]);
 
     const singleCaptionEffects = ['fewframes', 'tempo', 'jitter'];
