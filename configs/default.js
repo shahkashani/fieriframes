@@ -250,7 +250,6 @@ class DefaultConfig {
         avoidDescriptors,
       }),
       new stills.filters.Liquify(),
-      new stills.filters.Halo(),
       new stills.filters.Mirror(),
       new stills.filters.Overlay(overlayOptions),
       new stills.filters.FaceOverlay({
