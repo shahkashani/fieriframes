@@ -266,10 +266,7 @@ const DEFAULT_OPTIONS = {
     const { text } = result.destinations.tumblr;
     // Bad workaround for passthroughs currently not populating globals
     if (captions.length === 0 && text) {
-      const match = text.match('Captions?: (.*)]');
-      if (match) {
-        captions = [match[1]];
-      }
+      captions = Array.from(text.matchAll(/Caption: (.*)]/g)).map((m) => m[1]);
     }
     if (captions.length > 0) {
       const googleCloudCredentials = Buffer.from(
