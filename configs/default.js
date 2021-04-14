@@ -313,10 +313,31 @@ class DefaultConfig {
       new stills.filters.Embed({
         background: './embed/shrek.jpg',
         mask: './embed/shrek_mask.png',
+        positions: [{
         x: 470,
         y: 600,
         width: 465,
         height: 300,
+        }]
+      }),
+      new stills.filters.Embed({
+        background: './embed/coop.jpg',
+        mask: './embed/coop_mask.png',
+        positions: [
+          {
+            x: 449,
+            y: 281,
+            width: 104,
+            height: 78,
+          },
+          {
+            x: 452,
+            y: 426,
+            width: 104,
+            height: 78,
+            flip: true,
+          },
+        ],
       }),
     ];
 
