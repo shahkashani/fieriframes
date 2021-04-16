@@ -2,6 +2,13 @@ const stills = require('stills');
 const Cormorants = require('cormorants');
 
 class CormorantsConfig {
+  getOptions() {
+    return {
+      filterText: {
+        description: 'Narrow down the questions',
+      },
+    };
+  }
   async generateConfig({
     TUMBLR_ACCESS_TOKEN_KEY,
     TUMBLR_ACCESS_TOKEN_SECRET,
@@ -11,8 +18,10 @@ class CormorantsConfig {
     CORMORANTS_CORPUS,
     CORMORANTS_MODEL_NAME,
     BANNED_WORDS,
+    filterText,
   }) {
     this.cormants = new Cormorants({
+      filterText,
       corpus: CORMORANTS_CORPUS,
       accessTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
       accessTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
