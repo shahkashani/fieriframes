@@ -1,5 +1,6 @@
 const stills = require('stills');
 const Cormorants = require('cormorants');
+const { sample } = require('lodash');
 
 class CormorantsConfig {
   getOptions() {
@@ -22,7 +23,7 @@ class CormorantsConfig {
   }) {
     this.cormants = new Cormorants({
       filterText,
-      corpus: CORMORANTS_CORPUS,
+      corpus: sample(CORMORANTS_CORPUS.split(',')),
       accessTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
       accessTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
       consumerKey: TUMBLR_CONSUMER_KEY,
