@@ -20,9 +20,13 @@ class CormorantsConfig {
     CORMORANTS_MODEL_NAME,
     BANNED_WORDS,
     filterText,
+    setQuestion,
+    setAnswer,
   }) {
     this.cormants = new Cormorants({
       filterText,
+      setQuestion,
+      setAnswer,
       corpus: sample(CORMORANTS_CORPUS.split(',')),
       accessTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
       accessTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
