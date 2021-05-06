@@ -35,16 +35,37 @@ class CormorantsConfig {
       blogName: TUMBLR_BLOG_NAME,
       modelName: CORMORANTS_MODEL_NAME,
       bannedWords: (BANNED_WORDS || '').split(','),
+      minWords: 4,
+      isIncludeMedia: true,
     });
     const result = await this.cormants.speak();
     if (!result) {
       console.warn(`💀 There is nothing to post.`);
       process.exit(0);
     }
-    const { ask, answer } = result;
-
+    const { ask, answer, images } = result;
+    const filters = [];
+    if (images && images.length > 0) {
+      const { url } = sample(images);
+      const isTransparent = stills.utils.isTransparent(url);
+      const overlayOptions = isTransparent
+        ? {
+            overlayFile: url,
+            gravity: 'southwest',
+            sizePercentWidth: 0.3,
+            geometry: '+20%',
+          }
+        : {
+            overlayFile: url,
+            opacity: 50,
+          };
+      filters.push(new stills.filters.Overlay(overlayOptions));
+    }
+    filters.push(new stills.filters.Haze());
+    filters.push(new stills.filters.Captions());
     return {
       ask,
+      filters,
       type: 'gif',
       num: 1,
       globals: [
@@ -52,7 +73,6 @@ class CormorantsConfig {
           captionText: [answer],
         }),
       ],
-      filters: [new stills.filters.Haze(), new stills.filters.Captions()],
     };
   }
 }
