@@ -90,6 +90,7 @@ const DEFAULT_OPTIONS = {
     blogName,
     isDraft,
     ask,
+    validators,
   } = baseConfig;
 
   const {
@@ -248,6 +249,7 @@ const DEFAULT_OPTIONS = {
     taggers,
     source,
     content,
+    validators,
     images: useImages,
     isPrompt: prompt,
   };

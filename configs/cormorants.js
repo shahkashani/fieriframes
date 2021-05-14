@@ -56,6 +56,7 @@ class CormorantsConfig {
             geometry: '+20%',
           }
         : {
+            isGrayscale: true,
             overlayFile: url,
             opacity: 50,
           };
@@ -68,6 +69,7 @@ class CormorantsConfig {
       filters,
       type: 'gif',
       num: 1,
+      validators: [new stills.validators.FaceDetection()],
       globals: [
         new stills.globals.Captions({
           captionText: [answer],

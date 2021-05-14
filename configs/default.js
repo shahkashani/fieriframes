@@ -62,6 +62,10 @@ class DefaultConfig {
         describe: 'For the faceoverlay filter',
         string: true,
       },
+      face: {
+        describe: 'Require a face',
+        boolean: true,
+      },
     };
   }
 
@@ -92,6 +96,7 @@ class DefaultConfig {
       captionText,
       tags,
       video,
+      face,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
@@ -413,12 +418,15 @@ class DefaultConfig {
     const isCreateFiction =
       video || Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
 
+    const validators = face ? [new stills.validators.FaceDetection()] : [];
+
     return {
       type,
       tags,
       num,
       globals,
       filters,
+      validators,
       isCreateFiction,
     };
   }
