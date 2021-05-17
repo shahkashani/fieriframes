@@ -66,6 +66,10 @@ class DefaultConfig {
         describe: 'Require a face',
         boolean: true,
       },
+      eyes: {
+        describe: 'Require big eyes',
+        boolean: true,
+      },
     };
   }
 
@@ -97,6 +101,7 @@ class DefaultConfig {
       tags,
       video,
       face,
+      eyes,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
@@ -418,7 +423,14 @@ class DefaultConfig {
     const isCreateFiction =
       video || Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
 
-    const validators = face ? [new stills.validators.FaceDetection()] : [];
+    const validators = [];
+
+    if (face) {
+      validators.push(new stills.validators.FaceDetection());
+    }
+    if (eyes) {
+      validators.push(new stills.validators.EyeDetection());
+    }
 
     return {
       type,
