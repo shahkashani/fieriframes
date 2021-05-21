@@ -101,7 +101,9 @@ class DefaultConfig {
       tags,
       video,
       face,
+      body,
       eyes,
+      embed,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       CAPTION_EFFECT_RATE,
@@ -378,11 +380,9 @@ class DefaultConfig {
       ? getEffectsByName(allEffects, postEffects)
       : [];
 
-    const useAfterCaptionEffects = randomly(
-      AFTER_CAPTION_EFFECT_RATE,
-      [sample(afterCaptionEffects)],
-      []
-    );
+    const useAfterCaptionEffects = embed
+      ? afterCaptionEffects.filter((e) => e.background.indexOf(embed) !== -1)
+      : randomly(AFTER_CAPTION_EFFECT_RATE, [sample(afterCaptionEffects)], []);
 
     const filters = compact([
       ...usePreEffects,
@@ -428,8 +428,13 @@ class DefaultConfig {
     if (face) {
       validators.push(new stills.validators.FaceDetection());
     }
+
     if (eyes) {
       validators.push(new stills.validators.EyeDetection());
+    }
+
+    if (body) {
+      validators.push(new stills.validators.BodyDetection());
     }
 
     return {
