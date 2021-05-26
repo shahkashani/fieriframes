@@ -411,6 +411,7 @@ class DefaultConfig {
         pdfSentenceMaxLength: 50,
         transformationRate: USE_CAPTION_EFFECT_RATE,
         banned: (BANNED_WORDS || '').split(','),
+        matchSubtitle: true,
         num: {
           srt: useSingleCaption ? 1 : random(1, 2),
           txt: 1,
