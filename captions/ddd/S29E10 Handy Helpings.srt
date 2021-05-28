@@ -1,2942 +1,2941 @@
-﻿1
-00:00:01,068 --> 00:00:02,267
-         Hey, everybody.
+1
+00:00:03,833 --> 00:00:05,033
+Hey, everybody.
 
 2
-00:00:02,269 --> 00:00:03,535
+00:00:05,033 --> 00:00:06,466
 I'm Guy Fieri, and we're rolling
-         out looking for
+out looking for
 
 3
-00:00:03,537 --> 00:00:07,039
-   America's greatest diners,
-      drive-ins, and dives.
+00:00:06,466 --> 00:00:10,000
+America's greatest diners,
+drive‐ins, and dives.
 
 4
-00:00:07,041 --> 00:00:09,441
-          This trip...
+00:00:10,000 --> 00:00:12,266
+This trip...
 Come on, look at that!
 
 5
-00:00:09,443 --> 00:00:11,043
-    No knife and fork today.
+00:00:12,266 --> 00:00:14,000
+No knife and fork today.
 
 6
-00:00:11,045 --> 00:00:12,244
-                 You eat it
-              the way you like.
+00:00:14,000 --> 00:00:15,066
+You eat it
+the way you like.
 
 7
-00:00:12,246 --> 00:00:13,946
-     [Laughs]
+00:00:15,066 --> 00:00:16,800
+[ Laughs ]
 
 8
-00:00:13,948 --> 00:00:16,949
- 'Cause we're literally grabbing
-       some gangster grub.
+00:00:16,800 --> 00:00:19,733
+'Cause we're literally grabbing
+some gangster grub.
 
 9
-00:00:16,951 --> 00:00:19,551
-  That's raindrops
+00:00:19,733 --> 00:00:22,366
+That's raindrops
 in Flavortown, folks.
 
 10
-00:00:19,553 --> 00:00:21,420
-  Like legit tacos in Atlanta.
+00:00:22,366 --> 00:00:24,233
+Like legit tacos in Atlanta.
 
 11
-00:00:21,422 --> 00:00:23,155
-  You'll love this.
+00:00:24,233 --> 00:00:26,100
+You'll love this.
 
 12
-00:00:23,157 --> 00:00:25,557
-     And prime-time burgers
-          in Salt Lake.
+00:00:26,100 --> 00:00:28,500
+And prime‐time burgers
+in Salt Lake.
 
 13
-00:00:25,559 --> 00:00:27,459
-    Oh, my gosh!
+00:00:28,500 --> 00:00:30,366
+Oh, my gosh!
 
 14
-00:00:27,461 --> 00:00:29,628
-    Plus, we're getting crazy
-       with the kolaches.
+00:00:30,366 --> 00:00:32,600
+Plus, we're getting crazy
+with the kolaches.
 
 15
-00:00:29,630 --> 00:00:31,130
-   Three, two, go.
+00:00:32,600 --> 00:00:34,000
+Three, two, go.
 
 16
-00:00:31,132 --> 00:00:32,498
-     And feeling the need...
+00:00:34,000 --> 00:00:35,300
+And feeling the need...
 
 17
-00:00:32,500 --> 00:00:34,433
- What in the world?!
+00:00:35,300 --> 00:00:37,233
+What in the world?!
 
 18
-00:00:34,435 --> 00:00:35,768
-          ...for speed.
+00:00:37,233 --> 00:00:38,700
+...for speed.
 
 19
-00:00:35,770 --> 00:00:37,269
-  You're an animal.
+00:00:38,700 --> 00:00:40,166
+You're an animal.
 
 20
-00:00:37,271 --> 00:00:38,871
-     That's all right here,
-           right now,
+00:00:40,166 --> 00:00:41,833
+That's all right here,
+right now,
 
 21
-00:00:38,873 --> 00:00:41,340
- on "Diners, Drive-ins & Dives."
+00:00:41,833 --> 00:00:44,133
+on "Diners, Drive‐ins &amp; Dives."
 
 22
-00:00:41,342 --> 00:00:48,447
-                     ♪♪
+00:00:44,133 --> 00:00:51,400
+♪♪♪♪
 
 23
-00:00:48,449 --> 00:00:53,685
-                     ♪♪
+00:00:51,400 --> 00:00:56,533
+♪♪♪♪
 
 24
-00:00:53,687 --> 00:00:56,522
-   So "Triple D" is all about
-      finding the funky mom
+00:00:56,533 --> 00:00:59,366
+So "Triple D" is all about
+finding the funky mom
 
 25
-00:00:56,524 --> 00:00:58,590
-         and pop joints
-     all around the country.
+00:00:59,366 --> 00:01:01,440
+and pop joints
+all around the country.
 
 26
-00:00:58,592 --> 00:01:00,793
-   Well, now I guess it's kind
-  of like all around the world.
+00:01:01,440 --> 00:01:03,540
+Well, now I guess it's kind
+of like all around the world.
 
 27
-00:01:00,795 --> 00:01:02,628
- So I'm here in Salt Lake City,
-              Utah,
+00:01:03,540 --> 00:01:05,506
+So I'm here in Salt Lake City,
+Utah,
 
 28
-00:01:02,630 --> 00:01:05,531
- where three buddies are living
-     the all-American dream.
+00:01:05,506 --> 00:01:08,373
+where three buddies are living
+the all‐American dream.
 
 29
-00:01:05,533 --> 00:01:07,066
-    You see, they're sitting
-         around saying,
+00:01:08,373 --> 00:01:09,806
+You see, they're sitting
+around saying,
 
 30
-00:01:07,068 --> 00:01:09,368
-       "Hey, one day, man,
-    let's open up a brewery."
+00:01:09,806 --> 00:01:12,306
+"Hey, one day, man,
+let's open up a brewery."
 
 31
-00:01:09,370 --> 00:01:11,870
-  "Yeah, and right next to it,
- we'll open up a burger joint."
+00:01:12,306 --> 00:01:14,606
+"Yeah, and right next to it,
+we'll open up a burger joint."
 
 32
-00:01:11,872 --> 00:01:13,439
-     Well, these three made
-           it happen.
+00:01:14,606 --> 00:01:16,240
+Well, these three made
+it happen.
 
 33
-00:01:13,441 --> 00:01:15,641
- This is Proper Burger Company.
+00:01:16,240 --> 00:01:18,440
+This is Proper Burger Company.
 
 34
-00:01:17,912 --> 00:01:20,179
-    I'm gonna start dropping
-          more burgers.
+00:01:20,640 --> 00:01:22,873
+I'm gonna start dropping
+more burgers.
 
 35
-00:01:20,181 --> 00:01:21,380
-        Food's fantastic.
+00:01:22,873 --> 00:01:24,273
+Food's fantastic.
 
 36
-00:01:21,382 --> 00:01:23,515
-     I mean, they have such
-      a variety of burgers.
+00:01:24,273 --> 00:01:26,273
+I mean, they have such
+a variety of burgers.
 
 37
-00:01:23,517 --> 00:01:25,084
-   Vegan Bollywood, order up!
+00:01:26,273 --> 00:01:27,906
+Vegan Bollywood, order up!
 
 38
-00:01:25,086 --> 00:01:26,919
-    And the beer is amazing.
+00:01:27,906 --> 00:01:29,673
+And the beer is amazing.
 
 39
-00:01:26,921 --> 00:01:28,387
-   FIERI: I got a melting pot
-         of people here,
+00:01:29,673 --> 00:01:31,206
+FIERI: I got a melting pot
+of people here,
 
 40
-00:01:28,389 --> 00:01:29,988
-         everybody likes
-        burgers and beer.
+00:01:31,206 --> 00:01:32,773
+everybody likes
+burgers and beer.
 
 41
-00:01:29,990 --> 00:01:32,958
-   Which is why brothers Liam
-   and Rio Connelly and buddy
+00:01:32,773 --> 00:01:35,773
+Which is why brothers Liam
+and Rio Connelly and buddy
 
 42
-00:01:32,960 --> 00:01:37,229
+00:01:35,773 --> 00:01:40,006
 Andrew Tendick doubled down with
- their side-by-side businesses.
+their side‐by‐side businesses.
 
 43
-00:01:37,231 --> 00:01:38,497
-               You make beer.
+00:01:40,006 --> 00:01:41,306
+You make beer.
 
 44
-00:01:38,499 --> 00:01:39,531
-    You sell the beer over there
-                 in the bar.
+00:01:41,306 --> 00:01:42,173
+You sell the beer over there
+in the bar.
 
 45
-00:01:39,533 --> 00:01:40,866
-    Then you also take the beer,
+00:01:42,173 --> 00:01:43,440
+Then you also take the beer,
 
 46
-00:01:40,868 --> 00:01:42,034
-       ad you bring it over here
-           to the burger company
+00:01:43,440 --> 00:01:44,906
+ad you bring it over here
+to the burger company
 
 47
-00:01:42,036 --> 00:01:43,235
-                 and use it
-            in the recipes here.
+00:01:44,906 --> 00:01:45,840
+and use it
+in the recipes here.
 
 48
-00:01:43,237 --> 00:01:44,536
-              Yep.
+00:01:45,840 --> 00:01:47,373
+Yep.
 
 49
-00:01:44,538 --> 00:01:46,638
-  FIERI: And their burger boss
-    is Chef Jeff Springer...
+00:01:47,373 --> 00:01:49,340
+FIERI: And their burger boss
+is Chef Jeff Springer...
 
 50
-00:01:46,640 --> 00:01:48,640
-    Swinging two pork cities.
+00:01:49,340 --> 00:01:51,440
+Swinging two pork cities.
 
 51
-00:01:48,642 --> 00:01:49,975
-   FIERI: ...who's definitely
-          not sticking
+00:01:51,440 --> 00:01:52,806
+FIERI: ...who's definitely
+not sticking
 
 52
-00:01:49,977 --> 00:01:51,710
-    to the same old same old.
+00:01:52,806 --> 00:01:54,606
+to the same old same old.
 
 53
-00:01:51,712 --> 00:01:53,412
-    Double rarebit order up!
+00:01:54,606 --> 00:01:56,306
+Double rarebit order up!
 
 54
-00:01:53,414 --> 00:01:57,483
-   The rarebit has house-made
-  beer-cheese -- super unique.
+00:01:56,306 --> 00:02:00,206
+The rarebit has house‐made
+beer‐cheese ‐‐ super unique.
 
 55
-00:01:57,485 --> 00:01:58,784
+00:02:00,206 --> 00:02:01,480
 Chef, what are we making.
 
 56
-00:01:58,786 --> 00:02:00,252
-             Today, we're making
-             our rarebit sauce.
+00:02:01,480 --> 00:02:03,013
+Today, we're making
+our rarebit sauce.
 
 57
-00:02:00,254 --> 00:02:01,687
+00:02:03,013 --> 00:02:04,580
 And what do you know
 about rarebit sauce?
 
 58
-00:02:01,689 --> 00:02:03,355
-       It's a beer-cheese sauce.
+00:02:04,580 --> 00:02:06,180
+It's a beer‐cheese sauce.
 
 59
-00:02:03,357 --> 00:02:05,157
-           They believe it comes
-               from the Welsh.
+00:02:06,180 --> 00:02:07,813
+They believe it comes
+from the Welsh.
 
 60
-00:02:05,159 --> 00:02:06,892
- He had me at hello
-   with that one.
+00:02:07,813 --> 00:02:09,680
+He had me at hello
+with that one.
 
 61
-00:02:06,894 --> 00:02:09,528
-   We're gonna heat up our milk,
- and then this is our amber ale.
+00:02:09,680 --> 00:02:12,380
+We're gonna heat up our milk,
+and then this is our amber ale.
 
 62
-00:02:09,530 --> 00:02:10,796
-       Got it.
+00:02:12,380 --> 00:02:13,546
+Got it.
 
 63
-00:02:10,798 --> 00:02:11,964
-  Then we're gonna bring this up
-                 to simmer.
+00:02:13,546 --> 00:02:14,746
+Then we're gonna bring this up
+to simmer.
 
 64
-00:02:11,966 --> 00:02:13,198
-  Simmer down now.
+00:02:14,746 --> 00:02:16,046
+Simmer down now.
 
 65
-00:02:13,200 --> 00:02:14,466
-               Now we're going
-              to make the roux.
+00:02:16,046 --> 00:02:17,179
+Now we're going
+to make the roux.
 
 66
-00:02:14,468 --> 00:02:15,934
-             Bacon fat, butter.
+00:02:17,179 --> 00:02:18,646
+Bacon fat, butter.
 
 67
-00:02:15,936 --> 00:02:18,670
-This is a bikini-weather sauce
+00:02:18,646 --> 00:02:21,413
+This is a bikini‐weather sauce
 if I've ever seen it.
 
 68
-00:02:18,672 --> 00:02:20,739
-              Sweat some onion.
-             All-purpose flour.
+00:02:21,413 --> 00:02:23,613
+Sweat some onion.
+All‐purpose flour.
 
 69
-00:02:20,741 --> 00:02:23,008
-       The Worcestershire sauce.
+00:02:23,613 --> 00:02:25,680
+The Worcestershire sauce.
 
 70
-00:02:23,010 --> 00:02:25,210
+00:02:25,680 --> 00:02:27,946
 Worcestershire sauce.
-           Worcestershire sauce.
+Worcestershire sauce.
 
 71
-00:02:25,212 --> 00:02:26,378
-             White wine vinegar.
+00:02:27,946 --> 00:02:29,180
+White wine vinegar.
 
 72
-00:02:26,380 --> 00:02:28,046
+00:02:29,180 --> 00:02:30,846
 Hurry up before I eat
-   all the cheese.
+all the cheese.
 
 73
-00:02:28,048 --> 00:02:29,948
-                    Salt.
-            Whole-grain mustard.
+00:02:30,846 --> 00:02:32,713
+Salt.
+Whole‐grain mustard.
 
 74
-00:02:29,950 --> 00:02:31,216
-                   Thyme.
+00:02:32,713 --> 00:02:33,846
+Thyme.
 
 75
-00:02:31,218 --> 00:02:32,551
-             Now we're gonna add
-              our melted beer.
+00:02:33,846 --> 00:02:35,313
+Now we're gonna add
+our melted beer.
 
 76
-00:02:32,553 --> 00:02:35,354
+00:02:35,313 --> 00:02:38,146
 This is the European version
-  of nacho cheese.
+of nacho cheese.
 
 77
-00:02:35,356 --> 00:02:37,422
-         I'm gonna transfer this
-              into a 22-quart.
+00:02:38,146 --> 00:02:40,213
+I'm gonna transfer this
+into a 22‐quart.
 
 78
-00:02:37,424 --> 00:02:39,725
-           Add our Irish cheddar
-             and the gorgonzola.
+00:02:40,213 --> 00:02:42,446
+Add our Irish cheddar
+and the gorgonzola.
 
 79
-00:02:39,727 --> 00:02:41,460
+00:02:42,446 --> 00:02:44,180
 We're gonna put this burger
-    together now?
+together now?
 
 80
-00:02:41,462 --> 00:02:42,961
-                    Yep.
-              Two patties down.
+00:02:44,180 --> 00:02:45,613
+Yep.
+Two patties down.
 
 81
-00:02:42,963 --> 00:02:44,163
-    Two patties?
+00:02:45,613 --> 00:02:47,013
+Two patties?
 
 82
-00:02:44,165 --> 00:02:47,399
-  Never frozen, locally sourced,
-                 grass-fed.
+00:02:47,013 --> 00:02:50,146
+Never frozen, locally sourced,
+grass‐fed.
 
 83
-00:02:47,401 --> 00:02:48,901
-            Just kind of warm up
-                 the bacon.
+00:02:50,146 --> 00:02:51,680
+Just kind of warm up
+the bacon.
 
 84
-00:02:48,903 --> 00:02:49,968
- That fry is legit.
+00:02:51,680 --> 00:02:52,780
+That fry is legit.
 
 85
-00:02:49,970 --> 00:02:51,703
-       The house-cut double fry.
+00:02:52,780 --> 00:02:54,313
+The house‐cut double fry.
 
 86
-00:02:51,705 --> 00:02:52,938
-       Yes.
-                  Oh.
+00:02:54,313 --> 00:02:55,613
+Yes.
+Oh.
 
 87
-00:02:52,940 --> 00:02:54,439
-  Imagine that with some rarebit
-                 on it, too.
+00:02:55,613 --> 00:02:57,180
+Imagine that with some rarebit
+on it, too.
 
 88
-00:02:54,441 --> 00:02:56,041
-  I don't even have
-   to imagine it.
+00:02:57,180 --> 00:02:58,780
+I don't even have
+to imagine it.
 
 89
-00:02:56,043 --> 00:02:57,609
-                 [Laughs]
+00:02:58,780 --> 00:03:00,380
+[ Laughs ]
 
 90
-00:02:57,611 --> 00:03:00,946
+00:03:00,380 --> 00:03:03,720
 That rarebit sauce is everything
 I love in a cheese sauce.
 
 91
-00:03:00,948 --> 00:03:02,281
- It's got the tang.
+00:03:03,720 --> 00:03:05,086
+It's got the tang.
 
 92
-00:03:02,283 --> 00:03:05,384
+00:03:05,086 --> 00:03:08,053
 You get the underlying notes
-   of the mustard.
+of the mustard.
 
 93
-00:03:05,386 --> 00:03:06,852
-  Oh, that's good!
+00:03:08,053 --> 00:03:09,520
+Oh, that's good!
 
 94
-00:03:06,854 --> 00:03:08,620
-    We've got a really good sear
-             on the burger now.
+00:03:09,520 --> 00:03:11,320
+We've got a really good sear
+on the burger now.
 
 95
-00:03:08,622 --> 00:03:10,222
- Look at that crust.
-      Gorgeous.
+00:03:11,320 --> 00:03:12,986
+Look at that crust.
+Gorgeous.
 
 96
-00:03:10,224 --> 00:03:12,090
-       I'm gonna stack these two
-                   on top,
+00:03:12,986 --> 00:03:14,753
+I'm gonna stack these two
+on top,
 
 97
-00:03:12,092 --> 00:03:14,293
-   and we're gonna add the bacon
-           right on top of this.
+00:03:14,753 --> 00:03:17,120
+and we're gonna add the bacon
+right on top of this.
 
 98
-00:03:14,295 --> 00:03:15,494
-        Okay.
+00:03:17,120 --> 00:03:18,220
+Okay.
 
 99
-00:03:15,496 --> 00:03:17,429
-            Whole-grain mustard,
-              sliced tomatoes,
+00:03:18,220 --> 00:03:20,186
+Whole‐grain mustard,
+sliced tomatoes,
 
 100
-00:03:17,431 --> 00:03:20,566
-        red onion, rarebit sauce
-             right over the top.
+00:03:20,186 --> 00:03:23,220
+red onion, rarebit sauce
+right over the top.
 
 101
-00:03:20,568 --> 00:03:22,301
-       And that's all she wrote.
+00:03:23,220 --> 00:03:25,053
+And that's all she wrote.
 
 102
-00:03:25,539 --> 00:03:26,738
-     Delicious.
+00:03:28,320 --> 00:03:29,420
+Delicious.
 
 103
-00:03:26,740 --> 00:03:28,307
+00:03:29,420 --> 00:03:31,020
 I just want to taste
- the meat by itself.
+the meat by itself.
 
 104
-00:03:28,309 --> 00:03:30,075
-It's seared super-hot
-     so you get
+00:03:31,020 --> 00:03:32,686
+It's seared super‐hot
+so you get
 
 105
-00:03:30,077 --> 00:03:32,177
+00:03:32,686 --> 00:03:34,953
 this really nice caramelization
-   on both sides.
+on both sides.
 
 106
-00:03:32,179 --> 00:03:34,346
- And then it's still
-  tender and pink.
+00:03:34,953 --> 00:03:37,053
+And then it's still
+tender and pink.
 
 107
-00:03:34,348 --> 00:03:36,915
-        Mmm!
+00:03:37,053 --> 00:03:39,653
+Mmm!
 The rarebit sauce is money.
 
 108
-00:03:36,917 --> 00:03:39,918
+00:03:39,653 --> 00:03:42,520
 All day long, money.
 
 109
-00:03:39,920 --> 00:03:42,287
-   I want a gallon
+00:03:42,520 --> 00:03:44,820
+I want a gallon
 for the rarebit to go.
 
 110
-00:03:42,289 --> 00:03:43,522
- Dynamite job, Chef.
+00:03:44,820 --> 00:03:46,253
+Dynamite job, Chef.
 
 111
-00:03:43,524 --> 00:03:45,591
-     Got the rarebit burger.
-      Really hits the spot.
+00:03:46,253 --> 00:03:48,220
+Got the rarebit burger.
+Really hits the spot.
 
 112
-00:03:45,593 --> 00:03:46,892
+00:03:48,220 --> 00:03:49,520
 Everything you want in a burger.
 
 113
-00:03:46,894 --> 00:03:48,360
-         All the flavors
-    go really well together.
+00:03:49,520 --> 00:03:51,086
+All the flavors
+go really well together.
 
 114
-00:03:48,362 --> 00:03:50,095
+00:03:51,086 --> 00:03:52,853
 If I could just drink the sauce,
-            I would.
+I would.
 
 115
-00:03:50,097 --> 00:03:51,997
-          But I can't,
-    so I drink the beer, too.
+00:03:52,853 --> 00:03:54,386
+But I can't,
+so I drink the beer, too.
 
 116
-00:03:51,999 --> 00:03:53,298
- How did these guys
- do with their beer?
+00:03:54,386 --> 00:03:56,020
+How did these guys
+do with their beer?
 
 117
-00:03:53,300 --> 00:03:55,200
-      Some of the best beer
-          in the state.
+00:03:56,020 --> 00:03:57,820
+Some of the best beer
+in the state.
 
 118
-00:03:55,202 --> 00:03:57,869
-  The styles that they do here
- is something totally different.
+00:03:57,820 --> 00:04:00,553
+The styles that they do here
+is something totally different.
 
 119
-00:03:57,871 --> 00:04:01,173
- They do a gose, that's a salted
-   beer, which is pretty fun.
+00:04:00,553 --> 00:04:03,726
+They do a gose, that's a salted
+beer, which is pretty fun.
 
 120
-00:04:01,175 --> 00:04:03,775
-      Their experimentation
- with the beer is also reflected
+00:04:03,726 --> 00:04:06,460
+Their experimentation
+with the beer is also reflected
 
 121
-00:04:03,777 --> 00:04:06,211
-    in their experimentation
- in the burgers that they make.
+00:04:06,460 --> 00:04:08,760
+in their experimentation
+in the burgers that they make.
 
 122
-00:04:06,213 --> 00:04:07,613
+00:04:08,760 --> 00:04:10,293
 Hipster burger, order up!
 
 123
-00:04:07,615 --> 00:04:10,349
-      I mean, you don't get
-   a Pork City just anywhere.
+00:04:10,293 --> 00:04:12,993
+I mean, you don't get
+a Pork City just anywhere.
 
 124
-00:04:10,351 --> 00:04:11,950
-   Here we have the Pork City.
+00:04:12,993 --> 00:04:14,560
+Here we have the Pork City.
 
 125
-00:04:11,952 --> 00:04:14,152
- MAN: They've got house-made ham
-        and bacon on it,
+00:04:14,560 --> 00:04:16,693
+MAN: They've got house‐made ham
+and bacon on it,
 
 126
-00:04:14,154 --> 00:04:15,487
-     and what's not to like?
+00:04:16,693 --> 00:04:18,193
+and what's not to like?
 
 127
-00:04:15,489 --> 00:04:17,489
+00:04:18,193 --> 00:04:20,126
 What are we gonna do now?
-          The brine for the ham.
+The brine for the ham.
 
 128
-00:04:17,491 --> 00:04:18,824
-                   First,
-         we do some brown sugar.
+00:04:20,126 --> 00:04:21,526
+First,
+we do some brown sugar.
 
 129
-00:04:18,826 --> 00:04:20,292
-                    Salt.
-                Curing salt.
+00:04:21,526 --> 00:04:22,993
+Salt.
+Curing salt.
 
 130
-00:04:20,294 --> 00:04:22,561
-             Cumin, fennel seed,
-              juniper berries.
+00:04:22,993 --> 00:04:25,160
+Cumin, fennel seed,
+juniper berries.
 
 131
-00:04:22,563 --> 00:04:24,296
+00:04:25,160 --> 00:04:26,926
 Nice.
-        And some cinnamon stick.
+And some cinnamon stick.
 
 132
-00:04:24,298 --> 00:04:25,430
-             The water goes in.
+00:04:26,926 --> 00:04:28,093
+The water goes in.
 
 133
-00:04:25,432 --> 00:04:26,798
+00:04:28,093 --> 00:04:29,493
 How long is the brine
-    gonna simmer?
+gonna simmer?
 
 134
-00:04:26,800 --> 00:04:28,333
-                Five minutes.
+00:04:29,493 --> 00:04:31,060
+Five minutes.
 
 135
-00:04:28,335 --> 00:04:30,335
+00:04:31,060 --> 00:04:32,993
 Now the ice is to cool it down
 so we don't poach the ham
 
 136
-00:04:30,337 --> 00:04:31,637
+00:04:32,993 --> 00:04:34,259
 when it goes in the brine.
-       Got it.
+Got it.
 
 137
-00:04:31,639 --> 00:04:33,405
-                    Okay.
-     This is a deboned shoulder.
+00:04:34,259 --> 00:04:35,859
+Okay.
+This is a deboned shoulder.
 
 138
-00:04:33,407 --> 00:04:34,306
+00:04:35,859 --> 00:04:36,959
 Boning these yourself?
-                           Yep.
+Yep.
 
 139
-00:04:34,308 --> 00:04:36,775
-         Tie 'em myself as well,
-                    so...
+00:04:36,959 --> 00:04:39,359
+Tie 'em myself as well,
+so...
 
 140
-00:04:36,777 --> 00:04:38,243
- Well done on that.
+00:04:39,359 --> 00:04:40,826
+Well done on that.
 
 141
-00:04:38,245 --> 00:04:40,946
-       Brown our ham 10 days and
-  smoke it for about four hours.
+00:04:40,826 --> 00:04:43,560
+Brown our ham 10 days and
+smoke it for about four hours.
 
 142
-00:04:40,948 --> 00:04:45,284
-    Pull it out and braze at 275
-    to 300 for about five hours.
+00:04:43,560 --> 00:04:47,926
+Pull it out and braze at 275
+to 300 for about five hours.
 
 143
-00:04:45,286 --> 00:04:47,185
-        Wow.
- Mayo gone wild, eh?
+00:04:47,926 --> 00:04:49,893
+Wow.
+Mayo gone wild, eh?
 
 144
-00:04:47,187 --> 00:04:49,888
+00:04:49,893 --> 00:04:52,426
 Every bit that they had
- in Salt Lake City.
+in Salt Lake City.
 
 145
-00:04:49,890 --> 00:04:51,556
-              We're gonna make
-               our beer aioli.
+00:04:52,426 --> 00:04:54,160
+We're gonna make
+our beer aioli.
 
 146
-00:04:51,558 --> 00:04:53,458
-               Chopped garlic,
-               roasted garlic.
+00:04:54,160 --> 00:04:56,193
+Chopped garlic,
+roasted garlic.
 
 147
-00:04:53,460 --> 00:04:54,726
-                Lemon juice.
+00:04:56,193 --> 00:04:57,326
+Lemon juice.
 
 148
-00:04:54,728 --> 00:04:56,662
-        Proper beer that we used
-               in the rarebit.
+00:04:57,326 --> 00:04:59,226
+Proper beer that we used
+in the rarebit.
 
 149
-00:04:56,664 --> 00:04:59,431
-     Salt and some black pepper.
+00:04:59,226 --> 00:05:01,966
+Salt and some black pepper.
 
 150
-00:04:59,433 --> 00:05:01,433
+00:05:01,966 --> 00:05:04,000
 Get it!
-            Right into the mayo.
+Right into the mayo.
 
 151
-00:05:01,435 --> 00:05:03,402
-         Chopped parsley on top.
+00:05:04,000 --> 00:05:05,833
+Chopped parsley on top.
 
 152
-00:05:03,404 --> 00:05:04,569
- I'm standing back.
+00:05:05,833 --> 00:05:07,200
+I'm standing back.
 
 153
-00:05:04,571 --> 00:05:08,573
+00:05:07,200 --> 00:05:11,300
 If that thing comes out,
 it's gonna paint the room.
 
 154
-00:05:08,575 --> 00:05:10,042
+00:05:11,300 --> 00:05:12,466
 Oh, that's dynamite.
 
 155
-00:05:10,044 --> 00:05:11,376
+00:05:12,466 --> 00:05:14,033
 You get that beer, but you gotta
 love the roasted garlic
 
 156
-00:05:11,378 --> 00:05:12,944
+00:05:14,033 --> 00:05:15,466
 and the fresh garlic,
-  without question.
+without question.
 
 157
-00:05:12,946 --> 00:05:15,514
+00:05:15,466 --> 00:05:18,100
 Now we are going to take our ham
-                and slice it.
+and slice it.
 
 158
-00:05:15,516 --> 00:05:17,015
-     Four slices
- on this one burger?
+00:05:18,100 --> 00:05:19,533
+Four slices
+on this one burger?
 
 159
-00:05:17,017 --> 00:05:18,517
-           We'll do three slices
-               on the burger.
+00:05:19,533 --> 00:05:21,166
+We'll do three slices
+on the burger.
 
 160
-00:05:18,519 --> 00:05:20,419
+00:05:21,166 --> 00:05:22,966
 Oh, you did four so you and
 I have something to snack on.
 
 161
-00:05:20,421 --> 00:05:21,653
-             Yeah, yeah, right.
+00:05:22,966 --> 00:05:24,033
+Yeah, yeah, right.
 
 162
-00:05:21,655 --> 00:05:22,821
+00:05:24,033 --> 00:05:25,333
 It don't get any better
-     than that.
+than that.
 
 163
-00:05:22,823 --> 00:05:24,956
+00:05:25,333 --> 00:05:27,533
 Nice little hit of smoke,
-       tender.
+tender.
 
 164
-00:05:24,958 --> 00:05:28,026
-             Third-pound patty,
- a little smoked ham, and bacon.
+00:05:27,533 --> 00:05:30,700
+Third‐pound patty,
+a little smoked ham, and bacon.
 
 165
-00:05:28,028 --> 00:05:29,961
-          This is the beer aioli
-                that we made.
+00:05:30,700 --> 00:05:32,600
+This is the beer aioli
+that we made.
 
 166
-00:05:29,963 --> 00:05:31,630
-Buns toasted -- beautiful.
+00:05:32,600 --> 00:05:34,200
+Buns toasted ‐‐ beautiful.
 
 167
-00:05:31,632 --> 00:05:33,432
-                 Bottom and top.
+00:05:34,200 --> 00:05:36,066
+Bottom and top.
 You're a good man.
 
 168
-00:05:33,434 --> 00:05:35,967
-           The ham on top first,
-           bacon on top of that.
+00:05:36,066 --> 00:05:38,633
+The ham on top first,
+bacon on top of that.
 
 169
-00:05:35,969 --> 00:05:37,836
-        And some American cheese
-                   on top.
+00:05:38,633 --> 00:05:40,400
+And some American cheese
+on top.
 
 170
-00:05:37,838 --> 00:05:41,673
- All right.
-               Get this domed
-              and melted down.
+00:05:40,400 --> 00:05:44,200
+All right.
+Get this domed
+and melted down.
 
 171
-00:05:41,675 --> 00:05:43,975
-                  Tomatoes.
-             Pickled jalapeños.
+00:05:44,200 --> 00:05:46,633
+Tomatoes.
+Pickled jalapeños.
 
 172
-00:05:43,977 --> 00:05:45,410
-             We also make these
-                  in-house.
+00:05:46,633 --> 00:05:48,033
+We also make these
+in‐house.
 
 173
-00:05:45,412 --> 00:05:46,845
+00:05:48,033 --> 00:05:49,366
 Let me see where your cape is,
-      Superman.
+Superman.
 
 174
-00:05:46,847 --> 00:05:49,114
-                Finish it off
-         with some French fries.
+00:05:49,366 --> 00:05:51,766
+Finish it off
+with some French fries.
 
 175
-00:05:49,116 --> 00:05:51,950
-                 And that is
-             the Pork City, USA.
+00:05:51,766 --> 00:05:54,433
+And that is
+the Pork City, USA.
 
 176
-00:05:51,952 --> 00:05:54,486
-  That's raindrops
+00:05:54,433 --> 00:05:57,166
+That's raindrops
 in Flavortown, folks.
 
 177
-00:05:54,488 --> 00:05:57,356
-                     ♪♪
+00:05:57,166 --> 00:05:59,933
+♪♪♪♪
 
 178
-00:05:57,358 --> 00:05:59,257
+00:05:59,933 --> 00:06:01,840
 You got a bath towel?
-                 [Laughs]
+[ Laughs ]
 
 179
-00:05:59,259 --> 00:06:02,661
-  I love everything
- about that burger.
+00:06:01,840 --> 00:06:05,240
+I love everything
+about that burger.
 
 180
-00:06:02,663 --> 00:06:05,597
+00:06:05,240 --> 00:06:08,073
 It all starts with that
-grass-fed beef, never frozen.
+grass‐fed beef, never frozen.
 
 181
-00:06:05,599 --> 00:06:06,898
+00:06:08,073 --> 00:06:09,540
 The double sear on the burger.
 
 182
-00:06:06,900 --> 00:06:08,433
+00:06:09,540 --> 00:06:11,073
 Treating both sides of the bun.
 
 183
-00:06:08,435 --> 00:06:11,203
+00:06:11,073 --> 00:06:13,806
 The crunch of the French fry,
 little smokiness of the ham.
 
 184
-00:06:11,205 --> 00:06:14,439
-     The bacon,
-  the beer aioli...
+00:06:13,806 --> 00:06:16,973
+The bacon,
+the beer aioli...
 
 185
-00:06:14,441 --> 00:06:15,874
-  Great jalapeños,
-     by the way.
+00:06:16,973 --> 00:06:18,373
+Great jalapeños,
+by the way.
 
 186
-00:06:15,876 --> 00:06:18,076
+00:06:18,373 --> 00:06:20,673
 I mean, you're hitting
 all the floors of flavor.
 
 187
-00:06:18,078 --> 00:06:19,344
+00:06:20,673 --> 00:06:21,906
 That's a burger with respect.
 
 188
-00:06:19,346 --> 00:06:20,912
+00:06:21,906 --> 00:06:23,406
 Nicely done.
-                 Thank you, sir.
+Thank you, sir.
 
 189
-00:06:20,914 --> 00:06:22,614
-       SERVER: Here's your
-    Pork City burger. Enjoy.
+00:06:23,406 --> 00:06:25,140
+SERVER: Here's your
+Pork City burger. Enjoy.
 
 190
-00:06:22,616 --> 00:06:24,182
-                 Pork City,
-             are you kidding me?
+00:06:25,140 --> 00:06:26,806
+Pork City,
+are you kidding me?
 
 191
-00:06:24,184 --> 00:06:26,284
-       It's just perfect.
-       Fries right on it.
+00:06:26,806 --> 00:06:28,873
+It's just perfect.
+Fries right on it.
 
 192
-00:06:26,286 --> 00:06:27,986
-       WOMAN: Very bacony.
-          Great sauce.
+00:06:28,873 --> 00:06:30,606
+WOMAN: Very bacony.
+Great sauce.
 
 193
-00:06:27,988 --> 00:06:30,489
-         I couldn't help
-        but eat all mine.
+00:06:30,606 --> 00:06:32,973
+I couldn't help
+but eat all mine.
 
 194
-00:06:30,491 --> 00:06:31,790
-      The Veggie Mariachi.
+00:06:32,973 --> 00:06:34,440
+The Veggie Mariachi.
 
 195
-00:06:31,792 --> 00:06:33,191
-  Everyone feels welcomed here.
+00:06:34,440 --> 00:06:35,740
+Everyone feels welcomed here.
 
 196
-00:06:33,193 --> 00:06:34,493
-  You want to keep coming back.
+00:06:35,740 --> 00:06:37,040
+You want to keep coming back.
 
 197
-00:06:34,495 --> 00:06:35,861
-            FIERI: You're living
-             the American dream.
+00:06:37,040 --> 00:06:38,340
+FIERI: You're living
+the American dream.
 
 198
-00:06:35,863 --> 00:06:37,028
-        There are so many people
-            watching this going,
+00:06:38,340 --> 00:06:39,606
+There are so many people
+watching this going,
 
 199
-00:06:37,030 --> 00:06:38,630
-      "I want to have a brewery,
+00:06:39,606 --> 00:06:40,940
+"I want to have a brewery,
 
 200
-00:06:38,632 --> 00:06:40,132
-             and I want to open
-               a burger joint.
+00:06:40,940 --> 00:06:42,606
+and I want to open
+a burger joint.
 
 201
-00:06:40,134 --> 00:06:43,602
-      All I want besides that is
- an arcade and a bowling alley."
+00:06:42,606 --> 00:06:46,106
+All I want besides that is
+an arcade and a bowling alley."
 
 202
-00:06:43,604 --> 00:06:45,137
-              We've got almost
-            an arcade next door.
+00:06:46,106 --> 00:06:47,740
+We've got almost
+an arcade next door.
 
 203
-00:06:45,139 --> 00:06:46,538
-        Yeah, Skee-Ball,
-       a few other things.
+00:06:47,740 --> 00:06:49,040
+Yeah, Skee‐Ball,
+a few other things.
 
 204
-00:06:46,540 --> 00:06:47,572
-              Okay.
-    No bowling alley, though.
+00:06:49,040 --> 00:06:50,006
+Okay.
+No bowling alley, though.
 
 205
-00:06:47,574 --> 00:06:48,974
+00:06:50,006 --> 00:06:51,406
 Nice talking to you guys.
 
 206
-00:06:51,111 --> 00:06:53,211
-  FIERI: Up next, we're staying
-         in Salt Lake...
+00:06:53,540 --> 00:06:55,773
+FIERI: Up next, we're staying
+in Salt Lake...
 
 207
-00:06:53,213 --> 00:06:54,546
-  Oh, you make this
-     look easy.
+00:06:55,773 --> 00:06:57,040
+Oh, you make this
+look easy.
 
 208
-00:06:54,548 --> 00:06:56,415
-      ...for a Czech-Texan
-          specialty...
+00:06:57,040 --> 00:06:59,006
+...for a Czech‐Texan
+specialty...
 
 209
-00:06:56,417 --> 00:06:58,717
-         -We're Czexans.
-  -You've heard of the Czexans.
+00:06:59,006 --> 00:07:01,080
+‐We're Czexans.
+‐You've heard of the Czexans.
 
 210
-00:06:58,719 --> 00:07:00,085
-   ...packed with personality.
+00:07:01,080 --> 00:07:02,580
+...packed with personality.
 
 211
-00:07:00,087 --> 00:07:01,486
-[Laughs] This is more fun.
+00:07:02,580 --> 00:07:03,980
+[ Laughs ] This is more fun.
 
 212
-00:07:01,488 --> 00:07:02,654
+00:07:03,980 --> 00:07:05,146
 I don't even know if we're
-    making food.
+making food.
 
 213
-00:07:05,058 --> 00:07:09,461
-                     ♪♪
+00:07:10,513 --> 00:07:15,046
+♪♪♪♪
 
 214
-00:07:09,463 --> 00:07:12,697
- No matter what culture you talk
-   about, everybody's got one.
+00:07:15,046 --> 00:07:18,213
+No matter what culture you talk
+about, everybody's got one.
 
 215
-00:07:12,699 --> 00:07:15,767
-  It's something that's meat or
+00:07:18,213 --> 00:07:21,246
+It's something that's meat or
 sweet and it's wrapped in dough.
 
 216
-00:07:15,769 --> 00:07:17,669
- Let's see, we could be talking
-       about an empanada,
+00:07:21,246 --> 00:07:23,080
+Let's see, we could be talking
+about an empanada,
 
 217
-00:07:17,671 --> 00:07:19,671
-            a pupusa,
-    it could be a pork butt.
+00:07:23,080 --> 00:07:25,146
+a pupusa,
+it could be a pork butt.
 
 218
-00:07:19,673 --> 00:07:21,740
- So when you have three siblings
-          from Houston
+00:07:25,146 --> 00:07:27,113
+So when you have three siblings
+from Houston
 
 219
-00:07:21,742 --> 00:07:23,542
- with a Czech family background,
+00:07:27,113 --> 00:07:29,013
+with a Czech family background,
 
 220
-00:07:23,544 --> 00:07:25,243
-       they come out here
-    to Salt Lake City, Utah,
+00:07:29,013 --> 00:07:30,813
+they come out here
+to Salt Lake City, Utah,
 
 221
-00:07:25,245 --> 00:07:27,979
-    and they open up a joint,
+00:07:30,813 --> 00:07:33,513
+and they open up a joint,
 it can only be called one thing,
 
 222
-00:07:27,981 --> 00:07:29,915
- and that is Hruska's Kolaches.
+00:07:33,513 --> 00:07:35,313
+and that is Hruska's Kolaches.
 
 223
-00:07:32,152 --> 00:07:35,287
+00:07:37,713 --> 00:07:40,846
 Can I have a Ranchero
 and a Mexican omelet, please?
 
 224
-00:07:35,289 --> 00:07:38,657
-    A kolache is a bun filled
-  with breakfast meat and eggs
+00:07:40,846 --> 00:07:44,213
+A kolache is a bun filled
+with breakfast meat and eggs
 
 225
-00:07:38,659 --> 00:07:39,991
-      and cheese and stuff.
+00:07:44,213 --> 00:07:45,513
+and cheese and stuff.
 
 226
-00:07:39,993 --> 00:07:41,960
-           It's a hug.
-        It's happy food.
+00:07:45,513 --> 00:07:47,513
+It's a hug.
+It's happy food.
 
 227
-00:07:41,962 --> 00:07:43,695
-       You got blackberry
-        and cherry cream.
+00:07:47,513 --> 00:07:49,246
+You got blackberry
+and cherry cream.
 
 228
-00:07:43,697 --> 00:07:44,930
-         You have to eat these.
+00:07:49,246 --> 00:07:50,446
+You have to eat these.
 
 229
-00:07:44,932 --> 00:07:46,598
-   You won't be able to stop.
+00:07:50,446 --> 00:07:52,080
+You won't be able to stop.
 
 230
-00:07:46,600 --> 00:07:49,100
-  FIERI: That's what the Hruska
-    siblings were banking on
+00:07:52,080 --> 00:07:54,413
+FIERI: That's what the Hruska
+siblings were banking on
 
 231
-00:07:49,102 --> 00:07:50,735
-         when they came
-       to college in Utah
+00:07:54,413 --> 00:07:56,213
+when they came
+to college in Utah
 
 232
-00:07:50,737 --> 00:07:54,239
-  and this their favorite Czech
+00:07:56,213 --> 00:07:59,746
+and this their favorite Czech
 dish they grew up with in Texas.
 
 233
-00:07:54,241 --> 00:07:56,641
-   Hey, you know, we're Czech,
-          we're Texan.
+00:07:59,746 --> 00:08:02,053
+Hey, you know, we're Czech,
+we're Texan.
 
 234
-00:07:56,643 --> 00:07:58,176
-  There's no kolaches up here,
-      let's go ahead and--
+00:08:02,053 --> 00:08:03,586
+There's no kolaches up here,
+let's go ahead and‐‐
 
 235
-00:07:58,178 --> 00:07:59,711
-                    Your Czexan.
-          We're Czexan.
+00:08:03,586 --> 00:08:05,086
+Your Czexan.
+We're Czexan.
 
 236
-00:07:59,713 --> 00:08:02,247
-         -We're Czexan.
-  -You've heard of the Czexans.
+00:08:05,086 --> 00:08:07,686
+‐We're Czexan.
+‐You've heard of the Czexans.
 
 237
-00:08:02,249 --> 00:08:04,082
-  So this is more of a breakfast
-                 type item?
+00:08:07,686 --> 00:08:09,320
+So this is more of a breakfast
+type item?
 
 238
-00:08:04,084 --> 00:08:05,016
-  It is breakfast.
+00:08:09,320 --> 00:08:10,520
+It is breakfast.
 
 239
-00:08:05,018 --> 00:08:06,451
+00:08:10,520 --> 00:08:11,686
 Can I get two sausage
-     and gravy.
+and gravy.
 
 240
-00:08:06,453 --> 00:08:07,786
-     Two sausage and gravy.
+00:08:11,686 --> 00:08:13,220
+Two sausage and gravy.
 
 241
-00:08:07,788 --> 00:08:10,121
- MAN: The sausage is just right
-     and coming from Texas,
+00:08:13,220 --> 00:08:15,453
+MAN: The sausage is just right
+and coming from Texas,
 
 242
-00:08:10,123 --> 00:08:13,258
-      they know how to make
-     a good homestyle gravy.
+00:08:15,453 --> 00:08:18,686
+they know how to make
+a good homestyle gravy.
 
 243
-00:08:13,260 --> 00:08:14,493
-       Okay, what are we making?
+00:08:18,686 --> 00:08:19,920
+Okay, what are we making?
 
 244
-00:08:14,495 --> 00:08:15,594
-   So we're making
- our kolache dough.
+00:08:19,920 --> 00:08:21,053
+So we're making
+our kolache dough.
 
 245
-00:08:15,596 --> 00:08:17,162
-                    Okay.
+00:08:21,053 --> 00:08:22,686
+Okay.
 
 246
-00:08:17,164 --> 00:08:18,697
+00:08:22,686 --> 00:08:24,053
 First, we're gonna start off
 with some nice whole milk,
 
 247
-00:08:18,699 --> 00:08:20,599
+00:08:24,053 --> 00:08:25,953
 and then melted butter
-   and margarine.
+and margarine.
 
 248
-00:08:20,601 --> 00:08:22,167
-           Butter and margarine?
-Mm-hmm.
+00:08:25,953 --> 00:08:27,686
+Butter and margarine?
+Mm‐hmm.
 
 249
-00:08:22,169 --> 00:08:24,603
+00:08:27,686 --> 00:08:29,986
 This is a variation of our
-great-grandmother's recipe.
+great‐grandmother's recipe.
 
 250
-00:08:24,605 --> 00:08:27,172
-                           Okay.
-All-purpose flour, sugar.
+00:08:29,986 --> 00:08:32,553
+Okay.
+All‐purpose flour, sugar.
 
 251
-00:08:27,174 --> 00:08:28,406
-The high-gluten flour.
+00:08:32,553 --> 00:08:33,753
+The high‐gluten flour.
 
 252
-00:08:28,408 --> 00:08:30,208
-   Salt, egg yolk.
+00:08:33,753 --> 00:08:35,720
+Salt, egg yolk.
 
 253
-00:08:30,210 --> 00:08:31,877
-          What were those again?
+00:08:35,720 --> 00:08:37,353
+What were those again?
 Yeah, I knew you'd say it.
 
 254
-00:08:31,879 --> 00:08:34,679
-                    Excuse me.
+00:08:37,353 --> 00:08:40,086
+Excuse me.
 There are egg yolks.
 
 255
-00:08:34,681 --> 00:08:37,549
+00:08:40,086 --> 00:08:42,920
 I know, I pronounce the "L,"
 and I didn't know it was bad
 
 256
-00:08:37,551 --> 00:08:39,718
+00:08:42,920 --> 00:08:45,220
 until I came to college.
-     [Snorts]
+[ Snorts ]
 
 257
-00:08:39,720 --> 00:08:41,052
-                And a snort.
- I'm sorry.
+00:08:45,220 --> 00:08:46,453
+And a snort.
+I'm sorry.
 
 258
-00:08:41,054 --> 00:08:43,388
-        An egg yolk and a snort.
+00:08:46,453 --> 00:08:48,786
+An egg yolk and a snort.
 
 259
-00:08:43,390 --> 00:08:45,223
-      Oh, gosh,
+00:08:48,786 --> 00:08:50,686
+Oh, gosh,
 it's gonna be on TV.
 
 260
-00:08:46,894 --> 00:08:48,026
-   We have yeast.
+00:08:52,320 --> 00:08:53,486
+We have yeast.
 
 261
-00:08:48,028 --> 00:08:49,327
-                And how long
-             we gonna mix this?
+00:08:53,486 --> 00:08:54,686
+And how long
+we gonna mix this?
 
 262
-00:08:49,329 --> 00:08:50,428
+00:08:54,686 --> 00:08:55,820
 Maybe just a few minutes.
 
 263
-00:08:50,430 --> 00:08:52,397
-It's a melt-in-your-mouth
-       dough.
+00:08:55,820 --> 00:08:57,853
+It's a melt‐in‐your‐mouth
+dough.
 
 264
-00:08:52,399 --> 00:08:54,866
-  So this makes all the kolaches
-               the same size.
+00:08:57,853 --> 00:09:00,186
+So this makes all the kolaches
+the same size.
 
 265
-00:08:54,868 --> 00:08:57,102
+00:09:00,186 --> 00:09:02,493
 How many kolaches do you
-   make in a day?
+make in a day?
 
 266
-00:08:57,104 --> 00:08:58,803
-        Maybe, like, on average,
-                 a thousand.
+00:09:02,493 --> 00:09:04,193
+Maybe, like, on average,
+a thousand.
 
 267
-00:08:58,805 --> 00:09:00,238
-That's a locha-kolache.
+00:09:04,193 --> 00:09:05,526
+That's a locha‐kolache.
 
 268
-00:09:00,240 --> 00:09:01,506
-                 It is.
-       Wow.
+00:09:05,526 --> 00:09:06,793
+It is.
+Wow.
 
 269
-00:09:01,508 --> 00:09:02,874
-  Oh, you make this
-     look easy.
+00:09:06,793 --> 00:09:08,126
+Oh, you make this
+look easy.
 
 270
-00:09:02,876 --> 00:09:05,710
-        In the cooking over for,
-              like, 30 minutes.
+00:09:08,126 --> 00:09:11,026
+In the cooking over for,
+like, 30 minutes.
 
 271
-00:09:05,712 --> 00:09:07,212
-    Let's hit it.
+00:09:11,026 --> 00:09:12,526
+Let's hit it.
 
 272
-00:09:07,214 --> 00:09:08,847
+00:09:12,526 --> 00:09:14,293
 So we are making the sausage for
-  our sausage and gravy kolache.
+our sausage and gravy kolache.
 
 273
-00:09:08,849 --> 00:09:10,916
-      Okay.
-                Onion powder.
+00:09:14,293 --> 00:09:16,326
+Okay.
+Onion powder.
 
 274
-00:09:10,918 --> 00:09:12,217
-             Granulated garlic.
+00:09:16,326 --> 00:09:17,593
+Granulated garlic.
 
 275
-00:09:12,219 --> 00:09:14,152
-      Salt, fresh-ground pepper.
+00:09:17,593 --> 00:09:19,560
+Salt, fresh‐ground pepper.
 
 276
-00:09:14,154 --> 00:09:15,587
-                   And then...
-Fresh-cut sage.
+00:09:19,560 --> 00:09:20,926
+And then...
+Fresh‐cut sage.
 
 277
-00:09:15,589 --> 00:09:18,156
-                    Yeah.
- And this is just pork and beef.
+00:09:20,926 --> 00:09:23,526
+Yeah.
+And this is just pork and beef.
 
 278
-00:09:18,158 --> 00:09:19,658
-          Little water in there.
+00:09:23,526 --> 00:09:24,893
+Little water in there.
 
 279
-00:09:19,660 --> 00:09:21,192
+00:09:24,893 --> 00:09:26,660
 Start cooking that down,
 and then we're gonna make
 
 280
-00:09:21,194 --> 00:09:23,361
+00:09:26,660 --> 00:09:28,826
 the gravy right in with
 the sausage right now as we go?
 
 281
-00:09:23,363 --> 00:09:24,596
-                    Yeah.
+00:09:28,826 --> 00:09:29,926
+Yeah.
 
 282
-00:09:24,598 --> 00:09:26,398
+00:09:29,926 --> 00:09:31,726
 Salt, pepper, flour,
 a little bit of milk.
 
 283
-00:09:26,400 --> 00:09:27,799
-                      Yep.
-   Let that cool.
+00:09:31,726 --> 00:09:33,093
+Yep.
+Let that cool.
 
 284
-00:09:27,801 --> 00:09:29,100
+00:09:33,093 --> 00:09:34,560
 And then stuff it.
-                       Mm-hmm.
+Mm‐hmm.
 
 285
-00:09:29,102 --> 00:09:30,769
-     So you just take your dough
-                 and fill it
+00:09:34,560 --> 00:09:36,060
+So you just take your dough
+and fill it
 
 286
-00:09:30,771 --> 00:09:32,170
-              with the sausage
-             and gravy filling.
+00:09:36,060 --> 00:09:37,593
+with the sausage
+and gravy filling.
 
 287
-00:09:32,172 --> 00:09:33,939
+00:09:37,593 --> 00:09:39,260
 Whoa, that's a good portion.
-                       Pinch it.
+Pinch it.
 
 288
-00:09:33,941 --> 00:09:36,341
+00:09:39,260 --> 00:09:41,660
 Set it down on the pinch.
 How long are they gonna bake?
 
 289
-00:09:36,343 --> 00:09:38,276
-             Roughly 20 minutes.
+00:09:41,660 --> 00:09:43,660
+Roughly 20 minutes.
 
 290
-00:09:41,315 --> 00:09:42,514
-    Heavy.
-              It's pretty heavy.
+00:09:46,493 --> 00:09:47,860
+Heavy.
+It's pretty heavy.
 
 291
-00:09:42,516 --> 00:09:44,316
- And is there a way
- that you eat them?
+00:09:47,860 --> 00:09:49,526
+And is there a way
+that you eat them?
 
 292
-00:09:44,318 --> 00:09:45,650
-        Everything's with hands.
+00:09:49,526 --> 00:09:50,993
+Everything's with hands.
 
 293
-00:09:45,652 --> 00:09:48,386
-         Just wait for it to not
-             burn your face off.
+00:09:50,993 --> 00:09:53,526
+Just wait for it to not
+burn your face off.
 
 294
-00:09:48,388 --> 00:09:49,321
-    A little hot.
+00:09:53,526 --> 00:09:54,660
+A little hot.
 
 295
-00:09:49,323 --> 00:09:51,022
-                [Laughing]
-               Yeah, I like...
+00:09:54,660 --> 00:09:56,426
+[ Laughing ]
+Yeah, I like...
 
 296
-00:09:51,024 --> 00:09:52,457
- It's delicious.
-                     Thank you.
+00:09:56,426 --> 00:09:57,760
+It's delicious.
+Thank you.
 
 297
-00:09:52,459 --> 00:09:54,893
+00:09:57,760 --> 00:09:59,960
 The dough is yeasty.
-                         Yeah.
+Yeah.
 
 298
-00:09:54,895 --> 00:09:56,161
+00:09:59,960 --> 00:10:01,500
 That's what I really
-   like about it.
-                         Yeah.
+like about it.
+Yeah.
 
 299
-00:09:56,163 --> 00:09:58,730
+00:10:01,500 --> 00:10:03,966
 It's light, it's airy,
 but it's hearty enough
 
 300
-00:09:58,732 --> 00:10:01,700
- that it really does
+00:10:03,966 --> 00:10:06,966
+that it really does
 give you enough texture.
 
 301
-00:10:01,702 --> 00:10:04,369
+00:10:06,966 --> 00:10:09,633
 The gravy with the sausage,
 it's tender, it's moist.
 
 302
-00:10:04,371 --> 00:10:05,737
+00:10:09,633 --> 00:10:10,800
 There's a lot of depth
-     of flavor.
+of flavor.
 
 303
-00:10:05,739 --> 00:10:06,838
+00:10:10,800 --> 00:10:12,100
 That's a full meal.
-                      Thank you.
+Thank you.
 
 304
-00:10:06,840 --> 00:10:09,708
+00:10:12,100 --> 00:10:15,000
 And especially on the run.
-   It's fantastic.
+It's fantastic.
 
 305
-00:10:10,644 --> 00:10:12,277
-        All right, we got
-       sausage and gravy.
+00:10:15,933 --> 00:10:17,633
+All right, we got
+sausage and gravy.
 
 306
-00:10:12,279 --> 00:10:14,546
-    Rich, delicious gravy --
-           I love it.
+00:10:17,633 --> 00:10:19,866
+Rich, delicious gravy ‐‐
+I love it.
 
 307
-00:10:14,548 --> 00:10:16,047
-  You get all kinds
- of flavor profiles,
+00:10:19,866 --> 00:10:21,433
+You get all kinds
+of flavor profiles,
 
 308
-00:10:16,049 --> 00:10:17,716
-    and it's all
+00:10:21,433 --> 00:10:22,933
+and it's all
 in one tight little package.
 
 309
-00:10:17,718 --> 00:10:19,217
-                And the dough
-                 is so good.
+00:10:22,933 --> 00:10:24,566
+And the dough
+is so good.
 
 310
-00:10:19,219 --> 00:10:21,186
-   -Going in the oven for 10.
-            -Perfect.
+00:10:24,566 --> 00:10:26,566
+‐Going in the oven for 10.
+‐Perfect.
 
 311
-00:10:21,188 --> 00:10:23,388
- WOMAN: It's a really fun place
-        to come and eat.
+00:10:26,566 --> 00:10:28,733
+WOMAN: It's a really fun place
+to come and eat.
 
 312
-00:10:23,390 --> 00:10:25,256
- The owners are always so happy
-          and friendly
+00:10:28,733 --> 00:10:30,533
+The owners are always so happy
+and friendly
 
 313
-00:10:25,258 --> 00:10:26,625
-     when you come in here.
+00:10:30,533 --> 00:10:32,000
+when you come in here.
 
 314
-00:10:26,627 --> 00:10:28,293
-                    Whoo!
-                    Okay.
+00:10:32,000 --> 00:10:33,600
+Whoo!
+Okay.
 
 315
-00:10:28,295 --> 00:10:29,794
+00:10:33,600 --> 00:10:34,833
 Was that a little sing?
-                         It was.
+It was.
 
 316
-00:10:29,796 --> 00:10:30,762
-  Was that a little
-   singing there?
+00:10:34,833 --> 00:10:35,966
+Was that a little
+singing there?
 
 317
-00:10:30,764 --> 00:10:31,997
-                 I just make
-               sound effects.
+00:10:35,966 --> 00:10:37,366
+I just make
+sound effects.
 
 318
-00:10:31,999 --> 00:10:33,264
-     You have --
-    evidentially.
+00:10:37,366 --> 00:10:38,566
+You have ‐‐
+evidentially.
 
 319
-00:10:33,266 --> 00:10:34,732
+00:10:38,566 --> 00:10:40,033
 I'm putting together
-    a soundtrack.
+a soundtrack.
 
 320
-00:10:34,734 --> 00:10:36,201
-                    Aah.
-                [Whooshing]
+00:10:40,033 --> 00:10:41,433
+Aah.
+[ Whooshing ]
 
 321
-00:10:36,203 --> 00:10:37,736
-                 Plop. Mmm!
+00:10:41,433 --> 00:10:43,066
+Plop. Mmm!
 
 322
-00:10:37,738 --> 00:10:39,404
-                    Ooh.
-                    Psst.
+00:10:43,066 --> 00:10:44,700
+Ooh.
+Psst.
 
 323
-00:10:39,406 --> 00:10:42,741
+00:10:44,700 --> 00:10:48,100
 I can't even do that.
-     [Laughs]
+[ Laughs ]
 
 324
-00:10:42,743 --> 00:10:44,075
-  This is more fun.
+00:10:48,100 --> 00:10:49,466
+This is more fun.
 
 325
-00:10:44,077 --> 00:10:45,710
-  I don't even know
+00:10:49,466 --> 00:10:50,933
+I don't even know
 if we're making food.
 
 326
-00:10:45,712 --> 00:10:47,078
-             [Laughing] Okay.
+00:10:50,933 --> 00:10:52,300
+[ Laughing ] Okay.
 
 327
-00:10:47,080 --> 00:10:48,780
-     FIERI: But, seriously,
- this place is getting after it,
+00:10:52,300 --> 00:10:54,033
+FIERI: But, seriously,
+this place is getting after it,
 
 328
-00:10:48,782 --> 00:10:50,849
- putting out plenty of fillings
-         to choose from.
+00:10:54,033 --> 00:10:56,066
+putting out plenty of fillings
+to choose from.
 
 329
-00:10:50,851 --> 00:10:52,217
- So we're gonna make
-  a sweet one next.
+00:10:56,066 --> 00:10:57,433
+So we're gonna make
+a sweet one next.
 
 330
-00:10:52,219 --> 00:10:53,351
-                    Yeah.
+00:10:57,433 --> 00:10:58,466
+Yeah.
 
 331
-00:10:53,353 --> 00:10:54,686
-           All right,
-     we got raspberry cream.
+00:10:58,466 --> 00:11:00,000
+All right,
+we got raspberry cream.
 
 332
-00:10:54,688 --> 00:10:56,721
-  FIERI: Getting a taste, well,
-      that's another story.
+00:11:00,000 --> 00:11:01,973
+FIERI: Getting a taste, well,
+that's another story.
 
 333
-00:10:56,723 --> 00:10:58,923
-     [Laughs]
+00:11:01,973 --> 00:11:04,073
+[ Laughs ]
 
 334
-00:10:58,925 --> 00:11:01,793
+00:11:04,073 --> 00:11:06,940
 These are great, but the
 comedy show is hysterical.
 
 335
-00:11:05,966 --> 00:11:07,399
+00:11:14,140 --> 00:11:15,573
 What is the sound effect right
 now when we're doing the...
 
 336
-00:11:07,401 --> 00:11:09,267
-           I go... [Whooshing]
+00:11:15,573 --> 00:11:17,406
+I go... [ Whooshing ]
 
 337
-00:11:09,269 --> 00:11:11,803
-          [Laughing]
+00:11:17,406 --> 00:11:20,040
+[ Laughing ]
 
 338
-00:11:11,805 --> 00:11:14,606
-                     ♪♪
+00:11:20,040 --> 00:11:22,906
+♪♪♪♪
 
 339
-00:11:14,608 --> 00:11:15,940
-  So welcome back.
+00:11:22,906 --> 00:11:24,040
+So welcome back.
 
 340
-00:11:15,942 --> 00:11:17,575
- "Triple D" in Salt
-  Lake City, Utah,
+00:11:24,040 --> 00:11:25,706
+"Triple D" in Salt
+Lake City, Utah,
 
 341
-00:11:17,577 --> 00:11:19,678
+00:11:25,706 --> 00:11:27,940
 hanging out at Hruska's...
 
 342
-00:11:19,680 --> 00:11:20,912
-                  Kolaches.
+00:11:27,940 --> 00:11:29,206
+Kolaches.
 
 343
-00:11:20,914 --> 00:11:22,547
- Hruska's Kolaches.
-                       Mm-hmm.
+00:11:29,206 --> 00:11:30,806
+Hruska's Kolaches.
+Mm‐hmm.
 
 344
-00:11:22,549 --> 00:11:25,483
+00:11:30,806 --> 00:11:33,606
 You know what, I love the fact
 that you made the name so easy
 
 345
-00:11:25,485 --> 00:11:26,718
- for people to say.
+00:11:33,606 --> 00:11:34,873
+for people to say.
 
 346
-00:11:26,720 --> 00:11:29,421
-             Yeah, strange name,
-               delicious food.
+00:11:34,873 --> 00:11:37,673
+Yeah, strange name,
+delicious food.
 
 347
-00:11:29,423 --> 00:11:32,257
-       Kolaches are Czech,
-  and it's kind of nice to get
+00:11:37,673 --> 00:11:40,540
+Kolaches are Czech,
+and it's kind of nice to get
 
 348
-00:11:32,259 --> 00:11:34,526
- a little bit of Eastern Europe
-       in Salt Lake City.
+00:11:40,540 --> 00:11:42,640
+a little bit of Eastern Europe
+in Salt Lake City.
 
 349
-00:11:34,528 --> 00:11:35,627
-          What can we do for ya?
+00:11:42,640 --> 00:11:43,773
+What can we do for ya?
 
 350
-00:11:35,629 --> 00:11:37,529
+00:11:43,773 --> 00:11:45,673
 Kolache is a buttery,
-    yeast break,
+yeast break,
 
 351
-00:11:37,531 --> 00:11:39,164
+00:11:45,673 --> 00:11:47,406
 and then you can stuff
-    or top them.
+or top them.
 
 352
-00:11:39,166 --> 00:11:41,232
-   Traditionally,
- kolaches are sweet.
+00:11:47,406 --> 00:11:49,440
+Traditionally,
+kolaches are sweet.
 
 353
-00:11:41,234 --> 00:11:43,101
+00:11:49,440 --> 00:11:51,240
 A raspberry cream cheese,
-       please.
+please.
 
 354
-00:11:43,103 --> 00:11:44,436
-                    Okay.
+00:11:51,240 --> 00:11:52,473
+Okay.
 
 355
-00:11:44,438 --> 00:11:46,037
-       Raspberry and cream
-     is kind of always good.
+00:11:52,473 --> 00:11:54,173
+Raspberry and cream
+is kind of always good.
 
 356
-00:11:46,039 --> 00:11:48,606
-  It's just got a nice balance
-   of kind of sweet and tart.
+00:11:54,173 --> 00:11:56,773
+It's just got a nice balance
+of kind of sweet and tart.
 
 357
-00:11:48,608 --> 00:11:50,041
+00:11:56,773 --> 00:11:58,273
 FIERI: All right, so now
- what are we making?
+what are we making?
 
 358
-00:11:50,043 --> 00:11:51,876
-          Our raspberry filling.
- Okay.
+00:11:58,273 --> 00:12:00,040
+Our raspberry filling.
+Okay.
 
 359
-00:11:51,878 --> 00:11:54,979
-   So we're gonna start off wish
-         some lemon concentrate,
+00:12:00,040 --> 00:12:02,980
+So we're gonna start off wish
+some lemon concentrate,
 
 360
-00:11:54,981 --> 00:11:57,115
-             apple concentrate,
-            crushed raspberries.
+00:12:02,980 --> 00:12:05,180
+apple concentrate,
+crushed raspberries.
 
 361
-00:11:57,117 --> 00:11:58,283
-       Sugar.
+00:12:05,180 --> 00:12:06,246
+Sugar.
 
 362
-00:11:58,285 --> 00:11:59,584
-      Once this comes to a boil,
+00:12:06,246 --> 00:12:07,713
+Once this comes to a boil,
 
 363
-00:11:59,586 --> 00:12:02,120
-           then we add Clear Jel
-         of corn starch isolate.
+00:12:07,713 --> 00:12:10,280
+then we add Clear Jel
+of corn starch isolate.
 
 364
-00:12:02,122 --> 00:12:03,855
+00:12:10,280 --> 00:12:11,680
 Let this tighten up,
-    let it cool.
+let it cool.
 
 365
-00:12:03,857 --> 00:12:05,390
-               Yeah, we put it
-              in a piping bag.
+00:12:11,680 --> 00:12:13,413
+Yeah, we put it
+in a piping bag.
 
 366
-00:12:05,392 --> 00:12:07,492
-     All right,
- what are we making?
-       Our cream cheese filling.
+00:12:13,413 --> 00:12:15,680
+All right,
+what are we making?
+Our cream cheese filling.
 
 367
-00:12:07,494 --> 00:12:09,527
-         We start off with cream
-              cheese and sugar.
+00:12:15,680 --> 00:12:17,480
+We start off with cream
+cheese and sugar.
 
 368
-00:12:09,529 --> 00:12:10,562
-              We're just gonna
-                cream it out.
+00:12:17,480 --> 00:12:18,713
+We're just gonna
+cream it out.
 
 369
-00:12:10,564 --> 00:12:12,630
-        And then we're gonna add
-               our egg yolks.
+00:12:18,713 --> 00:12:20,746
+And then we're gonna add
+our egg yolks.
 
 370
-00:12:12,632 --> 00:12:14,599
+00:12:20,746 --> 00:12:22,713
 I love when the yolks
-     make it in.
+make it in.
 
 371
-00:12:14,601 --> 00:12:16,501
-            Once we got that all
-              creamed together,
+00:12:22,713 --> 00:12:24,646
+Once we got that all
+creamed together,
 
 372
-00:12:16,503 --> 00:12:18,570
-                 we're gonna
-          put in cottage cheese.
+00:12:24,646 --> 00:12:26,746
+we're gonna
+put in cottage cheese.
 
 373
-00:12:18,572 --> 00:12:19,904
-        Mmm.
+00:12:26,746 --> 00:12:28,013
+Mmm.
 
 374
-00:12:19,906 --> 00:12:21,840
-              Which is a really
-      traditional Czech filling.
+00:12:28,013 --> 00:12:30,080
+Which is a really
+traditional Czech filling.
 
 375
-00:12:21,842 --> 00:12:23,508
- Same dough.
-                 Same dough.
+00:12:30,080 --> 00:12:31,646
+Same dough.
+Same dough.
 
 376
-00:12:23,510 --> 00:12:24,909
-                 We're gonna
-             stomp 'em all out.
+00:12:31,646 --> 00:12:33,146
+We're gonna
+stomp 'em all out.
 
 377
-00:12:24,911 --> 00:12:26,478
+00:12:33,146 --> 00:12:34,613
 You want me to time you?
-                           Sure.
+Sure.
 
 378
-00:12:26,480 --> 00:12:27,612
+00:12:34,613 --> 00:12:35,646
 How long do you think
-    it takes you?
+it takes you?
 
 379
-00:12:27,614 --> 00:12:29,180
-             Less than a minute.
+00:12:35,646 --> 00:12:37,413
+Less than a minute.
 
 380
-00:12:29,182 --> 00:12:31,049
+00:12:37,413 --> 00:12:39,246
 I'm gonna stomp, I'm gonna fill,
-               I'm gonna fill.
+I'm gonna fill.
 
 381
-00:12:31,051 --> 00:12:32,550
+00:12:39,246 --> 00:12:40,646
 You're gonna do all that
-    in a minute?
+in a minute?
 
 382
-00:12:32,552 --> 00:12:35,620
-                     Yeah.
- Three, two, go.
+00:12:40,646 --> 00:12:43,813
+Yeah.
+Three, two, go.
 
 383
-00:12:35,622 --> 00:12:38,056
-    What in the--
+00:12:43,813 --> 00:12:46,180
+What in the‐‐
 
 384
-00:12:38,058 --> 00:12:39,724
-     13 seconds.
+00:12:46,180 --> 00:12:47,846
+13 seconds.
 
 385
-00:12:39,726 --> 00:12:42,193
-             I'm going too fast,
-          I'm making these ugly.
+00:12:47,846 --> 00:12:50,280
+I'm going too fast,
+I'm making these ugly.
 
 386
-00:12:42,195 --> 00:12:45,029
-     27 seconds.
+00:12:50,280 --> 00:12:53,146
+27 seconds.
 
 387
-00:12:45,031 --> 00:12:47,966
-     34 seconds.
+00:12:53,146 --> 00:12:56,113
+34 seconds.
 
 388
-00:12:47,968 --> 00:12:49,834
- What in the world?!
+00:12:56,113 --> 00:12:57,846
+What in the world?!
 
 389
-00:12:49,836 --> 00:12:51,069
-             Those are so ugly,
-                   though.
+00:12:57,846 --> 00:12:59,180
+Those are so ugly,
+though.
 
 390
-00:12:51,071 --> 00:12:52,637
-  You're an animal!
+00:12:59,180 --> 00:13:00,653
+You're an animal!
 
 391
-00:12:52,639 --> 00:12:53,938
+00:13:00,653 --> 00:13:01,886
 Now how long will this
-    take to bake?
+take to bake?
 
 392
-00:12:53,940 --> 00:12:55,273
-               Eight minutes.
+00:13:01,886 --> 00:13:03,220
+Eight minutes.
 
 393
-00:12:55,275 --> 00:12:56,341
-      I actually like these ones
-          right out of the oven,
+00:13:03,220 --> 00:13:04,220
+I actually like these ones
+right out of the oven,
 
 394
-00:12:56,343 --> 00:12:57,642
-           just a couple minutes
-                   cooled
+00:13:04,220 --> 00:13:05,686
+just a couple minutes
+cooled
 
 395
-00:12:57,644 --> 00:12:59,511
-        so the cream cheese sets
-             just a little bit.
+00:13:05,686 --> 00:13:07,620
+so the cream cheese sets
+just a little bit.
 
 396
-00:12:59,513 --> 00:13:01,045
-  'Cause right now,
-     that's a--
-                  I like to dip,
+00:13:07,620 --> 00:13:09,186
+'Cause right now,
+that's a‐‐
+I like to dip,
 
 397
-00:13:01,047 --> 00:13:03,448
-               but you eat it
-              the way you like.
+00:13:09,186 --> 00:13:11,286
+but you eat it
+the way you like.
 
 398
-00:13:03,450 --> 00:13:04,482
-    [Chuckles]
+00:13:11,286 --> 00:13:12,520
+[ Chuckles ]
 
 399
-00:13:04,484 --> 00:13:06,751
-               It looks good.
-             I want to eat one.
+00:13:12,520 --> 00:13:14,886
+It looks good.
+I want to eat one.
 
 400
-00:13:06,753 --> 00:13:08,686
- You can take a full bite if you
- want, you don't have to dip it.
+00:13:14,886 --> 00:13:16,886
+You can take a full bite if you
+want, you don't have to dip it.
 
 401
-00:13:08,688 --> 00:13:10,288
-  Thank you.
-                 Okay.
+00:13:16,886 --> 00:13:18,386
+Thank you.
+Okay.
 
 402
-00:13:10,290 --> 00:13:12,190
-              Make me nervous.
-                    Okay.
+00:13:18,386 --> 00:13:20,253
+Make me nervous.
+Okay.
 
 403
-00:13:12,192 --> 00:13:14,993
-     [Laughs]
+00:13:20,253 --> 00:13:23,153
+[ Laughs ]
 
 404
-00:13:14,995 --> 00:13:17,529
-                Here it goes.
- [Laughs]
+00:13:23,153 --> 00:13:25,553
+Here it goes.
+[ Laughs ]
 
 405
-00:13:17,531 --> 00:13:20,932
+00:13:25,553 --> 00:13:28,886
 I knew she couldn't resist.
 
 406
-00:13:20,934 --> 00:13:22,200
-     Come down.
+00:13:28,886 --> 00:13:30,186
+Come down.
 
 407
-00:13:22,202 --> 00:13:26,404
+00:13:30,186 --> 00:13:34,420
 These are great, but the comedy
- show is hysterical.
+show is hysterical.
 
 408
-00:13:26,406 --> 00:13:27,772
-   It's delicious.
+00:13:34,420 --> 00:13:35,820
+It's delicious.
 
 409
-00:13:27,774 --> 00:13:30,542
-I mean, you're making high-end
-   quality pastry,
+00:13:35,820 --> 00:13:38,586
+I mean, you're making high‐end
+quality pastry,
 
 410
-00:13:30,544 --> 00:13:32,877
-     fresh-made
+00:13:38,586 --> 00:13:40,886
+fresh‐made
 with a lot of creativity
 
 411
-00:13:32,879 --> 00:13:35,980
+00:13:40,886 --> 00:13:44,086
 and a lot of variety,
 and I'm not a sweets guy.
 
 412
-00:13:35,982 --> 00:13:37,315
+00:13:44,086 --> 00:13:45,453
 I'm not a pastry guy.
 
 413
-00:13:37,317 --> 00:13:39,384
- But this right here
- is a mature pastry
+00:13:45,453 --> 00:13:47,520
+But this right here
+is a mature pastry
 
 414
-00:13:39,386 --> 00:13:43,021
+00:13:47,520 --> 00:13:51,020
 that has great texture of
 the crust, very nice and light.
 
 415
-00:13:43,023 --> 00:13:45,623
+00:13:51,020 --> 00:13:53,653
 But a good contrast between
 the sour and the sweet.
 
 416
-00:13:45,625 --> 00:13:47,559
- It's delicious.
-                     Thank you.
+00:13:53,653 --> 00:13:55,620
+It's delicious.
+Thank you.
 
 417
-00:13:48,762 --> 00:13:50,228
-     We got raspberry cream.
+00:13:56,786 --> 00:13:58,220
+We got raspberry cream.
 
 418
-00:13:50,230 --> 00:13:53,898
-  The frosting, filling stuffed
-  in the middle is really good.
+00:13:58,220 --> 00:14:01,926
+The frosting, filling stuffed
+in the middle is really good.
 
 419
-00:13:53,900 --> 00:13:56,434
-              MAN:
-  The way the raspberries come
- together with the cream cheese
+00:14:01,926 --> 00:14:04,426
+MAN:
+The way the raspberries come
+together with the cream cheese
 
 420
-00:13:56,436 --> 00:13:58,403
-    is just a heavenly union,
-             really.
+00:14:04,426 --> 00:14:06,426
+is just a heavenly union,
+really.
 
 421
-00:13:58,405 --> 00:14:00,638
+00:14:06,426 --> 00:14:08,726
 Can I get a sausage gravy
- and a maple pecan?
+and a maple pecan?
 
 422
-00:14:00,640 --> 00:14:01,940
-       I love this place.
+00:14:08,726 --> 00:14:09,860
+I love this place.
 
 423
-00:14:01,942 --> 00:14:05,677
+00:14:09,860 --> 00:14:13,726
 It's not your typical
- breakfast sandwich.
+breakfast sandwich.
 
 424
-00:14:05,679 --> 00:14:09,547
- Really tasty, a lot of variety,
-        and interesting.
+00:14:13,726 --> 00:14:17,593
+Really tasty, a lot of variety,
+and interesting.
 
 425
-00:14:09,549 --> 00:14:11,850
+00:14:17,593 --> 00:14:19,860
 On top of it all, with you
 and your two brothers
 
 426
-00:14:11,852 --> 00:14:13,852
- making this happen,
+00:14:19,860 --> 00:14:21,960
+making this happen,
 offering something that people
 
 427
-00:14:13,854 --> 00:14:15,353
+00:14:21,960 --> 00:14:23,460
 probably haven't had before,
 
 428
-00:14:15,355 --> 00:14:17,689
+00:14:23,460 --> 00:14:25,726
 offering something that comes
 from your family history,
 
 429
-00:14:17,691 --> 00:14:19,324
+00:14:25,726 --> 00:14:27,360
 and I think you're having a
 great time while you do it.
 
 430
-00:14:19,326 --> 00:14:21,492
-                 Yeah, I do.
-                 I love it.
+00:14:27,360 --> 00:14:29,526
+Yeah, I do.
+I love it.
 
 431
-00:14:21,494 --> 00:14:23,595
-     Real deal.
-What's our good-bye music?
+00:14:29,526 --> 00:14:31,560
+Real deal.
+What's our good‐bye music?
 
 432
-00:14:23,597 --> 00:14:25,597
-        ♪ Da-da, da-da, da, da ♪
+00:14:31,560 --> 00:14:33,560
+♪♪ Da‐da, da‐da, da, da ♪♪
 
 433
-00:14:25,599 --> 00:14:27,532
-      [Laughing] I don't know.
+00:14:33,560 --> 00:14:35,626
+[ Laughing ] I don't know.
 
 434
-00:14:28,869 --> 00:14:32,270
-             FIERI:
-   Coming up, an Atlanta chef
-  throwing fine-dining chops...
+00:14:36,960 --> 00:14:40,326
+FIERI:
+Coming up, an Atlanta chef
+throwing fine‐dining chops...
 
 435
-00:14:32,272 --> 00:14:33,838
+00:14:40,326 --> 00:14:41,926
 My mouth is watering,
-     by the way.
+by the way.
 
 436
-00:14:33,840 --> 00:14:35,473
-    ...into real deal tacos.
+00:14:41,926 --> 00:14:43,526
+...into real deal tacos.
 
 437
-00:14:35,475 --> 00:14:36,841
- I don't know, Chef,
-what I like better --
+00:14:43,526 --> 00:14:44,793
+I don't know, Chef,
+what I like better ‐‐
 
 438
-00:14:36,843 --> 00:14:38,810
+00:14:44,793 --> 00:14:46,726
 the flavor the tacos
-   or the passion
+or the passion
 
 439
-00:14:38,812 --> 00:14:39,777
-    that you have
-  for what you do.
+00:14:46,726 --> 00:14:47,760
+that you have
+for what you do.
 
 440
-00:14:41,047 --> 00:14:45,617
-                     ♪♪
+00:14:52,026 --> 00:14:56,593
+♪♪♪♪
 
 441
-00:14:45,619 --> 00:14:47,418
-         You gotta love
-       "Triple D" joints.
+00:14:56,593 --> 00:14:58,493
+You gotta love
+"Triple D" joints.
 
 442
-00:14:47,420 --> 00:14:50,321
-    These mom and pop places
-  with these funky backstories.
+00:14:58,493 --> 00:15:01,233
+These mom and pop places
+with these funky backstories.
 
 443
-00:14:50,323 --> 00:14:51,589
-     So check this one out.
+00:15:01,233 --> 00:15:02,533
+So check this one out.
 
 444
-00:14:51,591 --> 00:14:53,191
+00:15:02,533 --> 00:15:04,200
 I'm here in Atlanta to check out
-             a place
+a place
 
 445
-00:14:53,193 --> 00:14:55,226
-         where the chef
-      is raised in Mexico,
+00:15:04,200 --> 00:15:06,233
+where the chef
+is raised in Mexico,
 
 446
-00:14:55,228 --> 00:14:57,061
-     gets his college degree
-          and decides,
+00:15:06,233 --> 00:15:07,933
+gets his college degree
+and decides,
 
 447
-00:14:57,063 --> 00:14:59,764
-  "Hey, I'll just move to Paris
-    and go to Le Cordon Bleu
+00:15:07,933 --> 00:15:10,700
+"Hey, I'll just move to Paris
+and go to Le Cordon Bleu
 
 448
-00:14:59,766 --> 00:15:02,300
-     and do a stage at some
- Michelin-starred restaurants."
+00:15:10,700 --> 00:15:13,300
+and do a stage at some
+Michelin‐starred restaurants."
 
 449
-00:15:02,302 --> 00:15:04,002
-    And when he gets finished
-       with that, he says,
+00:15:13,300 --> 00:15:14,966
+And when he gets finished
+with that, he says,
 
 450
-00:15:04,004 --> 00:15:05,370
-         "You know what?
+00:15:14,966 --> 00:15:16,366
+"You know what?
 
 451
-00:15:05,372 --> 00:15:06,804
-      Now it's time to move
-    to the States to Atlanta
+00:15:16,366 --> 00:15:17,800
+Now it's time to move
+to the States to Atlanta
 
 452
-00:15:06,806 --> 00:15:08,406
-    and open up a taco shop."
+00:15:17,800 --> 00:15:19,300
+and open up a taco shop."
 
 453
-00:15:08,408 --> 00:15:10,575
-      This is Rreal Tacos.
+00:15:19,300 --> 00:15:21,500
+This is Rreal Tacos.
 
 454
-00:15:13,880 --> 00:15:15,813
-      Those tacos are there
-         in the window.
+00:15:24,733 --> 00:15:26,833
+Those tacos are there
+in the window.
 
 455
-00:15:15,815 --> 00:15:17,282
-     The best tacos in town.
+00:15:26,833 --> 00:15:28,200
+The best tacos in town.
 
 456
-00:15:17,284 --> 00:15:18,650
-     They are so authentic.
+00:15:28,200 --> 00:15:29,500
+They are so authentic.
 
 457
-00:15:18,652 --> 00:15:19,851
-     SERVER: Carnitas tacos.
+00:15:29,500 --> 00:15:30,866
+SERVER: Carnitas tacos.
 
 458
-00:15:19,853 --> 00:15:21,352
-  A lot of street taco flavors
+00:15:30,866 --> 00:15:32,333
+A lot of street taco flavors
 
 459
-00:15:21,354 --> 00:15:23,554
-       that you would see
-    in Mexico you find here.
+00:15:32,333 --> 00:15:34,466
+that you would see
+in Mexico you find here.
 
 460
-00:15:23,556 --> 00:15:25,890
-    FIERI: Flavors that owner
-        Adrian Villarreal
+00:15:34,466 --> 00:15:36,766
+FIERI: Flavors that owner
+Adrian Villarreal
 
 461
-00:15:25,892 --> 00:15:28,526
-       missed after years
-     of French fine dining.
+00:15:36,766 --> 00:15:39,366
+missed after years
+of French fine dining.
 
 462
-00:15:28,528 --> 00:15:30,194
-    Those are on the double.
+00:15:39,366 --> 00:15:41,066
+Those are on the double.
 
 463
-00:15:30,196 --> 00:15:33,131
-             FIERI:
-  So he refocused his culinary
-      chops on the cuisine
+00:15:41,066 --> 00:15:44,033
+FIERI:
+So he refocused his culinary
+chops on the cuisine
 
 464
-00:15:33,133 --> 00:15:34,732
-    of his Mexican homeland.
+00:15:44,033 --> 00:15:45,600
+of his Mexican homeland.
 
 465
-00:15:34,734 --> 00:15:35,934
-          Everybody loves tacos.
+00:15:45,600 --> 00:15:46,766
+Everybody loves tacos.
 
 466
-00:15:35,936 --> 00:15:38,469
+00:15:46,766 --> 00:15:49,433
 When you go to Mexico,
 tacos are very simple.
 
 467
-00:15:38,471 --> 00:15:41,673
+00:15:49,433 --> 00:15:52,566
 The ingredients are usually
 very fresh and made correctly.
 
 468
-00:15:41,675 --> 00:15:42,774
-                       Uh-huh.
-   And that's it.
+00:15:52,566 --> 00:15:53,666
+Uh‐huh.
+And that's it.
 
 469
-00:15:42,776 --> 00:15:44,342
-                           Yeah.
-    And that's his mission.
+00:15:53,666 --> 00:15:55,300
+Yeah.
+And that's his mission.
 
 470
-00:15:44,344 --> 00:15:46,144
- Chicken Veracruzana going down.
+00:15:55,300 --> 00:15:57,166
+Chicken Veracruzana going down.
 
 471
-00:15:46,146 --> 00:15:48,112
-      I've tried every taco
-          on the menu.
+00:15:57,166 --> 00:15:59,000
+I've tried every taco
+on the menu.
 
 472
-00:15:48,114 --> 00:15:50,515
-    The Chicken Veracruz taco
-     is one of my favorites.
+00:15:59,000 --> 00:16:01,440
+The Chicken Veracruz taco
+is one of my favorites.
 
 473
-00:15:50,517 --> 00:15:53,718
-   A real juicy chicken taco.
-      The taste is amazing.
+00:16:01,440 --> 00:16:04,640
+A real juicy chicken taco.
+The taste is amazing.
 
 474
-00:15:53,720 --> 00:15:56,187
+00:16:04,640 --> 00:16:07,140
 What are we making?
-               We're gonna do
-          our Veracruzana sauce.
+We're gonna do
+our Veracruzana sauce.
 
 475
-00:15:56,189 --> 00:15:58,389
+00:16:07,140 --> 00:16:09,340
 Veracruzana.
-         So start with your oil.
+So start with your oil.
 
 476
-00:15:58,391 --> 00:16:01,392
-     Peppers and onions, garlic,
-             salt, chili flakes,
+00:16:09,340 --> 00:16:12,106
+Peppers and onions, garlic,
+salt, chili flakes,
 
 477
-00:16:01,394 --> 00:16:02,760
-      and you let it sweat down.
+00:16:12,106 --> 00:16:13,640
+and you let it sweat down.
 Okay.
 
 478
-00:16:02,762 --> 00:16:05,229
-           We add your tomatoes,
-       some olives, some capers.
+00:16:13,640 --> 00:16:16,140
+We add your tomatoes,
+some olives, some capers.
 
 479
-00:16:05,231 --> 00:16:06,898
-                  Cilantro,
-              and your epazote.
+00:16:16,140 --> 00:16:17,740
+Cilantro,
+and your epazote.
 
 480
-00:16:06,900 --> 00:16:09,600
+00:16:17,740 --> 00:16:20,440
 So epazote is something
 we traditionally don't find
 
 481
-00:16:09,602 --> 00:16:10,935
+00:16:20,440 --> 00:16:21,906
 in the United States.
-                  Not that much.
+Not that much.
 
 482
-00:16:10,937 --> 00:16:12,704
-    And you only
-   find it in more
+00:16:21,906 --> 00:16:23,540
+And you only
+find it in more
 
 483
-00:16:12,706 --> 00:16:14,105
+00:16:23,540 --> 00:16:25,006
 of the authentic style
 Mexican restaurants.
 
 484
-00:16:14,107 --> 00:16:15,573
-           Yes, that's for sure.
+00:16:25,006 --> 00:16:26,273
+Yes, that's for sure.
 
 485
-00:16:15,575 --> 00:16:16,874
+00:16:26,273 --> 00:16:27,706
 How are we gonna cook
-    the chicken?
+the chicken?
 
 486
-00:16:16,876 --> 00:16:20,144
-   Add some onion, garlic, salt,
-                and bay leaf.
+00:16:27,706 --> 00:16:30,973
+Add some onion, garlic, salt,
+and bay leaf.
 
 487
-00:16:20,146 --> 00:16:21,346
-                Very simple.
+00:16:30,973 --> 00:16:32,240
+Very simple.
 
 488
-00:16:21,348 --> 00:16:22,580
-        Simmer for about an hour
-                 and a half.
+00:16:32,240 --> 00:16:33,406
+Simmer for about an hour
+and a half.
 
 489
-00:16:22,582 --> 00:16:24,682
-                We shred it,
-           and we keep the skin.
+00:16:33,406 --> 00:16:35,540
+We shred it,
+and we keep the skin.
 
 490
-00:16:24,684 --> 00:16:26,250
- Don't want to lose
+00:16:35,540 --> 00:16:37,040
+Don't want to lose
 the flavor of the skin.
 
 491
-00:16:26,252 --> 00:16:27,618
-                    Yes.
+00:16:37,040 --> 00:16:38,506
+Yes.
 
 492
-00:16:27,620 --> 00:16:28,987
-   Add a little bit of the stock
-            to get it simmering.
+00:16:38,506 --> 00:16:39,940
+Add a little bit of the stock
+to get it simmering.
 
 493
-00:16:28,989 --> 00:16:30,555
-          We got our Veracruzana
-                ready to go,
+00:16:39,940 --> 00:16:41,406
+We got our Veracruzana
+ready to go,
 
 494
-00:16:30,557 --> 00:16:32,123
-           and you just ladle it
-                  into it.
+00:16:41,406 --> 00:16:43,040
+and you just ladle it
+into it.
 
 495
-00:16:32,125 --> 00:16:33,958
+00:16:43,040 --> 00:16:44,873
 My mouth is watering,
-     by the way.
+by the way.
 
 496
-00:16:33,960 --> 00:16:35,493
-      So then the fried avocado.
+00:16:44,873 --> 00:16:46,340
+So then the fried avocado.
 
 497
-00:16:35,495 --> 00:16:38,029
+00:16:46,340 --> 00:16:48,840
 You say fried avocado,
-   and I love it.
+and I love it.
 
 498
-00:16:38,031 --> 00:16:40,031
- The slurry is just corn starch,
-          a little bit of water,
+00:16:48,840 --> 00:16:50,873
+The slurry is just corn starch,
+a little bit of water,
 
 499
-00:16:40,033 --> 00:16:41,699
-           a little bit of salt.
-     What are we gonna
-     dredge it in?
+00:16:50,873 --> 00:16:52,540
+a little bit of salt.
+What are we gonna
+dredge it in?
 
 500
-00:16:41,701 --> 00:16:43,368
-                 Masa harina
-              and some spices.
+00:16:52,540 --> 00:16:54,073
+Masa harina
+and some spices.
 
 501
-00:16:43,370 --> 00:16:44,702
-     Masa harina
-  is the same thing
+00:16:54,073 --> 00:16:55,573
+Masa harina
+is the same thing
 
 502
-00:16:44,704 --> 00:16:46,237
+00:16:55,573 --> 00:16:57,106
 that you make tortillas
- and tamales out of.
+and tamales out of.
 
 503
-00:16:46,239 --> 00:16:47,672
+00:16:57,106 --> 00:16:58,506
 Fry them in canola oil.
 
 504
-00:16:47,674 --> 00:16:49,474
-                    Yes.
-         Let's fill those tacos.
+00:16:58,506 --> 00:17:00,346
+Yes.
+Let's fill those tacos.
 
 505
-00:16:49,476 --> 00:16:51,376
- We're doing the flour tortillas
-                for this guy.
+00:17:00,346 --> 00:17:02,280
+We're doing the flour tortillas
+for this guy.
 
 506
-00:16:51,378 --> 00:16:54,212
+00:17:02,280 --> 00:17:05,146
 Boy, that's not any little
 Mexican street taco portion.
 
 507
-00:16:54,214 --> 00:16:55,913
-  Definitely not. You like onion
-            and cilantro, right?
+00:17:05,146 --> 00:17:06,780
+Definitely not. You like onion
+and cilantro, right?
 
 508
-00:16:55,915 --> 00:16:57,181
-      Come on.
-                    Okay.
+00:17:06,780 --> 00:17:08,013
+Come on.
+Okay.
 
 509
-00:16:57,183 --> 00:16:58,282
-             The crispy avocado.
+00:17:08,013 --> 00:17:09,080
+The crispy avocado.
 
 510
-00:16:58,284 --> 00:16:59,751
+00:17:09,080 --> 00:17:10,546
 Do I get three or four?
 
 511
-00:16:59,753 --> 00:17:01,719
-                   You get four.
+00:17:10,546 --> 00:17:12,480
+You get four.
 Don't cheat me over there.
 
 512
-00:17:01,721 --> 00:17:03,187
-              People get three,
-                you get four.
+00:17:12,480 --> 00:17:14,046
+People get three,
+you get four.
 
 513
-00:17:03,189 --> 00:17:04,889
-                 We got our
-             cilantro dressing.
+00:17:14,046 --> 00:17:15,713
+We got our
+cilantro dressing.
 
 514
-00:17:04,891 --> 00:17:08,860
-                     ♪♪
+00:17:15,713 --> 00:17:19,680
+♪♪♪♪
 
 515
-00:17:08,862 --> 00:17:10,161
-         Oh.
+00:17:19,680 --> 00:17:20,913
+Oh.
 
 516
-00:17:10,163 --> 00:17:11,329
+00:17:20,913 --> 00:17:22,146
 That right there in the world
-  of fried avocado
+of fried avocado
 
 517
-00:17:11,331 --> 00:17:12,930
+00:17:22,146 --> 00:17:23,713
 is in its own category.
-                    Thank you.
+Thank you.
 
 518
-00:17:12,932 --> 00:17:15,533
+00:17:23,713 --> 00:17:26,346
 The cross between the corn
 starch and the masa harina,
 
 519
-00:17:15,535 --> 00:17:17,702
-   this has, like,
+00:17:26,346 --> 00:17:28,446
+this has, like,
 cracker crunch to it.
 
 520
-00:17:17,704 --> 00:17:20,972
-      Dynamite.
-     All right.
+00:17:28,446 --> 00:17:31,846
+Dynamite.
+All right.
 
 521
-00:17:20,974 --> 00:17:23,374
-        Mmm.
+00:17:31,846 --> 00:17:34,213
+Mmm.
 That is a meaningful,
 
 522
-00:17:23,376 --> 00:17:25,676
-   well-executed,
+00:17:34,213 --> 00:17:36,380
+well‐executed,
 delicious chicken taco.
 
 523
-00:17:25,678 --> 00:17:27,211
-         Thank you for noticing.
+00:17:36,380 --> 00:17:37,913
+Thank you for noticing.
 
 524
-00:17:27,213 --> 00:17:31,182
+00:17:37,913 --> 00:17:42,046
 There's tender chicken,
 vegetables still with some bite.
 
 525
-00:17:31,184 --> 00:17:32,984
- The Veracruz sauce,
-     delicious.
+00:17:42,046 --> 00:17:43,713
+The Veracruz sauce,
+delicious.
 
 526
-00:17:32,986 --> 00:17:35,053
+00:17:43,713 --> 00:17:45,746
 And a nice little bit of acid
-   from the onions
+from the onions
 
 527
-00:17:35,055 --> 00:17:36,954
+00:17:45,746 --> 00:17:47,713
 and the herbaceousness
- from the cilantro.
+from the cilantro.
 
 528
-00:17:36,956 --> 00:17:38,222
-                    Yep.
+00:17:47,713 --> 00:17:48,880
+Yep.
 
 529
-00:17:38,224 --> 00:17:39,323
- It's all real-deal
-   Mexican flavors
+00:17:48,880 --> 00:17:50,146
+It's all real‐deal
+Mexican flavors
 
 530
-00:17:39,325 --> 00:17:41,893
-   with ridiculous
-  gringo portions.
+00:17:50,146 --> 00:17:52,680
+with ridiculous
+gringo portions.
 
 531
-00:17:41,895 --> 00:17:43,995
-          [Laughing] Yes, sir.
+00:17:52,680 --> 00:17:54,746
+[ Laughing ] Yes, sir.
 Oh, just one more bite.
 
 532
-00:17:46,099 --> 00:17:48,132
-      Dos tacos Veracruzana
-         in the window.
+00:17:57,046 --> 00:17:59,013
+Dos tacos Veracruzana
+in the window.
 
 533
-00:17:48,134 --> 00:17:50,168
-        Very hearty meal.
-        It's very juicy.
+00:17:59,013 --> 00:18:00,853
+Very hearty meal.
+It's very juicy.
 
 534
-00:17:50,170 --> 00:17:51,669
-   How about the fried avocados?
-             What do you think?
+00:18:00,853 --> 00:18:02,386
+How about the fried avocados?
+What do you think?
 
 535
-00:17:51,671 --> 00:17:53,538
-        -They're amazing.
-           -Very good.
+00:18:02,386 --> 00:18:04,253
+‐They're amazing.
+‐Very good.
 
 536
-00:17:53,540 --> 00:17:55,473
-     Dos carnitas up there!
+00:18:04,253 --> 00:18:06,320
+Dos carnitas up there!
 
 537
-00:17:55,475 --> 00:17:57,909
-  These's a lot of competition
-   for tacos here in the city,
+00:18:06,320 --> 00:18:08,620
+These's a lot of competition
+for tacos here in the city,
 
 538
-00:17:57,911 --> 00:18:00,745
-      and I really believe
-     this place stands out.
+00:18:08,620 --> 00:18:11,586
+and I really believe
+this place stands out.
 
 539
-00:18:00,747 --> 00:18:02,213
-     Why R-real?
+00:18:11,586 --> 00:18:13,086
+Why R‐real?
 
 540
-00:18:02,215 --> 00:18:04,715
-  Rreal because of my last name,
-                 Villarreal.
+00:18:13,086 --> 00:18:15,453
+Rreal because of my last name,
+Villarreal.
 
 541
-00:18:04,717 --> 00:18:07,351
-And to people go "R-Real Tacos"?
-       R-Real?
+00:18:15,453 --> 00:18:18,186
+And to people go "R‐Real Tacos"?
+R‐Real?
 
 542
-00:18:07,353 --> 00:18:10,755
-R-Real Tacos are the most common
-             or just Real Tacos.
+00:18:18,186 --> 00:18:21,520
+R‐Real Tacos are the most common
+or just Real Tacos.
 
 543
-00:18:10,757 --> 00:18:12,824
-      Nobody goes "Rreal Tacos."
-           That does not happen.
+00:18:21,520 --> 00:18:23,586
+Nobody goes "Rreal Tacos."
+That does not happen.
 
 544
-00:18:12,826 --> 00:18:14,959
-       I'm talking on the phone,
+00:18:23,586 --> 00:18:25,720
+I'm talking on the phone,
 I'm not gonna say "Rreal Tacos."
 
 545
-00:18:14,961 --> 00:18:15,827
-            No?
-                    No.
+00:18:25,720 --> 00:18:26,486
+No?
+No.
 
 546
-00:18:15,829 --> 00:18:17,161
-      Why not?
+00:18:26,486 --> 00:18:27,620
+Why not?
 
 547
-00:18:17,163 --> 00:18:18,229
-       Nobody's gonna understand
-          where I'm coming from.
+00:18:27,620 --> 00:18:29,053
+Nobody's gonna understand
+where I'm coming from.
 
 548
-00:18:18,231 --> 00:18:20,832
-[Rolls tongue] "Rreal Tacos.
-    Rreal Tacos."
+00:18:29,053 --> 00:18:31,520
+[ Rolls tongue ] "Rreal Tacos.
+Rreal Tacos."
 
 549
-00:18:20,834 --> 00:18:23,067
-       I think Rreal Taco
-       is really special.
+00:18:31,520 --> 00:18:33,886
+I think Rreal Taco
+is really special.
 
 550
-00:18:23,069 --> 00:18:25,002
- My favorite is the Pork Trompo.
+00:18:33,886 --> 00:18:35,820
+My favorite is the Pork Trompo.
 
 551
-00:18:25,004 --> 00:18:26,771
-   Trompo Taco in the window.
+00:18:35,820 --> 00:18:37,486
+Trompo Taco in the window.
 
 552
-00:18:26,773 --> 00:18:28,873
-       It's crispy in all
-         the right ways.
+00:18:37,486 --> 00:18:39,520
+It's crispy in all
+the right ways.
 
 553
-00:18:28,875 --> 00:18:30,174
-        MAN: They cook it
-        fresh every day.
+00:18:39,520 --> 00:18:40,953
+MAN: They cook it
+fresh every day.
 
 554
-00:18:30,176 --> 00:18:31,709
+00:18:40,953 --> 00:18:42,386
 They cut it right off the stack.
 
 555
-00:18:31,711 --> 00:18:33,010
- Why do you call it
-    Trompo taco?
+00:18:42,386 --> 00:18:43,486
+Why do you call it
+Trompo taco?
 
 556
-00:18:33,012 --> 00:18:34,178
-           That's how we call it
-               where I'm from.
+00:18:43,486 --> 00:18:44,953
+That's how we call it
+where I'm from.
 
 557
-00:18:34,180 --> 00:18:36,114
-            And most people know
-                it as pastor.
+00:18:44,953 --> 00:18:46,720
+And most people know
+it as pastor.
 
 558
-00:18:36,116 --> 00:18:37,048
-  So start it off.
+00:18:46,720 --> 00:18:47,853
+So start it off.
 
 559
-00:18:37,050 --> 00:18:38,783
-            So guajillo peppers,
-                   clove.
+00:18:47,853 --> 00:18:49,220
+So guajillo peppers,
+clove.
 
 560
-00:18:38,785 --> 00:18:40,151
- Brown sugar?
-                   Mm-hmm.
+00:18:49,220 --> 00:18:50,820
+Brown sugar?
+Mm‐hmm.
 
 561
-00:18:40,153 --> 00:18:42,753
-     Some salt, vinegar, garlic,
-             and annatto seeds.
+00:18:50,820 --> 00:18:53,620
+Some salt, vinegar, garlic,
+and annatto seeds.
 
 562
-00:18:42,755 --> 00:18:44,188
+00:18:53,620 --> 00:18:55,020
 Gives that nice red hue.
 
 563
-00:18:44,190 --> 00:18:47,358
-            Some cumin, oregano,
-                and epazote.
+00:18:55,020 --> 00:18:57,986
+Some cumin, oregano,
+and epazote.
 
 564
-00:18:47,360 --> 00:18:48,493
- Okay.
-          A little bit of water,
-              a little bit of--
+00:18:57,986 --> 00:18:59,286
+Okay.
+A little bit of water,
+a little bit of‐‐
 
 565
-00:18:48,495 --> 00:18:50,128
- A little tequila.
-                   Yes, tequila.
+00:18:59,286 --> 00:19:00,893
+A little tequila.
+Yes, tequila.
 
 566
-00:18:50,130 --> 00:18:51,462
-              That came before.
-      Yes.
+00:19:00,893 --> 00:19:02,126
+That came before.
+Yes.
 
 567
-00:18:51,464 --> 00:18:52,897
-                    Yes.
-                 Let it rip.
+00:19:02,126 --> 00:19:03,626
+Yes.
+Let it rip.
 
 568
-00:18:52,899 --> 00:18:54,365
-    "Let it rip."
+00:19:03,626 --> 00:19:05,160
+"Let it rip."
 
 569
-00:18:54,367 --> 00:18:56,868
+00:19:05,160 --> 00:19:07,293
 Did you ever play the football
 game when you were a kid?
 
 570
-00:18:56,870 --> 00:18:57,902
-  You had a little
-   football game,
+00:19:07,293 --> 00:19:08,560
+You had a little
+football game,
 
 571
-00:18:57,904 --> 00:18:59,737
-  those little guys
-  vibrated around.
+00:19:08,560 --> 00:19:10,460
+those little guys
+vibrated around.
 
 572
-00:18:59,739 --> 00:19:01,873
+00:19:10,460 --> 00:19:12,693
 Let's see which one wins.
 Which one are you gonna take?
 
 573
-00:19:01,875 --> 00:19:04,041
-                        Oregano.
+00:19:12,693 --> 00:19:14,760
+Oregano.
 I'll take the epazote.
 
 574
-00:19:04,043 --> 00:19:05,376
-     Here we go.
+00:19:14,760 --> 00:19:16,060
+Here we go.
 
 575
-00:19:05,378 --> 00:19:06,944
-      Come on!
-    Look at that!
+00:19:16,060 --> 00:19:17,726
+Come on!
+Look at that!
 
 576
-00:19:06,946 --> 00:19:09,080
-      Epazote!
-     [Laughs]
+00:19:17,726 --> 00:19:19,793
+Epazote!
+[ Laughs ]
 
 577
-00:19:09,082 --> 00:19:10,581
-               I did not win?
+00:19:19,793 --> 00:19:21,193
+I did not win?
 
 578
-00:19:10,583 --> 00:19:11,816
- Easily entertained.
+00:19:21,193 --> 00:19:22,560
+Easily entertained.
 
 579
-00:19:11,818 --> 00:19:13,885
-    Hi, I'm four.
+00:19:22,560 --> 00:19:24,526
+Hi, I'm four.
 
 580
-00:19:13,887 --> 00:19:15,820
+00:19:24,526 --> 00:19:26,626
 So I'm gonna take this.
-            A little extra salt.
+A little extra salt.
 
 581
-00:19:15,822 --> 00:19:17,288
+00:19:26,626 --> 00:19:27,993
 We're using pork butt?
-                           Yes.
+Yes.
 
 582
-00:19:17,290 --> 00:19:18,589
-      Give it a couple of hours.
+00:19:27,993 --> 00:19:29,293
+Give it a couple of hours.
 
 583
-00:19:18,591 --> 00:19:21,092
-   Stack these up
- and build a trompo.
+00:19:29,293 --> 00:19:31,793
+Stack these up
+and build a trompo.
 
 584
-00:19:21,094 --> 00:19:22,693
+00:19:31,793 --> 00:19:33,360
 You're gonna love this.
 
 585
-00:19:22,695 --> 00:19:25,696
-             From here, straight
-            into the rotisserie.
+00:19:33,360 --> 00:19:36,360
+From here, straight
+into the rotisserie.
 
 586
-00:19:27,800 --> 00:19:31,302
-                Look at that.
-   That's the goods right there.
+00:19:38,460 --> 00:19:42,026
+Look at that.
+That's the goods right there.
 
 587
-00:19:31,304 --> 00:19:33,571
-            You definitely taste
-                the guajillo.
+00:19:42,026 --> 00:19:44,326
+You definitely taste
+the guajillo.
 
 588
-00:19:33,573 --> 00:19:35,406
-        Yes.
+00:19:44,326 --> 00:19:46,160
+Yes.
 
 589
-00:19:35,408 --> 00:19:37,842
+00:19:46,160 --> 00:19:48,526
 I like that crispiness when it's
-          so close to the flame.
+so close to the flame.
 
 590
-00:19:37,844 --> 00:19:40,111
-  Gives it a little reminiscence
-         of a little chicharron.
+00:19:48,526 --> 00:19:50,693
+Gives it a little reminiscence
+of a little chicharron.
 
 591
-00:19:40,113 --> 00:19:42,413
-     Yeah.
-                 All right,
-             let's make a taco.
+00:19:50,693 --> 00:19:53,160
+Yeah.
+All right,
+let's make a taco.
 
 592
-00:19:42,415 --> 00:19:45,283
-These are house-made
-     tortillas.
+00:19:53,160 --> 00:19:56,060
+These are house‐made
+tortillas.
 
 593
-00:19:45,285 --> 00:19:47,985
-         We got the pork trompo,
-                  cilantro.
+00:19:56,060 --> 00:19:58,793
+We got the pork trompo,
+cilantro.
 
 594
-00:19:47,987 --> 00:19:50,021
-  Okay.
-             You got your limes.
+00:19:58,793 --> 00:20:00,666
+Okay.
+You got your limes.
 
 595
-00:19:50,023 --> 00:19:55,326
-                     ♪♪
+00:20:00,666 --> 00:20:06,033
+♪♪♪♪
 
 596
-00:19:55,328 --> 00:19:57,028
-    I don't know,
+00:20:06,033 --> 00:20:07,800
+I don't know,
 Chef, what I like better,
 
 597
-00:19:57,030 --> 00:19:59,230
+00:20:07,800 --> 00:20:09,933
 the flavor of the tacos
-   or the passion
+or the passion
 
 598
-00:19:59,232 --> 00:20:00,631
-    that you have
-  for what you do.
+00:20:09,933 --> 00:20:11,366
+that you have
+for what you do.
 
 599
-00:20:00,633 --> 00:20:01,999
-                 Thank you.
+00:20:11,366 --> 00:20:12,600
+Thank you.
 
 600
-00:20:02,001 --> 00:20:04,902
+00:20:12,600 --> 00:20:15,533
 You treat this with the same
- level of expertise
+level of expertise
 
 601
-00:20:04,904 --> 00:20:08,239
+00:20:15,533 --> 00:20:18,933
 that most people would expect
 a Michelin restaurant to have.
 
 602
-00:20:08,241 --> 00:20:10,641
+00:20:18,933 --> 00:20:21,266
 If you want authentic
-     flavors...
+flavors...
 
 603
-00:20:10,643 --> 00:20:12,910
-     done right,
+00:20:21,266 --> 00:20:23,666
+done right,
 these are your tacos.
 
 604
-00:20:12,912 --> 00:20:14,512
-                Here we have
-             your Trompo Tacos.
+00:20:23,666 --> 00:20:25,166
+Here we have
+your Trompo Tacos.
 
 605
-00:20:14,514 --> 00:20:16,581
-          It's so fresh
-     and it's so flavorful.
+00:20:25,166 --> 00:20:27,233
+It's so fresh
+and it's so flavorful.
 
 606
-00:20:16,583 --> 00:20:20,284
-   Stuffed with a lot of meat,
-        a lot of spices.
+00:20:27,233 --> 00:20:31,000
+Stuffed with a lot of meat,
+a lot of spices.
 
 607
-00:20:22,388 --> 00:20:24,789
-         -Out of bounds.
-        -That's my line.
+00:20:33,033 --> 00:20:35,500
+‐Out of bounds.
+‐That's my line.
 
 608
-00:20:24,791 --> 00:20:26,357
-              Cut this guy out.
+00:20:35,500 --> 00:20:36,966
+Cut this guy out.
 
 609
-00:20:26,359 --> 00:20:28,192
-        [Speaking Spanish] Go!
+00:20:36,966 --> 00:20:38,766
+[ Speaking Spanish ] Go!
 
 610
-00:20:28,194 --> 00:20:31,195
-  When I come in here, I really
-    feel like I'm in Mexico.
+00:20:38,766 --> 00:20:41,733
+When I come in here, I really
+feel like I'm in Mexico.
 
 611
-00:20:31,197 --> 00:20:33,898
+00:20:41,733 --> 00:20:44,600
 When you called it Rreal Tacos,
-  you backed it up.
+you backed it up.
 
 612
-00:20:33,900 --> 00:20:35,366
-                 Thank you.
+00:20:44,600 --> 00:20:45,933
+Thank you.
 Nicely done.
 
 613
-00:20:35,368 --> 00:20:36,801
-      This guy.
+00:20:45,933 --> 00:20:47,400
+This guy.
 
 614
-00:20:38,304 --> 00:20:41,105
-      So what that another
-  righteous road trip, or what?
+00:20:49,033 --> 00:20:51,666
+So what that another
+righteous road trip, or what?
 
 615
-00:20:41,107 --> 00:20:43,407
-     But don't you worry --
-    we got plenty more joints
+00:20:51,666 --> 00:20:54,066
+But don't you worry ‐‐
+we got plenty more joints
 
 616
-00:20:43,409 --> 00:20:45,109
- to find all over this country.
+00:20:54,066 --> 00:20:55,866
+to find all over this country.
 
 617
-00:20:45,111 --> 00:20:46,877
-     I'll be looking for you
-          next week on
+00:20:55,866 --> 00:20:57,633
+I'll be looking for you
+next week on
 
 618
-00:20:46,879 --> 00:20:49,280
-  "Diners, Drive-Ins, & Dives."
+00:20:57,633 --> 00:20:59,873
+"Diners, Drive‐Ins, &amp; Dives."
 
 619
-00:20:49,282 --> 00:20:50,181
-  Okay, watch this.
+00:20:59,873 --> 00:21:00,740
+Okay, watch this.
 
 620
-00:20:50,183 --> 00:20:51,983
-                    Okay.
+00:21:00,740 --> 00:21:02,706
+Okay.
 
 621
-00:20:51,985 --> 00:20:54,252
-    Yeah, we still got ghosts --
-                  awesome.
+00:21:02,706 --> 00:21:04,906
+Yeah, we still got ghosts ‐‐
+awesome.
 
 622
-00:20:54,254 --> 00:20:56,220
+00:21:04,906 --> 00:21:06,906
 It's a ghost that can't see
-     very well.
-
+very well.
