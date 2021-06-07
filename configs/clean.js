@@ -22,18 +22,16 @@ class CleanConfig {
   async generateConfig(args) {
     const { type, num, captionText } = args;
 
-    const captionGlobals = new stills.globals.Captions({
-      folder: './captions',
-      captionText,
-    });
-
     const captionFilter = new stills.filters.Captions();
 
     return {
       type,
       num: Number.isFinite(num) ? num : 1,
       tags: [],
-      globals: [captionGlobals],
+      caption:
+        captionText.length > 0
+          ? new stills.captions.Static({ captions: captionText })
+          : new stills.captions.Episodes(),
       filters: [captionFilter],
     };
   }

@@ -70,11 +70,9 @@ class CormorantsConfig {
       type: 'gif',
       num: 1,
       validators: [new stills.validators.EyeDetection()],
-      globals: [
-        new stills.globals.Captions({
-          captionText: [answer],
-        }),
-      ],
+      caption: new stills.captions.Static({
+        captions: [answer],
+      }),
     };
   }
 }

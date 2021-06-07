@@ -51,11 +51,9 @@ class DreamerConfig {
       type: 'gif',
       num: captions.length,
       highlightColor: HIGHLIGHT_COLOR,
-      globals: [
-        new stills.globals.Captions({
-          captionText: captions,
-        }),
-      ],
+      caption: new stills.captions.Static({
+        captions,
+      }),
       filters: [
         new stills.filters.Arcadia({
           isDesaturate: false,

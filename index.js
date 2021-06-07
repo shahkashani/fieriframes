@@ -4,7 +4,6 @@ require('./logo');
 const yargs = require('yargs');
 const stills = require('stills');
 const { compact, flatten, get } = require('lodash');
-const { copyFileSync } = require('fs');
 const FieriFiction = require('fierifiction');
 
 const configs = {
@@ -59,11 +58,6 @@ const DEFAULT_OPTIONS = {
     choices: Object.keys(configs),
     default: 'default',
   },
-  images: {
-    describe: 'Existing files to use',
-    array: true,
-    alias: 'i',
-  },
 };
 
 (async () => {
@@ -97,7 +91,6 @@ const DEFAULT_OPTIONS = {
     post,
     prompt,
     local,
-    images,
     sourceFilter,
     outputFolder,
     secondsApart,
@@ -208,7 +201,6 @@ const DEFAULT_OPTIONS = {
   const contents = {
     gif: new stills.content.Gif({
       secondsApart,
-      num,
       width: gifWidth,
       seconds: useSourceSeconds,
       duration: Number.isFinite(sourceLength)
@@ -217,7 +209,6 @@ const DEFAULT_OPTIONS = {
       fps: NUM_GIF_FPS,
     }),
     still: new stills.content.Still({
-      num,
       secondsApart,
       seconds: useSourceSeconds,
     }),
@@ -227,30 +218,17 @@ const DEFAULT_OPTIONS = {
   const baseConfigGlobals = baseConfig.globals || [];
   const baseConfigData = baseConfig.data || {};
   const globals = compact([...baseConfigGlobals, globalsAzure]);
-  let useImages;
-
-  if (images) {
-    useImages = [];
-    images.forEach((image) => {
-      const output =
-        image.indexOf('s.') !== -1
-          ? image.replace(/s\./, 's-edited.')
-          : `edited-${image}`;
-      copyFileSync(image, output);
-      useImages.push(output);
-    });
-  }
 
   const finalConfig = {
     ...baseConfig,
     globals,
+    num,
     destinations,
     description,
     taggers,
     source,
     content,
     validators,
-    images: useImages,
     isPrompt: prompt,
   };
 

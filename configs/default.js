@@ -1,14 +1,7 @@
 const stills = require('stills');
 const { resolve } = require('path');
 const { sync } = require('glob');
-const {
-  compact,
-  random,
-  sampleSize,
-  intersection,
-  sample,
-  map,
-} = require('lodash');
+const { compact, random, sampleSize, sample, map } = require('lodash');
 
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
@@ -17,6 +10,15 @@ const inOrder = (array) => {
   const hour = new Date().getHours();
   const index = hour % array.length;
   return array[index];
+};
+
+const getCaption = (captionText, num) => {
+  if (captionText) {
+    return new stills.captions.Static({
+      captions: captionText,
+    });
+  }
+  return new stills.captions.Episodes({ num });
 };
 
 class DefaultConfig {
@@ -89,7 +91,6 @@ class DefaultConfig {
 
   async generateConfig(args) {
     const {
-      caption,
       overlay,
       faceoverlay,
       scale,
@@ -97,16 +98,15 @@ class DefaultConfig {
       effects,
       preEffects,
       postEffects,
-      captionText,
       tags,
       video,
       face,
       body,
       eyes,
       embed,
+      captionText,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
-      CAPTION_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
       MAX_FACE_OVERLAYS,
       BANNED_WORDS,
@@ -116,14 +116,9 @@ class DefaultConfig {
     const num = this.getNum(args);
 
     const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
-    const CAPTION_RATE =
-      caption || (captionText && captionText.length > 0) ? 1 : 0.9;
     const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
       ? parseFloat(GIF_EFFECT_RATE)
       : 0.2;
-    const USE_CAPTION_EFFECT_RATE = CAPTION_EFFECT_RATE
-      ? parseFloat(CAPTION_EFFECT_RATE)
-      : 0;
     const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
       ? parseFloat(FIERIFICTION_VIDEO_RATE)
       : 0;
@@ -382,7 +377,11 @@ class DefaultConfig {
 
     const useAfterCaptionEffects = embed
       ? afterCaptionEffects.filter((e) => e.background.indexOf(embed) !== -1)
-      : randomly(AFTER_CAPTION_EFFECT_RATE, [sample(afterCaptionEffects)], []);
+      : randomly(
+          USE_AFTER_CAPTION_EFFECT_RATE,
+          [sample(afterCaptionEffects)],
+          []
+        );
 
     const filters = compact([
       ...usePreEffects,
@@ -396,31 +395,6 @@ class DefaultConfig {
       ...useAfterCaptionEffects,
     ]);
 
-    const singleCaptionEffects = ['fewframes', 'tempo', 'jitter'];
-
-    const useSingleCaption =
-      (Number.isFinite(num) && num > 1) ||
-      intersection(singleCaptionEffects, map(useEffects, 'name')).length > 0;
-
-    const globalsCaption = randomly(
-      CAPTION_RATE,
-      new stills.globals.Captions({
-        captionFileGlob: caption ? `*${caption}*` : undefined,
-        folder: resolve('./captions'),
-        captionText,
-        pdfSentenceMaxLength: 50,
-        transformationRate: USE_CAPTION_EFFECT_RATE,
-        banned: (BANNED_WORDS || '').split(','),
-        matchSubtitle: true,
-        num: {
-          srt: useSingleCaption ? 1 : random(1, 2),
-          txt: 1,
-          pdf: useSingleCaption ? 1 : random(1, 2),
-        },
-      })
-    );
-
-    const globals = compact([globalsCaption]);
     const isCreateFiction =
       video || Math.random() < NUM_FIERIFICTION_VIDEO_RATE;
 
@@ -438,12 +412,13 @@ class DefaultConfig {
       validators.push(new stills.validators.BodyDetection());
     }
 
+    const caption = getCaption(captionText, num);
+
     return {
       type,
       tags,
-      num,
-      globals,
       filters,
+      caption,
       validators,
       isCreateFiction,
     };

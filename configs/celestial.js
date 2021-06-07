@@ -86,11 +86,9 @@ class CelestialConfig {
       type: 'gif',
       num: captions.length,
       highlightColor: HIGHLIGHT_COLOR,
-      globals: [
-        new stills.globals.Captions({
-          captionText: captions,
-        }),
-      ],
+      caption: new stills.captions.Static({
+        captions: captionText,
+      }),
       filters: [
         new stills.filters.Celestial(),
         ...filters,
