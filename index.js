@@ -195,6 +195,7 @@ const DEFAULT_OPTIONS = {
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.globals.Azure({
           token: MICROSOFT_AZURE_TOKEN,
+          minCaptionConfidence: 0.1,
         })
       : null;
 
