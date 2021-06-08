@@ -187,13 +187,13 @@ const DEFAULT_OPTIONS = {
       blink: 'tw:flashing',
       arcadia: 'et in arcadia ego',
     }),
-    new stills.taggers.Azure(),
+    new stills.taggers.Analysis(),
   ];
 
   const description = new stills.descriptions.Azure();
-  const globalsAzure =
+  const analysis =
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
-      ? new stills.globals.Azure({
+      ? new stills.analysis.Azure({
           token: MICROSOFT_AZURE_TOKEN,
           minCaptionConfidence: 0.1,
         })
@@ -216,14 +216,12 @@ const DEFAULT_OPTIONS = {
   };
 
   const content = contents[type];
-  const baseConfigGlobals = baseConfig.globals || [];
   const baseConfigData = baseConfig.data || {};
-  const globals = compact([...baseConfigGlobals, globalsAzure]);
 
   const finalConfig = {
     ...baseConfig,
-    globals,
     num,
+    analysis,
     destinations,
     description,
     taggers,
@@ -243,7 +241,7 @@ const DEFAULT_OPTIONS = {
   }
 
   if (isCreateFiction && result.destinations && result.destinations.tumblr) {
-    let captions = flatten(get(result, 'globals.captions', []));
+    let captions = flatten(get(result, 'captions', []));
     const { text } = result.destinations.tumblr;
     // Bad workaround for passthroughs currently not populating globals
     if (captions.length === 0 && text) {
