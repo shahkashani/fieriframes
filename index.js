@@ -190,7 +190,7 @@ const DEFAULT_OPTIONS = {
     new stills.taggers.Analysis(),
   ];
 
-  const description = new stills.descriptions.Azure();
+  const description = new stills.descriptions.Captions();
   const analysis =
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.analysis.Azure({

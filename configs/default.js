@@ -12,12 +12,16 @@ const inOrder = (array) => {
   return array[index];
 };
 
-const getCaption = (captionText, num) => {
+const getCaption = (captionText, captionType, num) => {
   if (captionText) {
     return new stills.captions.Static({
       captions: captionText,
     });
   }
+  if (captionType === 'quote') {
+    return new stills.captions.Quotes({ num });
+  }
+
   return new stills.captions.Episodes({ num });
 };
 
@@ -28,6 +32,11 @@ class DefaultConfig {
         describe: 'The type of content to generate',
         choices: ['still', 'gif', 'random'],
         default: 'random',
+      },
+      captionType: {
+        describe: 'What kind of caption to use',
+        choices: ['ddd', 'quote'],
+        default: 'ddd',
       },
       num: {
         describe: 'The number of images to generate',
@@ -105,6 +114,7 @@ class DefaultConfig {
       eyes,
       embed,
       captionText,
+      captionType,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
@@ -412,7 +422,7 @@ class DefaultConfig {
       validators.push(new stills.validators.BodyDetection());
     }
 
-    const caption = getCaption(captionText, num);
+    const caption = getCaption(captionText, captionType, num);
 
     return {
       type,
