@@ -19,7 +19,7 @@
     "docker:generate": "docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output",
     "docker:post": "docker run -it fieriframes npm run post",
     "preview": "npm run post -- --config=celestial --preview && npm run post -- --config=dreamers --preview",
-    "carrot": "npm run post -- --effects=overlay --overlay=carrot --captionType=none --type=still --num=1"
+    "carrot": "npm run post -- --effects=overlay --overlay=carrot --captionType=none --type=still --num=1 --tags=sauce"
   },
   "author": "Shah Kashani",
   "license": "MIT",
@@ -30,7 +30,7 @@
     "fierifiction": "^7.1.3",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
-    "stills": "^19.4.2",
+    "stills": "^19.5.0",
     "yargs": "^13.2.4"
   }
 }

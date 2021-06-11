@@ -53,6 +53,9 @@ const DEFAULT_OPTIONS = {
     describe: 'Width of GIFs',
     default: 720,
   },
+  descriptionText: {
+    describe: 'Description text to use',
+  },
   config: {
     describe: 'What config template to use',
     choices: Object.keys(configs),
@@ -98,6 +101,7 @@ const DEFAULT_OPTIONS = {
     gifWidth,
     draft,
     sourceSeconds,
+    descriptionText,
     TUMBLR_CONSUMER_KEY,
     TUMBLR_CONSUMER_SECRET,
     TUMBLR_ACCESS_TOKEN_KEY,
@@ -190,7 +194,9 @@ const DEFAULT_OPTIONS = {
     new stills.taggers.Analysis(),
   ];
 
-  const description = new stills.descriptions.Captions();
+  const description = descriptionText
+    ? new stills.descriptions.Static({ description: descriptionText })
+    : new stills.descriptions.Captions();
   const analysis =
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.analysis.Azure({
