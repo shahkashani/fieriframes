@@ -13,6 +13,9 @@ const inOrder = (array) => {
 };
 
 const getCaption = (captionText, captionType, num) => {
+  if (captionType === 'none') {
+    return null;
+  }
   if (captionText) {
     return new stills.captions.Static({
       captions: captionText,
@@ -35,7 +38,7 @@ class DefaultConfig {
       },
       captionType: {
         describe: 'What kind of caption to use',
-        choices: ['ddd', 'quote'],
+        choices: ['ddd', 'quote', 'none'],
         default: 'ddd',
       },
       num: {
@@ -247,6 +250,12 @@ class DefaultConfig {
         gravity: 'southwest',
         sizePercentWidth: 0.3,
         geometry: '+10%',
+      },
+      {
+        overlayFile: './overlays/carrot.png',
+        gravity: 'south',
+        sizePercentWidth: 0.1,
+        geometry: '+0+40%',
       },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true
