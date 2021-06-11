@@ -238,7 +238,11 @@ const DEFAULT_OPTIONS = {
   };
 
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
-  console.log(`📮 Posting${postDraft ? ' draft' : ''} to ${postBlogName}`);
+  console.log(
+    `📮 ${destinations.length > 0 ? 'Posting' : 'Not posting'}${
+      postDraft ? ' draft' : ''
+    } to ${postBlogName}`
+  );
 
   const result = await stills.generate(finalConfig);
 
