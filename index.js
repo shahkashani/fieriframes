@@ -158,7 +158,9 @@ const DEFAULT_OPTIONS = {
   const source = local
     ? new stills.sources.Local({
         folder: local,
-        filter: sourceFilter,
+        filter: sourceFilter
+          ? (file) => file.indexOf(sourceFilter) !== -1
+          : null,
         outputFolder,
       })
     : new stills.sources.S3({
