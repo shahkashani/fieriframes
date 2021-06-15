@@ -21,11 +21,17 @@ const getCaption = (captionText, captionType, num) => {
       captions: captionText,
     });
   }
-  if (captionType === 'quote') {
-    return new stills.captions.Quotes({ num });
-  }
 
-  return new stills.captions.Episodes({ num });
+  const quotes = new stills.captions.Quotes({ num });
+  const ddd = new stills.captions.Episodes({ num });
+
+  if (captionType === 'quote') {
+    return quotes;
+  }
+  if (captionType === 'ddd') {
+    return ddd;
+  }
+  return randomly(0.9, ddd, quotes);
 };
 
 class DefaultConfig {
@@ -39,7 +45,6 @@ class DefaultConfig {
       captionType: {
         describe: 'What kind of caption to use',
         choices: ['ddd', 'quote', 'none'],
-        default: 'ddd',
       },
       num: {
         describe: 'The number of images to generate',
