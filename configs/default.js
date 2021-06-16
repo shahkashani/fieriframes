@@ -12,7 +12,13 @@ const inOrder = (array) => {
   return array[index];
 };
 
-const getCaption = (captionText, captionType, num) => {
+const getCaption = (
+  captionText,
+  captionType,
+  num,
+  bannedWords = [],
+  sourceSeconds = null
+) => {
   if (captionType === 'none') {
     return null;
   }
@@ -22,8 +28,8 @@ const getCaption = (captionText, captionType, num) => {
     });
   }
 
-  const quotes = new stills.captions.Quotes({ num });
-  const ddd = new stills.captions.Episodes({ num });
+  const quotes = new stills.captions.Quotes({ num, bannedWords });
+  const ddd = new stills.captions.Episodes({ num, sourceSeconds });
 
   if (captionType === 'quote') {
     return quotes;
@@ -123,6 +129,7 @@ class DefaultConfig {
       embed,
       captionText,
       captionType,
+      sourceSeconds,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
@@ -436,7 +443,13 @@ class DefaultConfig {
       validators.push(new stills.validators.BodyDetection());
     }
 
-    const caption = getCaption(captionText, captionType, num);
+    const caption = getCaption(
+      captionText,
+      captionType,
+      num,
+      BANNED_WORDS,
+      sourceSeconds
+    );
 
     return {
       type,

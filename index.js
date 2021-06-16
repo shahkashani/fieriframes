@@ -63,6 +63,17 @@ const DEFAULT_OPTIONS = {
   },
 };
 
+const getSourceSeconds = (string) => {
+  if (!string) {
+    return undefined;
+  }
+  if (string.toString().indexOf(':') !== -1) {
+    const [m, s] = string.split(':');
+    return parseFloat(m) * 60 + parseFloat(s);
+  }
+  return parseFloat(string);
+};
+
 (async () => {
   const { config } = yargs.options(DEFAULT_OPTIONS).help(false).argv;
   const useConfig = new configs[config]();
@@ -76,6 +87,9 @@ const DEFAULT_OPTIONS = {
     .help(true).argv;
 
   const options = { ...args, ...process.env };
+  options.sourceSeconds = options.sourceSeconds
+    ? getSourceSeconds(options.sourceSeconds)
+    : null;
 
   const baseConfig = await useConfig.generateConfig(options);
   const {
@@ -95,12 +109,12 @@ const DEFAULT_OPTIONS = {
     prompt,
     local,
     sourceFilter,
+    sourceLength,
+    sourceSeconds,
     outputFolder,
     secondsApart,
-    sourceLength,
     gifWidth,
     draft,
-    sourceSeconds,
     descriptionText,
     TUMBLR_CONSUMER_KEY,
     TUMBLR_CONSUMER_SECRET,
@@ -124,19 +138,6 @@ const DEFAULT_OPTIONS = {
     ? parseFloat(GIF_LENGTH_SECONDS)
     : 2;
   const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
-
-  const getSourceSeconds = (string) => {
-    if (!string) {
-      return undefined;
-    }
-    if (string.toString().indexOf(':') !== -1) {
-      const [m, s] = string.split(':');
-      return parseFloat(m) * 60 + parseFloat(s);
-    }
-    return parseFloat(string);
-  };
-
-  const useSourceSeconds = getSourceSeconds(sourceSeconds);
   const postDraft = draft || isDraft;
   const postBlogName = blogName || TUMBLR_BLOG_NAME;
 
@@ -211,7 +212,7 @@ const DEFAULT_OPTIONS = {
     gif: new stills.content.Gif({
       secondsApart,
       width: gifWidth,
-      seconds: useSourceSeconds,
+      seconds: sourceSeconds,
       duration: Number.isFinite(sourceLength)
         ? sourceLength
         : NUM_GIF_LENGTH_SECONDS,
@@ -219,7 +220,7 @@ const DEFAULT_OPTIONS = {
     }),
     still: new stills.content.Still({
       secondsApart,
-      seconds: useSourceSeconds,
+      seconds: sourceSeconds,
     }),
   };
 
