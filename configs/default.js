@@ -16,6 +16,7 @@ const getCaption = (
   captionText,
   captionType,
   num,
+  episodeCaptionRate = 1,
   bannedWords = [],
   sourceSeconds = null
 ) => {
@@ -37,7 +38,7 @@ const getCaption = (
   if (captionType === 'ddd') {
     return ddd;
   }
-  return randomly(0.9, ddd, quotes);
+  return randomly(episodeCaptionRate, ddd, quotes);
 };
 
 class DefaultConfig {
@@ -136,6 +137,7 @@ class DefaultConfig {
       MAX_FACE_OVERLAYS,
       BANNED_WORDS,
       AFTER_CAPTION_EFFECT_RATE,
+      EPISODE_CAPTION_RATE,
     } = args;
     const type = this.getType(args);
     const num = this.getNum(args);
@@ -153,6 +155,9 @@ class DefaultConfig {
     const USE_AFTER_CAPTION_EFFECT_RATE = AFTER_CAPTION_EFFECT_RATE
       ? parseFloat(AFTER_CAPTION_EFFECT_RATE)
       : 0;
+      const USE_EPISODE_CAPTION_RATE = EPISODE_CAPTION_RATE
+      ? parseFloat(EPISODE_CAPTION_RATE)
+      : 0.9;
 
     const getEffectsByName = (allEffects, effects) => {
       const allEffectsNames = map(allEffects, 'name');
@@ -447,6 +452,7 @@ class DefaultConfig {
       captionText,
       captionType,
       num,
+      USE_EPISODE_CAPTION_RATE,
       BANNED_WORDS,
       sourceSeconds
     );
