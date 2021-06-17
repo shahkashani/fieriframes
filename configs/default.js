@@ -16,29 +16,22 @@ const getCaption = (
   captionText,
   captionType,
   num,
-  episodeCaptionRate = 1,
   bannedWords = [],
   sourceSeconds = null
 ) => {
-  if (captionType === 'none') {
+  if (!captionType || captionType === 'none') {
     return null;
   }
-  if (captionText) {
-    return new stills.captions.Static({
+  const types = {
+    ddd: new stills.captions.Episodes({ num, sourceSeconds }),
+    quotes: new stills.captions.Quotes({ num, bannedWords }),
+    books: new stills.captions.Books({ num, bannedWords }),
+    static: new stills.captions.Static({
       captions: captionText,
-    });
-  }
+    }),
+  };
 
-  const quotes = new stills.captions.Quotes({ num, bannedWords });
-  const ddd = new stills.captions.Episodes({ num, sourceSeconds });
-
-  if (captionType === 'quote') {
-    return quotes;
-  }
-  if (captionType === 'ddd') {
-    return ddd;
-  }
-  return randomly(episodeCaptionRate, ddd, quotes);
+  return types[captionType] ? types[captionType] : null;
 };
 
 class DefaultConfig {
@@ -51,7 +44,7 @@ class DefaultConfig {
       },
       captionType: {
         describe: 'What kind of caption to use',
-        choices: ['ddd', 'quote', 'none'],
+        choices: ['ddd', 'quotes', 'books', 'none'],
       },
       num: {
         describe: 'The number of images to generate',
@@ -103,14 +96,24 @@ class DefaultConfig {
     return type !== 'random' ? type : randomly(GIF_STILL_RATE, 'gif', 'still');
   }
 
-  getDefaultNum(type) {
-    return type === 'gif'
-      ? randomly(0.8, 1, 3)
-      : randomly(0.5, randomly(0.5, 3, 5), 1);
+  getCaptionType({ captionType, captionText }, episodeCaptionRate) {
+    if (captionType) {
+      return captionType;
+    }
+    if (captionText) {
+      return 'static';
+    }
+    return randomly(episodeCaptionRate, 'ddd', sample(['quotes', 'books']));
   }
 
-  getNum({ type, num }) {
-    return Number.isFinite(num) ? num : this.getDefaultNum(type);
+  getDefaultNum(type, minNumber = 1) {
+    return type === 'gif'
+      ? randomly(0.8, minNumber, 3)
+      : randomly(0.5, randomly(0.5, 3, 5), minNumber);
+  }
+
+  getNum({ type, num }, minNumber) {
+    return Number.isFinite(num) ? num : this.getDefaultNum(type, minNumber);
   }
 
   async generateConfig(args) {
@@ -129,7 +132,6 @@ class DefaultConfig {
       eyes,
       embed,
       captionText,
-      captionType,
       sourceSeconds,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
@@ -139,8 +141,6 @@ class DefaultConfig {
       AFTER_CAPTION_EFFECT_RATE,
       EPISODE_CAPTION_RATE,
     } = args;
-    const type = this.getType(args);
-    const num = this.getNum(args);
 
     const maxNumEffects = MAX_NUM_EFFECTS ? parseInt(MAX_NUM_EFFECTS, 10) : 1;
     const USE_GIF_EFFECT_RATE = GIF_EFFECT_RATE
@@ -155,7 +155,7 @@ class DefaultConfig {
     const USE_AFTER_CAPTION_EFFECT_RATE = AFTER_CAPTION_EFFECT_RATE
       ? parseFloat(AFTER_CAPTION_EFFECT_RATE)
       : 0;
-      const USE_EPISODE_CAPTION_RATE = EPISODE_CAPTION_RATE
+    const USE_EPISODE_CAPTION_RATE = EPISODE_CAPTION_RATE
       ? parseFloat(EPISODE_CAPTION_RATE)
       : 0.9;
 
@@ -171,6 +171,10 @@ class DefaultConfig {
       );
     };
 
+    const type = this.getType(args);
+    const captionType = this.getCaptionType(args, USE_EPISODE_CAPTION_RATE);
+    const minNumber = captionType === 'ddd' || captionType === 'static' ? 1 : 3;
+    const num = this.getNum(args, minNumber);
     const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
     const orbs = [
@@ -452,7 +456,6 @@ class DefaultConfig {
       captionText,
       captionType,
       num,
-      USE_EPISODE_CAPTION_RATE,
       BANNED_WORDS,
       sourceSeconds
     );
