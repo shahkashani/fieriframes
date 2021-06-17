@@ -45,6 +45,7 @@ class CormorantsConfig {
     }
     const { ask, answer, images } = result;
     const filters = [];
+    filters.push(new stills.filters.Haze());
     if (images && images.length > 0) {
       const { url } = sample(images);
       const isTransparent = stills.utils.isTransparent(url);
@@ -62,7 +63,6 @@ class CormorantsConfig {
           };
       filters.push(new stills.filters.Overlay(overlayOptions));
     }
-    filters.push(new stills.filters.Haze());
     filters.push(new stills.filters.Captions());
     return {
       ask,
