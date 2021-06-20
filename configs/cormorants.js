@@ -59,7 +59,7 @@ class CormorantsConfig {
         : {
             isGrayscale: true,
             overlayFile: url,
-            opacity: 50,
+            opacity: 20,
           };
       filters.push(new stills.filters.Overlay(overlayOptions));
     }
