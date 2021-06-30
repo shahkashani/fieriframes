@@ -311,6 +311,7 @@ class DefaultConfig {
       new stills.filters.Backdrop({
         segmentationThreshold: 0.6,
       }),
+      new stills.filters.Mesh(),
     ];
 
     const stillEffects = [...sharedEffects, new stills.filters.FaceStretch()];
