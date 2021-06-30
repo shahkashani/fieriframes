@@ -3,6 +3,8 @@ videos/
 output/
 .DS_Store
 .env
+.cache
+dist/
 .models
 /*.png
 /*.gif
