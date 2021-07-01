@@ -112,7 +112,7 @@ class DefaultConfig {
       : randomly(0.5, randomly(0.5, 3, 5), minNumber);
   }
 
-  getNum({ type, num }, minNumber) {
+  getNum({ type, num }, minNumber = 1) {
     return Number.isFinite(num) ? num : this.getDefaultNum(type, minNumber);
   }
 
@@ -173,8 +173,7 @@ class DefaultConfig {
 
     const type = this.getType(args);
     const captionType = this.getCaptionType(args, USE_EPISODE_CAPTION_RATE);
-    const minNumber = captionType === 'ddd' || captionType === 'static' ? 1 : 3;
-    const num = this.getNum(args, minNumber);
+    const num = this.getNum(args);
     const avoidDescriptors = [resolve('./faces/guy-fieri.json')];
 
     const orbs = [
