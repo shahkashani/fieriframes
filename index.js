@@ -194,7 +194,6 @@ const getSourceSeconds = (string) => {
       blink: 'tw:flashing',
       arcadia: 'et in arcadia ego',
     }),
-    new stills.taggers.Analysis(),
   ];
 
   const description = descriptionText
