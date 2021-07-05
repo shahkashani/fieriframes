@@ -132,6 +132,8 @@ const getSourceSeconds = (string) => {
     POST_TEXT_GENERATOR_URL,
     SPOTIFY_CLIENT_ID,
     SPOTIFY_CLIENT_SECRET,
+    MICROSOFT_COGNITIVE_TOKEN,
+    MICROSOFT_COGNITIVE_URL,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -182,7 +184,6 @@ const getSourceSeconds = (string) => {
         ...(tags || []),
       ]),
     }),
-    new stills.taggers.Captions(),
     new stills.taggers.Filters({
       shuffle: 'tw:flashing',
       stutter: 'tw:flashing',
@@ -195,6 +196,15 @@ const getSourceSeconds = (string) => {
       arcadia: 'et in arcadia ego',
     }),
   ];
+
+  if (MICROSOFT_COGNITIVE_URL && MICROSOFT_COGNITIVE_TOKEN) {
+    taggers.push(
+      new stills.taggers.CaptionsCognitive({
+        url: MICROSOFT_COGNITIVE_URL,
+        token: MICROSOFT_COGNITIVE_TOKEN,
+      })
+    );
+  }
 
   const description = descriptionText
     ? new stills.descriptions.Static({ description: descriptionText })
