@@ -310,7 +310,9 @@ class DefaultConfig {
       new stills.filters.Backdrop({
         segmentationThreshold: 0.6,
       }),
-      new stills.filters.Mesh(),
+      new stills.filters.Mesh({
+        masks: ['./masks/phil.png'],
+      }),
     ];
 
     const stillEffects = [...sharedEffects, new stills.filters.FaceStretch()];
