@@ -94,6 +94,7 @@ class CelestialConfig {
         ...filters,
         new stills.filters.Captions(),
       ],
+      validators: [new stills.validators.BodyDetection()],
     };
   }
 
