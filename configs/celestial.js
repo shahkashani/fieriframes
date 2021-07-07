@@ -84,10 +84,9 @@ class CelestialConfig {
       passthrough,
       tags,
       type: 'gif',
-      num: captions.length,
       highlightColor: HIGHLIGHT_COLOR,
       caption: new stills.captions.Static({
-        captions: captionText,
+        captions,
       }),
       filters: [
         new stills.filters.Celestial(),
