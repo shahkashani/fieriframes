@@ -256,7 +256,8 @@ const getSourceSeconds = (string) => {
     } to ${postBlogName}`
   );
 
-  const result = await stills.generate(finalConfig);
+  const stillsInstance = new stills.Stills(finalConfig);
+  const result = await stillsInstance.generate();
 
   if (useConfig.onComplete) {
     await useConfig.onComplete(result, baseConfigData);
@@ -298,7 +299,7 @@ const getSourceSeconds = (string) => {
   }
 
   if (destinations.length > 0) {
-    stills.deleteStills(result);
+    stillsInstance.deleteStills();
   }
 
   process.exit(0);

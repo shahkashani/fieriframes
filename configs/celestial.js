@@ -18,6 +18,22 @@ class CelestialConfig {
         boolean: true,
         default: false,
       },
+      captionText: {
+        describe: 'Override caption',
+        string: true,
+      },
+      toCaptionText: {
+        describe: 'Caption to transition to',
+        string: true,
+      },
+      toCaptionType: {
+        choices: ['blink', 'fade'],
+        default: 'blink',
+      },
+      toCaptionDuration: {
+        number: true,
+        default: 8,
+      },
     };
   }
 
@@ -27,6 +43,10 @@ class CelestialConfig {
     CELESTIAL_BLOG_NAME,
     TUMBLR_CONSUMER_KEY,
     TUMBLR_CONSUMER_SECRET,
+    captionText,
+    toCaptionText,
+    toCaptionType,
+    toCaptionDuration,
     preview,
   }) {
     this.dreamers = new Dreamers({
@@ -36,10 +56,26 @@ class CelestialConfig {
       accessTokenSecret: CELESTIAL_ACCESS_TOKEN_SECRET,
       blogName: CELESTIAL_BLOG_NAME,
     });
-    const post = await this.dreamers.getNextPost();
-    if (!post) {
-      console.warn(`💀 There is nothing to post.`);
-      process.exit(0);
+
+    let post;
+
+    if (captionText) {
+      post = {
+        captions: [captionText],
+        tags: [],
+        effects: [],
+        author: 'manual',
+        id: 'manual',
+        deleteIds: [],
+        isCreateDraft: false,
+        passthrough: null,
+      };
+    } else {
+      post = await this.dreamers.getNextPost();
+      if (!post) {
+        console.warn(`💀 There is nothing to post.`);
+        process.exit(0);
+      }
     }
     const {
       captions,
@@ -91,7 +127,11 @@ class CelestialConfig {
       filters: [
         new stills.filters.Celestial(),
         ...filters,
-        new stills.filters.Captions(),
+        new stills.filters.RichCaptions({
+          toCaptionText,
+          toCaptionType,
+          toCaptionDuration,
+        }),
       ],
       validators: [new stills.validators.BodyDetection()],
     };
