@@ -2,8 +2,9 @@ const express = require('express');
 const app = express();
 const port = 3000;
 const stills = require('stills');
-const { writeFileSync, readFileSync, existsSync } = require('fs');
+const { writeFileSync, readFileSync, existsSync, unlinkSync } = require('fs');
 const { resolve } = require('path');
+const sizeOf = require('image-size');
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
 let project;
@@ -15,9 +16,10 @@ const instance = new stills.Stills({
   }),
   content: new stills.content.Gif(),
   caption: new stills.captions.Static({
-    captions: ['This is a call to all.'],
+    captions: ['Et in Arcadia ego.'],
   }),
   filters: [
+    new stills.filters.Arcana(),
     new stills.filters.Captions({
       font: resolve(__dirname, '../../../fonts/arial.ttf'),
     }),
@@ -28,15 +30,31 @@ const getAssets = (instance) => {
   return instance.images.map((image) => {
     const { filename } = image;
     const url = filename;
+    const dimensions = sizeOf(filename);
     const frames = image.frames.frames.map((frame) => {
       const { edited } = frame;
       return {
         url: edited,
       };
     });
-    return { frames, url };
+    return { frames, url, ...dimensions };
   });
 };
+
+app.get('/reset', async (req, res) => {
+  if (existsSync(PROJECT_FILE)) {
+    unlinkSync(PROJECT_FILE);
+  }
+  await instance.delete();
+  await setup();
+  res.sendStatus(200);
+});
+
+app.get('/apply', async (req, res) => {
+  instance.reset();
+  await instance.applyFilters();
+  res.sendStatus(200);
+});
 
 const restore = async () => {
   project = JSON.parse(readFileSync(PROJECT_FILE).toString());
