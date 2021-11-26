@@ -48,6 +48,7 @@ const DEFAULT_OPTIONS = {
   },
   outputFolder: {
     describe: 'Where to put the generated images',
+    default: __dirname,
   },
   gifWidth: {
     describe: 'Width of GIFs',
@@ -213,7 +214,6 @@ const getSourceSeconds = (string) => {
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.analysis.Azure({
           token: MICROSOFT_AZURE_TOKEN,
-          minCaptionConfidence: 0.1,
         })
       : null;
 

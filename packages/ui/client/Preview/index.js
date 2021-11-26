@@ -24,6 +24,10 @@ const Button = styled.button`
   }
 `;
 
+const PostButton = styled(Button)`
+  background: green;
+`;
+
 const Buttons = styled.div`
   margin-bottom: 10px;
   padding: 10px;
@@ -42,6 +46,7 @@ export default function Preview() {
   const [timeoutId, setTimeoutId] = useState();
   const [isResetting, setIsResetting] = useState(false);
   const [isApplying, setIsApplying] = useState(false);
+  const [isPosting, setIsPosting] = useState(false);
 
   const getNext = async () => {
     try {
@@ -76,10 +81,22 @@ export default function Preview() {
     try {
       await fetch('/apply');
     } catch (err) {
-      console.error(error);
+      console.error(err);
     }
     setIsApplying(false);
   };
+
+  const onPost = async () => {
+    setIsPosting(true);
+    try {
+      await fetch('/post');
+    } catch (err) {
+      console.error(err);
+    }
+    setIsPosting(false);
+  };
+
+  const isLoading = isResetting || isApplying || isPosting;
 
   useEffect(() => {
     getNext();
@@ -88,12 +105,15 @@ export default function Preview() {
   return (
     <div>
       <Buttons>
-        <Button onClick={onReset} disabled={isResetting || isApplying}>
+        <Button onClick={onReset} disabled={isLoading}>
           {isResetting ? 'Resetting...' : 'Reset'}
         </Button>
-        <Button onClick={onApply} disabled={isResetting || isApplying}>
+        <Button onClick={onApply} disabled={isLoading}>
           {isApplying ? 'Applying...' : 'Apply'}
         </Button>
+        <PostButton onClick={onPost} disabled={isLoading}>
+          {isPosting ? 'Posting...' : 'Post'}
+        </PostButton>
       </Buttons>
       {images.map((image) => {
         return (
