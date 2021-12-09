@@ -44,10 +44,19 @@ const instance = new stills.Stills({
   }),
   destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
   filters: [
-    new stills.filters.Arcana(),
     new stills.filters.Captions({
       font: resolve(__dirname, '../../../fonts/arial.ttf'),
     }),
+  ],
+  imageFilters: [
+    [
+      new stills.filters.Arcana(),
+      /*
+      new stills.filters.Symbol({
+        filter: new stills.filters.Arcadia({ coin: '#555555' }),
+      }),
+      */
+    ],
   ],
 });
 

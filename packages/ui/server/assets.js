@@ -29,27 +29,31 @@ app.get('/project', async (req, res) => {
     }
   }
   const { assets } = project;
-  const images = assets.map((image) => {
-    if (existsSync(image.url)) {
-      const { base } = parse(image.url);
-      const { mtimeMs } = statSync(image.url);
-      const url = `http://localhost:${port}/${base}?mtime=${mtimeMs}`;
-      const { width, height } = image;
-      const frames = image.frames.map((frame) => {
-        const { base } = parse(frame.url);
-        const { mtimeMs } = statSync(frame.url);
+
+  const images = assets
+    .map((image) => {
+      if (existsSync(image.url)) {
+        const { base } = parse(image.url);
+        const { mtimeMs } = statSync(image.url);
+        const url = `http://localhost:${port}/${base}?mtime=${mtimeMs}`;
+        const { width, height } = image;
+        const frames = image.frames.map((frame) => {
+          const { base } = parse(frame.url);
+          const { mtimeMs } = statSync(frame.url);
+          return {
+            url: `http://localhost:${port}/${base}?mtime=${mtimeMs}`,
+          };
+        });
+        return { url, width, height, frames };
+      } else {
         return {
-          url: `http://localhost:${port}/${base}?mtime=${mtimeMs}`,
+          url: null,
+          frames: [],
         };
-      });
-      return { url, width, height, frames};
-    } else {
-      return {
-        url: null,
-        frames: [],
-      };
-    }
-  });
+      }
+    })
+    .filter((image) => !!image.url);
+
   res.json({ images });
 });
 

@@ -38,7 +38,15 @@ const Buttons = styled.div`
 const Frames = styled.div`
   display: flex;
   flex-wrap: wrap;
-  margin-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  padding-top: 20px;
+  margin-top: 20px;
+`;
+
+const Images = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 `;
 
 export default function Preview() {
@@ -115,22 +123,26 @@ export default function Preview() {
           {isPosting ? 'Posting...' : 'Post'}
         </PostButton>
       </Buttons>
+      <Images>
+        {images.map((image) => {
+          return (
+            <img src={image.url} width={image.width} height={image.height} />
+          );
+        })}
+      </Images>
       {images.map((image) => {
         return (
-          <div>
-            <img src={image.url} width={image.width} height={image.height} />
-            <Frames>
-              {image.frames.map((frame) => {
-                return (
-                  <img
-                    src={frame.url}
-                    width={image.width}
-                    height={image.height}
-                  />
-                );
-              })}
-            </Frames>
-          </div>
+          <Frames>
+            {image.frames.map((frame) => {
+              return (
+                <img
+                  src={frame.url}
+                  width={image.width}
+                  height={image.height}
+                />
+              );
+            })}
+          </Frames>
         );
       })}
     </div>
