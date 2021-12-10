@@ -128,7 +128,6 @@ const getSourceSeconds = (string) => {
     GIF_FPS,
     GIF_LENGTH_SECONDS,
     MICROSOFT_AZURE_TOKEN,
-    GOOGLE_CLOUD_CREDENTIALS_BASE64,
     POST_TEXT_GENERATOR_URL,
     POST_TEXT_GENERATOR_API_KEY,
     POST_TEXT_GENERATOR_LENGTH,
@@ -136,6 +135,8 @@ const getSourceSeconds = (string) => {
     SPOTIFY_CLIENT_SECRET,
     MICROSOFT_COGNITIVE_TOKEN,
     MICROSOFT_COGNITIVE_URL,
+    MICROSOFT_AZURE_SPEECH_TOKEN,
+    MICROSOFT_AZURE_SPEECH_REGION,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -275,13 +276,7 @@ const getSourceSeconds = (string) => {
       captions = Array.from(text.matchAll(/Caption: (.*)]/g)).map((m) => m[1]);
     }
     if (captions.length > 0) {
-      const googleCloudCredentials = Buffer.from(
-        GOOGLE_CLOUD_CREDENTIALS_BASE64,
-        'base64'
-      ).toString();
-
       const fierifiction = new FieriFiction({
-        googleCloudCredentials,
         tumblrConsumerKey: TUMBLR_CONSUMER_KEY,
         tumblrConsumerSecret: TUMBLR_CONSUMER_SECRET,
         tumblrTokenKey: TUMBLR_ACCESS_TOKEN_KEY,
@@ -292,6 +287,8 @@ const getSourceSeconds = (string) => {
         spotifyClientId: SPOTIFY_CLIENT_ID,
         spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
         textLength: NUM_POST_GENERATOR_LENGTH,
+        microsoftAzureSpeechToken: MICROSOFT_AZURE_SPEECH_TOKEN,
+        microsoftAzureSpeechRegion: MICROSOFT_AZURE_SPEECH_REGION,
       });
 
       await fierifiction.postVideo(
