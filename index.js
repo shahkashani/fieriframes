@@ -130,6 +130,7 @@ const getSourceSeconds = (string) => {
     MICROSOFT_AZURE_TOKEN,
     GOOGLE_CLOUD_CREDENTIALS_BASE64,
     POST_TEXT_GENERATOR_URL,
+    POST_TEXT_GENERATOR_API_KEY,
     SPOTIFY_CLIENT_ID,
     SPOTIFY_CLIENT_SECRET,
     MICROSOFT_COGNITIVE_TOKEN,
@@ -283,6 +284,7 @@ const getSourceSeconds = (string) => {
         tumblrTokenSecret: TUMBLR_ACCESS_TOKEN_SECRET,
         tumblrBlogName: TUMBLR_REBLOG_BLOG_NAME,
         textGeneratorUrl: POST_TEXT_GENERATOR_URL,
+        textGeneratorApiKey: POST_TEXT_GENERATOR_API_KEY,
         spotifyClientId: SPOTIFY_CLIENT_ID,
         spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
       });
