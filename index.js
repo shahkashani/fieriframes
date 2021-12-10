@@ -131,6 +131,7 @@ const getSourceSeconds = (string) => {
     GOOGLE_CLOUD_CREDENTIALS_BASE64,
     POST_TEXT_GENERATOR_URL,
     POST_TEXT_GENERATOR_API_KEY,
+    POST_TEXT_GENERATOR_LENGTH,
     SPOTIFY_CLIENT_ID,
     SPOTIFY_CLIENT_SECRET,
     MICROSOFT_COGNITIVE_TOKEN,
@@ -143,6 +144,9 @@ const getSourceSeconds = (string) => {
   const NUM_GIF_FPS = GIF_FPS ? parseInt(GIF_FPS) : 12;
   const postDraft = draft || isDraft;
   const postBlogName = blogName || TUMBLR_BLOG_NAME;
+  const NUM_POST_GENERATOR_LENGTH = POST_TEXT_GENERATOR_LENGTH
+    ? parseInt(POST_TEXT_GENERATOR_LENGTH)
+    : 100;
 
   const TUMBLR_CONFIG = {
     highlightColor,
@@ -287,6 +291,7 @@ const getSourceSeconds = (string) => {
         textGeneratorApiKey: POST_TEXT_GENERATOR_API_KEY,
         spotifyClientId: SPOTIFY_CLIENT_ID,
         spotifyClientSecret: SPOTIFY_CLIENT_SECRET,
+        textLength: NUM_POST_GENERATOR_LENGTH,
       });
 
       await fierifiction.postVideo(
