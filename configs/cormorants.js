@@ -7,6 +7,12 @@ class CormorantsConfig {
     return {
       filterText: {
         description: 'Narrow down the questions',
+        string: true,
+      },
+      verbose: {
+        describe: 'Verbose mode',
+        boolean: true,
+        default: false,
       },
     };
   }
@@ -22,6 +28,7 @@ class CormorantsConfig {
     filterText,
     setQuestion,
     setAnswer,
+    verbose,
   }) {
     this.cormants = new Cormorants({
       filterText,
@@ -37,6 +44,7 @@ class CormorantsConfig {
       bannedWords: (BANNED_WORDS || '').split(','),
       minWords: 4,
       isIncludeMedia: true,
+      isVerbose: verbose,
     });
     const result = await this.cormants.speak();
     if (!result) {

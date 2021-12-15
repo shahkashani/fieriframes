@@ -1,0 +1,6 @@
+static/*.png
+static/*.gif
+dist
+.parcel-cache
+node_modules
+project.json

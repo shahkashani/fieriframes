@@ -89,6 +89,18 @@ class DefaultConfig {
         describe: 'Require big eyes',
         boolean: true,
       },
+      toCaptionText: {
+        describe: 'Caption to transition to',
+        array: true,
+      },
+      toCaptionType: {
+        choices: ['blink', 'fade'],
+        default: 'blink',
+      },
+      toCaptionDuration: {
+        number: true,
+        default: 8,
+      },
     };
   }
 
@@ -132,6 +144,9 @@ class DefaultConfig {
       eyes,
       embed,
       captionText,
+      toCaptionText,
+      toCaptionType,
+      toCaptionDuration,
       sourceSeconds,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
@@ -429,11 +444,13 @@ class DefaultConfig {
       ...usePreEffects,
       ...useEffects,
       ...usePostEffects,
-      new stills.filters.Captions({
-        folder: resolve('./captions'),
-        font: resolve('./fonts/arial.ttf'),
-        glyphs: false,
-      }),
+      toCaptionText
+        ? new stills.filters.RichCaptions({
+            toCaptionText,
+            toCaptionType,
+            toCaptionDuration,
+          })
+        : new stills.filters.Captions(),
       ...useAfterCaptionEffects,
     ]);
 

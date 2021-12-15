@@ -48,6 +48,7 @@ const DEFAULT_OPTIONS = {
   },
   outputFolder: {
     describe: 'Where to put the generated images',
+    default: __dirname,
   },
   gifWidth: {
     describe: 'Width of GIFs',
@@ -219,7 +220,6 @@ const getSourceSeconds = (string) => {
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN
       ? new stills.analysis.Azure({
           token: MICROSOFT_AZURE_TOKEN,
-          minCaptionConfidence: 0.1,
         })
       : null;
 
@@ -262,7 +262,8 @@ const getSourceSeconds = (string) => {
     } to ${postBlogName}`
   );
 
-  const result = await stills.generate(finalConfig);
+  const stillsInstance = new stills.Stills(finalConfig);
+  const result = await stillsInstance.generate();
 
   if (useConfig.onComplete) {
     await useConfig.onComplete(result, baseConfigData);
@@ -302,7 +303,7 @@ const getSourceSeconds = (string) => {
   }
 
   if (destinations.length > 0) {
-    stills.deleteStills(result);
+    stillsInstance.deleteStills();
   }
 
   process.exit(0);

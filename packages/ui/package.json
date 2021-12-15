@@ -1,0 +1,33 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch:client": "./node_modules/.bin/parcel watch ./client/index.html",
+    "watch:server": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/nodemon --watch server/index.js --watch '../../node_modules/stills/**/*'",
+    "watch:assets": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/nodemon server/assets.js",
+    "dev": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/concurrently --kill-others \"npm run watch:client\" \"npm run watch:server\" \"npm run watch:assets\"",
+    "build": "./node_modules/.bin/parcel build ./client/index.html",
+    "start": "npm run build && node --max-old-space-size=8192 server/index.js",
+    "clean": "rm static/* & rm project.json & true"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "stills": "latest"
+  },
+  "dependencies": {
+    "@parcel/transformer-react-refresh-wrap": "^2.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "image-size": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "concurrently": "^6.3.0",
+    "nodemon": "^2.0.15",
+    "parcel": "^2.0.1"
+  }
+}
