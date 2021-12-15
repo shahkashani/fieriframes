@@ -40,7 +40,7 @@ const instance = new stills.Stills({
   description: new stills.descriptions.Captions(),
   content: new stills.content.Gif(),
   caption: new stills.captions.Static({
-    captions: ['Et in Arcadia ego.'],
+    captions: ['Hello!'],
   }),
   destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
   filters: [
@@ -50,12 +50,7 @@ const instance = new stills.Stills({
   ],
   imageFilters: [
     [
-      new stills.filters.Arcana(),
-      /*
-      new stills.filters.Symbol({
-        filter: new stills.filters.Arcadia({ coin: '#555555' }),
-      }),
-      */
+      new stills.filters.Tint(),
     ],
   ],
 });
@@ -121,6 +116,5 @@ const setup = async () => {
   app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
   });
-
-  //  instance.applyFilters();
+  // instance.applyFilters();
 })();
