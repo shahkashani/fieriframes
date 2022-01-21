@@ -1,5 +1,10 @@
-const { sample } = require('lodash');
 const stills = require('stills');
+
+const inOrder = (array) => {
+  const hour = new Date().getHours();
+  const index = hour % array.length;
+  return array[index];
+};
 
 class BirthdayConfig {
   async generateConfig(args) {
@@ -45,12 +50,6 @@ class BirthdayConfig {
         geometry: '+10%',
       },
       {
-        overlayFile: './overlays/birthday-2022/7.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.9,
-        geometry: '+10%',
-      },
-      {
         overlayFile: './overlays/birthday-2022/8.png',
         gravity: 'southeast',
         sizePercentHeight: 0.9,
@@ -66,6 +65,12 @@ class BirthdayConfig {
         sizePercentHeight: 0.8,
       },
       {
+        overlayFile: './overlays/birthday-2022/7.png',
+        gravity: 'southwest',
+        sizePercentHeight: 0.9,
+        geometry: '+10%',
+      },
+      {
         overlayFile: './overlays/birthday-2022/11.png',
         gravity: 'southwest',
         sizePercentHeight: 0.7,
@@ -77,7 +82,7 @@ class BirthdayConfig {
       },
     ].filter((o) => (overlay ? o.overlayFile.indexOf(overlay) !== -1 : true));
 
-    const overlayFilter = new stills.filters.Overlay(sample(overlays));
+    const overlayFilter = new stills.filters.Overlay(inOrder(overlays));
 
     return {
       type,
