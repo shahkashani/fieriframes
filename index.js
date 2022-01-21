@@ -13,6 +13,7 @@ const configs = {
   dreamers: require('./configs/dreamers'),
   celestial: require('./configs/celestial'),
   cormorants: require('./configs/cormorants'),
+  birthday: require('./configs/birthday'),
 };
 
 const DEFAULT_OPTIONS = {
