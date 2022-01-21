@@ -4,7 +4,7 @@ const stills = require('stills');
 class BirthdayConfig {
   async generateConfig(args) {
     const captionFilter = new stills.filters.Captions();
-    const type = Math.random() > 0.9 ? 'gif' : 'still';
+    const type = Math.random() > 0.3 ? 'gif' : 'still';
     const { overlay } = args;
 
     const overlays = [
