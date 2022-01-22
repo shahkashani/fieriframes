@@ -14,6 +14,12 @@ class BirthdayConfig {
 
     const overlays = [
       {
+        overlayFile: './overlays/birthday-2022/7.png',
+        gravity: 'southwest',
+        sizePercentHeight: 0.9,
+        geometry: '+10%',
+      },
+      {
         overlayFile: './overlays/birthday-2022/1.png',
         gravity: 'southwest',
         sizePercentHeight: 0.9,
@@ -29,6 +35,12 @@ class BirthdayConfig {
         overlayFile: './overlays/birthday-2022/3.png',
         gravity: 'southwest',
         sizePercentHeight: 0.8,
+        geometry: '+10%',
+      },
+      {
+        overlayFile: './overlays/birthday-2022/6.png',
+        gravity: 'southeast',
+        sizePercentHeight: 0.9,
         geometry: '+10%',
       },
       {
@@ -60,25 +72,10 @@ class BirthdayConfig {
         sizePercentHeight: 0.9,
       },
       {
-        overlayFile: './overlays/birthday-2022/10.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.8,
-      },
-      {
         overlayFile: './overlays/birthday-2022/7.png',
         gravity: 'southwest',
         sizePercentHeight: 0.9,
         geometry: '+10%',
-      },
-      {
-        overlayFile: './overlays/birthday-2022/11.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.7,
-      },
-      {
-        overlayFile: './overlays/birthday-2022/12.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.8,
       },
     ].filter((o) => (overlay ? o.overlayFile.indexOf(overlay) !== -1 : true));
 
