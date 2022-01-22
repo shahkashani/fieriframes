@@ -89,6 +89,7 @@ class BirthdayConfig {
       tags: ['happy birthday'],
       caption: new stills.captions.Quotes({
         folder: './captions/other/events',
+        num: 1,
       }),
       filters: [overlayFilter, captionFilter],
     };
