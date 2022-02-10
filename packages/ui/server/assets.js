@@ -28,7 +28,11 @@ app.get('/project', async (req, res) => {
       return;
     }
   }
-  const { assets } = project;
+  const {
+    assets,
+    source: { name },
+    images: [{ time }],
+  } = project;
 
   const images = assets
     .map((image) => {
@@ -54,7 +58,12 @@ app.get('/project', async (req, res) => {
     })
     .filter((image) => !!image.url);
 
-  res.json({ images });
+  const info = {
+    video: name,
+    seconds: time,
+  };
+
+  res.json({ images, info });
 });
 
 app.listen(port, () => {

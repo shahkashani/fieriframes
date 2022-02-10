@@ -1,15 +1,24 @@
 const express = require('express');
 const app = express();
+const bodyParser = require('body-parser');
 const port = 3000;
 const stills = require('stills');
-const { writeFileSync, readFileSync, existsSync, unlinkSync } = require('fs');
+const {
+  writeFileSync,
+  readFileSync,
+  existsSync,
+  unlinkSync,
+} = require('fs');
 const { resolve, parse } = require('path');
 const sizeOf = require('image-size');
 const { sync } = require('glob');
 
+app.use(bodyParser.json());
+
 require('dotenv').config({ path: resolve(__dirname, '../../../.env') });
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
+const BOOKMARKS_FILE = resolve(__dirname, '../bookmarks.json');
 const VIDEOS_FOLDER = resolve(__dirname, '../../../videos');
 
 let project;
@@ -36,7 +45,7 @@ const TUMBLR_CONFIG = {
 const getInstance = ({ video, seconds } = {}) => {
   const filter = video ? (f) => f.indexOf(`${video}.mp4`) !== -1 : undefined;
   const gifSeconds = parseFloat(seconds) > 0 ? parseFloat(seconds) : undefined;
-    
+
   return new stills.Stills({
     analysis: new stills.analysis.Azure({
       token: MICROSOFT_AZURE_TOKEN,
@@ -48,7 +57,7 @@ const getInstance = ({ video, seconds } = {}) => {
     }),
     description: new stills.descriptions.Captions(),
     content: new stills.content.Gif({
-      seconds: gifSeconds
+      seconds: gifSeconds,
     }),
     caption: new stills.captions.Static({
       captions: ['Hello!'],
@@ -90,6 +99,23 @@ const getAssets = (instance) => {
 
 instance = getInstance();
 
+app.get('/bookmarks', async (req, res) => {
+  res.json(JSON.parse(readFileSync(BOOKMARKS_FILE).toString()));
+});
+
+app.post('/bookmark', async (req, res) => {
+  const { video, seconds } = req.body;
+  const bookmarks = existsSync(BOOKMARKS_FILE)
+    ? JSON.parse(readFileSync(BOOKMARKS_FILE).toString())
+    : [];
+  bookmarks.push({
+    video,
+    seconds: parseFloat(seconds),
+  });
+  writeFileSync(BOOKMARKS_FILE, JSON.stringify(bookmarks, null, 2));
+  res.json(bookmarks);
+});
+
 app.get('/videos', async (req, res) => {
   files = sync(`*.mp4`, { cwd: VIDEOS_FOLDER }).map((f) => parse(f).name);
   res.json(files);
@@ -104,8 +130,8 @@ app.get('/reset', async (req, res) => {
 
   instance = getInstance({ video, seconds });
 
-  await setup();
-  res.sendStatus(200);
+  const result = await setup();
+  res.json(result);
 });
 
 app.get('/apply', async (req, res) => {
@@ -134,6 +160,7 @@ const setup = async () => {
   const project = await instance.setup();
   project.assets = getAssets(instance);
   writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
+  return project;
 };
 
 (async () => {

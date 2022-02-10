@@ -5,3 +5,4 @@ dist
 node_modules
 project.json
 project
+bookmarks.json

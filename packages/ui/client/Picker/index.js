@@ -15,7 +15,6 @@ const Controls = styled.div`
 `;
 
 const Select = styled.select`
-  height: auto;
   min-width: 100px;
   padding: 10px;
 `;
@@ -34,10 +33,7 @@ const Button = styled.button`
   outline: none;
   background: none;
   color: white;
-  
-  &:disabled {
-    opacity: 0.5;
-  }
+  cursor: pointer;
 `;
 
 function VideoScrubber({ video, seconds, onChange }) {
@@ -69,11 +65,18 @@ function VideoScrubber({ video, seconds, onChange }) {
   );
 }
 
-export default function Picker({ onChangeVideo, onChangeSeconds }) {
+export default function Picker({
+  onChangeVideo,
+  bookmarks,
+  onChangeSeconds,
+  defaultVideo,
+  defaultSeconds,
+}) {
   const [videos, setVideos] = useState([]);
   const [video, setVideo] = useState('');
   const [seconds, setSeconds] = useState(0);
   const [isScrubbing, setIsScrubbing] = useState(false);
+  const [bookmark, setBookmark] = useState('');
 
   useEffect(async () => {
     const response = await fetch('/videos');
@@ -82,7 +85,18 @@ export default function Picker({ onChangeVideo, onChangeSeconds }) {
   }, []);
 
   useEffect(() => {
-    setSeconds(0);
+    if (defaultSeconds) {
+      setSeconds(defaultSeconds);
+    }
+  }, [defaultSeconds]);
+
+  useEffect(() => {
+    if (defaultVideo) {
+      setVideo(defaultVideo);
+    }
+  }, [defaultVideo]);
+
+  useEffect(() => {
     onChangeVideo(video);
   }, [video]);
 
@@ -90,13 +104,16 @@ export default function Picker({ onChangeVideo, onChangeSeconds }) {
     onChangeSeconds(seconds);
   }, [seconds]);
 
-  if (videos.length === 0) {
-    return (
-      <Select disabled>
-        <option>Loading...</option>
-      </Select>
-    );
-  }
+  useEffect(() => {
+    if (bookmark === '') {
+      setVideo('');
+      setSeconds(0);
+      return;
+    }
+    const { video, seconds } = bookmarks[parseInt(bookmark, 10)];
+    setVideo(video);
+    setSeconds(seconds);
+  }, [bookmark]);
 
   return (
     <Container>
@@ -108,26 +125,59 @@ export default function Picker({ onChangeVideo, onChangeSeconds }) {
         />
       )}
       <Controls>
-        <Select onChange={(e) => setVideo(e.target.value)}>
+        {videos.length > 0 ? (
+          <Select
+            value={video}
+            onChange={(e) => {
+              setVideo(e.target.value);
+              setSeconds(0);
+            }}
+          >
+            <option key="random" value="">
+              Random episode
+            </option>
+            {videos.map((video) => (
+              <option key={video}>{video}</option>
+            ))}
+          </Select>
+        ) : (
+          <Select disabled>
+            <option>Loading videos...</option>
+          </Select>
+        )}
+        <Select value={bookmark} onChange={(e) => setBookmark(e.target.value)}>
           <option key="random" value="">
-            Random
+            Bookmarks
           </option>
-          {videos.map((video) => (
-            <option key={video}>{video}</option>
+          {bookmarks.map((bookmark, i) => (
+            <option key={i} value={i}>
+              {bookmark.video} ({bookmark.seconds}s)
+            </option>
           ))}
         </Select>
-        <Input
-          type="number"
-          value={seconds}
-          step={0.1}
-          onChange={(e) => setSeconds(e.target.value)}
-        />
-        <Button
-          disabled={!video}
-          onClick={() => setIsScrubbing((value) => !value)}
-        >
-          ▶
-        </Button>
+        {video && (
+          <Input
+            type="number"
+            value={seconds}
+            step={0.1}
+            onChange={(e) => setSeconds(e.target.value)}
+          />
+        )}
+        {video && (
+          <Button onClick={() => setIsScrubbing((value) => !value)}>👀</Button>
+        )}
+        {video && (
+          <Button
+            onClick={() => {
+              setIsScrubbing(false);
+              setVideo('');
+              setBookmark('');
+              setSeconds(0);
+            }}
+          >
+            ✨
+          </Button>
+        )}
       </Controls>
     </Container>
   );
