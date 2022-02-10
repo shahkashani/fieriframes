@@ -3,13 +3,17 @@ const app = express();
 const port = 3000;
 const stills = require('stills');
 const { writeFileSync, readFileSync, existsSync, unlinkSync } = require('fs');
-const { resolve } = require('path');
+const { resolve, parse } = require('path');
 const sizeOf = require('image-size');
+const { sync } = require('glob');
 
 require('dotenv').config({ path: resolve(__dirname, '../../../.env') });
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
+const VIDEOS_FOLDER = resolve(__dirname, '../../../videos');
+
 let project;
+let instance;
 
 const {
   MICROSOFT_AZURE_TOKEN,
@@ -29,31 +33,45 @@ const TUMBLR_CONFIG = {
   publishState: 'draft',
 };
 
-const instance = new stills.Stills({
-  analysis: new stills.analysis.Azure({
-    token: MICROSOFT_AZURE_TOKEN,
-  }),
-  source: new stills.sources.Local({
-    folder: resolve(__dirname, '../../../videos'),
-    outputFolder: resolve(__dirname, '../static'),
-  }),
-  description: new stills.descriptions.Captions(),
-  content: new stills.content.Gif(),
-  caption: new stills.captions.Static({
-    captions: ['Hello!'],
-  }),
-  destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-  filters: [
-    new stills.filters.Captions({
-      font: resolve(__dirname, '../../../fonts/arial.ttf'),
+const getInstance = ({ video, seconds } = {}) => {
+  const filter = video ? (f) => f.indexOf(`${video}.mp4`) !== -1 : undefined;
+  const gifSeconds = parseFloat(seconds) > 0 ? parseFloat(seconds) : undefined;
+    
+  return new stills.Stills({
+    analysis: new stills.analysis.Azure({
+      token: MICROSOFT_AZURE_TOKEN,
     }),
-  ],
-  imageFilters: [
-    [
-      new stills.filters.Tint(),
+    source: new stills.sources.Local({
+      filter,
+      folder: VIDEOS_FOLDER,
+      outputFolder: resolve(__dirname, '../static'),
+    }),
+    description: new stills.descriptions.Captions(),
+    content: new stills.content.Gif({
+      seconds: gifSeconds
+    }),
+    caption: new stills.captions.Static({
+      captions: ['Hello!'],
+    }),
+    destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
+    filters: [
+      new stills.filters.Captions({
+        font: resolve(__dirname, '../../../fonts/arial.ttf'),
+      }),
     ],
-  ],
-});
+    imageFilters: [
+      [
+        new stills.filters.Symbol({
+          symbol: resolve('./project/cards/6.jpg'),
+          filter: new stills.filters.Arcadia({
+            isGrayscale: false,
+            coin: 'rgba(255, 255, 255, 0.2)',
+          }),
+        }),
+      ],
+    ],
+  });
+};
 
 const getAssets = (instance) => {
   return instance.images.map((image) => {
@@ -70,11 +88,22 @@ const getAssets = (instance) => {
   });
 };
 
+instance = getInstance();
+
+app.get('/videos', async (req, res) => {
+  files = sync(`*.mp4`, { cwd: VIDEOS_FOLDER }).map((f) => parse(f).name);
+  res.json(files);
+});
+
 app.get('/reset', async (req, res) => {
+  const { video, seconds } = req.query;
   if (existsSync(PROJECT_FILE)) {
     unlinkSync(PROJECT_FILE);
   }
   await instance.delete();
+
+  instance = getInstance({ video, seconds });
+
   await setup();
   res.sendStatus(200);
 });
@@ -111,7 +140,7 @@ const setup = async () => {
   await setup();
 
   app.use(express.static('dist'));
-  app.use(express.static('static'));
+  app.use(express.static(VIDEOS_FOLDER));
 
   app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
