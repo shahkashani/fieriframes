@@ -294,7 +294,7 @@ const getSourceSeconds = (string) => {
       });
 
       await fierifiction.postVideo(
-        result.content,
+        result.content.map((c) => c.file),
         captions,
         result.tags,
         result.destinations.tumblr.url,

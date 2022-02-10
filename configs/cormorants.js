@@ -54,6 +54,15 @@ class CormorantsConfig {
     const { ask, answer, images } = result;
     const filters = [];
     filters.push(new stills.filters.Haze());
+
+    const overlay = {
+      overlayFile: './overlays/birthday-2022/6.png',
+      gravity: 'southeast',
+      sizePercentHeight: 0.9,
+    };
+
+    const overlayFilter = new stills.filters.Overlay(overlay);
+
     if (images && images.length > 0) {
       const { url } = sample(images);
       const isTransparent = stills.utils.isTransparent(url);
@@ -71,6 +80,7 @@ class CormorantsConfig {
           };
       filters.push(new stills.filters.Overlay(overlayOptions));
     }
+    filters.push(overlayFilter);
     filters.push(new stills.filters.Captions());
     return {
       ask,
