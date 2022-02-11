@@ -6,10 +6,6 @@ import Picker from '../Picker';
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
 import styled from 'styled-components';
 
-const PostButton = styled(Button)`
-  background: green;
-`;
-
 const Toolbar = styled.div`
   position: sticky;
   top: 0;
@@ -36,14 +32,6 @@ const Images = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-`;
-
-const Info = styled.div`
-  font-size: 10px;
-  margin-top: 10px;
-  color: white;
-  opacity: 0.5;
-  cursor: pointer;
 `;
 
 export default function Preview() {
@@ -171,14 +159,26 @@ export default function Preview() {
           <Button onClick={onApply} disabled={isLoading} variant="outlined">
             {isApplying ? 'Applying...' : 'Apply'}
           </Button>
-          <PostButton
+          <Button
             onClick={onPost}
             disabled={isLoading}
             variant="contained"
             color="success"
           >
             {isPosting ? 'Posting...' : 'Post'}
-          </PostButton>
+          </Button>
+
+          {video && (
+            <Button
+              disabled={isLoading}
+              onClick={() => {
+                setRequestVideo(video);
+                setRequestSeconds(seconds);
+              }}
+            >
+              {video} ({seconds}s)
+            </Button>
+          )}
           <IconButton
             disabled={isLoading || isBookmarking}
             onClick={() => onBookmark(video, seconds)}
@@ -186,16 +186,6 @@ export default function Preview() {
             {isBookmarking ? <ThumbUpIcon /> : <BookmarkAddIcon />}
           </IconButton>
         </Buttons>
-        {video && (
-          <Info
-            onClick={() => {
-              setRequestVideo(video);
-              setRequestSeconds(seconds);
-            }}
-          >
-            {video} ({seconds}s)
-          </Info>
-        )}
       </Toolbar>
       <Images>
         {images.map((image) => {
