@@ -1,5 +1,18 @@
+import { ThemeProvider, createTheme } from '@mui/material';
+
 import App from './App';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
+
+ReactDOM.render(
+  <ThemeProvider theme={darkTheme}>
+    <App />
+  </ThemeProvider>,
+  document.getElementById('root')
+);

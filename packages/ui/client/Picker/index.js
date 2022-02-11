@@ -1,6 +1,13 @@
-import { Autocomplete, CircularProgress, TextField } from '@mui/material';
+import {
+  Autocomplete,
+  CircularProgress,
+  IconButton,
+  TextField,
+} from '@mui/material';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
+import PreviewIcon from '@mui/icons-material/Preview';
+import RestartAltIcon from '@mui/icons-material/RestartAlt';
 import { debounce } from 'lodash';
 import styled from 'styled-components';
 
@@ -18,21 +25,8 @@ const Controls = styled.div`
   gap: 10px;
 `;
 
-const Input = styled.input`
-  padding: 10px;
-  width: 100px;
-`;
-
 const Video = styled.video`
   width: 540px;
-`;
-
-const Button = styled.button`
-  border: 0;
-  outline: none;
-  background: none;
-  color: white;
-  cursor: pointer;
 `;
 
 function VideoScrubber({ video, seconds, onChange }) {
@@ -175,7 +169,7 @@ export default function Picker({
               return;
             }
             setBookmark(value);
-            setVideo(value.name);
+            setVideo(value.video);
             setSeconds(value.seconds);
           }}
           getOptionLabel={(option) =>
@@ -207,7 +201,6 @@ export default function Picker({
               setVideo(name);
               setSeconds(seconds);
               setOpen(false);
-              setIsScrubbing(true);
             }
           }}
           onInputChange={(event, newInputValue, reason) => {
@@ -238,27 +231,32 @@ export default function Picker({
         />
 
         {video && (
-          <Input
+          <TextField
+            label="Timestamp"
             type="number"
             value={seconds}
-            step={0.1}
+            inputProps={{ step: 0.1 }}
             onChange={(e) => setSeconds(e.target.value)}
           />
         )}
         {video && (
-          <Button onClick={() => setIsScrubbing((value) => !value)}>👀</Button>
+          <IconButton onClick={() => setIsScrubbing((value) => !value)}>
+            <PreviewIcon />
+          </IconButton>
         )}
         {video && (
-          <Button
+          <IconButton
             onClick={() => {
               setIsScrubbing(false);
               setVideo('');
               setBookmark('');
+              setCaptionSearch('');
+              setCaptionResults([]);
               setSeconds(0);
             }}
           >
-            ✨
-          </Button>
+            <RestartAltIcon />
+          </IconButton>
         )}
       </Controls>
     </Container>

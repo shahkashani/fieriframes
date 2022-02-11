@@ -21,6 +21,7 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.4.1",
     "@mui/material": "^5.4.1",
     "@parcel/transformer-react-refresh-wrap": "^2.0.1",
     "body-parser": "^1.19.1",

@@ -1,33 +1,10 @@
-import { ThemeProvider, createTheme } from '@mui/material';
+import { Button, IconButton } from '@mui/material';
 import { useEffect, useState } from 'react';
 
+import BookmarkAddIcon from '@mui/icons-material/BookmarkAdd';
 import Picker from '../Picker';
+import ThumbUpIcon from '@mui/icons-material/ThumbUp';
 import styled from 'styled-components';
-
-const DEFAULT_BOOKMARK_TEXT = '🔖';
-const BOOKMARKED_TEXT = '👍';
-
-const Button = styled.button`
-  border: none;
-  background: white;
-  color: black;
-  padding: 10px 15px;
-  border-radius: 40px;
-  cursor: pointer;
-
-  &:hover {
-    opacity: 0.8;
-  }
-
-  &:active {
-    opacity: 0.6;
-  }
-
-  &[disabled] {
-    cursor: default;
-    opacity: 0.2;
-  }
-`;
 
 const PostButton = styled(Button)`
   background: green;
@@ -69,12 +46,6 @@ const Info = styled.div`
   cursor: pointer;
 `;
 
-const darkTheme = createTheme({
-  palette: {
-    mode: 'dark',
-  },
-});
-
 export default function Preview() {
   const [images, setImages] = useState([]);
   const [timeoutId, setTimeoutId] = useState();
@@ -88,7 +59,7 @@ export default function Preview() {
   const [video, setVideo] = useState('');
   const [seconds, setSeconds] = useState(0);
 
-  const [bookmarkText, setBookmarkText] = useState(DEFAULT_BOOKMARK_TEXT);
+  const [isBookmarking, setIsBookmarking] = useState(false);
   const [bookmarks, setBookmarks] = useState([]);
 
   const getNext = async () => {
@@ -170,9 +141,9 @@ export default function Preview() {
     });
     const json = await response.json();
     setBookmarks(json);
-    setBookmarkText(BOOKMARKED_TEXT);
+    setIsBookmarking(true);
     setTimeout(() => {
-      setBookmarkText(DEFAULT_BOOKMARK_TEXT);
+      setIsBookmarking(false);
     }, 2000);
   };
 
@@ -185,44 +156,47 @@ export default function Preview() {
 
   return (
     <div>
-      <ThemeProvider theme={darkTheme}>
-        <Toolbar>
-          <Picker
-            defaultVideo={requestVideo}
-            defaultSeconds={requestSeconds}
-            onChangeVideo={(video) => setRequestVideo(video)}
-            onChangeSeconds={(seconds) => setRequestSeconds(seconds)}
-            bookmarks={bookmarks}
-          />
-          <Buttons>
-            <Button onClick={onReset} disabled={isLoading}>
-              {isResetting ? 'Resetting...' : 'Reset'}
-            </Button>
-            <Button onClick={onApply} disabled={isLoading}>
-              {isApplying ? 'Applying...' : 'Apply'}
-            </Button>
-            <PostButton onClick={onPost} disabled={isLoading}>
-              {isPosting ? 'Posting...' : 'Post'}
-            </PostButton>
-            <Button
-              disabled={isLoading}
-              onClick={() => onBookmark(video, seconds)}
-            >
-              {bookmarkText}
-            </Button>
-          </Buttons>
-          {video && (
-            <Info
-              onClick={() => {
-                setRequestVideo(video);
-                setRequestSeconds(seconds);
-              }}
-            >
-              {video} ({seconds}s)
-            </Info>
-          )}
-        </Toolbar>
-      </ThemeProvider>
+      <Toolbar>
+        <Picker
+          defaultVideo={requestVideo}
+          defaultSeconds={requestSeconds}
+          onChangeVideo={(video) => setRequestVideo(video)}
+          onChangeSeconds={(seconds) => setRequestSeconds(seconds)}
+          bookmarks={bookmarks}
+        />
+        <Buttons>
+          <Button onClick={onReset} disabled={isLoading} variant="outlined">
+            {isResetting ? 'Resetting...' : 'Reset'}
+          </Button>
+          <Button onClick={onApply} disabled={isLoading} variant="outlined">
+            {isApplying ? 'Applying...' : 'Apply'}
+          </Button>
+          <PostButton
+            onClick={onPost}
+            disabled={isLoading}
+            variant="contained"
+            color="success"
+          >
+            {isPosting ? 'Posting...' : 'Post'}
+          </PostButton>
+          <IconButton
+            disabled={isLoading || isBookmarking}
+            onClick={() => onBookmark(video, seconds)}
+          >
+            {isBookmarking ? <ThumbUpIcon /> : <BookmarkAddIcon />}
+          </IconButton>
+        </Buttons>
+        {video && (
+          <Info
+            onClick={() => {
+              setRequestVideo(video);
+              setRequestSeconds(seconds);
+            }}
+          >
+            {video} ({seconds}s)
+          </Info>
+        )}
+      </Toolbar>
       <Images>
         {images.map((image) => {
           return (
