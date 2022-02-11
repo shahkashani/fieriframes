@@ -7,6 +7,9 @@ import ReactDOM from 'react-dom';
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
+    primary: {
+      main: '#fff',
+    },
   },
 });
 
