@@ -1,10 +1,15 @@
-import { Button, IconButton } from '@mui/material';
+import { Button, CircularProgress, IconButton } from '@mui/material';
 import { useEffect, useState } from 'react';
 
 import BookmarkAddIcon from '@mui/icons-material/BookmarkAdd';
+import FilterFramesIcon from '@mui/icons-material/FilterFrames';
 import Picker from '../Picker';
+import ResetTvIcon from '@mui/icons-material/ResetTv';
+import SendIcon from '@mui/icons-material/Send';
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
 import styled from 'styled-components';
+
+const ICON_SIZE = 20;
 
 const Toolbar = styled.div`
   position: sticky;
@@ -153,19 +158,48 @@ export default function Preview() {
           bookmarks={bookmarks}
         />
         <Buttons>
-          <Button onClick={onReset} disabled={isLoading} variant="outlined">
-            {isResetting ? 'Resetting...' : 'Reset'}
+          <Button
+            onClick={onReset}
+            disabled={isLoading}
+            variant="outlined"
+            startIcon={
+              isResetting ? (
+                <CircularProgress color="inherit" size={ICON_SIZE} />
+              ) : (
+                <ResetTvIcon color="inherit" size={ICON_SIZE} />
+              )
+            }
+          >
+            Reset
           </Button>
-          <Button onClick={onApply} disabled={isLoading} variant="outlined">
-            {isApplying ? 'Applying...' : 'Apply'}
+          <Button
+            onClick={onApply}
+            disabled={isLoading}
+            variant="outlined"
+            startIcon={
+              isApplying ? (
+                <CircularProgress color="inherit" size={ICON_SIZE} />
+              ) : (
+                <FilterFramesIcon color="inherit" size={ICON_SIZE} />
+              )
+            }
+          >
+            Apply
           </Button>
           <Button
             onClick={onPost}
             disabled={isLoading}
             variant="contained"
             color="success"
+            startIcon={
+              isPosting ? (
+                <CircularProgress color="inherit" size={ICON_SIZE} />
+              ) : (
+                <SendIcon color="inherit" size={ICON_SIZE} />
+              )
+            }
           >
-            {isPosting ? 'Posting...' : 'Post'}
+            Post
           </Button>
 
           {video && (
