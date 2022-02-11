@@ -1,6 +1,10 @@
-import { useEffect, useRef, useState } from 'react';
+import { Autocomplete, CircularProgress, TextField } from '@mui/material';
+import { useCallback, useEffect, useRef, useState } from 'react';
 
+import { debounce } from 'lodash';
 import styled from 'styled-components';
+
+const SEARCH_DEBOUNCE = 500;
 
 const Container = styled.div`
   display: flex;
@@ -12,11 +16,6 @@ const Controls = styled.div`
   display: flex;
   align-items: center;
   gap: 10px;
-`;
-
-const Select = styled.select`
-  min-width: 100px;
-  padding: 10px;
 `;
 
 const Input = styled.input`
@@ -54,7 +53,9 @@ function VideoScrubber({ video, seconds, onChange }) {
 
   return (
     <Video
+      key={video}
       ref={ref}
+      preload=""
       controls={true}
       autoPlay={false}
       muted={true}
@@ -77,6 +78,33 @@ export default function Picker({
   const [seconds, setSeconds] = useState(0);
   const [isScrubbing, setIsScrubbing] = useState(false);
   const [bookmark, setBookmark] = useState('');
+  const [open, setOpen] = useState(false);
+  const [isSearchingCaptions, setIsSearchingCaptions] = useState(false);
+  const [captionSearch, setCaptionSearch] = useState('');
+  const [captionResults, setCaptionResults] = useState([]);
+
+  const getOptionsDelayed = useCallback(
+    debounce((text, callback) => {
+      setCaptionResults([]);
+      setIsSearchingCaptions(true);
+      fetch(`/search?q=${encodeURIComponent(text)}`).then((response) => {
+        setIsSearchingCaptions(false);
+        response.json().then((json) => callback(json));
+      });
+    }, SEARCH_DEBOUNCE),
+    []
+  );
+
+  useEffect(async () => {
+    if (!captionSearch) {
+      setCaptionResults([]);
+      setIsSearchingCaptions(false);
+      return;
+    }
+    getOptionsDelayed(captionSearch, (filteredOptions) => {
+      setCaptionResults(filteredOptions);
+    });
+  }, [captionSearch]);
 
   useEffect(async () => {
     const response = await fetch('/videos');
@@ -104,17 +132,6 @@ export default function Picker({
     onChangeSeconds(seconds);
   }, [seconds]);
 
-  useEffect(() => {
-    if (bookmark === '') {
-      setVideo('');
-      setSeconds(0);
-      return;
-    }
-    const { video, seconds } = bookmarks[parseInt(bookmark, 10)];
-    setVideo(video);
-    setSeconds(seconds);
-  }, [bookmark]);
-
   return (
     <Container>
       {isScrubbing && video && (
@@ -125,36 +142,101 @@ export default function Picker({
         />
       )}
       <Controls>
-        {videos.length > 0 ? (
-          <Select
-            value={video}
-            onChange={(e) => {
-              setVideo(e.target.value);
+        <Autocomplete
+          sx={{ width: 400 }}
+          options={videos}
+          value={video}
+          disableClearable={!video}
+          onChange={(e, value) => {
+            setSeconds(0);
+            setBookmark(null);
+            if (!value) {
+              setVideo('');
+              return;
+            }
+            setVideo(value);
+          }}
+          multiple={false}
+          isOptionEqualToValue={() => true}
+          renderInput={(params) => <TextField {...params} label="Episode" />}
+        />
+
+        <Autocomplete
+          sx={{ width: 450 }}
+          options={bookmarks}
+          value={bookmark}
+          isOptionEqualToValue={(v) => !!v}
+          disableClearable={!bookmark}
+          onChange={(e, value) => {
+            if (!value) {
+              setVideo('');
               setSeconds(0);
-            }}
-          >
-            <option key="random" value="">
-              Random episode
-            </option>
-            {videos.map((video) => (
-              <option key={video}>{video}</option>
-            ))}
-          </Select>
-        ) : (
-          <Select disabled>
-            <option>Loading videos...</option>
-          </Select>
-        )}
-        <Select value={bookmark} onChange={(e) => setBookmark(e.target.value)}>
-          <option key="random" value="">
-            Bookmarks
-          </option>
-          {bookmarks.map((bookmark, i) => (
-            <option key={i} value={i}>
-              {bookmark.video} ({bookmark.seconds}s)
-            </option>
-          ))}
-        </Select>
+              setBookmark(null);
+              return;
+            }
+            setBookmark(value);
+            setVideo(value.name);
+            setSeconds(value.seconds);
+          }}
+          getOptionLabel={(option) =>
+            option.video ? `${option.video} (${option.seconds}s)` : ''
+          }
+          multiple={false}
+          renderInput={(params) => <TextField {...params} label="Bookmarks" />}
+        />
+        <Autocomplete
+          sx={{ width: 300 }}
+          open={open}
+          onOpen={() => {
+            setOpen(true);
+          }}
+          onClose={() => {
+            setOpen(false);
+          }}
+          isOptionEqualToValue={(option, value) => option.title === value.title}
+          getOptionLabel={(option) => option.title}
+          options={captionResults}
+          disableClearable={!captionSearch}
+          autoSelect={false}
+          inputValue={captionSearch}
+          filterSelectedOptions={false}
+          filterOptions={(x) => x}
+          onChange={(event, value) => {
+            if (value && value.data) {
+              const { name, seconds } = value.data;
+              setVideo(name);
+              setSeconds(seconds);
+              setOpen(false);
+              setIsScrubbing(true);
+            }
+          }}
+          onInputChange={(event, newInputValue, reason) => {
+            if (reason === 'reset') {
+              return;
+            }
+            setCaptionSearch(newInputValue);
+          }}
+          loading={isSearchingCaptions}
+          renderInput={(params) => (
+            <TextField
+              {...params}
+              label="Captions"
+              options={captionResults}
+              InputProps={{
+                ...params.InputProps,
+                endAdornment: (
+                  <>
+                    {isSearchingCaptions ? (
+                      <CircularProgress color="inherit" size={20} />
+                    ) : null}
+                    {params.InputProps.endAdornment}
+                  </>
+                ),
+              }}
+            />
+          )}
+        />
+
         {video && (
           <Input
             type="number"

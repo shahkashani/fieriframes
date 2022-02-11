@@ -1,3 +1,4 @@
+import { ThemeProvider, createTheme } from '@mui/material';
 import { useEffect, useState } from 'react';
 
 import Picker from '../Picker';
@@ -67,6 +68,12 @@ const Info = styled.div`
   opacity: 0.5;
   cursor: pointer;
 `;
+
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+});
 
 export default function Preview() {
   const [images, setImages] = useState([]);
@@ -178,43 +185,44 @@ export default function Preview() {
 
   return (
     <div>
-      <Toolbar>
-        <Picker
-          defaultVideo={requestVideo}
-          defaultSeconds={requestSeconds}
-          onChangeVideo={(video) => setRequestVideo(video)}
-          onChangeSeconds={(seconds) => setRequestSeconds(seconds)}
-          bookmarks={bookmarks}
-        />
-        <Buttons>
-          <Button onClick={onReset} disabled={isLoading}>
-            {isResetting ? 'Resetting...' : 'Reset'}
-          </Button>
-          <Button onClick={onApply} disabled={isLoading}>
-            {isApplying ? 'Applying...' : 'Apply'}
-          </Button>
-          <PostButton onClick={onPost} disabled={isLoading}>
-            {isPosting ? 'Posting...' : 'Post'}
-          </PostButton>
-          <Button
-            disabled={isLoading}
-            onClick={() => onBookmark(video, seconds)}
-          >
-            {bookmarkText}
-          </Button>
-        </Buttons>
-        {video && (
-          <Info
-            onClick={() => {
-              setRequestVideo(video);
-              setRequestSeconds(seconds);
-            }}
-          >
-            {video} ({seconds}s)
-          </Info>
-        )}
-      </Toolbar>
-
+      <ThemeProvider theme={darkTheme}>
+        <Toolbar>
+          <Picker
+            defaultVideo={requestVideo}
+            defaultSeconds={requestSeconds}
+            onChangeVideo={(video) => setRequestVideo(video)}
+            onChangeSeconds={(seconds) => setRequestSeconds(seconds)}
+            bookmarks={bookmarks}
+          />
+          <Buttons>
+            <Button onClick={onReset} disabled={isLoading}>
+              {isResetting ? 'Resetting...' : 'Reset'}
+            </Button>
+            <Button onClick={onApply} disabled={isLoading}>
+              {isApplying ? 'Applying...' : 'Apply'}
+            </Button>
+            <PostButton onClick={onPost} disabled={isLoading}>
+              {isPosting ? 'Posting...' : 'Post'}
+            </PostButton>
+            <Button
+              disabled={isLoading}
+              onClick={() => onBookmark(video, seconds)}
+            >
+              {bookmarkText}
+            </Button>
+          </Buttons>
+          {video && (
+            <Info
+              onClick={() => {
+                setRequestVideo(video);
+                setRequestSeconds(seconds);
+              }}
+            >
+              {video} ({seconds}s)
+            </Info>
+          )}
+        </Toolbar>
+      </ThemeProvider>
       <Images>
         {images.map((image) => {
           return (

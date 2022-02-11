@@ -3,15 +3,11 @@ const app = express();
 const bodyParser = require('body-parser');
 const port = 3000;
 const stills = require('stills');
-const {
-  writeFileSync,
-  readFileSync,
-  existsSync,
-  unlinkSync,
-} = require('fs');
+const { writeFileSync, readFileSync, existsSync, unlinkSync } = require('fs');
 const { resolve, parse } = require('path');
 const sizeOf = require('image-size');
 const { sync } = require('glob');
+const search = require('./search');
 
 app.use(bodyParser.json());
 
@@ -71,9 +67,10 @@ const getInstance = ({ video, seconds } = {}) => {
     imageFilters: [
       [
         new stills.filters.Symbol({
-          symbol: resolve('./project/cards/6.jpg'),
+          symbol: resolve('./project/cards/6-hand.png'),
           filter: new stills.filters.Arcadia({
             isGrayscale: false,
+            isBlur: false,
             coin: 'rgba(255, 255, 255, 0.2)',
           }),
         }),
@@ -98,6 +95,11 @@ const getAssets = (instance) => {
 };
 
 instance = getInstance();
+
+app.get('/search', async (req, res) => {
+  const { q } = req.query;
+  res.json(await search(q));
+});
 
 app.get('/bookmarks', async (req, res) => {
   res.json(JSON.parse(readFileSync(BOOKMARKS_FILE).toString()));
