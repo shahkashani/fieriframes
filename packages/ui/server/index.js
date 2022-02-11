@@ -71,7 +71,6 @@ const getInstance = ({ video, seconds } = {}) => {
           filter: new stills.filters.Arcadia({
             isGrayscale: false,
             isBlur: false,
-            coin: 'rgba(255, 255, 255, 0.2)',
           }),
         }),
       ],

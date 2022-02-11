@@ -2,7 +2,7 @@ import { Button, CircularProgress, IconButton } from '@mui/material';
 import { useEffect, useState } from 'react';
 
 import BookmarkAddIcon from '@mui/icons-material/BookmarkAdd';
-import FilterFramesIcon from '@mui/icons-material/FilterFrames';
+import ColorLensIcon from '@mui/icons-material/ColorLens';
 import Picker from '../Picker';
 import ResetTvIcon from '@mui/icons-material/ResetTv';
 import SendIcon from '@mui/icons-material/Send';
@@ -180,7 +180,7 @@ export default function Preview() {
               isApplying ? (
                 <CircularProgress color="inherit" size={ICON_SIZE} />
               ) : (
-                <FilterFramesIcon color="inherit" size={ICON_SIZE} />
+                <ColorLensIcon color="inherit" size={ICON_SIZE} />
               )
             }
           >
