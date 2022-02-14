@@ -14,6 +14,7 @@ const configs = {
   celestial: require('./configs/celestial'),
   cormorants: require('./configs/cormorants'),
   birthday: require('./configs/birthday'),
+  vday: require('./configs/vday'),
 };
 
 const DEFAULT_OPTIONS = {
