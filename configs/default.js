@@ -6,12 +6,6 @@ const { compact, random, sampleSize, sample, map } = require('lodash');
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
 
-const inOrder = (array) => {
-  const hour = new Date().getHours();
-  const index = hour % array.length;
-  return array[index];
-};
-
 const getCaption = (
   captionText,
   captionType,
@@ -303,7 +297,7 @@ class DefaultConfig {
         )
       : sampleSize(faceOverlayFiles, NUM_MAX_FACE_OVERLAYS);
 
-    const overlayOptions = inOrder(overlays);
+    const overlayOptions = stills.utils.inOrder(overlays);
 
     const sharedEffects = [
       new stills.filters.FaceOrb({ orbs }),

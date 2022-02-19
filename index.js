@@ -15,7 +15,22 @@ const configs = {
   cormorants: require('./configs/cormorants'),
   birthday: require('./configs/birthday'),
   vday: require('./configs/vday'),
+  twinpeaks: require('./configs/twinpeaks'),
 };
+
+const date = new Date().toLocaleString('en-US', {
+  month: 'long',
+  day: 'numeric',
+  timeZone: 'America/New_York',
+});
+
+const events = {
+  'January 22': 'birthday',
+  'February 16': 'vday',
+  'February 24': 'twinpeaks',
+};
+
+const defaultConfig = events[date] || 'default';
 
 const DEFAULT_OPTIONS = {
   sourceSeconds: {
@@ -62,7 +77,7 @@ const DEFAULT_OPTIONS = {
   config: {
     describe: 'What config template to use',
     choices: Object.keys(configs),
-    default: 'default',
+    default: defaultConfig,
   },
 };
 
@@ -257,6 +272,7 @@ const getSourceSeconds = (string) => {
     isPrompt: prompt,
   };
 
+  console.log(`⚙️  ${date} config: ${config}`);
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
   console.log(
     `📮 ${destinations.length > 0 ? 'Posting' : 'Not posting'}${

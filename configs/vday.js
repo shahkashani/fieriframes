@@ -1,11 +1,5 @@
 const stills = require('stills');
 
-const inOrder = (array) => {
-  const hour = new Date().getHours();
-  const index = hour % array.length;
-  return array[index];
-};
-
 class BirthdayConfig {
   async generateConfig(args) {
     const captionFilter = new stills.filters.Captions();
@@ -32,7 +26,7 @@ class BirthdayConfig {
       },
     ].filter((o) => (overlay ? o.overlayFile.indexOf(overlay) !== -1 : true));
 
-    const overlayFilter = new stills.filters.Overlay(inOrder(overlays));
+    const overlayFilter = new stills.filters.Overlay(stills.utils.inOrder(overlays));
 
     return {
       type,
