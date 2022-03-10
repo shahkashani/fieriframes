@@ -79,6 +79,10 @@ class DefaultConfig {
         describe: 'Require a face',
         boolean: true,
       },
+      glyphs: {
+        describe: 'Use glyphs',
+        boolean: false,
+      },
       eyes: {
         describe: 'Require big eyes',
         boolean: true,
@@ -137,6 +141,7 @@ class DefaultConfig {
       body,
       eyes,
       embed,
+      glyphs,
       captionText,
       toCaptionText,
       toCaptionType,
@@ -441,7 +446,10 @@ class DefaultConfig {
             toCaptionType,
             toCaptionDuration,
           })
-        : new stills.filters.Captions(),
+        : new stills.filters.Captions({
+            glyphs,
+            font: glyphs ? './fonts/voynich.ttf' : './fonts/arial.ttf',
+          }),
       ...useAfterCaptionEffects,
     ]);
 

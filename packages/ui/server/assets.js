@@ -14,6 +14,14 @@ app.use(cors());
 app.options('*', cors());
 app.use(express.static('static'));
 
+const safeStatSync = (url) => {
+  try {
+    return statSync(url);
+  } catch (err) {
+    return { mtimeMs: Date.now() };
+  }
+};
+
 app.get('/project', async (req, res) => {
   if (
     !project ||
@@ -38,12 +46,12 @@ app.get('/project', async (req, res) => {
     .map((image) => {
       if (existsSync(image.url)) {
         const { base } = parse(image.url);
-        const { mtimeMs } = statSync(image.url);
+        const { mtimeMs } = safeStatSync(image.url);
         const url = `http://localhost:${port}/${base}?mtime=${mtimeMs}`;
         const { width, height } = image;
         const frames = image.frames.map((frame) => {
           const { base } = parse(frame.url);
-          const { mtimeMs } = statSync(frame.url);
+          const { mtimeMs } = safeStatSync(frame.url);
           return {
             url: `http://localhost:${port}/${base}?mtime=${mtimeMs}`,
           };

@@ -2,6 +2,7 @@ static/*.png
 static/*.gif
 dist
 .parcel-cache
+.temp
 node_modules
 project.json
 project
