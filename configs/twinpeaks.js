@@ -13,7 +13,6 @@ class TwinPeaksConfig {
 
   async generateConfig(args) {
     const { filterNum } = args;
-    const caption = new stills.filters.Captions();
     const type = 'gif';
     const colortone = new stills.filters.ColorTone();
     const embed = new stills.filters.Embed({
@@ -44,7 +43,7 @@ class TwinPeaksConfig {
     });
 
     const filters = [
-      [caption, embed],
+      [embed],
       [
         colortone,
         new stills.filters.Overlay({
@@ -53,14 +52,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks1.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -69,14 +66,12 @@ class TwinPeaksConfig {
           gravity: 'southeast',
           sizePercentHeight: 0.6,
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks2.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -86,14 +81,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks3.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -102,14 +95,12 @@ class TwinPeaksConfig {
           gravity: 'southeast',
           sizePercentHeight: 0.6,
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks4.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -119,14 +110,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks5.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -136,14 +125,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks6.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -153,14 +140,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks7.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -170,14 +155,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks12.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -187,14 +170,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks11.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -204,14 +185,12 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         new stills.filters.Blend({
           overlayFile: './blend/twinpeaks10.mp4',
         }),
         colortone,
-        caption,
       ],
       [
         colortone,
@@ -221,7 +200,6 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         colortone,
@@ -231,7 +209,6 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
       ],
       [
         colortone,
@@ -241,8 +218,7 @@ class TwinPeaksConfig {
           sizePercentHeight: 0.6,
           geometry: '+10%',
         }),
-        caption,
-        embed
+        embed,
       ],
     ];
 

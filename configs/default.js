@@ -87,18 +87,6 @@ class DefaultConfig {
         describe: 'Require big eyes',
         boolean: true,
       },
-      toCaptionText: {
-        describe: 'Caption to transition to',
-        array: true,
-      },
-      toCaptionType: {
-        choices: ['blink', 'fade'],
-        default: 'blink',
-      },
-      toCaptionDuration: {
-        number: true,
-        default: 8,
-      },
     };
   }
 
@@ -436,20 +424,15 @@ class DefaultConfig {
           []
         );
 
+    const filterCaption = new stills.filters.captions.Simple({
+      glyphs,
+      font: glyphs ? './fonts/voynich.ttf' : './fonts/arial.ttf',
+    });
+
     const filters = compact([
       ...usePreEffects,
       ...useEffects,
       ...usePostEffects,
-      toCaptionText
-        ? new stills.filters.RichCaptions({
-            toCaptionText,
-            toCaptionType,
-            toCaptionDuration,
-          })
-        : new stills.filters.Captions({
-            glyphs,
-            font: glyphs ? './fonts/voynich.ttf' : './fonts/arial.ttf',
-          }),
       ...useAfterCaptionEffects,
     ]);
 
@@ -482,6 +465,7 @@ class DefaultConfig {
       type,
       tags,
       filters,
+      filterCaption,
       caption,
       validators,
       isCreateFiction,

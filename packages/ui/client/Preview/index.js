@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react';
 
 import BookmarkAddIcon from '@mui/icons-material/BookmarkAdd';
 import ColorLensIcon from '@mui/icons-material/ColorLens';
-import Picker from '../Picker';
 import Image from '../Image';
+import Picker from '../Picker';
 import ResetTvIcon from '@mui/icons-material/ResetTv';
 import SendIcon from '@mui/icons-material/Send';
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
@@ -240,14 +240,15 @@ export default function Preview() {
         return (
           <Frames>
             {image.frames.map((frame, frameIndex) => (
-              <Image
+              <div><Image
                 index={index}
                 key={`${index}-${frameIndex}`}
                 src={frame.url}
                 height={image.height}
                 width={image.width}
                 frame={frameIndex}
-              />
+                title={`Frame ${frameIndex}`}
+              />-{frameIndex}-</div>
             ))}
           </Frames>
         );

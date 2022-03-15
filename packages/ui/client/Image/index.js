@@ -1,6 +1,7 @@
-import { useState } from 'react';
-import styled from 'styled-components';
+import DeleteOutlineIcon from '@mui/icons-material/DeleteOutline';
 import UploadIcon from '@mui/icons-material/Upload';
+import styled from 'styled-components';
+import { useState } from 'react';
 
 const Container = styled.div`
   position: relative;
@@ -17,9 +18,9 @@ const Label = styled.label`
   cursor: pointer;
 `;
 
-export default Image = ({ src, width, height, index, frame }) => {
+export default Image = ({ src, title, width, height, index, frame }) => {
   const [isShowingControls, setIsShowingControls] = useState(false);
-  const id = `image-${index}-${frame ? `-${frame}` : ''}`;
+  const id = `image-${index}${Number.isFinite(frame) ? `-${frame}` : ''}`;
 
   const onChange = async (event) => {
     const formData = new FormData();
@@ -41,12 +42,18 @@ export default Image = ({ src, width, height, index, frame }) => {
     }
   };
 
+  const onDelete = () => {
+    fetch(`/frame?index=${index}&frame=${frame}`, {
+      method: 'DELETE',
+    });
+  };
+
   return (
     <Container
       onMouseOver={() => setIsShowingControls(true)}
       onMouseLeave={() => setIsShowingControls(false)}
     >
-      <img src={src} width={width} height={height} />
+      <img src={src} width={width} height={height} title={title} />
       <Controls style={{ opacity: isShowingControls ? 1 : 0 }}>
         <input
           type="file"
@@ -57,6 +64,9 @@ export default Image = ({ src, width, height, index, frame }) => {
         />
         <Label htmlFor={id}>
           <UploadIcon />
+        </Label>
+        <Label onClick={() => onDelete()}>
+          <DeleteOutlineIcon />
         </Label>
       </Controls>
     </Container>

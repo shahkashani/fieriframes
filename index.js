@@ -114,6 +114,7 @@ const getSourceSeconds = (string) => {
     type,
     num,
     tags,
+    filterCaption,
     highlightColor,
     isCreateFiction,
     blogName,
@@ -269,6 +270,7 @@ const getSourceSeconds = (string) => {
     source,
     content,
     validators,
+    filterCaption: filterCaption || new stills.filters.captions.Simple(),
     isPrompt: prompt,
   };
 

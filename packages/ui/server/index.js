@@ -8,6 +8,7 @@ const { resolve, parse } = require('path');
 const sizeOf = require('image-size');
 const { sync } = require('glob');
 const search = require('./search');
+const multer = require('multer');
 
 app.use(bodyParser.json());
 
@@ -27,6 +28,8 @@ const {
   TUMBLR_ACCESS_TOKEN_KEY,
   TUMBLR_ACCESS_TOKEN_SECRET,
   TUMBLR_BLOG_NAME,
+  MICROSOFT_COGNITIVE_URL,
+  MICROSOFT_COGNITIVE_TOKEN,
 } = process.env;
 
 const TUMBLR_CONFIG = {
@@ -58,23 +61,21 @@ const getInstance = ({ video, seconds } = {}) => {
     caption: new stills.captions.Static({
       captions: ['Hello!'],
     }),
-    destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [
-      new stills.filters.Captions({
-        font: resolve(__dirname, '../../../fonts/arial.ttf'),
+    taggers: [
+      new stills.taggers.Episode(),
+      new stills.taggers.Static({
+        tags: [
+          'guy fieri',
+          'guyfieri',
+          'diners drive-ins and dives',
+        ],
+      }),
+      new stills.taggers.CaptionsCognitive({
+        url: MICROSOFT_COGNITIVE_URL,
+        token: MICROSOFT_COGNITIVE_TOKEN,
       }),
     ],
-    imageFilters: [
-      [
-        new stills.filters.Symbol({
-          symbol: resolve('./project/cards/6-hand.png'),
-          filter: new stills.filters.Arcadia({
-            isGrayscale: false,
-            isBlur: false,
-          }),
-        }),
-      ],
-    ],
+    destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
   });
 };
 
@@ -93,7 +94,30 @@ const getAssets = (instance) => {
   });
 };
 
+const upload = multer({ dest: './.temp' });
+
 instance = getInstance();
+
+app.delete('/frame', async (req, res) => {
+  const { index, frame } = req.query;
+  await instance.deleteFrame(parseInt(index, 10), parseInt(frame, 10));
+  const project = JSON.parse(readFileSync(PROJECT_FILE).toString());
+  project.assets[index].frames.splice(frame, 1);
+  writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
+  res.sendStatus(200);
+});
+
+app.post('/replace', upload.single('image'), async (req, res) => {
+  const path = resolve(req.file.path);
+  const { index, frame } = req.body;
+  if (frame) {
+    await instance.replaceFrame(parseInt(index, 10), parseInt(frame, 10), path);
+  } else {
+    await instance.replaceImage(parseInt(index, 10), path);
+  }
+  unlinkSync(path);
+  res.sendStatus(200);
+});
 
 app.get('/search', async (req, res) => {
   const { q } = req.query;

@@ -19,7 +19,7 @@ class ArcadiaConfig {
       caption: new stills.captions.Static({
         captions: captionText,
       }),
-      filters: [new stills.filters.Arcadia(), new stills.filters.Captions()],
+      filters: [new stills.filters.Arcadia()],
     };
   }
 }

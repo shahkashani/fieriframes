@@ -1,7 +1,7 @@
 const stills = require('stills');
 const Dreamers = require('dreamers');
 
-const HIGHLIGHT_COLOR = '#00b8ff';
+const HIGHLIGHT_COLOR = '#FF492F';
 
 class DreamerConfig {
   constructor() {
@@ -54,17 +54,7 @@ class DreamerConfig {
       caption: new stills.captions.Static({
         captions,
       }),
-      filters: [
-        new stills.filters.Arcadia({
-          isDesaturate: false,
-        }),
-        ...filters,
-        new stills.filters.Arcadia({
-          isBoonme: false,
-          isTrails: false,
-        }),
-        new stills.filters.Captions(),
-      ],
+      filters: [...filters, new stills.filters.Arcadia()],
     };
   }
 

@@ -124,15 +124,7 @@ class CelestialConfig {
       caption: new stills.captions.Static({
         captions,
       }),
-      filters: [
-        new stills.filters.Celestial(),
-        ...filters,
-        new stills.filters.RichCaptions({
-          toCaptionText,
-          toCaptionType,
-          toCaptionDuration,
-        }),
-      ],
+      filters: [new stills.filters.Celestial(), ...filters],
       validators: [new stills.validators.BodyDetection()],
     };
   }
