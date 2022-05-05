@@ -6,12 +6,13 @@ import {
 } from '@mui/material';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
+import CloseIcon from '@mui/icons-material/Close';
 import PreviewIcon from '@mui/icons-material/Preview';
-import RestartAltIcon from '@mui/icons-material/RestartAlt';
 import { debounce } from 'lodash';
 import styled from 'styled-components';
 
 const SEARCH_DEBOUNCE = 500;
+export const DEFAULT_LENGTH = 2;
 
 const Container = styled.div`
   display: flex;
@@ -60,22 +61,61 @@ function VideoScrubber({ video, seconds, onChange }) {
   );
 }
 
+const getZeros = (length) => {
+  const ts = [];
+  for (let i = 0; i < length; i += 1) {
+    ts.push(0);
+  }
+  return ts;
+};
+
 export default function Picker({
   onChangeVideo,
   bookmarks,
-  onChangeSeconds,
+  onChangeLength,
   defaultVideo,
-  defaultSeconds,
+  defaultLength,
+  defaultTimestamps,
+  numTimestamps,
+  onChangeTimestamps,
 }) {
   const [videos, setVideos] = useState([]);
   const [video, setVideo] = useState('');
-  const [seconds, setSeconds] = useState(0);
+  const [length, setLength] = useState(DEFAULT_LENGTH);
   const [isScrubbing, setIsScrubbing] = useState(false);
   const [bookmark, setBookmark] = useState('');
   const [open, setOpen] = useState(false);
   const [isSearchingCaptions, setIsSearchingCaptions] = useState(false);
   const [captionSearch, setCaptionSearch] = useState('');
   const [captionResults, setCaptionResults] = useState([]);
+  const [timestamps, setTimestamps] = useState([0]);
+  const [timestampIndex, setTimestampIndex] = useState(0);
+
+  const timestampInputs = [];
+  for (let i = 0; i < numTimestamps; i += 1) {
+    timestampInputs.push(
+      <TextField
+        key={`ts-${i}`}
+        label={`Timestamp ${i + 1}`}
+        type="number"
+        style={{
+          width: 120,
+          backgroundColor:
+            timestampIndex === i ? 'rgba(255, 255, 255, 0.1)' : undefined,
+        }}
+        onFocus={() => {
+          setTimestampIndex(i);
+        }}
+        value={timestamps[i]}
+        inputProps={{ step: 0.1 }}
+        onChange={(e) => {
+          const ts = [...timestamps];
+          ts[timestampIndex] = e.target.value;
+          setTimestamps(ts);
+        }}
+      />
+    );
+  }
 
   const getOptionsDelayed = useCallback(
     debounce((text, callback) => {
@@ -107,10 +147,14 @@ export default function Picker({
   }, []);
 
   useEffect(() => {
-    if (defaultSeconds) {
-      setSeconds(defaultSeconds);
+    if (defaultLength) {
+      setLength(defaultLength);
     }
-  }, [defaultSeconds]);
+  }, [defaultLength]);
+
+  useEffect(() => {
+    setTimestamps(defaultTimestamps);
+  }, [defaultTimestamps.join(',')]);
 
   useEffect(() => {
     if (defaultVideo) {
@@ -123,16 +167,24 @@ export default function Picker({
   }, [video]);
 
   useEffect(() => {
-    onChangeSeconds(seconds);
-  }, [seconds]);
+    onChangeTimestamps(timestamps);
+  }, [timestamps.join(',')]);
+
+  useEffect(() => {
+    onChangeLength(length);
+  }, [length]);
 
   return (
     <Container>
       {isScrubbing && video && (
         <VideoScrubber
           video={video}
-          seconds={seconds}
-          onChange={(s) => setSeconds(s)}
+          seconds={timestamps[timestampIndex]}
+          onChange={(s) => {
+            const ts = [...timestamps];
+            ts[timestampIndex] = s;
+            setTimestamps(ts);
+          }}
         />
       )}
       <Controls>
@@ -142,13 +194,13 @@ export default function Picker({
           value={video}
           disableClearable={!video}
           onChange={(e, value) => {
-            setSeconds(0);
             setBookmark(null);
             if (!value) {
               setVideo('');
               return;
             }
             setVideo(value);
+            setTimestamps(getZero(numTimestamps));
           }}
           multiple={false}
           isOptionEqualToValue={() => true}
@@ -164,17 +216,28 @@ export default function Picker({
           onChange={(e, value) => {
             if (!value) {
               setVideo('');
-              setSeconds(0);
+              setLength(DEFAULT_LENGTH);
+              setTimestamps(getZero(numTimestamps));
               setBookmark(null);
               return;
             }
             setBookmark(value);
             setVideo(value.video);
-            setSeconds(value.seconds);
+            setLength(value.length || DEFAULT_LENGTH);
+            if (value.timestamps) {
+              setTimestamps(value.timestamps);
+            } else if (value.seconds) {
+              const ts = getZeros(numTimestamps);
+              ts[0] = value.seconds;
+              setTimestamps(ts);
+            }
           }}
-          getOptionLabel={(option) =>
-            option.video ? `${option.video} (${option.seconds}s)` : ''
-          }
+          getOptionLabel={(option) => {
+            const timestamp = option.timestamps
+              ? option.timestamps.map((f) => `${parseInt(f)}s`).join(', ')
+              : `${parseInt(option.seconds)}s`;
+            return option.video ? `${option.video} (${timestamp})` : '';
+          }}
           multiple={false}
           renderInput={(params) => <TextField {...params} label="Bookmarks" />}
         />
@@ -199,7 +262,9 @@ export default function Picker({
             if (value && value.data) {
               const { name, seconds } = value.data;
               setVideo(name);
-              setSeconds(seconds);
+              const ts = getZero(numTimestamps);
+              ts[0] = seconds;
+              setTimestamps(ts);
               setOpen(false);
             }
           }}
@@ -230,15 +295,18 @@ export default function Picker({
           )}
         />
 
+        {video && timestampInputs}
+
         {video && (
           <TextField
-            label="Timestamp"
+            label="Length"
             type="number"
-            value={seconds}
-            inputProps={{ step: 0.1 }}
-            onChange={(e) => setSeconds(e.target.value)}
+            value={length}
+            inputProps={{ step: 0.2 }}
+            onChange={(e) => setLength(e.target.value)}
           />
         )}
+
         {video && (
           <IconButton onClick={() => setIsScrubbing((value) => !value)}>
             <PreviewIcon />
@@ -252,10 +320,11 @@ export default function Picker({
               setBookmark('');
               setCaptionSearch('');
               setCaptionResults([]);
-              setSeconds(0);
+              setTimestamps(getZeros(numTimestamps));
+              setLength(DEFAULT_LENGTH);
             }}
           >
-            <RestartAltIcon />
+            <CloseIcon />
           </IconButton>
         )}
       </Controls>

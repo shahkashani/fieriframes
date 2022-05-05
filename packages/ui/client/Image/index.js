@@ -5,6 +5,7 @@ import { useState } from 'react';
 
 const Container = styled.div`
   position: relative;
+  width: ${({ displayWidth }) => displayWidth}px;
 `;
 
 const Controls = styled.div`
@@ -18,7 +19,30 @@ const Label = styled.label`
   cursor: pointer;
 `;
 
-export default Image = ({ src, title, width, height, index, frame }) => {
+const ImageWrapper = styled.figure`
+  padding: 0;
+  margin: 0;
+  padding-bottom: ${({ imgRatio }) => imgRatio * 100}%;
+  position: relative;
+  background: #111;
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+`;
+
+export default Image = ({
+  src,
+  title,
+  width,
+  height,
+  index,
+  frame,
+  displayWidth = width,
+}) => {
   const [isShowingControls, setIsShowingControls] = useState(false);
   const id = `image-${index}${Number.isFinite(frame) ? `-${frame}` : ''}`;
 
@@ -52,8 +76,12 @@ export default Image = ({ src, title, width, height, index, frame }) => {
     <Container
       onMouseOver={() => setIsShowingControls(true)}
       onMouseLeave={() => setIsShowingControls(false)}
+      displayWidth={displayWidth}
     >
-      <img src={src} width={width} height={height} title={title} />
+      <ImageWrapper imgRatio={height / width}>
+        <img src={src} title={title} />
+      </ImageWrapper>
+
       <Controls style={{ opacity: isShowingControls ? 1 : 0 }}>
         <input
           type="file"

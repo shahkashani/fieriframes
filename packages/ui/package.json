@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "watch:client": "./node_modules/.bin/parcel watch ./client/index.html",
-    "watch:server": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/nodemon server/index.js --watch server/index.js --watch server/search.js --watch '../../node_modules/stills/**/*'",
+    "watch:server": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/nodemon server/index.js --watch server/index.js --watch server/search.js --watch restart.txt --watch '../../node_modules/stills/**/*'",
     "watch:assets": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/nodemon server/assets.js --watch server/assets.js",
     "dev": "NODE_OPTIONS=--max-old-space-size=8192 ./node_modules/.bin/concurrently --kill-others \"npm run watch:client\" \"npm run watch:server\" \"npm run watch:assets\"",
     "build": "./node_modules/.bin/parcel build ./client/index.html",

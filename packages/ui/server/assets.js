@@ -1,11 +1,12 @@
 const express = require('express');
 const app = express();
 const port = 3001;
-const { readFileSync, existsSync, statSync } = require('fs');
+const { readFileSync, existsSync, statSync, writeFileSync } = require('fs');
 const { resolve, parse } = require('path');
 const cors = require('cors');
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
+const RESTART_FILE = resolve(__dirname, '../restart.txt');
 
 let project;
 let projectChanged;
@@ -21,6 +22,11 @@ const safeStatSync = (url) => {
     return { mtimeMs: Date.now() };
   }
 };
+
+app.post('/restart', (req, res) => {
+  writeFileSync(RESTART_FILE, Date.now());
+  res.sendStatus(200);
+});
 
 app.get('/project', async (req, res) => {
   if (
@@ -39,7 +45,8 @@ app.get('/project', async (req, res) => {
   const {
     assets,
     source: { name },
-    images: [{ time }],
+    captions,
+    images: [{ time, length }],
   } = project;
 
   const images = assets
@@ -66,8 +73,13 @@ app.get('/project', async (req, res) => {
     })
     .filter((image) => !!image.url);
 
+  const timestamps = project.images.map(({ time }) => time);
+
   const info = {
+    length,
+    captions,
     video: name,
+    timestamps,
     seconds: time,
   };
 

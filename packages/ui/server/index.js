@@ -12,11 +12,14 @@ const multer = require('multer');
 
 app.use(bodyParser.json());
 
-require('dotenv').config({ path: resolve(__dirname, '../../../.env') });
+const PARENT_PROJECT_FOLDER = resolve(__dirname, '../../../');
+
+require('dotenv').config({ path: resolve(PARENT_PROJECT_FOLDER, '.env') });
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
 const BOOKMARKS_FILE = resolve(__dirname, '../bookmarks.json');
-const VIDEOS_FOLDER = resolve(__dirname, '../../../videos');
+const VIDEOS_FOLDER = resolve(PARENT_PROJECT_FOLDER, './videos');
+const FONTS_FOLDER = resolve(PARENT_PROJECT_FOLDER, './fonts');
 
 let project;
 let instance;
@@ -41,11 +44,31 @@ const TUMBLR_CONFIG = {
   publishState: 'draft',
 };
 
-const getInstance = ({ video, seconds } = {}) => {
-  const filter = video ? (f) => f.indexOf(`${video}.mp4`) !== -1 : undefined;
-  const gifSeconds = parseFloat(seconds) > 0 ? parseFloat(seconds) : undefined;
+const FONT_STYLES = {
+  voynich: {
+    font: resolve(FONTS_FOLDER, 'voynich2.ttf'),
+    lineHeight: 15,
+    color: '#fba155',
+  },
+  brassia: {
+    font: resolve(FONTS_FOLDER, 'brassia.otf'),
+    paddingFactor: 0.9,
+    color: '#fba155',
+  },
+  arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
+};
 
+const FONT = 'brassia';
+
+const getInstance = ({ video, timestamps, length, width } = {}) => {
+  const filter = video ? (f) => f.indexOf(`${video}.mp4`) !== -1 : undefined;
+  const gifLength = parseFloat(length) > 0 ? parseFloat(length) : undefined;
+  const gifWidth = parseInt(width) > 0 ? parseInt(width) : undefined;
+  const noTimestamps = !timestamps || timestamps.length === 0 || timestamps[0] === 0;
+  
   return new stills.Stills({
+    minFaceConfidence: 0.6,
+    useGlyphs: FONT === 'voynich',
     analysis: new stills.analysis.Azure({
       token: MICROSOFT_AZURE_TOKEN,
     }),
@@ -56,10 +79,15 @@ const getInstance = ({ video, seconds } = {}) => {
     }),
     description: new stills.descriptions.Captions(),
     content: new stills.content.Gif({
-      seconds: gifSeconds,
+      timestamps: noTimestamps ? undefined : timestamps,
+      duration: gifLength,
+      width: gifWidth,
     }),
     caption: new stills.captions.Static({
-      captions: ['Hello!'],
+      captions: [
+        'The great time passes, the great world remains.',
+        'I awoke like an ancient flame.',
+      ],
     }),
     taggers: [
       new stills.taggers.Episode(),
@@ -68,6 +96,7 @@ const getInstance = ({ video, seconds } = {}) => {
           'guy fieri',
           'guyfieri',
           'diners drive-ins and dives',
+          'i tego arcana dei',
         ],
       }),
       new stills.taggers.CaptionsCognitive({
@@ -76,6 +105,10 @@ const getInstance = ({ video, seconds } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
+    filters: [new stills.filters.Arcana()],
+    filterCaption: new stills.filters.captions.Simple({
+      ...FONT_STYLES[FONT],
+    }),
   });
 };
 
@@ -129,14 +162,26 @@ app.get('/bookmarks', async (req, res) => {
 });
 
 app.post('/bookmark', async (req, res) => {
-  const { video, seconds } = req.body;
+  const { video, seconds, timestamps, length } = req.body;
   const bookmarks = existsSync(BOOKMARKS_FILE)
     ? JSON.parse(readFileSync(BOOKMARKS_FILE).toString())
     : [];
-  bookmarks.push({
+
+  const data = {
     video,
-    seconds: parseFloat(seconds),
-  });
+  };
+
+  if (length) {
+    data.length = parseFloat(length);
+  }
+
+  if (timestamps) {
+    data.timestamps = timestamps;
+  } else if (seconds) {
+    data.seconds = parseFloat(seconds);
+  }
+
+  bookmarks.push(data);
   writeFileSync(BOOKMARKS_FILE, JSON.stringify(bookmarks, null, 2));
   res.json(bookmarks);
 });
@@ -147,13 +192,14 @@ app.get('/videos', async (req, res) => {
 });
 
 app.get('/reset', async (req, res) => {
-  const { video, seconds } = req.query;
+  const { video, length, timestamps: ts, width } = req.query;
+  const timestamps = ts.split(',').map(f => parseFloat(f));
   if (existsSync(PROJECT_FILE)) {
     unlinkSync(PROJECT_FILE);
   }
   await instance.delete();
 
-  instance = getInstance({ video, seconds });
+  instance = getInstance({ video, timestamps, length, width });
 
   const result = await setup();
   res.json(result);
