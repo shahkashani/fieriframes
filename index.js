@@ -156,6 +156,8 @@ const getSourceSeconds = (string) => {
     MICROSOFT_COGNITIVE_URL,
     MICROSOFT_AZURE_SPEECH_TOKEN,
     MICROSOFT_AZURE_SPEECH_REGION,
+    BANNED_WORDS,
+    ALLOWED_WORDS,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -310,6 +312,10 @@ const getSourceSeconds = (string) => {
         textLength: NUM_POST_GENERATOR_LENGTH,
         microsoftAzureSpeechToken: MICROSOFT_AZURE_SPEECH_TOKEN,
         microsoftAzureSpeechRegion: MICROSOFT_AZURE_SPEECH_REGION,
+        moderation: new stills.moderation.Words({
+          bannedWords: (BANNED_WORDS || '').split(','),
+          allowedWords: (ALLOWED_WORDS || '').split(','),
+        }),
       });
 
       await fierifiction.postVideo(
