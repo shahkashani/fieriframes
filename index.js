@@ -158,6 +158,7 @@ const getSourceSeconds = (string) => {
     MICROSOFT_AZURE_SPEECH_REGION,
     BANNED_WORDS,
     ALLOWED_WORDS,
+    VIDEO_MUSIC_PREFIX
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -316,6 +317,7 @@ const getSourceSeconds = (string) => {
           bannedWords: (BANNED_WORDS || '').split(','),
           allowedWords: (ALLOWED_WORDS || '').split(','),
         }),
+        songPrefix: VIDEO_MUSIC_PREFIX
       });
 
       await fierifiction.postVideo(
