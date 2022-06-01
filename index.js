@@ -323,11 +323,11 @@ const getSourceSeconds = (string) => {
           allowedWords: (ALLOWED_WORDS || '').split(','),
         }),
         songPrefix: VIDEO_MUSIC_PREFIX,
-        rate: VOICE_RATE,
-        style: VOICE_STYLE,
-        gender: VOICE_GENDER,
-        pitch: VOICE_PITCH,
-        contour: VOICE_CONTOUR,
+        voiceRate: VOICE_RATE,
+        voiceStyle: VOICE_STYLE,
+        voiceGender: VOICE_GENDER,
+        voicePitch: VOICE_PITCH,
+        voiceContour: VOICE_CONTOUR,
       });
 
       await fierifiction.postVideo(
