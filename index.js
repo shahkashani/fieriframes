@@ -164,6 +164,7 @@ const getSourceSeconds = (string) => {
     VOICE_GENDER,
     VOICE_PITCH,
     VOICE_CONTOUR,
+    VOICE_COUNT,
   } = options;
 
   const NUM_GIF_LENGTH_SECONDS = GIF_LENGTH_SECONDS
@@ -323,6 +324,7 @@ const getSourceSeconds = (string) => {
           allowedWords: (ALLOWED_WORDS || '').split(','),
         }),
         songPrefix: VIDEO_MUSIC_PREFIX,
+        voices: VOICE_COUNT ? parseInt(VOICE_COUNT, 10) : 1,
         voiceRate: VOICE_RATE,
         voiceStyle: VOICE_STYLE,
         voiceGender: VOICE_GENDER,
