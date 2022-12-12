@@ -30,6 +30,15 @@ const Video = styled.video`
   width: 540px;
 `;
 
+const TwoColumn = styled.div`
+  display: flex;
+  gap: 10px;
+
+  @media (max-width: 1400px) {
+    flex-direction: column;
+  }
+`;
+
 function VideoScrubber({ video, seconds, onChange }) {
   const [seek, setSeek] = useState(0);
   const ref = useRef();
@@ -73,6 +82,7 @@ export default function Picker({
   onChangeVideo,
   bookmarks,
   onChangeLength,
+  onSearchChange,
   defaultVideo,
   defaultLength,
   defaultTimestamps,
@@ -96,17 +106,17 @@ export default function Picker({
     timestampInputs.push(
       <TextField
         key={`ts-${i}`}
-        label={`Timestamp ${i + 1}`}
+        label={`Time ${i + 1}`}
         type="number"
         style={{
-          width: 120,
+          width: 100,
           backgroundColor:
             timestampIndex === i ? 'rgba(255, 255, 255, 0.1)' : undefined,
         }}
         onFocus={() => {
           setTimestampIndex(i);
         }}
-        value={timestamps[i]}
+        value={timestamps[i] || 0}
         inputProps={{ step: 0.1 }}
         onChange={(e) => {
           const ts = [...timestamps];
@@ -174,6 +184,10 @@ export default function Picker({
     onChangeLength(length);
   }, [length]);
 
+  useEffect(() => {
+    onSearchChange(captionSearch);
+  }, [captionSearch]);
+
   return (
     <Container>
       {isScrubbing && video && (
@@ -187,147 +201,154 @@ export default function Picker({
           }}
         />
       )}
-      <Controls>
-        <Autocomplete
-          sx={{ width: 400 }}
-          options={videos}
-          value={video}
-          disableClearable={!video}
-          onChange={(e, value) => {
-            setBookmark(null);
-            if (!value) {
-              setVideo('');
-              return;
-            }
-            setVideo(value);
-            setTimestamps(getZero(numTimestamps));
-          }}
-          multiple={false}
-          isOptionEqualToValue={() => true}
-          renderInput={(params) => <TextField {...params} label="Episode" />}
-        />
-
-        <Autocomplete
-          sx={{ width: 450 }}
-          options={bookmarks}
-          value={bookmark}
-          isOptionEqualToValue={(v) => !!v}
-          disableClearable={!bookmark}
-          onChange={(e, value) => {
-            if (!value) {
-              setVideo('');
-              setLength(DEFAULT_LENGTH);
-              setTimestamps(getZero(numTimestamps));
+      <TwoColumn>
+        <Controls>
+          <Autocomplete
+            sx={{ width: 400 }}
+            options={videos}
+            value={video}
+            disableClearable={!video}
+            onChange={(e, value) => {
               setBookmark(null);
-              return;
-            }
-            setBookmark(value);
-            setVideo(value.video);
-            setLength(value.length || DEFAULT_LENGTH);
-            if (value.timestamps) {
-              setTimestamps(value.timestamps);
-            } else if (value.seconds) {
-              const ts = getZeros(numTimestamps);
-              ts[0] = value.seconds;
-              setTimestamps(ts);
-            }
-          }}
-          getOptionLabel={(option) => {
-            const timestamp = option.timestamps
-              ? option.timestamps.map((f) => `${parseInt(f)}s`).join(', ')
-              : `${parseInt(option.seconds)}s`;
-            return option.video ? `${option.video} (${timestamp})` : '';
-          }}
-          multiple={false}
-          renderInput={(params) => <TextField {...params} label="Bookmarks" />}
-        />
-        <Autocomplete
-          sx={{ width: 300 }}
-          open={open}
-          onOpen={() => {
-            setOpen(true);
-          }}
-          onClose={() => {
-            setOpen(false);
-          }}
-          isOptionEqualToValue={(option, value) => option.title === value.title}
-          getOptionLabel={(option) => option.title}
-          options={captionResults}
-          disableClearable={!captionSearch}
-          autoSelect={false}
-          inputValue={captionSearch}
-          filterSelectedOptions={false}
-          filterOptions={(x) => x}
-          onChange={(event, value) => {
-            if (value && value.data) {
-              const { name, seconds } = value.data;
-              setVideo(name);
-              const ts = getZero(numTimestamps);
-              ts[0] = seconds;
-              setTimestamps(ts);
+              if (!value) {
+                setVideo('');
+                return;
+              }
+              setVideo(value);
+              setTimestamps(getZeros(numTimestamps));
+            }}
+            multiple={false}
+            isOptionEqualToValue={() => true}
+            renderInput={(params) => <TextField {...params} label="Episode" />}
+          />
+
+          <Autocomplete
+            sx={{ width: 450 }}
+            options={bookmarks}
+            value={bookmark}
+            isOptionEqualToValue={(v) => !!v}
+            disableClearable={!bookmark}
+            onChange={(e, value) => {
+              if (!value) {
+                setVideo('');
+                setLength(DEFAULT_LENGTH);
+                setTimestamps(getZeros(numTimestamps));
+                setBookmark(null);
+                return;
+              }
+              setBookmark(value);
+              setVideo(value.video);
+              setLength(value.length || DEFAULT_LENGTH);
+              if (value.timestamps) {
+                setTimestamps(value.timestamps);
+              } else if (value.seconds) {
+                const ts = getZeros(numTimestamps);
+                ts[0] = value.seconds;
+                setTimestamps(ts);
+              }
+            }}
+            getOptionLabel={(option) => {
+              const timestamp = option.timestamps
+                ? option.timestamps.map((f) => `${parseInt(f)}s`).join(', ')
+                : `${parseInt(option.seconds)}s`;
+              return option.video ? `${option.video} (${timestamp})` : '';
+            }}
+            multiple={false}
+            renderInput={(params) => (
+              <TextField {...params} label="Bookmarks" />
+            )}
+          />
+          <Autocomplete
+            sx={{ width: 300 }}
+            open={open}
+            onOpen={() => {
+              setOpen(true);
+            }}
+            onClose={() => {
               setOpen(false);
+            }}
+            isOptionEqualToValue={(option, value) =>
+              option.title === value.title
             }
-          }}
-          onInputChange={(event, newInputValue, reason) => {
-            if (reason === 'reset') {
-              return;
-            }
-            setCaptionSearch(newInputValue);
-          }}
-          loading={isSearchingCaptions}
-          renderInput={(params) => (
+            getOptionLabel={(option) => option.title}
+            options={captionResults}
+            disableClearable={!captionSearch}
+            autoSelect={false}
+            inputValue={captionSearch}
+            filterSelectedOptions={false}
+            filterOptions={(x) => x}
+            onChange={(event, value) => {
+              if (value && value.data) {
+                const { name, seconds } = value.data;
+                setVideo(name);
+                const ts = getZeros(numTimestamps);
+                ts[0] = seconds;
+                setTimestamps(ts);
+                setOpen(false);
+              }
+            }}
+            onInputChange={(event, newInputValue, reason) => {
+              if (reason === 'reset') {
+                return;
+              }
+              setCaptionSearch(newInputValue);
+            }}
+            loading={isSearchingCaptions}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Find"
+                options={captionResults}
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <>
+                      {isSearchingCaptions ? (
+                        <CircularProgress color="inherit" size={20} />
+                      ) : null}
+                      {params.InputProps.endAdornment}
+                    </>
+                  ),
+                }}
+              />
+            )}
+          />
+        </Controls>
+        <Controls>
+          {video && timestampInputs}
+
+          {video && (
             <TextField
-              {...params}
-              label="Captions"
-              options={captionResults}
-              InputProps={{
-                ...params.InputProps,
-                endAdornment: (
-                  <>
-                    {isSearchingCaptions ? (
-                      <CircularProgress color="inherit" size={20} />
-                    ) : null}
-                    {params.InputProps.endAdornment}
-                  </>
-                ),
-              }}
+              label="Length"
+              type="number"
+              value={length}
+              inputProps={{ step: 0.2 }}
+              onChange={(e) => setLength(e.target.value)}
             />
           )}
-        />
 
-        {video && timestampInputs}
-
-        {video && (
-          <TextField
-            label="Length"
-            type="number"
-            value={length}
-            inputProps={{ step: 0.2 }}
-            onChange={(e) => setLength(e.target.value)}
-          />
-        )}
-
-        {video && (
-          <IconButton onClick={() => setIsScrubbing((value) => !value)}>
-            <PreviewIcon />
-          </IconButton>
-        )}
-        {video && (
-          <IconButton
-            onClick={() => {
-              setIsScrubbing(false);
-              setVideo('');
-              setBookmark('');
-              setCaptionSearch('');
-              setCaptionResults([]);
-              setTimestamps(getZeros(numTimestamps));
-              setLength(DEFAULT_LENGTH);
-            }}
-          >
-            <CloseIcon />
-          </IconButton>
-        )}
-      </Controls>
+          {video && (
+            <IconButton onClick={() => setIsScrubbing((value) => !value)}>
+              <PreviewIcon />
+            </IconButton>
+          )}
+          {video && (
+            <IconButton
+              onClick={() => {
+                setIsScrubbing(false);
+                setVideo('');
+                setBookmark('');
+                setCaptionSearch('');
+                setCaptionResults([]);
+                setTimestamps(getZeros(numTimestamps));
+                setLength(DEFAULT_LENGTH);
+              }}
+            >
+              <CloseIcon />
+            </IconButton>
+          )}
+        </Controls>
+      </TwoColumn>
     </Container>
   );
 }

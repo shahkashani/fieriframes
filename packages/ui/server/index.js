@@ -3,7 +3,13 @@ const app = express();
 const bodyParser = require('body-parser');
 const port = 3000;
 const stills = require('stills');
-const { writeFileSync, readFileSync, existsSync, unlinkSync } = require('fs');
+const {
+  writeFileSync,
+  readFileSync,
+  existsSync,
+  unlinkSync,
+  watchFile,
+} = require('fs');
 const { resolve, parse } = require('path');
 const sizeOf = require('image-size');
 const { sync } = require('glob');
@@ -17,9 +23,11 @@ const PARENT_PROJECT_FOLDER = resolve(__dirname, '../../../');
 require('dotenv').config({ path: resolve(PARENT_PROJECT_FOLDER, '.env') });
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
+const CONFIG_FILE = resolve(__dirname, '../config.js');
 const BOOKMARKS_FILE = resolve(__dirname, '../bookmarks.json');
 const VIDEOS_FOLDER = resolve(PARENT_PROJECT_FOLDER, './videos');
 const FONTS_FOLDER = resolve(PARENT_PROJECT_FOLDER, './fonts');
+const RESTART_FILE = resolve(__dirname, '../restart.txt');
 
 let project;
 let instance;
@@ -47,27 +55,35 @@ const TUMBLR_CONFIG = {
 const FONT_STYLES = {
   voynich: {
     font: resolve(FONTS_FOLDER, 'voynich2.ttf'),
-    lineHeight: 15,
+    fontSize: 1.05,
     color: '#fba155',
   },
   brassia: {
     font: resolve(FONTS_FOLDER, 'brassia.otf'),
-    paddingFactor: 0.9,
+    fontSize: 0.9,
     color: '#fba155',
+    boxWidth: 0.7,
   },
   arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
 };
 
-const FONT = 'brassia';
+const FONT = 'arial';
+
+const getConfig = () => {
+  delete require.cache[require.resolve(CONFIG_FILE)];
+  return require(CONFIG_FILE);
+};
 
 const getInstance = ({ video, timestamps, length, width } = {}) => {
+  const config = getConfig();
   const filter = video ? (f) => f.indexOf(`${video}.mp4`) !== -1 : undefined;
   const gifLength = parseFloat(length) > 0 ? parseFloat(length) : undefined;
   const gifWidth = parseInt(width) > 0 ? parseInt(width) : undefined;
-  const noTimestamps = !timestamps || timestamps.length === 0 || timestamps[0] === 0;
-  
+  const noTimestamps =
+    !timestamps || timestamps.length === 0 || timestamps[0] === 0;
+
   return new stills.Stills({
-    minFaceConfidence: 0.6,
+    minFaceConfidence: 0.3,
     useGlyphs: FONT === 'voynich',
     analysis: new stills.analysis.Azure({
       token: MICROSOFT_AZURE_TOKEN,
@@ -84,10 +100,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       width: gifWidth,
     }),
     caption: new stills.captions.Static({
-      captions: [
-        'The great time passes, the great world remains.',
-        'I awoke like an ancient flame.',
-      ],
+      captions: config.captions,
     }),
     taggers: [
       new stills.taggers.Episode(),
@@ -96,7 +109,6 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
           'guy fieri',
           'guyfieri',
           'diners drive-ins and dives',
-          'i tego arcana dei',
         ],
       }),
       new stills.taggers.CaptionsCognitive({
@@ -105,7 +117,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [new stills.filters.Arcana()],
+    filters: [],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
@@ -117,9 +129,10 @@ const getAssets = (instance) => {
     const { filename } = image;
     const url = filename;
     const dimensions = sizeOf(filename);
-    const frames = image.frames.frames.map((frame) => {
-      const { edited } = frame;
+    const frames = image.frames.getFrames().map((frame) => {
+      const { edited, index } = frame;
       return {
+        index,
         url: edited,
       };
     });
@@ -134,9 +147,6 @@ instance = getInstance();
 app.delete('/frame', async (req, res) => {
   const { index, frame } = req.query;
   await instance.deleteFrame(parseInt(index, 10), parseInt(frame, 10));
-  const project = JSON.parse(readFileSync(PROJECT_FILE).toString());
-  project.assets[index].frames.splice(frame, 1);
-  writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
   res.sendStatus(200);
 });
 
@@ -144,9 +154,9 @@ app.post('/replace', upload.single('image'), async (req, res) => {
   const path = resolve(req.file.path);
   const { index, frame } = req.body;
   if (frame) {
-    await instance.replaceFrame(parseInt(index, 10), parseInt(frame, 10), path);
+    instance.replaceFrame(parseInt(index, 10), parseInt(frame, 10), path);
   } else {
-    await instance.replaceImage(parseInt(index, 10), path);
+    instance.replaceImage(parseInt(index, 10), path);
   }
   unlinkSync(path);
   res.sendStatus(200);
@@ -192,22 +202,51 @@ app.get('/videos', async (req, res) => {
 });
 
 app.get('/reset', async (req, res) => {
-  const { video, length, timestamps: ts, width } = req.query;
-  const timestamps = ts.split(',').map(f => parseFloat(f));
+  let {
+    video,
+    length,
+    timestamps: ts,
+    width,
+    search: searchString,
+    smart,
+  } = req.query;
+  let timestamps = ts.split(',').map((f) => parseFloat(f));
+
   if (existsSync(PROJECT_FILE)) {
     unlinkSync(PROJECT_FILE);
   }
+
+  if (!video && searchString) {
+    console.log('Grabbing an episode with search:', searchString);
+    const results = await search(searchString);
+    if (results.length > 0) {
+      const result = results[Math.floor(Math.random() * results.length)];
+      const {
+        data: { name, seconds },
+      } = result;
+      video = name;
+      timestamps = [seconds];
+      console.log(result);
+    }
+  }
+
   await instance.delete();
 
   instance = getInstance({ video, timestamps, length, width });
 
-  const result = await setup();
+  const result = await setup(smart === 'true');
   res.json(result);
 });
 
 app.get('/apply', async (req, res) => {
-  instance.reset();
+  instance.reset(true);
   await instance.applyFilters();
+  res.sendStatus(200);
+});
+
+app.get('/collapse', async (req, res) => {
+  await instance.collapse();
+  console.log('Collapse done!');
   res.sendStatus(200);
 });
 
@@ -224,18 +263,39 @@ const restore = async () => {
   // instance.reset();
 };
 
-const setup = async () => {
+const setup = async (isSmart = false) => {
   if (existsSync(PROJECT_FILE)) {
     return await restore();
   }
-  const project = await instance.setup();
+  const project = isSmart
+    ? await instance.smartSetup()
+    : await instance.setup();
   project.assets = getAssets(instance);
+  console.log(project);
   writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
   return project;
 };
 
+const watch = () => {
+  watchFile(CONFIG_FILE, () => {
+    console.log(`Config changed: ${Date.now()}`);
+    onConfigChange();
+  });
+};
+
+const onConfigChange = () => {
+  const config = getConfig();
+  const { captions } = config;
+  project = JSON.parse(readFileSync(PROJECT_FILE).toString());
+  project.captions = captions.map((c) => (Array.isArray(c) ? c : [c]));
+  writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
+  writeFileSync(RESTART_FILE, Date.now().toString());
+  console.log(config);
+};
+
 (async () => {
   await setup();
+  await watch();
 
   app.use(express.static('dist'));
   app.use(express.static(VIDEOS_FOLDER));

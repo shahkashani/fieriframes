@@ -10,12 +10,17 @@ import HighQualityOutlinedIcon from '@mui/icons-material/HighQualityOutlined';
 import Image from '../Image';
 import ResetTvIcon from '@mui/icons-material/ResetTv';
 import SendIcon from '@mui/icons-material/Send';
+import SmartButton from '@mui/icons-material/SmartButton';
 import ThumbUpIcon from '@mui/icons-material/ThumbUp';
+import UnfoldLessIcon from '@mui/icons-material/UnfoldLess';
+import hotkeys from 'hotkeys-js';
 import styled from 'styled-components';
 
 const ICON_SIZE = 20;
 const HIGH_QUALITY_GIF_WIDTH = 720;
 const LOW_QUALITY_GIF_WIDTH = 240;
+
+const ASSET_PORT = 3001;
 
 const Toolbar = styled.div`
   position: sticky;
@@ -32,6 +37,13 @@ const Buttons = styled.div`
   margin-top: 10px;
 `;
 
+const MainButtons = styled(Buttons)`
+  @media (max-width: 640px) {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+  }
+`;
+
 const Frames = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -46,12 +58,36 @@ const Images = styled.div`
   gap: 10px;
 `;
 
+const ControlColumns = styled.div`
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  @media (max-width: 640px) {
+    flex-direction: column;
+    gap: 0px;
+  }
+`;
+
+const TextEllipsis = styled.div`
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+`;
+
+const getAssetsUrl = () => {
+  const { protocol, hostname } = window.location;
+  return `${protocol}//${hostname}:${ASSET_PORT}`;
+};
+
 export default function Preview() {
   const [images, setImages] = useState([]);
   const [timeoutId, setTimeoutId] = useState();
   const [isResetting, setIsResetting] = useState(false);
+  const [isSmartResetting, setIsSmartResetting] = useState(false);
   const [isApplying, setIsApplying] = useState(false);
   const [isPosting, setIsPosting] = useState(false);
+  const [isCollapsing, setIsCollapsing] = useState(false);
 
   const [requestVideo, setRequestVideo] = useState('');
   const [requestLength, setRequestLength] = useState(2);
@@ -60,15 +96,18 @@ export default function Preview() {
   const [video, setVideo] = useState('');
   const [timestamps, setTimestamps] = useState([]);
   const [length, setLength] = useState(DEFAULT_LENGTH);
-  const [isHighQuality, setIsHighQuality] = useState(true);
+  const [isHighQuality, setIsHighQuality] = useState(false);
 
   const [isBookmarking, setIsBookmarking] = useState(false);
   const [bookmarks, setBookmarks] = useState([]);
   const [captions, setCaptions] = useState([]);
+  const [search, setSearch] = useState('');
+
+  const assetUrl = getAssetsUrl();
 
   const getNext = async () => {
     try {
-      const result = await fetch('http://localhost:3001/project');
+      const result = await fetch(`${assetUrl}/project`);
       const json = await result.json();
       const { images, info } = json;
       setImages(images);
@@ -91,15 +130,14 @@ export default function Preview() {
     );
   };
 
-  const reset = async ({ video, timestamps, length }) => {
-    setIsResetting(true);
+  const reset = async ({ video, timestamps, search, length, smart }) => {
     try {
       const response = await fetch(
         `/reset?video=${encodeURIComponent(video)}&timestamps=${timestamps.join(
           ','
         )}&length=${length}&width=${
           isHighQuality ? HIGH_QUALITY_GIF_WIDTH : LOW_QUALITY_GIF_WIDTH
-        }`
+        }&search=${encodeURIComponent(search)}${smart ? `&smart=true` : ''}`
       );
       const data = await response.json();
       setVideo(data.source.name);
@@ -112,15 +150,39 @@ export default function Preview() {
     } catch (err) {
       console.error(err);
     }
-    setIsResetting(false);
   };
 
   const onReset = async () => {
+    setIsResetting(true);
     await reset({
       video: requestVideo,
       timestamps: requestTimestamps,
       length: requestLength,
+      search,
     });
+    setIsResetting(false);
+  };
+
+  const onCollapse = async () => {
+    setIsCollapsing(true);
+    try {
+      await fetch('/collapse');
+    } catch (err) {
+      console.error(err);
+    }
+    setIsCollapsing(false);
+  };
+
+  const onSmartReset = async () => {
+    setIsSmartResetting(true);
+    await reset({
+      video: requestVideo,
+      smart: true,
+      timestamps: requestTimestamps,
+      length: requestLength,
+      search,
+    });
+    setIsSmartResetting(false);
   };
 
   const onApply = async () => {
@@ -170,12 +232,13 @@ export default function Preview() {
   };
 
   const onRestart = async () => {
-    await fetch('http://localhost:3001/restart', {
+    await fetch(`${assetUrl}/restart`, {
       method: 'POST',
     });
   };
 
-  const isLoading = isResetting || isApplying || isPosting;
+  const isLoading =
+    isResetting || isSmartResetting || isApplying || isPosting || isCollapsing;
   const notInitialRender = useRef(false);
 
   useEffect(() => {
@@ -183,12 +246,21 @@ export default function Preview() {
     getBookmarks();
   }, []);
 
+  hotkeys.unbind('cmd+r,f5');
+  hotkeys('cmd+r,f5', (event) => {
+    event.preventDefault();
+    if (!isLoading) {
+      onReset();
+    }
+  });
+
   useEffect(() => {
     if (notInitialRender.current) {
       reset({
         video,
         timestamps,
         length,
+        search,
       });
     } else {
       notInitialRender.current = true;
@@ -205,93 +277,134 @@ export default function Preview() {
           onChangeVideo={(video) => setRequestVideo(video)}
           onChangeTimestamps={(timestamps) => setRequestTimestamps(timestamps)}
           onChangeLength={(length) => setRequestLength(length)}
+          onSearchChange={(search) => setSearch(search)}
           bookmarks={bookmarks}
           numTimestamps={captions.length || 1}
         />
-        <Buttons>
-          <Button
-            onClick={onReset}
-            disabled={isLoading}
-            variant="outlined"
-            startIcon={
-              isResetting ? (
-                <CircularProgress color="inherit" size={ICON_SIZE} />
-              ) : (
-                <ResetTvIcon color="inherit" size={ICON_SIZE} />
-              )
-            }
-          >
-            Reset
-          </Button>
-          <Button
-            onClick={onApply}
-            disabled={isLoading}
-            variant="outlined"
-            startIcon={
-              isApplying ? (
-                <CircularProgress color="inherit" size={ICON_SIZE} />
-              ) : (
-                <ColorLensIcon color="inherit" size={ICON_SIZE} />
-              )
-            }
-          >
-            Apply
-          </Button>
-          <Button
-            onClick={onPost}
-            disabled={isLoading || !isHighQuality}
-            variant="contained"
-            color="success"
-            startIcon={
-              isPosting ? (
-                <CircularProgress color="inherit" size={ICON_SIZE} />
-              ) : (
-                <SendIcon color="inherit" size={ICON_SIZE} />
-              )
-            }
-          >
-            Post
-          </Button>
-          <Button
-            variant="outlined"
-            onClick={() => onRestart()}
-            startIcon={<BoltIcon size={ICON_SIZE} color="inherit" />}
-          >
-            Tilt
-          </Button>
-          <IconButton
-            onClick={() => {
-              setIsHighQuality((hq) => !hq);
-            }}
-            disabled={isLoading}
-          >
-            {isHighQuality ? <HighQualityIcon /> : <HighQualityOutlinedIcon />}
-          </IconButton>
-          {video && (
+        <ControlColumns>
+          <MainButtons>
             <Button
+              onClick={onReset}
               disabled={isLoading}
-              onClick={() => {
-                setRequestVideo(video);
-                setRequestLength(length);
-                setRequestTimestamps(timestamps);
-              }}
+              variant="outlined"
+              startIcon={
+                isResetting ? (
+                  <CircularProgress color="inherit" size={ICON_SIZE} />
+                ) : (
+                  <ResetTvIcon color="inherit" size={ICON_SIZE} />
+                )
+              }
             >
-              {video} ({timestamps.map((t) => `${parseInt(t, 10)}s`).join(', ')})
+              Reset
             </Button>
-          )}
-          <IconButton
-            disabled={isLoading || isBookmarking}
-            onClick={() => onBookmark()}
-          >
-            {isBookmarking ? <ThumbUpIcon /> : <BookmarkAddIcon />}
-          </IconButton>
-        </Buttons>
+            <Button
+              onClick={onSmartReset}
+              disabled={isLoading}
+              variant="outlined"
+              startIcon={
+                isSmartResetting ? (
+                  <CircularProgress color="inherit" size={ICON_SIZE} />
+                ) : (
+                  <SmartButton color="inherit" size={ICON_SIZE} />
+                )
+              }
+            >
+              Smart Reset
+            </Button>
+            <Button
+              onClick={onApply}
+              disabled={isLoading}
+              variant="outlined"
+              startIcon={
+                isApplying ? (
+                  <CircularProgress color="inherit" size={ICON_SIZE} />
+                ) : (
+                  <ColorLensIcon color="inherit" size={ICON_SIZE} />
+                )
+              }
+            >
+              Apply
+            </Button>
+            <Button
+              onClick={onCollapse}
+              disabled={isLoading}
+              variant="outlined"
+              startIcon={
+                isCollapsing ? (
+                  <CircularProgress color="inherit" size={ICON_SIZE} />
+                ) : (
+                  <UnfoldLessIcon color="inherit" size={ICON_SIZE} />
+                )
+              }
+            >
+              Collapse
+            </Button>
+            <Button
+              onClick={onPost}
+              disabled={isLoading}
+              variant="contained"
+              color="success"
+              startIcon={
+                isPosting ? (
+                  <CircularProgress color="inherit" size={ICON_SIZE} />
+                ) : (
+                  <SendIcon color="inherit" size={ICON_SIZE} />
+                )
+              }
+            >
+              Post
+            </Button>
+            <Button
+              variant="outlined"
+              onClick={() => onRestart()}
+              startIcon={<BoltIcon size={ICON_SIZE} color="inherit" />}
+            >
+              Tilt
+            </Button>
+          </MainButtons>
+          <Buttons>
+            {video && (
+              <Button
+                disabled={isLoading}
+                onClick={() => {
+                  setRequestVideo(video);
+                  setRequestLength(length);
+                  setRequestTimestamps(timestamps);
+                }}
+                style={{ whiteSpace: 'nowrap' }}
+              >
+                <TextEllipsis>{video}</TextEllipsis>
+                &nbsp;({timestamps.map((t) => `${parseInt(t, 10)}s`).join(', ')}
+                )
+              </Button>
+            )}
+            <IconButton
+              onClick={() => {
+                setIsHighQuality((hq) => !hq);
+              }}
+              disabled={isLoading}
+            >
+              {isHighQuality ? (
+                <HighQualityIcon />
+              ) : (
+                <HighQualityOutlinedIcon />
+              )}
+            </IconButton>
+            <IconButton
+              disabled={isLoading || isBookmarking}
+              onClick={() => onBookmark()}
+            >
+              {isBookmarking ? <ThumbUpIcon /> : <BookmarkAddIcon />}
+            </IconButton>
+          </Buttons>
+        </ControlColumns>
       </Toolbar>
       <Images>
         {images.map((image, index) => {
           return (
             <Image
               src={image.url}
+              title={captions[index]}
               width={image.width}
               height={image.height}
               displayWidth={540}
@@ -305,16 +418,16 @@ export default function Preview() {
       {images.map((image, index) => {
         return (
           <Frames>
-            {image.frames.map((frame, frameIndex) => (
+            {image.frames.map((frame) => (
               <Image
                 index={index}
-                key={`${index}-${frameIndex}`}
+                key={`${index}-${frame.index}`}
                 src={frame.url}
                 height={image.height}
                 width={image.width}
                 displayWidth={540}
-                frame={frameIndex}
-                title={`Frame ${frameIndex}`}
+                frame={frame.index}
+                title={`Frame ${frame.index}`}
               />
             ))}
           </Frames>

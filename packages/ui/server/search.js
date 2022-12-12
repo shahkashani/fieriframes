@@ -20,12 +20,12 @@ const createDb = async () => {
   });
 };
 
-module.exports = async (q) => {
+module.exports = async (q, isPartial = true) => {
   if (!db) {
     db = await createDb();
   }
   const results = [];
-  const regexp = new RegExp(`\\b${q}\\b`, 'i');
+  const regexp = isPartial ? new RegExp(q, 'i') : new RegExp(`\\b${q}\\b`, 'i');
   for (const srt of db) {
     for (const line of srt.srt) {
       const { text, start } = line;
@@ -42,5 +42,5 @@ module.exports = async (q) => {
       }
     }
   }
-  return results.slice(0, 1000);
+  return results.slice(-1000);
 };

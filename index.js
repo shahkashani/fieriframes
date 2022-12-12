@@ -12,10 +12,11 @@ const configs = {
   arcadia: require('./configs/arcadia'),
   dreamers: require('./configs/dreamers'),
   celestial: require('./configs/celestial'),
-  cormorants: require('./configs/cormorants'),
   birthday: require('./configs/birthday'),
   vday: require('./configs/vday'),
   twinpeaks: require('./configs/twinpeaks'),
+  lyrics: require('./configs/lyrics'),
+  cormorants: require('./configs/cormorants'),
 };
 
 const date = new Date().toLocaleString('en-US', {

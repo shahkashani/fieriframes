@@ -4,6 +4,7 @@ const port = 3001;
 const { readFileSync, existsSync, statSync, writeFileSync } = require('fs');
 const { resolve, parse } = require('path');
 const cors = require('cors');
+const { compact } = require('lodash');
 
 const PROJECT_FILE = resolve(__dirname, '../project.json');
 const RESTART_FILE = resolve(__dirname, '../restart.txt');
@@ -24,11 +25,13 @@ const safeStatSync = (url) => {
 };
 
 app.post('/restart', (req, res) => {
-  writeFileSync(RESTART_FILE, Date.now());
+  writeFileSync(RESTART_FILE, Date.now().toString());
   res.sendStatus(200);
 });
 
 app.get('/project', async (req, res) => {
+  const host = `http://${req.headers.host}`;
+
   if (
     !project ||
     (existsSync(PROJECT_FILE) &&
@@ -54,15 +57,21 @@ app.get('/project', async (req, res) => {
       if (existsSync(image.url)) {
         const { base } = parse(image.url);
         const { mtimeMs } = safeStatSync(image.url);
-        const url = `http://localhost:${port}/${base}?mtime=${mtimeMs}`;
+        const url = `${host}/${base}?mtime=${mtimeMs}`;
         const { width, height } = image;
-        const frames = image.frames.map((frame) => {
-          const { base } = parse(frame.url);
-          const { mtimeMs } = safeStatSync(frame.url);
+        const frames = compact(image.frames.map((frame) => {
+          const { url, index } = frame;
+          const { base } = parse(url);
+          const { mtimeMs } = safeStatSync(url);
+          const exists = existsSync(url);
+          if (!exists) {
+            return null;
+          }
           return {
-            url: `http://localhost:${port}/${base}?mtime=${mtimeMs}`,
+            url: `${host}/${base}?mtime=${mtimeMs}`,
+            index,
           };
-        });
+        }));
         return { url, width, height, frames };
       } else {
         return {
