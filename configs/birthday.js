@@ -1,78 +1,92 @@
 const stills = require('stills');
 
+const FOLDER = './overlays/birthday-2023';
+
 class BirthdayConfig {
   async generateConfig(args) {
-    const type = Math.random() > 0.3 ? 'gif' : 'still';
+    const type = Math.random() > 0.4 ? 'gif' : 'still';
     const { overlay } = args;
 
     const overlays = [
       {
-        overlayFile: './overlays/birthday-2022/7.png',
+        overlayFile: `${FOLDER}/columbo1.png`,
         gravity: 'southwest',
         sizePercentHeight: 0.9,
-        geometry: '+10%',
-      },
-      {
-        overlayFile: './overlays/birthday-2022/1.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.9,
-        geometry: '+10%',
-      },
-      {
-        overlayFile: './overlays/birthday-2022/2.png',
-        gravity: 'southwest',
-        sizePercentHeight: 0.5,
         geometry: '+10%+10%',
       },
       {
-        overlayFile: './overlays/birthday-2022/3.png',
-        gravity: 'southwest',
+        overlayFile: `${FOLDER}/alvin.png`,
+        gravity: 'southeast',
+        sizePercentWidth: 0.5,
+      },
+      {
+        overlayFile: `${FOLDER}/columbo2.png`,
+        gravity: 'southeast',
         sizePercentHeight: 0.8,
         geometry: '+10%',
       },
       {
-        overlayFile: './overlays/birthday-2022/6.png',
-        gravity: 'southeast',
-        sizePercentHeight: 0.9,
-        geometry: '+10%',
-      },
-      {
-        overlayFile: './overlays/birthday-2022/4.png',
+        overlayFile: `${FOLDER}/darkplace.png`,
         gravity: 'southeast',
         sizePercentHeight: 0.6,
-        geometry: '+10%+10%',
+        geometry: '+10%',
       },
       {
-        overlayFile: './overlays/birthday-2022/5.png',
+        overlayFile: `${FOLDER}/columbo3.png`,
         gravity: 'southeast',
-        sizePercentHeight: 0.9,
-        geometry: '+10%+10%',
+        sizePercentHeight: 0.7,
       },
       {
-        overlayFile: './overlays/birthday-2022/6.png',
+        overlayFile: `${FOLDER}/gake.png`,
         gravity: 'southeast',
         sizePercentHeight: 0.9,
         geometry: '+10%',
       },
       {
-        overlayFile: './overlays/birthday-2022/8.png',
-        gravity: 'southeast',
-        sizePercentHeight: 0.9,
-      },
-      {
-        overlayFile: './overlays/birthday-2022/9.png',
-        gravity: 'southeast',
-        sizePercentHeight: 0.9,
-      },
-      {
-        overlayFile: './overlays/birthday-2022/7.png',
+        overlayFile: `${FOLDER}/columbo4.png`,
         gravity: 'southwest',
+        sizePercentHeight: 0.7,
+        geometry: '+10%',
+      },
+      {
+        overlayFile: `${FOLDER}/jim.png`,
+        gravity: 'southwest',
+        sizePercentHeight: 0.9,
+        geometry: '+10%',
+      },
+      {
+        overlayFile: `${FOLDER}/manimal1.png`,
+        gravity: 'southwest',
+        sizePercentWidth: 0.6,
+      },
+      {
+        overlayFile: `${FOLDER}/perfect.png`,
+        gravity: 'southwest',
+        sizePercentHeight: 0.7,
+      },
+      {
+        overlayFile: `${FOLDER}/radiatorlady.png`,
+        gravity: 'southeast',
+        sizePercentHeight: 0.8,
+        geometry: '+10%',
+        filters: [new stills.filters.Grayscale()],
+      },
+      {
+        overlayFile: `${FOLDER}/manimal2.png`,
+        gravity: 'southeast',
+        sizePercentHeight: 0.7,
+      },
+      {
+        overlayFile: `${FOLDER}/toast.png`,
+        gravity: 'southeast',
         sizePercentHeight: 0.9,
         geometry: '+10%',
       },
     ].filter((o) => (overlay ? o.overlayFile.indexOf(overlay) !== -1 : true));
 
-    const overlayFilter = new stills.filters.Overlay(stills.utils.inOrder(overlays));
+    const chosenFilter = stills.utils.inOrder(overlays);
+    const overlayFilter = new stills.filters.Overlay(chosenFilter);
+    const additionalFilters = chosenFilter.filters || [];
 
     return {
       type,
@@ -81,7 +95,7 @@ class BirthdayConfig {
         folder: './captions/other/events/birthday',
         num: 1,
       }),
-      filters: [overlayFilter],
+      filters: [overlayFilter, ...additionalFilters],
     };
   }
 }
