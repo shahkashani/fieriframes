@@ -131,9 +131,6 @@ class DefaultConfig {
       embed,
       glyphs,
       captionText,
-      toCaptionText,
-      toCaptionType,
-      toCaptionDuration,
       sourceSeconds,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
@@ -272,12 +269,6 @@ class DefaultConfig {
         gravity: 'southwest',
         sizePercentWidth: 0.3,
         geometry: '+10%',
-      },
-      {
-        overlayFile: './overlays/carrot.png',
-        gravity: 'south',
-        sizePercentWidth: 0.1,
-        geometry: '+0+40%',
       },
     ].filter((o) =>
       overlay ? o.overlayFile.startsWith(`./overlays/${overlay}`) : true

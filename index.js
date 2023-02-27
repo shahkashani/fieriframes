@@ -17,6 +17,7 @@ const configs = {
   twinpeaks: require('./configs/twinpeaks'),
   lyrics: require('./configs/lyrics'),
   cormorants: require('./configs/cormorants'),
+  sauce: require('./configs/sauce'),
 };
 
 const date = new Date().toLocaleString('en-US', {
@@ -241,8 +242,9 @@ const getSourceSeconds = (string) => {
     );
   }
 
-  const description = descriptionText
-    ? new stills.descriptions.Static({ description: descriptionText })
+  const useDescription = descriptionText || baseConfig.descriptionText;
+  const description = useDescription
+    ? new stills.descriptions.Static({ description: useDescription })
     : new stills.descriptions.Captions();
   const analysis =
     destinations.length > 0 && MICROSOFT_AZURE_TOKEN

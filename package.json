@@ -19,7 +19,7 @@
     "docker:generate": "docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output",
     "docker:post": "docker run -it fieriframes npm run post",
     "preview": "npm run post -- --config=celestial --preview && npm run post -- --config=dreamers --preview",
-    "carrot": "npm run post -- --effects=overlay --overlay=carrot --captionType=none --type=still --num=1 --descriptionText=[🥕] --tags=sauce",
+    "carrot": "npm run post -- --config=sauce",
     "clean": "rm *.gif & rm *.png & rm *.mp4 & rm *.wav & true"
   },
   "author": "Shah Kashani",
