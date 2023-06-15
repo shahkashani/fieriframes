@@ -11,7 +11,6 @@ const configs = {
   clean: require('./configs/clean'),
   arcadia: require('./configs/arcadia'),
   dreamers: require('./configs/dreamers'),
-  celestial: require('./configs/celestial'),
   birthday: require('./configs/birthday'),
   vday: require('./configs/vday'),
   twinpeaks: require('./configs/twinpeaks'),

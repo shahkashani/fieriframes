@@ -60,9 +60,10 @@ const FONT_STYLES = {
   },
   brassia: {
     font: resolve(FONTS_FOLDER, 'brassia.otf'),
-    fontSize: 0.9,
+    fontSize: 0.85,
     color: '#fba155',
-    boxWidth: 0.7,
+    boxWidth: 0.8,
+    bottomOffset: 1.2,
   },
   arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
 };
@@ -105,11 +106,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     taggers: [
       new stills.taggers.Episode(),
       new stills.taggers.Static({
-        tags: [
-          'guy fieri',
-          'guyfieri',
-          'diners drive-ins and dives',
-        ],
+        tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives'],
       }),
       new stills.taggers.CaptionsCognitive({
         url: MICROSOFT_COGNITIVE_URL,
@@ -117,7 +114,6 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
@@ -172,7 +168,7 @@ app.get('/bookmarks', async (req, res) => {
 });
 
 app.post('/bookmark', async (req, res) => {
-  const { video, seconds, timestamps, length } = req.body;
+  const { video, seconds, timestamps, length, comment } = req.body;
   const bookmarks = existsSync(BOOKMARKS_FILE)
     ? JSON.parse(readFileSync(BOOKMARKS_FILE).toString())
     : [];
@@ -189,6 +185,10 @@ app.post('/bookmark', async (req, res) => {
     data.timestamps = timestamps;
   } else if (seconds) {
     data.seconds = parseFloat(seconds);
+  }
+
+  if (comment) {
+    data.comment = comment;
   }
 
   bookmarks.push(data);

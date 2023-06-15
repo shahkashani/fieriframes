@@ -4,16 +4,16 @@ const { resolve } = require('path');
 const { unlinkSync, existsSync, writeFileSync } = require('fs');
 
 const PARAMS = '0 1 0.5 30%';
-const IN_FILE_VIDEO = resolve('./ii/input.mp4');
-const IN_FILE_VIDEO_EDITED = resolve('./ii/input.mp4');
+const IN_FILE_VIDEO = resolve('../charbq.mp4');
+const IN_FILE_VIDEO_EDITED = resolve('./iii/input.mp4');
 const IN_FILE = resolve('./input.wav');
 const IN_FOLDER = resolve('./split');
 const OUT_FOLDER = resolve('./split-edited');
 const FILE_LIST = resolve('./filelist.txt');
 const OUT_FILE = resolve('./output.wav');
-const OUT_FILE_VIDEO = resolve('./output.mp4');
-const OUT_FILE_VIDEO_EDITED = resolve('./output-edited.mp4');
-const IS_INCREMENTAL_REVERSE = true;
+const OUT_FILE_VIDEO = resolve('./noblepie-vocals.mp4');
+const OUT_FILE_VIDEO_EDITED = resolve('./noblepie-vocals.mp4');
+const IS_INCREMENTAL_REVERSE = false;
 
 const execCmd = (cmd) => {
   const result = exec(cmd, { silent: true });
@@ -91,9 +91,9 @@ const createVideoEdited = () => {
 };
 
 console.log('Cleaning up...');
-deleteFiles();
+//deleteFiles();
 console.log('Extracting audio...');
-extractAudio();
+//extractAudio();
 console.log('Splitting audio...');
 splitFile();
 console.log('Reversing audio...');
@@ -102,5 +102,5 @@ console.log('Creating audio output...');
 combineFiles();
 console.log('Creating video output...');
 createVideo();
-// console.log('Creating video output (edited)...');
-// createVideoEdited();
+//console.log('Creating video output (edited)...');
+//createVideoEdited();

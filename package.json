@@ -27,11 +27,11 @@
   "dependencies": {
     "cormorants": "^6.0.0",
     "dotenv": "^8.0.0",
-    "dreamers": "^3.0.0",
+    "dreamers": "^3.0.1",
     "fierifiction": "^9.3.1",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
-    "stills": "^23.3.2",
+    "stills": "^23.4.0",
     "yargs": "^13.2.4"
   }
 }

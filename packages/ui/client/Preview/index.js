@@ -212,12 +212,14 @@ export default function Preview() {
   };
 
   const onBookmark = async () => {
+    const comment = prompt('Add a comment');
     const response = await fetch('/bookmark', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
+        comment,
         video,
         timestamps,
         length,

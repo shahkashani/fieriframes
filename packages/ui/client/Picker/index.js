@@ -249,9 +249,17 @@ export default function Picker({
             }}
             getOptionLabel={(option) => {
               const timestamp = option.timestamps
-                ? option.timestamps.map((f) => `${parseInt(f)}s`).join(', ')
+                ? `${parseInt(option.timestamps[0])}s${
+                    option.timestamps.length > 2
+                      ? ` +${option.timestamps.length - 1}`
+                      : ''
+                  }`
                 : `${parseInt(option.seconds)}s`;
-              return option.video ? `${option.video} (${timestamp})` : '';
+              return option.video
+                ? `${option.video} (${timestamp})${
+                    option.comment ? ` - ${option.comment}` : ''
+                  }`
+                : '';
             }}
             multiple={false}
             renderInput={(params) => (

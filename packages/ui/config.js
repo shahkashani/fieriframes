@@ -1,3 +1,3 @@
 module.exports = {
-  captions: ['The old skaky.'],
+  captions: ['Someone has to.'],
 };

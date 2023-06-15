@@ -76,6 +76,7 @@ class CormorantsConfig {
           };
       filters.push(new stills.filters.Overlay(overlayOptions));
     }
+
     return {
       ask,
       filters,

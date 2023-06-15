@@ -32,6 +32,7 @@ class DreamerConfig {
       console.warn(`💀 There is nothing to post.`);
       process.exit(0);
     }
+    console.log(post);
     const { captions, tags, effects, author, id, deleteIds } = post;
     const filters = effects.reduce((memo, { type, params }) => {
       const fn = this.effects[type];
