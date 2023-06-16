@@ -10,6 +10,7 @@ const configs = {
   default: require('./configs/default'),
   clean: require('./configs/clean'),
   arcadia: require('./configs/arcadia'),
+  arcana: require('./configs/arcana'),
   dreamers: require('./configs/dreamers'),
   birthday: require('./configs/birthday'),
   vday: require('./configs/vday'),

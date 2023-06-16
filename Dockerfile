@@ -5,6 +5,7 @@ ENV IMAGEMAGICK_VERSION 7.0.11-2
 RUN mkdir -p /app/vendor/ffmpeg
 WORKDIR /app/vendor/ffmpeg
 RUN curl -L https://www.johnvansickle.com/ffmpeg/old-releases/ffmpeg-5.1.1-amd64-static.tar.xz | tar xJ --strip-components=1
+# RUN curl -L https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz | tar xJ --strip-components=1
 ENV PATH "$PATH:/app/vendor/ffmpeg"
 
 RUN mkdir -p /app/vendor/imagemagick
