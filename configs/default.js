@@ -23,6 +23,9 @@ const getCaption = (
     static: new stills.captions.Static({
       captions: captionText,
     }),
+    match: new stills.captions.StaticMatch({
+      captions: captionText,
+    }),
   };
 
   return types[captionType] ? types[captionType] : null;
@@ -38,7 +41,7 @@ class DefaultConfig {
       },
       captionType: {
         describe: 'What kind of caption to use',
-        choices: ['ddd', 'quotes', 'books', 'none'],
+        choices: ['ddd', 'quotes', 'books', 'match', 'none'],
       },
       num: {
         describe: 'The number of images to generate',
@@ -94,12 +97,12 @@ class DefaultConfig {
     return type !== 'random' ? type : randomly(GIF_STILL_RATE, 'gif', 'still');
   }
 
-  getCaptionType({ captionType, captionText }, episodeCaptionRate) {
+  getCaptionType({ captionType, captionText, match }, episodeCaptionRate) {
     if (captionType) {
       return captionType;
     }
     if (captionText) {
-      return 'static';
+      return match ? 'match' : 'static';
     }
     return randomly(episodeCaptionRate, 'ddd', sample(['quotes', 'books']));
   }

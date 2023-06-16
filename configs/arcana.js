@@ -15,9 +15,10 @@ class ArcanaConfig {
   async generateConfig(args) {
     const { captionText } = args;
     return {
+      isSmart: true,
       type: 'gif',
       num: captionText.length,
-      caption: new stills.captions.Static({
+      caption: new stills.captions.StaticMatch({
         captions: captionText,
       }),
       filters: [new stills.filters.Arcana()],

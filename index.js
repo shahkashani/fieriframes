@@ -46,6 +46,15 @@ const DEFAULT_OPTIONS = {
     describe: 'Create as draft',
     boolean: true,
   },
+  match: {
+    describe: 'Match captions in static mode',
+    boolean: true,
+    default: true,
+  },
+  smart: {
+    describe: 'Use the smart setup',
+    boolean: false,
+  },
   prompt: {
     describe: 'Prompt before posting',
     boolean: true,
@@ -136,6 +145,7 @@ const getSourceSeconds = (string) => {
     secondsApart,
     gifWidth,
     draft,
+    smart,
     descriptionText,
     TUMBLR_CONSUMER_KEY,
     TUMBLR_CONSUMER_SECRET,
@@ -295,7 +305,9 @@ const getSourceSeconds = (string) => {
   );
 
   const stillsInstance = new stills.Stills(finalConfig);
-  const result = await stillsInstance.generate();
+  const result = await stillsInstance.generate({
+    isSmart: smart || finalConfig.isSmart,
+  });
 
   if (useConfig.onComplete) {
     await useConfig.onComplete(result, baseConfigData);

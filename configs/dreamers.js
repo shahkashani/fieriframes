@@ -52,10 +52,11 @@ class DreamerConfig {
       type: 'gif',
       num: captions.length,
       highlightColor: HIGHLIGHT_COLOR,
-      caption: new stills.captions.Static({
+      caption: new stills.captions.StaticMatch({
         captions,
       }),
       filters: [...filters, new stills.filters.Arcadia()],
+      isSmart: true,
     };
   }
 
