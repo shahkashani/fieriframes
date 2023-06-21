@@ -11,7 +11,8 @@ const getCaption = (
   captionType,
   num,
   bannedWords = [],
-  sourceSeconds = null
+  sourceSeconds = null,
+  matchText = null
 ) => {
   if (!captionType || captionType === 'none') {
     return null;
@@ -24,6 +25,7 @@ const getCaption = (
       captions: captionText,
     }),
     match: new stills.captions.StaticMatch({
+      matchText,
       captions: captionText,
     }),
   };
@@ -135,6 +137,7 @@ class DefaultConfig {
       glyphs,
       captionText,
       sourceSeconds,
+      matchText,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
@@ -452,7 +455,8 @@ class DefaultConfig {
       captionType,
       num,
       BANNED_WORDS,
-      sourceSeconds
+      sourceSeconds,
+      matchText
     );
 
     return {

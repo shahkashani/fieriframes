@@ -51,6 +51,9 @@ const DEFAULT_OPTIONS = {
     boolean: true,
     default: true,
   },
+  matchText: {
+    describe: 'Match caption to this string instead of the caption',
+  },
   smart: {
     describe: 'Use the smart setup',
     boolean: false,

@@ -60,15 +60,14 @@ const FONT_STYLES = {
   },
   brassia: {
     font: resolve(FONTS_FOLDER, 'brassia.otf'),
-    fontSize: 0.85,
+    fontSize: 0.9,
     color: '#fba155',
-    boxWidth: 0.8,
-    bottomOffset: 1.2,
+    boxWidth: 0.65,
   },
   arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
 };
 
-const FONT = 'arial';
+const FONT = 'brassia';
 
 const getConfig = () => {
   delete require.cache[require.resolve(CONFIG_FILE)];
@@ -106,7 +105,12 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     taggers: [
       new stills.taggers.Episode(),
       new stills.taggers.Static({
-        tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives'],
+        tags: [
+          'guy fieri',
+          'guyfieri',
+          'diners drive-ins and dives',
+          'i tego arcana dei',
+        ],
       }),
       new stills.taggers.CaptionsCognitive({
         url: MICROSOFT_COGNITIVE_URL,
@@ -114,6 +118,11 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
+    filters: [
+      new stills.filters.Arcana({
+        useClassic: true,
+      }),
+    ],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
