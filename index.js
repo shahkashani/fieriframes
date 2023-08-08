@@ -285,6 +285,11 @@ const getSourceSeconds = (string) => {
   const content = contents[type];
   const baseConfigData = baseConfig.data || {};
 
+  const moderation = new stills.moderation.Words({
+    bannedWords: (BANNED_WORDS || '').split(','),
+    allowedWords: (ALLOWED_WORDS || '').split(','),
+  });
+
   const finalConfig = {
     ...baseConfig,
     num,
@@ -295,6 +300,7 @@ const getSourceSeconds = (string) => {
     source,
     content,
     validators,
+    moderation,
     filterCaption: filterCaption || new stills.filters.captions.Simple(),
     isPrompt: prompt,
   };
