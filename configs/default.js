@@ -10,7 +10,7 @@ const getCaption = (
   captionText,
   captionType,
   num,
-  bannedWords = [],
+  lyricsConfig = {},
   sourceSeconds = null,
   matchText = null
 ) => {
@@ -19,8 +19,9 @@ const getCaption = (
   }
   const types = {
     ddd: new stills.captions.Episodes({ num, sourceSeconds }),
-    quotes: new stills.captions.Quotes({ num, bannedWords }),
-    books: new stills.captions.Books({ num, bannedWords }),
+    quotes: new stills.captions.Quotes({ num }),
+    books: new stills.captions.Books({ num }),
+    lyrics: new stills.captions.Lyrics(lyricsConfig),
     static: new stills.captions.Static({
       captions: captionText,
     }),
@@ -43,7 +44,7 @@ class DefaultConfig {
       },
       captionType: {
         describe: 'What kind of caption to use',
-        choices: ['ddd', 'quotes', 'books', 'match', 'none'],
+        choices: ['ddd', 'quotes', 'books', 'match', 'lyrics', 'none'],
       },
       num: {
         describe: 'The number of images to generate',
@@ -92,6 +93,9 @@ class DefaultConfig {
         describe: 'Require big eyes',
         boolean: true,
       },
+      artist: {
+        describe: 'For lyrics caption type',
+      },
     };
   }
 
@@ -99,14 +103,24 @@ class DefaultConfig {
     return type !== 'random' ? type : randomly(GIF_STILL_RATE, 'gif', 'still');
   }
 
-  getCaptionType({ captionType, captionText, match }, episodeCaptionRate) {
+  getCaptionType(
+    { captionType, artist, captionText, match },
+    episodeCaptionRate
+  ) {
     if (captionType) {
       return captionType;
+    }
+    if (artist) {
+      return 'lyrics';
     }
     if (captionText) {
       return match ? 'match' : 'static';
     }
-    return randomly(episodeCaptionRate, 'ddd', sample(['quotes', 'books']));
+    return randomly(
+      episodeCaptionRate,
+      'ddd',
+      sample(['quotes', 'books', 'lyrics'])
+    );
   }
 
   getDefaultNum(type, minNumber = 1) {
@@ -138,11 +152,13 @@ class DefaultConfig {
       captionText,
       sourceSeconds,
       matchText,
+      artist,
       MAX_NUM_EFFECTS,
       GIF_EFFECT_RATE,
       FIERIFICTION_VIDEO_RATE,
       MAX_FACE_OVERLAYS,
-      BANNED_WORDS,
+      LYRICS_API_KEY,
+      LYRICS_ARTISTS,
       AFTER_CAPTION_EFFECT_RATE,
       EPISODE_CAPTION_RATE,
     } = args;
@@ -454,7 +470,10 @@ class DefaultConfig {
       captionText,
       captionType,
       num,
-      BANNED_WORDS,
+      {
+        apikey: LYRICS_API_KEY,
+        artist: artist || sample(LYRICS_ARTISTS.split(',')),
+      },
       sourceSeconds,
       matchText
     );
