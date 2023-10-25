@@ -21,7 +21,7 @@ const getCaption = (
     ddd: new stills.captions.Episodes({ num, sourceSeconds }),
     quotes: new stills.captions.Quotes({ num }),
     books: new stills.captions.Books({ num }),
-    lyrics: new stills.captions.Lyrics(lyricsConfig),
+    lyrics: new stills.captions.Lyrics({ num, ...lyricsConfig }),
     static: new stills.captions.Static({
       captions: captionText,
     }),
@@ -479,6 +479,7 @@ class DefaultConfig {
     );
 
     return {
+      num,
       type,
       tags,
       filters,

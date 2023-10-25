@@ -306,6 +306,7 @@ const getSourceSeconds = (string) => {
   };
 
   console.log(`⚙️  ${date} config: ${config}`);
+  console.log(`🎨 Making ${num}x images.`);
   console.log(`🏃 Running in ${local ? 'local' : 'S3'} mode`);
   console.log(
     `📮 ${destinations.length > 0 ? 'Posting' : 'Not posting'}${
