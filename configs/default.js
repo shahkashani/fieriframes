@@ -322,9 +322,6 @@ class DefaultConfig {
         overlayFile: faceOverlayFile,
         scale: scale ? parseFloat(scale) : 2,
       }),
-      new stills.filters.Backdrop({
-        segmentationThreshold: 0.6,
-      }),
     ];
 
     const stillEffects = [...sharedEffects, new stills.filters.FaceStretch()];
