@@ -145,7 +145,6 @@ class DefaultConfig {
       tags,
       video,
       face,
-      body,
       eyes,
       embed,
       glyphs,
@@ -457,10 +456,6 @@ class DefaultConfig {
 
     if (eyes) {
       validators.push(new stills.validators.EyeDetection());
-    }
-
-    if (body) {
-      validators.push(new stills.validators.BodyDetection());
     }
 
     const caption = getCaption(
