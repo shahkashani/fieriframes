@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "dreamers": "^3.0.1",
+    "dreamers": "^4.0.1",
     "fierifiction": "^10.0.0",
     "glob": "^7.1.6",
     "lodash": "^4.17.19",
