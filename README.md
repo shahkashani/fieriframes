@@ -75,15 +75,6 @@ TUMBLR_ACCESS_TOKEN_SECRET=
 TUMBLR_BLOG_NAME=
 ```
 
-And for Twitter:
-
-```
-TWITTER_CONSUMER_KEY=
-TWITTER_CONSUMER_SECRET=
-TWITTER_ACCESS_TOKEN_KEY=
-TWITTER_ACCESS_TOKEN_SECRET=
-```
-
 # Trying to add captions?
 
 Just drop a new .srt file or .txt file into the `captions` folder. If you're adding author quotes, you might find [goodquotes](https://github.com/shahkashani/goodquotes) useful.
