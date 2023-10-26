@@ -248,7 +248,7 @@ const getSourceSeconds = (string) => {
 
   if (MICROSOFT_COGNITIVE_URL && MICROSOFT_COGNITIVE_TOKEN) {
     taggers.push(
-      new stills.taggers.CaptionsCognitive({
+      new stills.taggers.Captions({
         url: MICROSOFT_COGNITIVE_URL,
         token: MICROSOFT_COGNITIVE_TOKEN,
       })
