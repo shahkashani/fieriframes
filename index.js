@@ -16,7 +16,6 @@ const configs = {
   vday: require('./configs/vday'),
   twinpeaks: require('./configs/twinpeaks'),
   lyrics: require('./configs/lyrics'),
-  cormorants: require('./configs/cormorants'),
   sauce: require('./configs/sauce'),
 };
 
