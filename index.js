@@ -162,6 +162,7 @@ const getSourceSeconds = (string) => {
     GIF_FPS,
     GIF_LENGTH_SECONDS,
     MICROSOFT_AZURE_TOKEN,
+    MICROSOFT_AZURE_URL,
     POST_TEXT_GENERATOR_URL,
     POST_TEXT_GENERATOR_API_KEY,
     POST_TEXT_GENERATOR_LENGTH,
@@ -260,9 +261,10 @@ const getSourceSeconds = (string) => {
     ? new stills.descriptions.Static({ description: useDescription })
     : new stills.descriptions.Captions();
   const analysis =
-    destinations.length > 0 && MICROSOFT_AZURE_TOKEN
+    destinations.length > 0 && MICROSOFT_AZURE_TOKEN && MICROSOFT_AZURE_URL
       ? new stills.analysis.Azure({
           token: MICROSOFT_AZURE_TOKEN,
+          url: MICROSOFT_AZURE_URL,
         })
       : null;
 
