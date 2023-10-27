@@ -15,7 +15,6 @@ const configs = {
   birthday: require('./configs/birthday'),
   vday: require('./configs/vday'),
   twinpeaks: require('./configs/twinpeaks'),
-  lyrics: require('./configs/lyrics'),
   sauce: require('./configs/sauce'),
 };
 
