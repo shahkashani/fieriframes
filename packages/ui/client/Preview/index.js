@@ -20,7 +20,7 @@ const ICON_SIZE = 20;
 const HIGH_QUALITY_GIF_WIDTH = 720;
 const LOW_QUALITY_GIF_WIDTH = 240;
 
-const ASSET_PORT = 3001;
+const ASSET_PORT = 3000;
 
 const Toolbar = styled.div`
   position: sticky;
@@ -109,13 +109,15 @@ export default function Preview() {
     try {
       const result = await fetch(`${assetUrl}/project`);
       const json = await result.json();
-      const { images, info } = json;
+      const { images, captions, source } = json;
       setImages(images);
-      setCaptions(info ? info.captions : []);
-      if (!video && info.video) {
-        setVideo(info.video);
-        setTimestamps(info.timestamps);
-        setLength(info.length);
+      setCaptions(captions);
+      if (!video && source) {
+        const timestamps = images.map(({ time }) => time);
+        const length = images[0].length;
+        setVideo(source.name);
+        setTimestamps(timestamps);
+        setLength(length);
       }
     } catch (err) {
       console.log(err);

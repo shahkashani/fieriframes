@@ -1,5 +1,4 @@
 const stills = require('stills');
-const { sample } = require('lodash');
 
 class TwinPeaksConfig {
   getOptions() {
@@ -49,13 +48,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/1.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks1.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -64,12 +64,13 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/2.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
+          height: 0.6,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks2.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -78,13 +79,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/3.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks3.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -93,12 +95,13 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/4.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
+          height: 0.6,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks4.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -107,13 +110,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/5.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks5.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -122,13 +126,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/6.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks6.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -137,13 +142,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/7.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks7.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -152,13 +158,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/8.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks12.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -167,13 +174,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/9.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks11.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -182,13 +190,14 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/10.png',
           gravity: 'southwest',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
-        new stills.filters.Blend({
+        new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks10.mp4',
+          opacity: 0.5,
         }),
         colortone,
       ],
@@ -197,8 +206,8 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/11.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
@@ -206,8 +215,8 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/13.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
       ],
       [
@@ -215,8 +224,8 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './overlays/twinpeaks/15.png',
           gravity: 'southeast',
-          sizePercentHeight: 0.6,
-          geometry: '+10%',
+          height: 0.6,
+          horizontal: 0.05,
         }),
         embed,
       ],

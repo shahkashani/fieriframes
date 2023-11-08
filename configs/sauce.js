@@ -9,14 +9,14 @@ class SauceConfig {
       ? new stills.filters.Overlay({
           overlayFile: './overlays/sauce_verified.gif',
           gravity: 'south',
-          sizePercentWidth: 0.15,
-          geometry: '+0+20%',
+          width: 0.15,
+          vertical: 0.05,
         })
       : new stills.filters.Overlay({
           overlayFile: './overlays/carrot.png',
           gravity: 'south',
-          sizePercentWidth: 0.1,
-          geometry: '+0+40%',
+          width: 0.1,
+          vertical: 0.03,
         });
 
     return {

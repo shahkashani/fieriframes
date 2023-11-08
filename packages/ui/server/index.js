@@ -11,7 +11,6 @@ const {
   watchFile,
 } = require('fs');
 const { resolve, parse } = require('path');
-const sizeOf = require('image-size');
 const { sync } = require('glob');
 const search = require('./search');
 const multer = require('multer');
@@ -34,6 +33,7 @@ let instance;
 
 const {
   MICROSOFT_AZURE_TOKEN,
+  MICROSOFT_AZURE_URL,
   TUMBLR_CONSUMER_KEY,
   TUMBLR_CONSUMER_SECRET,
   TUMBLR_ACCESS_TOKEN_KEY,
@@ -62,12 +62,36 @@ const FONT_STYLES = {
     font: resolve(FONTS_FOLDER, 'brassia.otf'),
     fontSize: 0.9,
     color: '#fba155',
-    boxWidth: 0.65,
+    boxWidth: 0.7,
   },
   arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
 };
 
 const FONT = 'brassia';
+
+const getProject = () => {
+  const images =
+    project && instance && instance.images
+      ? project.images.map((image, imageNum) => {
+          const imageInstance = instance.images[imageNum];
+          const { base } = parse(image.file);
+          const url = `/image/${base}?modified=${imageInstance.modified}`;
+          const frames = imageInstance.getFrames().map((frame) => {
+            return {
+              index: frame.index,
+              url: `/still/${imageNum}/${frame.index}.png?modified=${frame.modified}`,
+            };
+          });
+          return {
+            ...image,
+            url,
+            frames,
+          };
+        })
+      : [];
+
+  return { ...project, images };
+};
 
 const getConfig = () => {
   delete require.cache[require.resolve(CONFIG_FILE)];
@@ -87,6 +111,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     useGlyphs: FONT === 'voynich',
     analysis: new stills.analysis.Azure({
       token: MICROSOFT_AZURE_TOKEN,
+      url: MICROSOFT_AZURE_URL,
     }),
     source: new stills.sources.Local({
       filter,
@@ -101,47 +126,23 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     }),
     caption: new stills.captions.Static({
       captions: config.captions,
+      captionsFolder: resolve(PARENT_PROJECT_FOLDER, './captions/ddd'),
     }),
     taggers: [
       new stills.taggers.Episode(),
       new stills.taggers.Static({
-        tags: [
-          'guy fieri',
-          'guyfieri',
-          'diners drive-ins and dives',
-          'i tego arcana dei',
-        ],
+        tags: ['guy fieri', 'guyfieri', 'diners drive-ins and dives'],
       }),
-      new stills.taggers.CaptionsCognitive({
+      new stills.taggers.Captions({
         url: MICROSOFT_COGNITIVE_URL,
         token: MICROSOFT_COGNITIVE_TOKEN,
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [
-      new stills.filters.Arcana({
-        useClassic: true,
-      }),
-    ],
+    filters: [new stills.filters.Arcana()],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
-  });
-};
-
-const getAssets = (instance) => {
-  return instance.images.map((image) => {
-    const { filename } = image;
-    const url = filename;
-    const dimensions = sizeOf(filename);
-    const frames = image.frames.getFrames().map((frame) => {
-      const { edited, index } = frame;
-      return {
-        index,
-        url: edited,
-      };
-    });
-    return { frames, url, ...dimensions };
   });
 };
 
@@ -210,6 +211,21 @@ app.get('/videos', async (req, res) => {
   res.json(files);
 });
 
+app.get('/still/:imageNum/:frameNum.png', (req, res) => {
+  const { imageNum, frameNum } = req.params;
+  const image = instance.images[parseInt(imageNum, 10)];
+  const frame = image.frames.frames[parseInt(frameNum, 10)];
+  res.contentType('image/jpeg');
+  res.end(frame.buffer, 'binary');
+});
+
+app.get('/project', async (req, res) => {
+  if (!instance || !project) {
+    return res.json([]);
+  }
+  res.json(getProject());
+});
+
 app.get('/reset', async (req, res) => {
   let {
     video,
@@ -243,8 +259,8 @@ app.get('/reset', async (req, res) => {
 
   instance = getInstance({ video, timestamps, length, width });
 
-  const result = await setup(smart === 'true');
-  res.json(result);
+  project = await setup(smart === 'true');
+  res.json(project);
 });
 
 app.get('/apply', async (req, res) => {
@@ -269,7 +285,6 @@ const restore = async () => {
   project = JSON.parse(readFileSync(PROJECT_FILE).toString());
   console.log('Restoring project', project);
   await instance.restore(project);
-  // instance.reset();
 };
 
 const setup = async (isSmart = false) => {
@@ -279,7 +294,6 @@ const setup = async (isSmart = false) => {
   const project = isSmart
     ? await instance.smartSetup()
     : await instance.setup();
-  project.assets = getAssets(instance);
   console.log(project);
   writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
   return project;
@@ -306,11 +320,11 @@ const onConfigChange = () => {
   await setup();
   await watch();
 
+  app.use('/image', express.static('static'));
   app.use(express.static('dist'));
   app.use(express.static(VIDEOS_FOLDER));
 
   app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
   });
-  // instance.applyFilters();
 })();
