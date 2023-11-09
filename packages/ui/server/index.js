@@ -1,4 +1,5 @@
-const port = 3000;
+const PORT = process.env.PORT || 3000;
+const ASSETS_PORT = process.env.PORT || 3001;
 
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -16,12 +17,16 @@ const { sync } = require('glob');
 const search = require('./search');
 const multer = require('multer');
 const { Server } = require('socket.io');
+const cors = require('cors');
 
 const app = express();
+const assets = express();
 const server = http.createServer(app);
 const io = new Server(server);
 
 app.use(bodyParser.json());
+assets.use(cors());
+assets.options('*', cors());
 
 const PARENT_PROJECT_FOLDER = resolve(__dirname, '../../../');
 
@@ -222,7 +227,7 @@ app.get('/videos', async (req, res) => {
   res.json(files);
 });
 
-app.get('/still/:imageNum/:frameNum.png', (req, res) => {
+assets.get('/still/:imageNum/:frameNum.png', (req, res) => {
   const { imageNum, frameNum } = req.params;
   const image = instance.images[parseInt(imageNum, 10)];
   const frame = image.frames.frames[parseInt(frameNum, 10)];
@@ -286,6 +291,11 @@ app.get('/post', async (req, res) => {
   res.sendStatus(200);
 });
 
+app.post('/restart', (req, res) => {
+  writeFileSync(RESTART_FILE, Date.now().toString());
+  res.sendStatus(200);
+});
+
 const restore = async () => {
   project = JSON.parse(readFileSync(PROJECT_FILE).toString());
   console.log('Restoring project', project);
@@ -323,9 +333,7 @@ const onConfigChange = () => {
 
 io.on('connection', (socket) => {
   console.log('Connected!');
-
   io.emit('update', getProject());
-
   socket.on('disconnect', () => {
     console.log('Disconnected!');
   });
@@ -335,11 +343,15 @@ io.on('connection', (socket) => {
   await setup();
   await watch();
 
-  app.use('/image', express.static('static'));
   app.use(express.static('dist'));
-  app.use(express.static(VIDEOS_FOLDER));
+  assets.use('/image', express.static('static'));
+  assets.use(express.static(VIDEOS_FOLDER));
 
-  server.listen(port, () => {
-    console.log(`App listening at http://localhost:${port}`);
+  server.listen(PORT, () => {
+    console.log(`App listening at http://localhost:${PORT}`);
+  });
+
+  assets.listen(ASSETS_PORT, () => {
+    console.log(`Assets listening at http://localhost:${ASSETS_PORT}`);
   });
 })();

@@ -20,7 +20,7 @@ const ICON_SIZE = 20;
 const HIGH_QUALITY_GIF_WIDTH = 720;
 const LOW_QUALITY_GIF_WIDTH = 240;
 
-const ASSET_PORT = 3000;
+const ASSET_PORT = 3001;
 
 const Toolbar = styled.div`
   position: sticky;
@@ -82,7 +82,6 @@ const getAssetsUrl = () => {
 
 export default function Preview() {
   const [images, setImages] = useState([]);
-  const [timeoutId, setTimeoutId] = useState();
   const [isResetting, setIsResetting] = useState(false);
   const [isSmartResetting, setIsSmartResetting] = useState(false);
   const [isApplying, setIsApplying] = useState(false);
@@ -109,7 +108,6 @@ export default function Preview() {
     const socket = io();
     socket.on('update', async (data) => {
       try {
-        console.log('hi', data);
         const { images, captions, source } = data;
         setImages(images);
         setCaptions(captions);
@@ -128,35 +126,6 @@ export default function Preview() {
       socket.disconnect();
     };
   }, []);
-
-  /*
-  const getNext = async () => {
-    try {
-      const result = await fetch(`${assetUrl}/project`);
-      const json = await result.json();
-      const { images, captions, source } = json;
-      setImages(images);
-      setCaptions(captions);
-      if (!video && source) {
-        const timestamps = images.map(({ time }) => time);
-        const length = images[0].length;
-        setVideo(source.name);
-        setTimestamps(timestamps);
-        setLength(length);
-      }
-    } catch (err) {
-      console.log(err);
-    }
-    if (timeoutId) {
-      clearTimeout(timeoutId);
-    }
-    setTimeoutId(
-      setTimeout(async () => {
-        getNext();
-      }, 1000)
-    );
-  };
-  */
 
   const reset = async ({ video, timestamps, search, length, smart }) => {
     try {
@@ -262,7 +231,7 @@ export default function Preview() {
   };
 
   const onRestart = async () => {
-    await fetch(`${assetUrl}/restart`, {
+    await fetch('/restart', {
       method: 'POST',
     });
   };
@@ -433,7 +402,7 @@ export default function Preview() {
         {images.map((image, index) => {
           return (
             <Image
-              src={image.url}
+              src={`${assetUrl}${image.url}`}
               title={captions[index]}
               width={image.width}
               height={image.height}
@@ -452,7 +421,7 @@ export default function Preview() {
               <Image
                 index={index}
                 key={`${index}-${frame.index}`}
-                src={frame.url}
+                src={`${assetUrl}${frame.url}`}
                 height={image.height}
                 width={image.width}
                 displayWidth={540}
