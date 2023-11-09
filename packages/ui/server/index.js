@@ -78,7 +78,7 @@ const FONT_STYLES = {
   arial: { font: resolve(FONTS_FOLDER, 'arial.ttf') },
 };
 
-const FONT = 'brassia';
+const FONT = 'arial';
 
 const getProject = () => {
   const images =
@@ -152,7 +152,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [new stills.filters.Arcana()],
+    filters: [new stills.filters.Jitter()],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
@@ -169,6 +169,7 @@ instance = getInstance();
 app.delete('/frame', async (req, res) => {
   const { index, frame } = req.query;
   await instance.deleteFrame(parseInt(index, 10), parseInt(frame, 10));
+  updateClient();
   res.sendStatus(200);
 });
 
@@ -230,7 +231,7 @@ app.get('/videos', async (req, res) => {
 assets.get('/still/:imageNum/:frameNum.png', (req, res) => {
   const { imageNum, frameNum } = req.params;
   const image = instance.images[parseInt(imageNum, 10)];
-  const frame = image.frames.frames[parseInt(frameNum, 10)];
+  const frame = image.frames.getFrames()[parseInt(frameNum, 10)];
   res.contentType('image/jpeg');
   res.end(frame.buffer, 'binary');
 });

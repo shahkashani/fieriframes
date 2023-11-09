@@ -278,7 +278,7 @@ export default function Preview() {
           onChangeLength={(length) => setRequestLength(length)}
           onSearchChange={(search) => setSearch(search)}
           bookmarks={bookmarks}
-          numTimestamps={captions.length || 1}
+          numTimestamps={(captions || []).length || 1}
         />
         <ControlColumns>
           <MainButtons>
