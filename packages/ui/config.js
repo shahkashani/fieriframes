@@ -1,3 +1,3 @@
 module.exports = {
-  captions: ['Uh-oh.'],
+  captions: ['Help.'],
 };

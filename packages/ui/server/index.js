@@ -152,7 +152,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
       }),
     ],
     destinations: [new stills.destinations.Tumblr(TUMBLR_CONFIG)],
-    filters: [new stills.filters.Jitter()],
+    filters: [new stills.filters.Reverse()],
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
@@ -231,7 +231,7 @@ app.get('/videos', async (req, res) => {
 assets.get('/still/:imageNum/:frameNum.png', (req, res) => {
   const { imageNum, frameNum } = req.params;
   const image = instance.images[parseInt(imageNum, 10)];
-  const frame = image.frames.getFrames()[parseInt(frameNum, 10)];
+  const frame = image.frames.frames[parseInt(frameNum, 10)];
   res.contentType('image/jpeg');
   res.end(frame.buffer, 'binary');
 });
