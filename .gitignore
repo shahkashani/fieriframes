@@ -1,6 +1,7 @@
 node_modules/
 videos/
 output/
+frames/
 .DS_Store
 .env
 .cache

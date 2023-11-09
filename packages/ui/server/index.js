@@ -1,7 +1,8 @@
-const express = require('express');
-const app = express();
-const bodyParser = require('body-parser');
 const port = 3000;
+
+const express = require('express');
+const bodyParser = require('body-parser');
+const http = require('http');
 const stills = require('stills');
 const {
   writeFileSync,
@@ -14,6 +15,11 @@ const { resolve, parse } = require('path');
 const { sync } = require('glob');
 const search = require('./search');
 const multer = require('multer');
+const { Server } = require('socket.io');
+
+const app = express();
+const server = http.createServer(app);
+const io = new Server(server);
 
 app.use(bodyParser.json());
 
@@ -93,6 +99,8 @@ const getProject = () => {
   return { ...project, images };
 };
 
+const updateClient = () => io.emit('update', getProject());
+
 const getConfig = () => {
   delete require.cache[require.resolve(CONFIG_FILE)];
   return require(CONFIG_FILE);
@@ -143,6 +151,9 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     filterCaption: new stills.filters.captions.Simple({
       ...FONT_STYLES[FONT],
     }),
+    onFrameChange: updateClient,
+    onImageChange: updateClient,
+    onSetup: updateClient,
   });
 };
 
@@ -219,13 +230,6 @@ app.get('/still/:imageNum/:frameNum.png', (req, res) => {
   res.end(frame.buffer, 'binary');
 });
 
-app.get('/project', async (req, res) => {
-  if (!instance || !project) {
-    return res.json([]);
-  }
-  res.json(getProject());
-});
-
 app.get('/reset', async (req, res) => {
   let {
     video,
@@ -260,6 +264,7 @@ app.get('/reset', async (req, res) => {
   instance = getInstance({ video, timestamps, length, width });
 
   project = await setup(smart === 'true');
+  updateClient();
   res.json(project);
 });
 
@@ -316,6 +321,16 @@ const onConfigChange = () => {
   console.log(config);
 };
 
+io.on('connection', (socket) => {
+  console.log('Connected!');
+
+  io.emit('update', getProject());
+
+  socket.on('disconnect', () => {
+    console.log('Disconnected!');
+  });
+});
+
 (async () => {
   await setup();
   await watch();
@@ -324,7 +339,7 @@ const onConfigChange = () => {
   app.use(express.static('dist'));
   app.use(express.static(VIDEOS_FOLDER));
 
-  app.listen(port, () => {
+  server.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
   });
 })();

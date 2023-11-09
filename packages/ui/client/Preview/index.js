@@ -105,6 +105,31 @@ export default function Preview() {
 
   const assetUrl = getAssetsUrl();
 
+  useEffect(() => {
+    const socket = io();
+    socket.on('update', async (data) => {
+      try {
+        console.log('hi', data);
+        const { images, captions, source } = data;
+        setImages(images);
+        setCaptions(captions);
+        if (!video && source) {
+          const timestamps = images.map(({ time }) => time);
+          const length = images[0].length;
+          setVideo(source.name);
+          setTimestamps(timestamps);
+          setLength(length);
+        }
+      } catch (err) {
+        console.log(err);
+      }
+    });
+    return () => {
+      socket.disconnect();
+    };
+  }, []);
+
+  /*
   const getNext = async () => {
     try {
       const result = await fetch(`${assetUrl}/project`);
@@ -131,6 +156,7 @@ export default function Preview() {
       }, 1000)
     );
   };
+  */
 
   const reset = async ({ video, timestamps, search, length, smart }) => {
     try {
@@ -246,7 +272,7 @@ export default function Preview() {
   const notInitialRender = useRef(false);
 
   useEffect(() => {
-    getNext();
+    //getNext();
     getBookmarks();
   }, []);
 
