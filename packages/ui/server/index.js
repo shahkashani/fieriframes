@@ -159,6 +159,7 @@ const getInstance = ({ video, timestamps, length, width } = {}) => {
     onFrameChange: updateClient,
     onImageChange: updateClient,
     onSetup: updateClient,
+    fastPreview: true, // gifWidth <= 540,
   });
 };
 
@@ -282,7 +283,6 @@ app.get('/apply', async (req, res) => {
 
 app.get('/collapse', async (req, res) => {
   await instance.collapse();
-  console.log('Collapse done!');
   res.sendStatus(200);
 });
 
@@ -300,7 +300,7 @@ app.post('/restart', (req, res) => {
 const restore = async () => {
   project = JSON.parse(readFileSync(PROJECT_FILE).toString());
   console.log('Restoring project', project);
-  await instance.restore(project);
+  await instance.restore(project, true);
 };
 
 const setup = async (isSmart = false) => {
@@ -310,8 +310,11 @@ const setup = async (isSmart = false) => {
   const project = isSmart
     ? await instance.smartSetup()
     : await instance.setup();
-  console.log(project);
-  writeFileSync(PROJECT_FILE, JSON.stringify(project, null, 2));
+  const cleanProject = {
+    ...project,
+    images: project.images.map((image) => ({ ...image, buffers: null })),
+  };
+  writeFileSync(PROJECT_FILE, JSON.stringify(cleanProject, null, 2));
   return project;
 };
 
