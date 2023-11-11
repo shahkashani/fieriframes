@@ -16,6 +16,7 @@ const configs = {
   vday: require('./configs/vday'),
   twinpeaks: require('./configs/twinpeaks'),
   sauce: require('./configs/sauce'),
+  cormorants: require('./configs/cormorants'),
 };
 
 const date = new Date().toLocaleString('en-US', {
@@ -313,7 +314,9 @@ const getSourceSeconds = (string) => {
       postDraft ? ' draft' : ''
     } to ${postBlogName}`
   );
-
+  if (ask) {
+    console.log(`💌 Responding to an ask by ${ask.asking_name}`);
+  }
   const stillsInstance = new stills.Stills(finalConfig);
   const result = await stillsInstance.generate({
     isSmart: smart || finalConfig.isSmart,
