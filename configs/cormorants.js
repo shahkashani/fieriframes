@@ -1,5 +1,7 @@
 const stills = require('stills');
 const Cormorants = require('cormorants');
+const getFilters = require('./utils/get-filters');
+const FILTERS = getFilters();
 
 class CormorantsConfig {
   constructor() {}
@@ -27,8 +29,13 @@ class CormorantsConfig {
     }
     const { ask, captions } = post;
     const type = ask.tags.indexOf('still') !== -1 ? 'still' : 'gif';
+    const filters = ask.tags.reduce(
+      (memo, tag) => (FILTERS[tag] ? [...memo, FILTERS[tag]()] : memo),
+      []
+    );
     return {
       ask,
+      filters,
       type,
       num: captions.length,
       caption: new stills.captions.StaticMatch({

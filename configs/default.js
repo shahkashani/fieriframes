@@ -1,11 +1,8 @@
 const stills = require('stills');
 const { sample } = require('lodash');
+const getFilters = require('./utils/get-filters');
 
-const FILTERS = {
-  grayscale: () => new stills.filters.Grayscale(),
-  reverse: () => new stills.filters.Reverse(),
-  jitter: () => new stills.filters.Jitter(),
-};
+const FILTERS = getFilters();
 
 const randomly = (rate, hit = true, miss = false) =>
   Math.random() < rate ? hit : miss;
