@@ -26,9 +26,10 @@ class CormorantsConfig {
       process.exit(0);
     }
     const { ask, captions } = post;
+    const type = ask.tags.indexOf('still') !== -1 ? 'still' : 'gif';
     return {
       ask,
-      type: 'gif',
+      type,
       num: captions.length,
       caption: new stills.captions.StaticMatch({
         captions,
