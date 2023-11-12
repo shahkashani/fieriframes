@@ -158,6 +158,7 @@ const getSourceSeconds = (string) => {
     S3_ACCESS_KEY_ID,
     S3_SECRET_ACCESS_KEY,
     S3_BUCKET,
+    S3_REGION,
     GIF_FPS,
     GIF_LENGTH_SECONDS,
     MICROSOFT_AZURE_TOKEN,
@@ -218,6 +219,7 @@ const getSourceSeconds = (string) => {
     : new stills.sources.S3({
         accessKeyId: S3_ACCESS_KEY_ID,
         secretAccessKey: S3_SECRET_ACCESS_KEY,
+        region: S3_REGION,
         bucket: S3_BUCKET,
         filter: (file) =>
           !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1,
