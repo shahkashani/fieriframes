@@ -23,6 +23,7 @@ const getCaption = (
     quotes: new stills.captions.Quotes({ num }),
     books: new stills.captions.Books({ num }),
     lyrics: new stills.captions.Lyrics({ num, ...lyricsConfig }),
+    word: new stills.captions.Word(),
     static: new stills.captions.Static({
       captions: captionText,
     }),
@@ -45,7 +46,7 @@ class DefaultConfig {
       },
       captionType: {
         describe: 'What kind of caption to use',
-        choices: ['ddd', 'quotes', 'books', 'match', 'lyrics', 'none'],
+        choices: ['ddd', 'quotes', 'books', 'match', 'lyrics', 'word', 'none'],
       },
       num: {
         describe: 'The number of images to generate',
@@ -106,7 +107,7 @@ class DefaultConfig {
     return randomly(
       episodeCaptionRate,
       'ddd',
-      sample(['quotes', 'books', 'lyrics'])
+      sample(['quotes', 'books', 'lyrics', 'word'])
     );
   }
 
