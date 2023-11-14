@@ -319,9 +319,10 @@ const getSourceSeconds = (string) => {
   if (ask) {
     console.log(`💌 Responding to an ask by ${ask.asking_name}`);
   }
+  const isSmart = (smart || finalConfig.isSmart) && type !== 'still';
   const stillsInstance = new stills.Stills(finalConfig);
   const result = await stillsInstance.generate({
-    isSmart: smart || finalConfig.isSmart,
+    isSmart,
   });
 
   if (useConfig.onComplete) {
