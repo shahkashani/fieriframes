@@ -18,6 +18,7 @@
     "docker:generate": "docker run -v $(pwd)/videos:/app/videos -v $(pwd)/output:/app/output -it fieriframes npm run generate -- --outputFolder=./output",
     "docker:post": "docker run -it fieriframes npm run post",
     "carrot": "npm run post -- --config=sauce",
+    "cormorants": "npm run post -- --config=cormorants --post --draft --smart",
     "clean": "rm *.gif & rm *.png & rm *.mp4 & rm *.wav & true"
   },
   "author": "Shah Kashani",
