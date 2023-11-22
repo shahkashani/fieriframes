@@ -6,10 +6,16 @@ const FILTERS = getFilters();
 const TAG_STILL = 'still';
 const TAG_MATCH = 'match:';
 const TAG_EPISODE = 'episode:';
+const TAG_EPISODE_SPECIFIC = /^s\d+e\d+/;
 
 const getParameter = (ask, searchTag) => {
   const matchTag = ask.tags.find((tag) => tag.indexOf(searchTag) !== -1);
   return matchTag ? matchTag.split(searchTag)[1].trim() : null;
+};
+
+const getEpisode = (ask) => {
+  const matchTag = ask.tags.find((tag) => TAG_EPISODE_SPECIFIC.test(tag));
+  return matchTag ? matchTag.split(/\s/)[0] : null;
 };
 
 class CormorantsConfig {
@@ -43,7 +49,8 @@ class CormorantsConfig {
       []
     );
     const matchText = getParameter(ask, TAG_MATCH);
-    const sourceFilter = getParameter(ask, TAG_EPISODE);
+    const tagSourceFilter = getParameter(ask, TAG_EPISODE);
+    const sourceFilter = tagSourceFilter || getEpisode(ask);
 
     return {
       ask,
