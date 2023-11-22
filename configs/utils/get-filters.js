@@ -5,4 +5,5 @@ module.exports = () => ({
   reverse: () => new stills.filters.Reverse(),
   jitter: () => new stills.filters.Jitter(),
   trails: () => new stills.filters.Trails(),
+  station: () => new stills.filters.Station(),
 });
