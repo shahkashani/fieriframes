@@ -214,7 +214,8 @@ const getSourceSeconds = (string) => {
     ? new stills.sources.Local({
         folder: local,
         filter: sourceFilter
-          ? (file) => file.indexOf(useSourceFilter) !== -1
+          ? (file) =>
+              file.toLowerCase().indexOf(useSourceFilter.toLowerCase()) !== -1
           : null,
         outputFolder,
       })
@@ -224,7 +225,10 @@ const getSourceSeconds = (string) => {
         region: S3_REGION,
         bucket: S3_BUCKET,
         filter: (file) =>
-          !useSourceFilter ? true : file.Key.indexOf(useSourceFilter) !== -1,
+          !useSourceFilter
+            ? true
+            : file.Key.toLowerCase().indexOf(useSourceFilter.toLowerCase()) !==
+              -1,
       });
 
   const taggers = [
