@@ -5,6 +5,12 @@ const FILTERS = getFilters();
 
 const TAG_STILL = 'still';
 const TAG_MATCH = 'match:';
+const TAG_EPISODE = 'episode:';
+
+const getParameter = (ask, searchTag) => {
+  const matchTag = ask.tags.find((tag) => tag.indexOf(searchTag) !== -1);
+  return matchTag ? matchTag.split(searchTag)[1].trim() : null;
+};
 
 class CormorantsConfig {
   constructor() {}
@@ -36,12 +42,14 @@ class CormorantsConfig {
       (memo, tag) => (FILTERS[tag] ? [...memo, FILTERS[tag]()] : memo),
       []
     );
-    const matchTag = ask.tags.find((tag) => tag.indexOf(TAG_MATCH) !== -1);
-    const matchText = matchTag ? matchTag.split(TAG_MATCH)[1].trim() : null;
+    const matchText = getParameter(ask, TAG_MATCH);
+    const sourceFilter = getParameter(ask, TAG_EPISODE);
+
     return {
       ask,
       filters,
       type,
+      sourceFilter,
       num: captions.length,
       caption: new stills.captions.StaticMatch({
         captions,

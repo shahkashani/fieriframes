@@ -204,6 +204,8 @@ const getSourceSeconds = (string) => {
     publishState: postDraft ? 'draft' : undefined,
   };
 
+  const useSourceFilter = sourceFilter || baseConfig.sourceFilter;
+
   const destinations = post
     ? [new stills.destinations.Tumblr(TUMBLR_CONFIG)]
     : [];
@@ -212,7 +214,7 @@ const getSourceSeconds = (string) => {
     ? new stills.sources.Local({
         folder: local,
         filter: sourceFilter
-          ? (file) => file.indexOf(sourceFilter) !== -1
+          ? (file) => file.indexOf(useSourceFilter) !== -1
           : null,
         outputFolder,
       })
@@ -222,7 +224,7 @@ const getSourceSeconds = (string) => {
         region: S3_REGION,
         bucket: S3_BUCKET,
         filter: (file) =>
-          !sourceFilter ? true : file.Key.indexOf(sourceFilter) !== -1,
+          !useSourceFilter ? true : file.Key.indexOf(useSourceFilter) !== -1,
       });
 
   const taggers = [
