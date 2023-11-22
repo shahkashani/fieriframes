@@ -385,9 +385,7 @@ const getSourceSeconds = (string) => {
       }
     }
 
-    if (destinations.length > 0) {
-      stillsInstance.deleteStills();
-    }
+    await stillsInstance.teardown(destinations.length > 0);
   }
 
   process.exit(0);
