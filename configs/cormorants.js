@@ -37,32 +37,38 @@ class CormorantsConfig {
         blogName: TUMBLR_BLOG_NAME,
       },
     });
-    const post = await cormorants.getNextAsk();
-    if (!post) {
+    const results = [];
+    const posts = await cormorants.getAllAsks();
+    if (!posts) {
       console.info(`💀 There is nothing to answer.`);
       process.exit(0);
     }
-    const { ask, captions } = post;
-    const type = ask.tags.indexOf(TAG_STILL) !== -1 ? 'still' : 'gif';
-    const filters = ask.tags.reduce(
-      (memo, tag) => (FILTERS[tag] ? [...memo, FILTERS[tag]()] : memo),
-      []
-    );
-    const matchText = getParameter(ask, TAG_MATCH);
-    const tagSourceFilter = getParameter(ask, TAG_EPISODE);
-    const sourceFilter = tagSourceFilter || getEpisode(ask);
 
-    return {
-      ask,
-      filters,
-      type,
-      sourceFilter,
-      num: captions.length,
-      caption: new stills.captions.StaticMatch({
-        captions,
-        matchText,
-      }),
-    };
+    for (const post of posts) {
+      const { ask, captions } = post;
+      const type = ask.tags.indexOf(TAG_STILL) !== -1 ? 'still' : 'gif';
+      const filters = ask.tags.reduce(
+        (memo, tag) => (FILTERS[tag] ? [...memo, FILTERS[tag]()] : memo),
+        []
+      );
+      const matchText = getParameter(ask, TAG_MATCH);
+      const tagSourceFilter = getParameter(ask, TAG_EPISODE);
+      const sourceFilter = tagSourceFilter || getEpisode(ask);
+
+      results.push({
+        ask,
+        filters,
+        type,
+        sourceFilter,
+        num: captions.length,
+        caption: new stills.captions.StaticMatch({
+          captions,
+          matchText,
+        }),
+      });
+    }
+
+    return results;
   }
 }
 

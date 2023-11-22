@@ -24,7 +24,7 @@
   "author": "Shah Kashani",
   "license": "MIT",
   "dependencies": {
-    "cormorants": "^7.0.2",
+    "cormorants": "^7.1.0",
     "dotenv": "^8.0.0",
     "dreamers": "^4.0.1",
     "fierifiction": "^10.0.0",
