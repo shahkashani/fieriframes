@@ -4,13 +4,6 @@ const Dreamers = require('dreamers');
 const HIGHLIGHT_COLOR = '#FF492F';
 
 class DreamerConfig {
-  constructor() {
-    this.effects = Object.values(stills.filters).reduce(
-      (memo, f) => ({ ...memo, [f.name]: f }),
-      {}
-    );
-  }
-
   async generateConfig({
     DREAMERS_ACCESS_TOKEN_KEY,
     DREAMERS_ACCESS_TOKEN_SECRET,
@@ -18,6 +11,8 @@ class DreamerConfig {
     TUMBLR_CONSUMER_SECRET,
     DREAMERS_BLOG_NAME,
     DREAMERS_OWNER_BLOG_NAME,
+    DREAMERS_WEBHOOK_URL,
+    DREAMERS_TAGS,
   }) {
     this.dreamers = new Dreamers({
       consumerKey: TUMBLR_CONSUMER_KEY,
@@ -33,30 +28,26 @@ class DreamerConfig {
       process.exit(0);
     }
     console.log(post);
-    const { captions, tags, effects, author, id, deleteIds } = post;
-    const filters = effects.reduce((memo, { type, params }) => {
-      const fn = this.effects[type];
-      if (fn) {
-        memo.push(new fn(params));
-      }
-      return memo;
-    }, []);
+    const { captions, tags, author, id, deleteIds } = post;
 
     console.log(`💀 Using post ${id} by author ${author}`);
+
+    const staticTags = DREAMERS_TAGS ? DREAMERS_TAGS.split(',') : [];
 
     return {
       data: {
         deleteIds,
       },
-      tags,
+      tags: [...(tags || []), ...staticTags],
       type: 'gif',
       num: captions.length,
       highlightColor: HIGHLIGHT_COLOR,
       caption: new stills.captions.StaticMatch({
         captions,
       }),
-      filters: [...filters, new stills.filters.Arcadia()],
+      filters: [new stills.filters.Arcadia()],
       isSmart: true,
+      webHookUrl: DREAMERS_WEBHOOK_URL,
     };
   }
 

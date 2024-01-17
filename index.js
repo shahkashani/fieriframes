@@ -137,6 +137,7 @@ const getSourceSeconds = (string) => {
       isDraft,
       ask,
       validators,
+      webHookUrl,
     } = baseConfig;
 
     const {
@@ -254,7 +255,6 @@ const getSourceSeconds = (string) => {
         fewframes: 'tw:flashing',
         repeatframe: 'tw:flashing',
         blink: 'tw:flashing',
-        arcadia: 'et in arcadia ego',
       }),
     ];
 
@@ -383,6 +383,10 @@ const getSourceSeconds = (string) => {
           postDraft ? 'draft' : undefined
         );
       }
+    }
+
+    if (destinations.length > 0 && webHookUrl) {
+      console.log(await stillsInstance.callWebHook(webHookUrl));
     }
 
     await stillsInstance.teardown(destinations.length > 0);
