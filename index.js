@@ -27,7 +27,7 @@ const date = new Date().toLocaleString('en-US', {
 
 const events = {
   'January 22': 'birthday',
-  'February 16': 'vday',
+  'February 14': 'vday',
   'February 24': 'twinpeaks',
 };
 
