@@ -13,13 +13,17 @@ class ArcanaConfig {
         default: true,
         boolean: true,
       },
+      smart: {
+        default: true,
+        boolean: true,
+      },
     };
   }
 
   async generateConfig(args) {
-    const { captionText, match } = args;
+    const { captionText, match, smart } = args;
     return {
-      isSmart: true,
+      isSmart: smart,
       skipModeration: true,
       type: 'gif',
       num: captionText.length,
