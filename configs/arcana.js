@@ -28,7 +28,7 @@ class ArcanaConfig {
       }) : new stills.captions.Static({
         captions: captionText,
       }),
-      filters: [new stills.filters.Arcana({ isDots: false )],
+      filters: [new stills.filters.Arcana({ isDots: false })],
       filterCaption: new stills.filters.captions.Simple({
         font: resolve('./fonts/brassia.otf'),
         fontSize: 0.85,
