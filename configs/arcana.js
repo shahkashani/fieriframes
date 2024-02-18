@@ -33,7 +33,7 @@ class ArcanaConfig {
         font: resolve('./fonts/brassia.otf'),
         fontSize: 0.85,
         color: '#fba155',
-        boxWidth: 0.8,
+        boxWidth: 0.6,
         bottomOffset: 1.2,
       }),
     };
