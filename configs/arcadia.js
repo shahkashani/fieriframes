@@ -11,7 +11,7 @@ class ArcadiaConfig {
       match: {
         default: true,
         boolean: true,
-      }
+      },
     };
   }
 
@@ -19,7 +19,7 @@ class ArcadiaConfig {
     const { captionText, match } = args;
     return {
       isSmart: true,
-      skipModeratiom: true,
+      skipModeration: true,
       type: 'gif',
       num: captionText.length,
       caption: match ? new stills.captions.StaticMatch({
