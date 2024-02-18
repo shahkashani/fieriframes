@@ -21,13 +21,14 @@ class ArcanaConfig {
   }
 
   async generateConfig(args) {
-    const { captionText, match, smart } = args;
+    const { captionText, matchText, match, smart } = args;
     return {
       isSmart: smart,
       skipModeration: true,
       type: 'gif',
       num: captionText.length,
       caption: match ? new stills.captions.StaticMatch({
+        matchText,
         captions: captionText,
       }) : new stills.captions.Static({
         captions: captionText,
