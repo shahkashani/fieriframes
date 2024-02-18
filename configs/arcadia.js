@@ -8,16 +8,23 @@ class ArcadiaConfig {
         array: true,
         demandOption: true,
       },
+      match: {
+        default: true,
+        boolean: true,
+      }
     };
   }
 
   async generateConfig(args) {
-    const { captionText } = args;
+    const { captionText, match } = args;
     return {
       isSmart: true,
+      skipModeratiom: true,
       type: 'gif',
       num: captionText.length,
-      caption: new stills.captions.StaticMatch({
+      caption: match ? new stills.captions.StaticMatch({
+        captions: captionText,
+      }) : new stills.captions.Static({
         captions: captionText,
       }),
       filters: [new stills.filters.Arcadia()],
