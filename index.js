@@ -138,6 +138,7 @@ const getSourceSeconds = (string) => {
       ask,
       validators,
       webHookUrl,
+      skipModeration
     } = baseConfig;
 
     const {
@@ -298,7 +299,7 @@ const getSourceSeconds = (string) => {
     const content = contents[type];
     const baseConfigData = baseConfig.data || {};
 
-    const moderation = new stills.moderation.Words({
+    const moderation = skipModeration ? undefined : new stills.moderation.Words({
       bannedWords: (BANNED_WORDS || '').split(','),
       allowedWords: (ALLOWED_WORDS || '').split(','),
     });
