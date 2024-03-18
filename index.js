@@ -17,6 +17,7 @@ const configs = {
   twinpeaks: require('./configs/twinpeaks'),
   sauce: require('./configs/sauce'),
   cormorants: require('./configs/cormorants'),
+  rabbits: require('./configs/rabbits'),
 };
 
 const date = new Date().toLocaleString('en-US', {

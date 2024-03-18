@@ -181,7 +181,7 @@ class DefaultConfig {
 
     const filters = filterNames.reduce((memo, name) => {
       const filter = FILTERS[name];
-      return filter ? [...memo, filter()] : memo;
+      return filter ? [...memo, filter(args)] : memo;
     }, []);
 
     return {
