@@ -24,6 +24,7 @@ class CleanConfig {
 
     return {
       type,
+      skipModeration: true,
       num: Number.isFinite(num) ? num : 1,
       tags: [],
       caption:
