@@ -235,6 +235,7 @@ class TwinPeaksConfig {
 
     return {
       type,
+      isSmart: true,
       caption: new stills.captions.Ordered({
         file: './captions/other/events/twinpeaks/twinpeaks.txt',
         index: filterNum,
