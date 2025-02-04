@@ -56,6 +56,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks1.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -71,6 +72,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks2.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -87,6 +89,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks3.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -101,6 +104,7 @@ class TwinPeaksConfig {
       [
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks4.mp4',
+          fit: 'cover',
           opacity: 0.5,
         }),
         colortone,
@@ -118,6 +122,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks5.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -134,6 +139,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks6.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -150,6 +156,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks7.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -166,6 +173,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks12.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -182,6 +190,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks11.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
@@ -198,6 +207,7 @@ class TwinPeaksConfig {
         new stills.filters.Overlay({
           overlayFile: './blend/twinpeaks10.mp4',
           opacity: 0.5,
+          fit: 'cover',
         }),
         colortone,
       ],
