@@ -53,13 +53,32 @@ class TwinPeaksConfig {
         './embed/shelly_2.jpg',
         './embed/shelly_3.jpg',
       ],
-      mask: './embed/shelly_mask.jpg',
+      mask: './embed/shelly_mask.png',
       positions: [
         {
           x: 0,
           y: 185,
           width: 337,
           height: 332,
+        },
+      ],
+    });
+
+    const nadine = new stills.filters.Embed({
+      background: './embed/nadine_1.jpg',
+      backgrounds: [
+        './embed/nadine_1.jpg',
+        './embed/nadine_3.jpg',
+        './embed/nadine_2.jpg',
+      ],
+      mask: './embed/nadine_mask.png',
+      positions: [
+        {
+          x: 1280,
+          y: 600,
+          rotate: 25,
+          width: 120,
+          height: 160,
         },
       ],
     });
@@ -171,6 +190,14 @@ class TwinPeaksConfig {
         captions: ['No!', 'Oh, no!', 'No!'],
       },
       {
+        filters: [nadine],
+        captions: [
+          'I was up all night working on that invention.',
+          "I'm going to have the world's first 100% quiet runner!",
+          'Ed, you make me sick!',
+        ],
+      },
+      {
         filters: [
           colortone,
           new stills.filters.Overlay({
@@ -181,16 +208,6 @@ class TwinPeaksConfig {
         ],
         captions: [
           'Within every soul, there is a battle between light and shadow.',
-        ],
-      },
-      {
-        filters: [
-          new stills.filters.Overlay({
-            overlayFile: './blend/twinpeaks4.mp4',
-            fit: 'cover',
-            opacity: 0.7,
-          }),
-          colortone,
         ],
       },
       {
