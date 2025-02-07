@@ -19,7 +19,7 @@ class TwinPeaksConfig {
     const { filterNum, smart } = args;
     const type = 'gif';
     const colortone = new stills.filters.ColorTone();
-    const embed = new stills.filters.Embed({
+    const coop = new stills.filters.Embed({
       background: './embed/coop_3.jpg',
       backgrounds: [
         './embed/coop_1.jpg',
@@ -46,9 +46,27 @@ class TwinPeaksConfig {
       ],
     });
 
+    const shelly = new stills.filters.Embed({
+      background: './embed/shelly_1.jpg',
+      backgrounds: [
+        './embed/shelly_1.jpg',
+        './embed/shelly_2.jpg',
+        './embed/shelly_3.jpg',
+      ],
+      mask: './embed/shelly_mask.jpg',
+      positions: [
+        {
+          x: 0,
+          y: 185,
+          width: 337,
+          height: 332,
+        },
+      ],
+    });
+
     const configs = [
       {
-        filters: [embed],
+        filters: [coop],
         captions: [
           "COOPER: You two had a big fight last week, didn't you?",
           'BOBBY: So what?',
@@ -132,7 +150,7 @@ class TwinPeaksConfig {
         ],
       },
       {
-        filters: [embed],
+        filters: [coop],
         captions: [
           "COOPER: Here's a hint: first initial 'J'.",
           'BOBBY: No...',
@@ -176,26 +194,18 @@ class TwinPeaksConfig {
         ],
       },
       {
-        filters: [
-          new stills.filters.Overlay({
-            overlayFile: './overlays/twinpeaks/5.png',
-            gravity: 'southwest',
-            height: 0.6,
-            horizontal: 0.05,
-          }),
-          colortone,
-        ],
+        filters: [shelly],
         captions: [
-          'I... uh,',
-          "I've already gone places.",
-          'I kind of like to stay where I am.',
+          'LEO: Shelly, would you turn the television off?',
+          'SHELLY: Why, Leo? I want to see this.',
+          'LEO: Shelly, turn it off.',
         ],
       },
       {
         filters: [
           new stills.filters.Overlay({
             overlayFile: './blend/twinpeaks5.mp4',
-            opacity: 0.7,
+            opacity: 0.5,
             fit: 'cover',
           }),
           colortone,
