@@ -74,10 +74,10 @@ class TwinPeaksConfig {
       mask: './embed/nadine_mask.png',
       positions: [
         {
-          x: 1280,
+          x: 1290,
           y: 600,
-          rotate: 25,
-          width: 120,
+          rotate: 20,
+          width: 140,
           height: 160,
         },
       ],
