@@ -376,7 +376,7 @@ class TwinPeaksConfig {
           }),
           new stills.filters.Grayscale(),
         ],
-        captions: ['See you in the trees, David.'],
+        captions: ['Keep your eye on the donut and not on the hole.'],
       },
     ];
 
