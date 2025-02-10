@@ -87,8 +87,8 @@ class TwinPeaksConfig {
       {
         filters: [coop],
         captions: [
-          "COOPER: You two had a big fight last week, didn't you?",
-          'BOBBY: So what?',
+          "[COOPER] You two had a big fight last week, didn't you?",
+          '[BOBBY] So what?',
           'If I had a fight with her, if I sang songs with her,',
           'If I went skipping rope with her,',
           "What difference does it make? I didn't kill her!",
@@ -171,10 +171,10 @@ class TwinPeaksConfig {
       {
         filters: [coop],
         captions: [
-          "COOPER: Here's a hint: first initial 'J'.",
-          'BOBBY: No...',
+          "[COOPER] Here's a hint: first initial 'J'.",
+          '[BOBBY] No...',
           "...she wouldn't do that to me.",
-          "COOPER: You didn't love her anyway.",
+          "[COOPER] You didn't love her anyway.",
           'Let him go.',
         ],
       },
@@ -220,11 +220,12 @@ class TwinPeaksConfig {
       {
         filters: [shelly],
         captions: [
-          'LEO: Shelly, would you turn the television off?',
-          'SHELLY: Why, Leo? I want to see this.',
-          'LEO: Shelly, turn it off.',
+          '[LEO] Shelly, would you turn the television off?',
+          '[SHELLY] Why, Leo? I want to see this.',
+          '[LEO] Shelly, turn it off.',
         ],
       },
+      // Can replace this one
       {
         filters: [
           new stills.filters.Overlay({
@@ -387,7 +388,7 @@ class TwinPeaksConfig {
           }),
         ],
         captions: ['Keep your eye on the donut and not on the hole.'],
-        filterCaption: new stills.filters.captions.Simple({
+        filterCaption: new stills.filters.captions.Balanced({
           font: './fonts/lynch.ttf',
         }),
       },
@@ -407,9 +408,10 @@ class TwinPeaksConfig {
       filters: config.filters,
       filterCaption:
         config.filterCaption ||
-        new stills.filters.captions.Simple({
+        new stills.filters.captions.Balanced({
           font: './fonts/twinpeaks.ttf',
           fontSize: 0.9,
+          boxWidth: 0.9,
         }),
     };
   }
