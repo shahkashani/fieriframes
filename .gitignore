@@ -7,10 +7,9 @@ frames/
 .cache
 dist/
 .models
-audio/**/*.mp3
-audio/**/*.wav
-./*.wav
-./*.png
-./*.gif
-./*.mp3
-./*.mp4
+audio/**/*
+/*.wav
+/*.png
+/*.gif
+/*.mp3
+/*.mp4

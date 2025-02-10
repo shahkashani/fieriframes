@@ -197,18 +197,25 @@ class TwinPeaksConfig {
           'Ed, you make me sick!',
         ],
       },
+
       {
         filters: [
-          colortone,
           new stills.filters.Overlay({
-            overlayFile: './overlays/twinpeaks/4.png',
-            gravity: 'southeast',
-            height: 0.6,
+            overlayFile: './blend/twinpeaks16.mp4',
+            opacity: 0.7,
+            fit: 'cover',
+          }),
+          new stills.filters.Grayscale({
+            contrast: 1.5,
+            brightness: 1.2,
           }),
         ],
         captions: [
           'Within every soul, there is a battle between light and shadow.',
         ],
+        filterCaption: new stills.filters.captions.Simple({
+          font: './fonts/lynch.ttf',
+        }),
       },
       {
         filters: [shelly],
@@ -371,12 +378,18 @@ class TwinPeaksConfig {
         filters: [
           new stills.filters.Overlay({
             overlayFile: './blend/twinpeaks15.mp4',
-            opacity: 0.8,
+            opacity: 0.7,
             fit: 'cover',
           }),
-          new stills.filters.Grayscale(),
+          new stills.filters.Grayscale({
+            contrast: 1.5,
+            brightness: 1.2,
+          }),
         ],
         captions: ['Keep your eye on the donut and not on the hole.'],
+        filterCaption: new stills.filters.captions.Simple({
+          font: './fonts/lynch.ttf',
+        }),
       },
     ];
 
@@ -392,6 +405,12 @@ class TwinPeaksConfig {
             file: './captions/other/events/twinpeaks/twinpeaks.txt',
           }),
       filters: config.filters,
+      filterCaption:
+        config.filterCaption ||
+        new stills.filters.captions.Simple({
+          font: './fonts/twinpeaks.ttf',
+          fontSize: 0.9,
+        }),
     };
   }
 }
