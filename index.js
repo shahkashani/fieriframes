@@ -139,7 +139,7 @@ const getSourceSeconds = (string) => {
       ask,
       validators,
       webHookUrl,
-      skipModeration
+      skipModeration,
     } = baseConfig;
 
     const {
@@ -269,6 +269,7 @@ const getSourceSeconds = (string) => {
       );
     }
 
+    const useGifWidth = baseConfig.gifWidth || gifWidth;
     const useDescription = descriptionText || baseConfig.descriptionText;
     const description = useDescription
       ? new stills.descriptions.Static({ description: useDescription })
@@ -284,7 +285,7 @@ const getSourceSeconds = (string) => {
     const contents = {
       gif: new stills.content.Gif({
         secondsApart,
-        width: gifWidth,
+        width: useGifWidth,
         seconds: sourceSeconds,
         duration: Number.isFinite(sourceLength)
           ? sourceLength
@@ -300,10 +301,12 @@ const getSourceSeconds = (string) => {
     const content = contents[type];
     const baseConfigData = baseConfig.data || {};
 
-    const moderation = skipModeration ? undefined : new stills.moderation.Words({
-      bannedWords: (BANNED_WORDS || '').split(','),
-      allowedWords: (ALLOWED_WORDS || '').split(','),
-    });
+    const moderation = skipModeration
+      ? undefined
+      : new stills.moderation.Words({
+          bannedWords: (BANNED_WORDS || '').split(','),
+          allowedWords: (ALLOWED_WORDS || '').split(','),
+        });
 
     const finalConfig = {
       ...baseConfig,

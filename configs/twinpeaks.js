@@ -12,14 +12,20 @@ class TwinPeaksConfig {
         default: true,
         description: 'Use smart setup?',
       },
+      width: {
+        number: true,
+        default: 1024,
+        description: 'GIF widths',
+      },
     };
   }
 
   async generateConfig(args) {
-    const { filterNum, smart } = args;
+    const { filterNum, smart, width } = args;
     const type = 'gif';
     const colortone = new stills.filters.ColorTone();
     const coop = new stills.filters.Embed({
+      width,
       background: './embed/coop_3.jpg',
       backgrounds: [
         './embed/coop_1.jpg',
@@ -47,6 +53,7 @@ class TwinPeaksConfig {
     });
 
     const shelly = new stills.filters.Embed({
+      width,
       background: './embed/shelly_1.jpg',
       backgrounds: [
         './embed/shelly_1.jpg',
@@ -65,6 +72,7 @@ class TwinPeaksConfig {
     });
 
     const nadine = new stills.filters.Embed({
+      width,
       background: './embed/nadine_1.jpg',
       backgrounds: [
         './embed/nadine_1.jpg',
@@ -87,8 +95,8 @@ class TwinPeaksConfig {
       {
         filters: [coop],
         captions: [
-          "COOPER: You two had a big fight last week, didn't you?",
-          'BOBBY: So what?',
+          "- You two had a big fight last week, didn't you?",
+          '- So what?',
           'If I had a fight with her, if I sang songs with her,',
           'If I went skipping rope with her,',
           "What difference does it make? I didn't kill her!",
@@ -171,10 +179,10 @@ class TwinPeaksConfig {
       {
         filters: [coop],
         captions: [
-          "COOPER: Here's a hint: first initial 'J'.",
-          'BOBBY: No...',
+          "- Here's a hint: first initial 'J'.",
+          '- No...',
           "...she wouldn't do that to me.",
-          "COOPER: You didn't love her anyway.",
+          "- You didn't love her anyway.",
           'Let him go.',
         ],
       },
@@ -220,9 +228,9 @@ class TwinPeaksConfig {
       {
         filters: [shelly],
         captions: [
-          'LEO: Shelly, would you turn the television off?',
-          'SHELLY: Why, Leo? I want to see this.',
-          'LEO: Shelly, turn it off.',
+          '- Shelly, would you turn the television off?',
+          '- Why, Leo? I want to see this.',
+          '- Shelly, turn it off.',
         ],
       },
       // Can replace this one
@@ -398,6 +406,7 @@ class TwinPeaksConfig {
 
     return {
       type,
+      gifWidth: width,
       skipModeration: true,
       isSmart: smart,
       caption: config.captions
@@ -411,7 +420,6 @@ class TwinPeaksConfig {
         new stills.filters.captions.Balanced({
           font: './fonts/twinpeaks.ttf',
           fontSize: 0.9,
-          boxWidth: 0.9,
         }),
     };
   }
