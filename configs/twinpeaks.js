@@ -52,46 +52,8 @@ class TwinPeaksConfig {
       ],
     });
 
-    const shelly = new stills.filters.Embed({
-      width,
-      background: './embed/shelly_1.jpg',
-      backgrounds: [
-        './embed/shelly_1.jpg',
-        './embed/shelly_2.jpg',
-        './embed/shelly_3.jpg',
-      ],
-      mask: './embed/shelly_mask.png',
-      positions: [
-        {
-          x: 0,
-          y: 185,
-          width: 337,
-          height: 332,
-        },
-      ],
-    });
-
-    const nadine = new stills.filters.Embed({
-      width,
-      background: './embed/nadine_1.jpg',
-      backgrounds: [
-        './embed/nadine_1.jpg',
-        './embed/nadine_3.jpg',
-        './embed/nadine_2.jpg',
-      ],
-      mask: './embed/nadine_mask.png',
-      positions: [
-        {
-          x: 1290,
-          y: 600,
-          rotate: 20,
-          width: 140,
-          height: 160,
-        },
-      ],
-    });
-
     const configs = [
+      // 0
       {
         filters: [coop],
         captions: [
@@ -102,6 +64,7 @@ class TwinPeaksConfig {
           "What difference does it make? I didn't kill her!",
         ],
       },
+      // 1
       {
         filters: [
           colortone,
@@ -118,6 +81,7 @@ class TwinPeaksConfig {
           'Just let it happen.',
         ],
       },
+      // 2
       {
         filters: [
           new stills.filters.Overlay({
@@ -128,6 +92,7 @@ class TwinPeaksConfig {
           colortone,
         ],
       },
+      // 3
       {
         filters: [
           colortone,
@@ -142,6 +107,7 @@ class TwinPeaksConfig {
           '- We call her the Log Lady.',
         ],
       },
+      // 4
       {
         filters: [
           new stills.filters.Overlay({
@@ -153,6 +119,7 @@ class TwinPeaksConfig {
         ],
         captions: ["She's dead.", 'Wrapped in plastic.'],
       },
+      // 5
       {
         filters: [
           new stills.filters.Overlay({
@@ -176,6 +143,7 @@ class TwinPeaksConfig {
           'One day, the sadness will end.',
         ],
       },
+      // 6
       {
         filters: [coop],
         captions: [
@@ -186,6 +154,7 @@ class TwinPeaksConfig {
           'Let him go.',
         ],
       },
+      // 7
       {
         filters: [
           new stills.filters.Overlay({
@@ -197,15 +166,36 @@ class TwinPeaksConfig {
         ],
         captions: ['No!', 'Oh, no!', 'No!'],
       },
+      // 8
       {
-        filters: [nadine],
+        filters: [
+          new stills.filters.Embed({
+            width,
+            background: './embed/nadine_1.jpg',
+            backgrounds: [
+              './embed/nadine_1.jpg',
+              './embed/nadine_3.jpg',
+              './embed/nadine_2.jpg',
+            ],
+            mask: './embed/nadine_mask.png',
+            positions: [
+              {
+                x: 1290,
+                y: 600,
+                rotate: 20,
+                width: 140,
+                height: 160,
+              },
+            ],
+          }),
+        ],
         captions: [
           'I was up all night working on that invention.',
           "I'm going to have the world's first 100% quiet runner!",
           'Ed, you make me sick!',
         ],
       },
-
+      // 9
       {
         filters: [
           new stills.filters.Overlay({
@@ -225,26 +215,63 @@ class TwinPeaksConfig {
           font: './fonts/lynch.ttf',
         }),
       },
+      // 10
       {
-        filters: [shelly],
+        filters: [
+          new stills.filters.Embed({
+            width,
+            background: './embed/shelly_1.jpg',
+            backgrounds: [
+              './embed/shelly_1.jpg',
+              './embed/shelly_2.jpg',
+              './embed/shelly_3.jpg',
+            ],
+            mask: './embed/shelly_mask.png',
+            positions: [
+              {
+                x: 0,
+                y: 185,
+                width: 337,
+                height: 332,
+              },
+            ],
+          }),
+        ],
         captions: [
           '- Shelly, would you turn the television off?',
           '- Why, Leo? I want to see this.',
           '- Shelly, turn it off.',
         ],
       },
-      // Can replace this one
+      // 11
       {
         filters: [
-          new stills.filters.Overlay({
-            overlayFile: './blend/twinpeaks5.mp4',
-            opacity: 0.5,
-            fit: 'cover',
+          new stills.filters.Embed({
+            width,
+            background: './embed/ronette_1.jpg',
+            backgrounds: [
+              './embed/ronette_1.jpg',
+              './embed/ronette_2.jpg',
+              './embed/ronette_3.jpg',
+            ],
+            mask: './embed/ronette_mask.png',
+            positions: [
+              {
+                x: 1078,
+                y: 0,
+                width: 140,
+                height: 95,
+              },
+            ],
           }),
-          colortone,
         ],
-        captions: ["I've never seen so many trees in my life."],
+        captions: [
+          "Cooper: There's nothing here, not a thing.",
+          "Ronette: Don't go there.",
+          "Ronette: Don't go there.",
+        ],
       },
+      // 12
       {
         filters: [
           new stills.filters.Overlay({
@@ -257,16 +284,42 @@ class TwinPeaksConfig {
         ],
         captions: ['That just means like, more shit I gotta do now.'],
       },
+      // 13
       {
         filters: [
-          new stills.filters.Overlay({
-            overlayFile: './blend/twinpeaks6.mp4',
-            opacity: 0.7,
-            fit: 'cover',
+          new stills.filters.Embed({
+            width,
+            background: './embed/albert_1.jpg',
+            backgrounds: [
+              './embed/albert_1.jpg',
+              './embed/albert_2.jpg',
+              './embed/albert_3.jpg',
+            ],
+            mask: './embed/albert_mask.png',
+            positions: [
+              {
+                x: 893,
+                y: 234,
+                width: 511,
+                height: 540,
+              },
+              {
+                x: 863,
+                y: 960,
+                width: 533,
+                height: 547,
+                flip: true,
+              },
+            ],
           }),
-          colortone,
+        ],
+        captions: [
+          'Albert: Appear to be claw marks, bites of some kind.',
+          'Harry: An animal?',
+          "Albert: look, it's trying to think.",
         ],
       },
+      // 14
       {
         filters: [
           new stills.filters.Overlay({
@@ -278,6 +331,7 @@ class TwinPeaksConfig {
         ],
         captions: ['I am the Arm...', 'And I...', 'Sound like this.'],
       },
+      // 15
       {
         filters: [
           new stills.filters.Overlay({
@@ -298,6 +352,7 @@ class TwinPeaksConfig {
           'Woe to ones who behold the pale horse.',
         ],
       },
+      // 16
       {
         filters: [
           new stills.filters.Overlay({
@@ -310,6 +365,7 @@ class TwinPeaksConfig {
         ],
         captions: ['There was a fish...', '...in the perculator!'],
       },
+      // 17
       {
         filters: [
           new stills.filters.Overlay({
@@ -325,6 +381,7 @@ class TwinPeaksConfig {
           'Fire walk with me.',
         ],
       },
+      // 18
       {
         filters: [
           new stills.filters.Overlay({
@@ -340,6 +397,7 @@ class TwinPeaksConfig {
           'I like "the full blossom of the evening".',
         ],
       },
+      // 19
       {
         filters: [
           new stills.filters.Overlay({
@@ -350,6 +408,7 @@ class TwinPeaksConfig {
           colortone,
         ],
       },
+      // 20
       {
         filters: [
           new stills.filters.Overlay({
@@ -361,6 +420,7 @@ class TwinPeaksConfig {
           colortone,
         ],
       },
+      // 21
       {
         filters: [
           new stills.filters.Overlay({
@@ -371,6 +431,7 @@ class TwinPeaksConfig {
           colortone,
         ],
       },
+      // 22
       {
         filters: [
           new stills.filters.Overlay({
@@ -383,6 +444,7 @@ class TwinPeaksConfig {
         ],
         captions: ['Meanwhile...'],
       },
+      // 23
       {
         filters: [
           new stills.filters.Overlay({
@@ -420,6 +482,7 @@ class TwinPeaksConfig {
         new stills.filters.captions.Balanced({
           font: './fonts/twinpeaks.ttf',
           fontSize: 0.9,
+          distributionMinBoxWidth: 0.3,
         }),
     };
   }
