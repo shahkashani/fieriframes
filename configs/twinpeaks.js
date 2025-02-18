@@ -463,7 +463,6 @@ class TwinPeaksConfig {
           'May auspiciousness be seen everywhere.',
           'May suffering belong to no one.',
           'Peace.',
-          'Jai guru dev.',
         ],
         filterCaption: new stills.filters.captions.Balanced({
           font: './fonts/lynch.ttf',
