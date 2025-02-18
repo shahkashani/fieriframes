@@ -457,7 +457,14 @@ class TwinPeaksConfig {
             brightness: 1.2,
           }),
         ],
-        captions: ['Keep your eye on the donut and not on the hole.'],
+        captions: [
+          'May everyone be happy.',
+          'May everyone be free of disease.',
+          'May auspiciousness be seen everywhere.',
+          'May suffering belong to no one.',
+          'Peace.',
+          'Jai guru dev.',
+        ],
         filterCaption: new stills.filters.captions.Balanced({
           font: './fonts/lynch.ttf',
         }),
