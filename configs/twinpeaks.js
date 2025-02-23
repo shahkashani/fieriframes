@@ -21,7 +21,8 @@ class TwinPeaksConfig {
   }
 
   async generateConfig(args) {
-    const { filterNum, smart, width } = args;
+    const { filterNum, smart, width, eventInfo } = args;
+
     const type = 'gif';
     const colortone = new stills.filters.ColorTone();
     const coop = new stills.filters.Embed({
@@ -470,7 +471,19 @@ class TwinPeaksConfig {
       },
     ];
 
-    const config = stills.utils.inOrder(configs, true, filterNum);
+    const index = eventInfo
+      ? Math.round(configs.length * eventInfo.progress)
+      : 0;
+
+    if (eventInfo && !Number.isFinite(filterNum)) {
+      console.log(`🍩 Choosing index ${index}`);
+    } else {
+      console.log(`🍩 Using index ${filterNum}`);
+    }
+
+    const config = Number.isFinite(filterNum)
+      ? configs[filterNum]
+      : configs[index];
 
     return {
       type,

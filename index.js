@@ -27,12 +27,19 @@ const date = new Date().toLocaleString('en-US', {
 });
 
 const events = {
-  'January 22': 'birthday',
-  'February 14': 'vday',
-  'February 24': 'twinpeaks',
+  'February 24 11:00 EST': 'twinpeaks',
 };
 
-const defaultConfig = events[date] || 'default';
+const eventInfo = stills.utils.getActiveEvent(events, new Date(), true);
+
+if (!eventInfo) {
+  console.log('No active event at the moment.');
+  process.exit(0);
+}
+
+console.log(`📅 Event progress: ${eventInfo.progress}`);
+
+const defaultConfig = (eventInfo || {}).event || 'default';
 
 const DEFAULT_OPTIONS = {
   sourceSeconds: {
@@ -118,7 +125,7 @@ const getSourceSeconds = (string) => {
     })
     .help(true).argv;
 
-  const options = { ...args, ...process.env };
+  const options = { ...args, eventInfo, ...process.env };
   options.sourceSeconds = options.sourceSeconds
     ? getSourceSeconds(options.sourceSeconds)
     : null;
