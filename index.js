@@ -27,7 +27,7 @@ const date = new Date().toLocaleString('en-US', {
 });
 
 const events = {
-  'February 24 12:00 EST -> February 25 13:00 EST': 'twinpeaks',
+  'February 24 12:00 EST -> February 25 12:15 EST': 'twinpeaks',
 };
 
 const eventInfo = stills.utils.getActiveEvent(events, new Date(), true);
