@@ -469,6 +469,22 @@ class TwinPeaksConfig {
           font: './fonts/lynch.ttf',
         }),
       },
+      {
+        filters: [
+          new stills.filters.Overlay({
+            overlayFile: './blend/twinpeaks-mike.mp4',
+            opacity: 0.7,
+            fit: 'cover',
+          }),
+          colortone,
+        ],
+        captions: [
+          'Through the darkness of kitchens past.',
+          'The restauranteur longs to see.',
+          'One chants out between two grills:',
+          'Fieri walk with me.',
+        ],
+      },
     ];
 
     const index = eventInfo
@@ -484,6 +500,8 @@ class TwinPeaksConfig {
     const config = Number.isFinite(filterNum)
       ? configs[filterNum]
       : configs[index];
+
+    console.log({ config });
 
     return {
       type,

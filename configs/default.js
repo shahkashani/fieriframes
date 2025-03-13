@@ -1,6 +1,7 @@
 const stills = require('stills');
 const { sample } = require('lodash');
 const getFilters = require('./utils/get-filters');
+const { arabToRoman } = require('roman-numbers');
 
 const FILTERS = getFilters();
 
@@ -137,7 +138,15 @@ class DefaultConfig {
       LYRICS_API_KEY,
       LYRICS_ARTISTS,
       EPISODE_CAPTION_RATE,
+      FIRE,
+      FIRE_M,
+      FIRE_T,
+      FIRE_D: FIRE_D_STR,
+      FIRE_R: FIRE_R_STR,
     } = args;
+
+    const FIRE_D = parseInt(FIRE_D_STR, 10);
+    const FIRE_R = parseFloat(FIRE_R_STR, 10) || 0.5;
 
     const NUM_FIERIFICTION_VIDEO_RATE = FIERIFICTION_VIDEO_RATE
       ? parseFloat(FIERIFICTION_VIDEO_RATE)
@@ -184,6 +193,40 @@ class DefaultConfig {
       return filter ? [...memo, filter(args)] : memo;
     }, []);
 
+    const textFilters = [];
+
+    if (FIRE && FIRE_M && FIRE_D) {
+      const month = stills.utils.dates.getMonth();
+      const day = stills.utils.dates.getDayOfMonth();
+      console.log(`🔥 ${FIRE} (${FIRE.length} steps)`);
+      console.log(`🔥 ${month} x ${FIRE_M}`);
+      console.log(`🔥 ${day} x ${FIRE_D}`);
+      console.log(`🔥 ${FIRE_R} chance`);
+      if (month === FIRE_M && day >= FIRE_D) {
+        console.log('🔥 Hawk, there is a fire where you are going.');
+
+        if (randomly(FIRE_R)) {
+          const steps = day - FIRE_D;
+          console.log(
+            `🔥 Hawk, take ${steps + 1} step${steps > 1 ? 's' : ''}.`
+          );
+          if (steps + 1 > FIRE.length) {
+            console.log(`🔥 Hawk, you have arrived.`);
+          } else {
+            const step = FIRE[steps];
+            console.log(`🔥 Hawk, my log has something to say. "${step}"`);
+            textFilters.push(new stills.textFilters.Shift({ shift: step }));
+            if (FIRE_T) {
+              tags.push(FIRE_T);
+            }
+            tags.push(arabToRoman(steps + 1).toLowerCase());
+          }
+        } else {
+          console.log(`🔥 Hawk, not now.`);
+        }
+      }
+    }
+
     return {
       num,
       type,
@@ -193,6 +236,7 @@ class DefaultConfig {
       caption,
       validators,
       isCreateFiction,
+      textFilters,
     };
   }
 }

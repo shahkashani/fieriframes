@@ -32,13 +32,6 @@ const events = {
 
 const eventInfo = stills.utils.getActiveEvent(events, new Date(), true);
 
-if (!eventInfo) {
-  console.log('No active event at the moment.');
-  process.exit(0);
-}
-
-console.log(`📅 Event progress: ${eventInfo.progress}`);
-
 const defaultConfig = (eventInfo || {}).event || 'default';
 
 const DEFAULT_OPTIONS = {
@@ -115,6 +108,7 @@ const getSourceSeconds = (string) => {
 
 (async () => {
   const { config } = yargs.options(DEFAULT_OPTIONS).help(false).argv;
+
   const useConfig = new configs[config]();
   const configOptions = useConfig.getOptions ? useConfig.getOptions() : {};
 
@@ -124,6 +118,10 @@ const getSourceSeconds = (string) => {
       ...configOptions,
     })
     .help(true).argv;
+
+  if (eventInfo) {
+    console.log(`📅 Event progress: ${eventInfo.progress}`);
+  }
 
   const options = { ...args, eventInfo, ...process.env };
   options.sourceSeconds = options.sourceSeconds
