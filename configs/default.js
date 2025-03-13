@@ -194,6 +194,7 @@ class DefaultConfig {
     }, []);
 
     const textFilters = [];
+    let skippingTagging = false;
 
     if (FIRE && FIRE_M && FIRE_D) {
       const month = stills.utils.dates.getMonth();
@@ -220,6 +221,7 @@ class DefaultConfig {
               tags.push(FIRE_T);
             }
             tags.push(arabToRoman(steps + 1).toLowerCase());
+            skippingTagging = true;
           }
         } else {
           console.log(`🔥 Hawk, not now.`);
@@ -237,6 +239,7 @@ class DefaultConfig {
       validators,
       isCreateFiction,
       textFilters,
+      skippingTagging,
     };
   }
 }

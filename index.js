@@ -145,6 +145,7 @@ const getSourceSeconds = (string) => {
       validators,
       webHookUrl,
       skipModeration,
+      skipTagging,
     } = baseConfig;
 
     const {
@@ -265,7 +266,7 @@ const getSourceSeconds = (string) => {
       }),
     ];
 
-    if (MICROSOFT_COGNITIVE_URL && MICROSOFT_COGNITIVE_TOKEN) {
+    if (MICROSOFT_COGNITIVE_URL && MICROSOFT_COGNITIVE_TOKEN && !skipTagging) {
       taggers.push(
         new stills.taggers.Captions({
           url: MICROSOFT_COGNITIVE_URL,
