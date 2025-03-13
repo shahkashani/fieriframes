@@ -218,7 +218,7 @@ class DefaultConfig {
             console.log(`🔥 Hawk, my log has something to say. "${step}"`);
             textFilters.push(new stills.textFilters.Shift({ shift: step }));
             if (FIRE_T) {
-              tags.push(FIRE_T);
+              tags.push(...FIRE_T.split(',').map((t) => t.trim()));
             }
             tags.push(arabToRoman(steps + 1).toLowerCase());
             skipTagging = true;
