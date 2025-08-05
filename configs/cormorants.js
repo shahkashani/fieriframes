@@ -19,7 +19,7 @@ const getEpisode = (ask) => {
 };
 
 class CormorantsConfig {
-  constructor() {}
+  constructor() { }
 
   async generateConfig({
     TUMBLR_ACCESS_TOKEN_KEY,
@@ -59,6 +59,7 @@ class CormorantsConfig {
         ask,
         filters,
         type,
+        skipModeration: true,
         sourceFilter,
         num: captions.length,
         caption: new stills.captions.StaticMatch({
