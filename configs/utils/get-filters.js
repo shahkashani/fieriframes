@@ -16,4 +16,13 @@ module.exports = () => ({
         bucket: config.CLIPS_S3_BUCKET,
       }),
     }),
+  clipsOverlay: (config) =>
+    new stills.filters.ClipsOverlay({
+      source: new stills.sources.S3({
+        accessKeyId: config.S3_ACCESS_KEY_ID,
+        secretAccessKey: config.S3_SECRET_ACCESS_KEY,
+        region: config.S3_REGION,
+        bucket: config.CLIPS_S3_BUCKET,
+      }),
+    }),
 });
