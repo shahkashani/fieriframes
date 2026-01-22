@@ -27,6 +27,7 @@ const date = new Date().toLocaleString('en-US', {
 });
 
 const events = {
+  'January 22 02:00 EST -> January 22 23:59 EST': 'birthday',
   'February 24 12:00 EST -> February 25 12:15 EST': 'twinpeaks',
 };
 
