@@ -7,6 +7,9 @@ module.exports = () => ({
   jitter: () => new stills.filters.Jitter(),
   trails: () => new stills.filters.Trails(),
   station: () => new stills.filters.Station(),
+  artattack: () => new stills.filters.ArtAttack({
+    query: ['horse', 'food', 'piss', 'crazy', 'wild']
+  }),
   clips: (config) =>
     new stills.filters.Clips({
       source: new stills.sources.S3({
