@@ -61,6 +61,10 @@ class DefaultConfig {
         array: true,
         default: [],
       },
+      filmCategory: {
+        describe:
+          'film-grab category slug for the filmgrab filter, eg noir, horror, david-lynch',
+      },
       captionText: {
         describe: 'Custom captions to use',
         array: true,

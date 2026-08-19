@@ -1,7 +1,7 @@
 const stills = require('stills');
 
 module.exports = () => ({
-  grayscale: () => new stills.filters.Grayscale(),
+  grayscale: () => new stills.filters.Grayscale({ contrast: 1.2 }),
   reverse: () => new stills.filters.Reverse(),
   reverseScene: () => new stills.filters.ReverseScene(),
   jitter: () => new stills.filters.Jitter(),
@@ -11,6 +11,10 @@ module.exports = () => ({
     query: ['horse', 'food', 'party', 'art', 'death', 'crazy', 'wild'],
     medium: 'Paintings'
   }),
+  filmgrab: (args = {}) =>
+    new stills.filters.FilmGrab({
+      category: args.filmCategory || 'noir'
+    }),
   clips: (config) =>
     new stills.filters.Clips({
       source: new stills.sources.S3({
