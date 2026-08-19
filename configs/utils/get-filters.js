@@ -8,7 +8,8 @@ module.exports = () => ({
   trails: () => new stills.filters.Trails(),
   station: () => new stills.filters.Station(),
   artattack: () => new stills.filters.ArtAttack({
-    query: ['horse', 'food', 'piss', 'crazy', 'wild']
+    query: ['horse', 'food', 'piss', 'crazy', 'wild'],
+    medium: 'Paintings'
   }),
   clips: (config) =>
     new stills.filters.Clips({
