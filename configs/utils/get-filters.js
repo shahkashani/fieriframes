@@ -13,7 +13,11 @@ module.exports = () => ({
   }),
   filmgrab: (args = {}) =>
     new stills.filters.FilmGrab({
-      category: args.filmCategory || 'noir'
+      category: args.filmCategory || 'noir',
+      moderation: new stills.moderation.Words({
+        bannedWords: (args.BANNED_WORDS || '').split(',').filter(Boolean),
+        allowedWords: (args.ALLOWED_WORDS || '').split(',').filter(Boolean),
+      }),
     }),
   clips: (config) =>
     new stills.filters.Clips({
